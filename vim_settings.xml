@@ -9,10 +9,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="58" column="74" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/time_frame_decision_maker.rb" timestamp="1511896042580">
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/time_frame_decision_maker.rb" timestamp="1511979323683">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/gems/screening_service/app/models/remote_screening.rb" timestamp="1511979199979" />
       <file name="/Ruby Console" timestamp="1506017496164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,7 +26,6 @@
         <mark key="." line="80" column="65" />
         <mark key="^" line="80" column="65" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/bankruptcy_decision_maker.rb" timestamp="1511897128810" />
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/all_decision_maker.rb" timestamp="1511896630684">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="60" />
@@ -37,7 +37,12 @@
         <mark key="." line="68" column="64" />
         <mark key="^" line="68" column="64" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/criminal_fuzzy_matcher.rb" timestamp="1511896358783" />
+      <file name="$USER_HOME$/src/screenings_app/config/decisions/prediction_result.csv" timestamp="1511979217234">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
       <file name="$USER_HOME$/src/screenings_app/app/models/experian_tradeline.rb" timestamp="1511907349875">
         <mark key="'" line="0" column="0" />
       </file>
@@ -48,6 +53,7 @@
         <mark key="." line="635" column="23" />
         <mark key="^" line="635" column="23" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/config/initializers/screening_service_initializers.rb" timestamp="1511979113456" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/forms/screenings/decisions/criterion_form.rb" timestamp="1511813535533">
         <mark key="'" line="170" column="10" />
         <mark key="[" line="217" column="0" />
@@ -56,11 +62,11 @@
         <mark key="^" line="219" column="24" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/collection_decision_maker.rb" timestamp="1511897668797">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="8" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511908186418">
+      <file name="/Dummy.txt" timestamp="1511979114404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/app/helpers/reports_helper.rb" timestamp="1511827350424">
@@ -70,12 +76,19 @@
         <mark key="^" line="76" column="151" />
         <mark key="." line="76" column="151" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/final_decision_result_service.rb" timestamp="1511979102166" />
       <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" timestamp="1511898961391">
         <mark key="'" line="135" column="10" />
         <mark key="[" line="139" column="22" />
         <mark key="]" line="139" column="22" />
         <mark key="." line="139" column="22" />
         <mark key="^" line="139" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/screenings_app/app/models/screening.rb" timestamp="1511979225162">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" timestamp="1511979288955">
+        <mark key="'" line="201" column="6" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/app/models/credit_profile.rb" timestamp="1511908204894">
         <mark key="'" line="113" column="6" />
@@ -108,11 +121,12 @@
         <mark key="." line="65" column="96" />
         <mark key="^" line="65" column="96" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/screenings/decisions/criterion_serializer_test.rb" timestamp="1511907101996">
-        <mark key="[" line="148" column="50" />
-        <mark key="]" line="148" column="40" />
-        <mark key="^" line="148" column="40" />
-        <mark key="." line="148" column="40" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/screenings/decisions/criterion_serializer_test.rb" timestamp="1511978950438">
+        <mark key="'" line="202" column="10" />
+        <mark key="[" line="202" column="26" />
+        <mark key="]" line="202" column="41" />
+        <mark key="^" line="202" column="41" />
+        <mark key="." line="202" column="41" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/parsers/experian/tradeline_parser.rb" timestamp="1511907573921">
         <mark key="'" line="55" column="46" />
@@ -131,19 +145,8 @@
         <mark key="." line="674" column="98" />
         <mark key="^" line="674" column="98" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/credit_decision_maker.rb" timestamp="1511825147240">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="16" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/criterion_serializer.rb" />
-      <jump line="16" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/criterion_serializer.rb" />
-      <jump line="17" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/criterion_serializer.rb" />
-      <jump line="52" column="78" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
-      <jump line="345" column="13" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
-      <jump line="58" column="59" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
-      <jump line="48" column="69" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
       <jump line="341" column="11" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
       <jump line="354" column="11" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
       <jump line="359" column="12" filename="$USER_HOME$/src/screenings_app/test/unit/experian/request_test.rb" />
@@ -237,13 +240,20 @@
       <jump line="135" column="10" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/screenings_app/app/models/experian_tradeline.rb" />
       <jump line="113" column="6" filename="$USER_HOME$/src/screenings_app/app/models/credit_profile.rb" />
+      <jump line="118" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/screenings/decisions/criterion_serializer_test.rb" />
+      <jump line="202" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/screenings/decisions/criterion_serializer_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/screenings_app/app/models/screening.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
+      <jump line="359" column="45" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
+      <jump line="207" column="66" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
+      <jump line="201" column="6" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Michael</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -270,10 +280,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3RhbF9wYXN0X2R1ZV9hbW91bnRfaW5hY2N1cmF0ZVw+</text>
+        <text>to_xml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfZGVjaWRlX2Rlc2NlbmRpbmdfbnVtZXJpY2FsX3J1bGVfX21pc3NpbmdfZGVueV92YWx1ZQogICAgICAgIHNzID0gU2NyZWVuaW5nU3ViamVjdC5jcmVhdGVfZXhlbXBsYXIhCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgRGVjaXNpb25zOjpSdWxlUmVzdWx0LCA6Y291bnQgZG8KICAgICAgICAgIERlc2NlbmRpbmdNaXNzaW5nRmFpbERlY2lzaW9uTWFrZXIubmV3KHNzLCB3aGF0ZXZlcjogMTApLmRlY2lkZV9hbGxfcnVsZXMKICAgICAgICBlbmQKCiAgICAgICAgcmVzdWx0ID0gRGVjaXNpb25zOjpSdWxlUmVzdWx0Lmxhc3QKICAgICAgICBhc3NlcnRfZXF1YWwgJzMwMCcsIHJlc3VsdC52YWx1ZQogICAgICAgIGFzc2VydF9lcXVhbCBzcywgcmVzdWx0LnNjcmVlbmluZ19zdWJqZWN0CiAgICAgICAgYXNzZXJ0X2VxdWFsIERlY2lzaW9uczo6UnVsZVJlc3VsdDo6REVDSVNJT05fUkVTVUxUX19GQUlMLCByZXN1bHQucmVzdWx0CiAgICAgICAgYXNzZXJ0X2VxdWFsICdjb2xsZWN0aW9uX3J1bGUnLCByZXN1bHQucnVsZV90eXBlCiAgICAgIGVuZAo=</text>
@@ -325,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3RhbF9wYXN0X2R1ZV9hbW91bnRfaW5hY2N1cmF0ZVw+</last-search>
+      <last-search>to_xml</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3RhbF9wYXN0X2R1ZV9hbW91bnRfaW5hY2N1cmF0ZVw+</last-pattern>
+      <last-pattern>to_xml</last-pattern>
       <last-replace>Descending</last-replace>
       <last-substitute encoding="base64">XDxEZXNjZW5kaW5nTWlzc2luZ0ZhaWxEZWNpc2lvbk1ha2VyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -335,9 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>profile</entry>
-        <entry>collection</entry>
-        <entry encoding="base64">XDxjYXN0X2RlY2ltYWxfb3JfbmlsXD4=</entry>
         <entry>cast</entry>
         <entry encoding="base64">XDxhbW91bnRfdG9fYWNjZXB0XD4=</entry>
         <entry encoding="base64">bXVzdCBiZSA=</entry>
@@ -355,6 +362,9 @@
         <entry encoding="base64">XDxEZXNjZW5kaW5nRmFpbERlY2lzaW9uTWFrZXJcPg==</entry>
         <entry>collection?</entry>
         <entry encoding="base64">XDx0b3RhbF9wYXN0X2R1ZV9hbW91bnRfaW5hY2N1cmF0ZVw+</entry>
+        <entry encoding="base64">XDx0ZXN0X3NlcmlhbGl6ZV9fY3JpbWluYWxfcmVzZ2lzdHJ5X3J1bGVzXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0X3NlcmlhbGl6ZV9fYmFua3J1cHRjeV9ydWxlc1w+</entry>
+        <entry>to_xml</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
