@@ -107,6 +107,10 @@
         <mark key="." line="62" column="26" />
         <mark key="^" line="62" column="26" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/criminal_fuzzy_matcher.rb" timestamp="1512151046958">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="67" column="6" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/result_controller.rb" timestamp="1511993055321">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
@@ -198,6 +202,13 @@
       <file name="$USER_HOME$/src/zoology_app/Gemfile.lock" timestamp="1512085161115">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/lib/services/criminal_offense_fuzzy_match_service.rb" timestamp="1512151485321">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="7" column="80" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/show.html.erb" timestamp="1512083247347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="8" />
@@ -260,11 +271,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" timestamp="1512094399499">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="17" column="24" />
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" timestamp="1512151560564">
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="54" column="26" />
+        <mark key="^" line="54" column="26" />
+        <mark key="." line="54" column="26" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_presenter_factory.rb" timestamp="1512005109147">
         <mark key="[" line="26" column="44" />
@@ -364,7 +375,7 @@
         <mark key="." line="2" column="83" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_makers/criminal_registry_decision_maker.rb" timestamp="1511985186392" />
-      <file name="/Dummy.txt" timestamp="1512094345026">
+      <file name="/Dummy.txt" timestamp="1512151231355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/results_controller.rb" timestamp="1511997283713">
@@ -380,12 +391,7 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="85" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1512088076586">
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="75" />
-        <mark key="^" line="2" column="75" />
-        <mark key="." line="2" column="75" />
-      </file>
+      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1512088076586" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/db/migrate/20171114185001_add_comparable_unit_template_to_market_surveys_comparable_unit_types.rb" timestamp="1511981691019" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/models/screenings/decisions/criterion.rb" timestamp="1511984387474">
         <mark key="[" line="32" column="15" />
@@ -437,7 +443,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/presenters/violations_tracking/violation_presenter.rb" timestamp="1511998411797" />
     </filemarks>
     <jumps>
-      <jump line="13" column="2" filename="$USER_HOME$/src/screenings_app/config/decisions/script.rb" />
       <jump line="129" column="2" filename="$USER_HOME$/src/screenings_app/config/decisions/script.rb" />
       <jump line="138" column="0" filename="$USER_HOME$/src/screenings_app/config/decisions/script.rb" />
       <jump line="217" column="0" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/criminal_offense_classifier_test.rb" />
@@ -537,13 +542,14 @@
       <jump line="22" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/actions/email_controller.rb" />
       <jump line="29" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/actions/email_controller.rb" />
       <jump line="0" column="3" filename="$USER_HOME$/src/zoology_app/app/views/criminal_offenses/new.html.erb" />
+      <jump line="65" column="8" filename="$USER_HOME$/src/zoology_app/lib/services/criminal_offense_fuzzy_match_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Michael</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>CriminalOffenseFuzzyMatchService</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -570,49 +576,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>criminal_type</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text encoding="base64">XDxtYXRjaF9kYXRhX2Rlc2NyaXB0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdF90byBhY3Rpb246IDppbmRleAo=</text>
+      <register name="0" type="4">
+        <text>CriminalOffenseFuzzyMatchService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQGNyaW1pbmFsID0gQ3JpbWluYWxPZmZlbnNlLm5ldwo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKCkKICAgICAgCiAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDppbmRleAo=</text>
+        <text encoding="base64">ICAgICAgQGNyaW1pbmFsID0gQ3JpbWluYWxPZmZlbnNlLm5ldwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDpuZXcsIHN0YXR1czogOnVucHJvY2Vzc2FibGVfZW50aXR5Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIDppbmRleCwgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcmVuZGVyIDppbmRleAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVuZGVyIDpuZXcsIHN0YXR1czogOnVucHJvY2Vzc2FibGVfZW50aXR5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmVuZGVyIDppbmRleCwgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQGNyaW1pbmFscyA9IENyaW1pbmFsT2ZmZW5zZS5hbGwudG9fYQo=</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIDppbmRleAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAY3JpbWluYWxzID0gQ3JpbWluYWxPZmZlbnNlLmFsbC50b19hCg==</text>
+        <text encoding="base64">ICAgICAgQGNyaW1pbmFscyA9IENyaW1pbmFsT2ZmZW5zZS5hbGwudG9fYQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAY3JpbWluYWwgPSBDcmltaW5hbE9mZmVuc2UubmV3Cg==</text>
+        <text encoding="base64">ICAgICAgICBAY3JpbWluYWxzID0gQ3JpbWluYWxPZmZlbnNlLmFsbC50b19hCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAY3JpbWluYWwgPSBDcmltaW5hbE9mZmVuc2UubmV3Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -625,9 +631,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search encoding="base64">XDxtYXRjaF9kYXRhX2Rlc2NyaXB0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRjaF9kYXRhX2Rlc2NyaXB0aW9uXD4=</last-pattern>
       <last-replace>4g</last-replace>
       <last-substitute>5</last-substitute>
       <last-dir>1</last-dir>
@@ -635,7 +641,6 @@
     </search>
     <history>
       <history-search>
-        <entry>collection?</entry>
         <entry encoding="base64">XDx0b3RhbF9wYXN0X2R1ZV9hbW91bnRfaW5hY2N1cmF0ZVw+</entry>
         <entry encoding="base64">XDx0ZXN0X3NlcmlhbGl6ZV9fY3JpbWluYWxfcmVzZ2lzdHJ5X3J1bGVzXD4=</entry>
         <entry encoding="base64">XDx0ZXN0X3NlcmlhbGl6ZV9fYmFua3J1cHRjeV9ydWxlc1w+</entry>
@@ -655,6 +660,7 @@
         <entry>require</entry>
         <entry encoding="base64">XDxwZXJtaXR0ZWRfcGFyYW1zXD4=</entry>
         <entry>5</entry>
+        <entry encoding="base64">XDxtYXRjaF9kYXRhX2Rlc2NyaXB0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FjY3BldC9hY2NlcHQvZw==</entry>
