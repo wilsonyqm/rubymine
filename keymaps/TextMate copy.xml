@@ -1,0 +1,5 @@
+<keymap version="1" name="TextMate copy" parent="TextMate">
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+</keymap>
