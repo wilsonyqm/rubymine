@@ -5,6 +5,7 @@
       <mapping pattern="_imageSharer.html.erb" type="PLAIN_TEXT" />
       <mapping pattern="test_html" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="images/a" type="PLAIN_TEXT" />
       <mapping pattern="images_crud_test" type="Ruby" />
     </extensionMap>
   </component>
