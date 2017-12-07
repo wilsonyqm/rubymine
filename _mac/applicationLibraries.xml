@@ -22642,6 +22642,7 @@
     </library>
     <library name="passenger (v5.1.12, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/passenger/5.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/man" />
@@ -22652,6 +22653,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/download_cache" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/passenger/5.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/dev" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/passenger-5.1.12/man" />
