@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/collection_rule_decorator_test.rb" timestamp="1512688513850">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/collection_rule_decorator_test.rb" timestamp="1512693265665">
         <mark key="[" line="56" column="22" />
-        <mark key="]" line="56" column="44" />
+        <mark key="]" line="56" column="43" />
         <mark key="^" line="56" column="114" />
         <mark key="." line="56" column="114" />
       </file>
@@ -21,6 +21,8 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/income_to_rent_ratio_rule_decorator_test.rb" timestamp="1512693307321" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/temporary_criminal_offense_rule_decorator.rb" timestamp="1512685818854" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_cosigner_presenter_test.rb" timestamp="1512513112803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="14" column="2" />
@@ -158,7 +160,7 @@
         <mark key="." line="33" column="14" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/criminal_registry_rule_decorator_test.rb" timestamp="1512691190158">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/criminal_registry_rule_decorator_test.rb" timestamp="1512693287321">
         <mark key="[" line="26" column="75" />
         <mark key="]" line="26" column="103" />
         <mark key="." line="26" column="75" />
@@ -192,7 +194,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/bankruptcy_rule_decorator_test.rb" timestamp="1512691581311">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/bankruptcy_rule_decorator_test.rb" timestamp="1512693246210">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="16" />
         <mark key="^" line="19" column="16" />
@@ -224,6 +226,7 @@
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/forms/screenings/decisions/criminal_offense_rules_form.rb" timestamp="1512685791449" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/controllers/screenings/decisions/results_controller_test.rb" timestamp="1512434331380">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -266,6 +269,7 @@
         <mark key="." line="1" column="57" />
         <mark key="^" line="1" column="57" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_rent_roll_itemized.rb" timestamp="1512675540155" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_presenter_factory.rb" timestamp="1512690932578">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -558,7 +562,7 @@
         <text>Michael</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1991</text>
+        <text>Accounts in collection</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -591,7 +595,7 @@
         <text>Result</text>
       </register>
       <register name="0" type="4">
-        <text>MinimumCreditScoreRule</text>
+        <text>Accounts in collection</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlIHJlc3VsdC5yZXN1bHQKICAgICAgICAgIHdoZW4gJ2ZhaWwnCiAgICAgICAgICAgIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZVN1bW1hcnlGYWlsUHJlc2VudGVyLm5ldyhyZXN1bHQpCiAgICAgICAgICB3aGVuICdjb25kaXRpb25hbCcKICAgICAgICAgICAgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpSdWxlU3VtbWFyeUNvbmRpdGlvbmFsUHJlc2VudGVyLm5ldyhyZXN1bHQpCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZVN1bW1hcnlQcmVzZW50ZXIubmV3KHJlc3VsdCkKICAgICAgICBlbmQK</text>
