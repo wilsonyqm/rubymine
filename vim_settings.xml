@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/test/all.rb" timestamp="1505168486845">
         <mark key="[" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/credit_score_decision_generator.rb" timestamp="1513035501151">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="77" />
-        <mark key="^" line="9" column="77" />
-        <mark key="." line="9" column="77" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/credit_score_decision_generator.rb" timestamp="1513104222068">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_conditional_presenter_test.rb" timestamp="1512774202439">
         <mark key="[" line="18" column="0" />
@@ -84,7 +84,7 @@
         <mark key="^" line="114" column="58" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513037181134">
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513104186284">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="34" column="30" />
         <mark key="^" line="34" column="30" />
@@ -113,7 +113,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513038798540">
+      <file name="/Dummy.txt" timestamp="1513104186831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/total_decision_generator.rb" timestamp="1513036514028">
@@ -308,8 +308,8 @@
       <register name="a" type="4">
         <text>Michael</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reason</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -336,7 +336,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>FrozenCredit</text>
+        <text>reason</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZhdWx0X3J1bGVfcmVzdWx0X3NhdmVyXD4=</text>
