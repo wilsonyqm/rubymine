@@ -5770,6 +5770,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_paperclip (v14.2.4, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_paperclip (v3.6.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_paperclip-3.6.0/lib" />
@@ -8906,6 +8916,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_solr-5.9.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_solr-5.9.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_solr (v6.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_solr-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_solr-6.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_solr-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_solr-6.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_temp_files (v0.4.0, RVM: ruby-2.2.3 [global]) [gem]">

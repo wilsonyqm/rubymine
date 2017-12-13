@@ -15,16 +15,17 @@
         <mark key="." line="45" column="58" />
         <mark key="^" line="45" column="58" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/rental_applications/_application_screenings_show.html.erb" timestamp="1513203072994" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_conditional_presenter_test.rb" timestamp="1512774202439">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/base_decision_generator.rb" timestamp="1513036744406">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/decision_results_saver.rb" timestamp="1513202143646">
         <mark key="'" line="19" column="10" />
@@ -36,12 +37,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513195218558">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="33" column="21" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_presenter_test.rb" timestamp="1513116189383">
         <mark key="[" line="18" column="0" />
@@ -61,10 +56,19 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/config/initializers/screening_service_initializers.rb" timestamp="1513189783463" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/helpers/screenings/screenings_helper_test.rb" timestamp="1513204159982">
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="139" column="21" />
+        <mark key="." line="139" column="21" />
+        <mark key="^" line="139" column="19" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_summary_pass_presenter.rb" timestamp="1512676882842">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/rental_applications/show.html.erb" timestamp="1513203063867">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/results/_criteria_not_met.html.erb" timestamp="1513195363063">
         <mark key="[" line="11" column="23" />
@@ -102,10 +106,10 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decision_generators/income_to_rent_ratio_decision_generator_test.rb" timestamp="1513115822125">
-        <mark key="[" line="91" column="30" />
-        <mark key="]" line="91" column="34" />
-        <mark key="." line="91" column="34" />
-        <mark key="^" line="91" column="34" />
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="^" line="61" column="34" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/results/show.html.erb" timestamp="1513017763790">
         <mark key="[" line="5" column="99" />
@@ -142,12 +146,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/test/all.rb" timestamp="1505168486845">
         <mark key="[" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/credit_score_decision_generator.rb" timestamp="1513104222068">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_presenter_test.rb" timestamp="1512774969773">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -161,9 +159,6 @@
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/constants.rb" timestamp="1513037201542">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="12" column="50" />
-        <mark key="^" line="12" column="49" />
-        <mark key="." line="12" column="49" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_summary_missing_rent_presenter.rb" timestamp="1513119191501">
         <mark key="[" line="7" column="0" />
@@ -184,10 +179,6 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_presenter_factory_test.rb" timestamp="1513202118026">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="35" />
-        <mark key="^" line="74" column="34" />
-        <mark key="." line="50" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_fail_presenter_test.rb" timestamp="1513028389546">
         <mark key="[" line="100" column="35" />
@@ -201,14 +192,20 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513194285256">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/helpers/screenings/screenings_helper.rb" timestamp="1513204069710">
+        <mark key="[" line="67" column="34" />
+        <mark key="]" line="67" column="55" />
+        <mark key="." line="67" column="55" />
+        <mark key="^" line="67" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513203516326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/total_decision_generator.rb" timestamp="1513036514028">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="50" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_frozen_credit_presenter_test.rb" timestamp="1513116079876">
         <mark key="[" line="0" column="0" />
@@ -261,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="49" filename="$USER_HOME$/src/screenings_app/app/helpers/reports_helper.rb" />
       <jump line="79" column="69" filename="$USER_HOME$/src/screenings_app/app/helpers/reports_helper.rb" />
       <jump line="80" column="96" filename="$USER_HOME$/src/screenings_app/app/helpers/reports_helper.rb" />
       <jump line="25" column="26" filename="$USER_HOME$/src/screenings_app/lib/parsers/experian/tradeline_parser.rb" />
@@ -361,13 +357,14 @@
       <jump line="19" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/decision_results_saver.rb" />
       <jump line="79" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/src/screenings_app/Gemfile.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/rental_applications/show.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Michael</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tJwogICAgICAgICAgcHAgcnVsZV9yZXN1bHQKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmRldGFpbHMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXNbJ2RldGFpbHMnXQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -394,49 +391,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>setting</text>
+        <text>screening</text>
       </register>
       <register name="0" type="4">
-        <text>stub</text>
+        <text>Screenings::Engine.routes.url_helpers.screening_report_path(screening_subject, options)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tJwogICAgICAgICAgcHAgcnVsZV9yZXN1bHQKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmRldGFpbHMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXNbJ2RldGFpbHMnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpGaW5hbFJlc3VsdC5jcmVhdGUhKAogICAgICAgIHNjcmVlbmluZ19zdWJqZWN0OiBzcywKICAgICAgICBmaW5hbF9yZXN1bHQ6ICdwYXNzJwogICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0nCiAgICAgICAgcHAgbW9udGhseV9pbmNvbWUKICAgICAgICBwcCBtb250aGx5X3JlbnQK</text>
+        <text encoding="base64">ICAgICAgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpGaW5hbFJlc3VsdC5maW5kX2J5KHNjcmVlbmluZ19zdWJqZWN0OiBzY3JlZW5pbmdfc3ViamVjdCkmLmZpbmFsX3Jlc3VsdCYudXBjYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tJwogICAgICAgICAgcHAgcnVsZV9yZXN1bHQKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmRldGFpbHMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXMKICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0LmF0dHJpYnV0ZXNbJ2RldGFpbHMnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2NvbnZpY3RlZCcgPT4gY29udmljdGVkLAogICAgICAnc2NvcmUnID0+IHNjb3JlLAogICAgICAndHlwZScgPT4gdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0nCiAgICAgICAgcHAgbW9udGhseV9pbmNvbWUKICAgICAgICBwcCBtb250aGx5X3JlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlX3Jlc3VsdC5kZWNpc2lvbiA9ICdmYWlsJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBwIHJ1bGVfcmVzdWx0Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0tLS0tLS0nCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnRGVuaWVkOiBjb3VsZCBub3QgY2FsY3VsYXRlIGluY29tZS10by1yZW50IHJhdGlvIGJlY2F1c2UgdGhlIHVuaXQgZG9lcyBub3QgaGF2ZSBtYXJrZXQgcmVudCBzcGVjaWZpZWQnCg==</text>
+        <text encoding="base64">ICAgICAgJ2NvbnZpY3RlZCcgPT4gY29udmljdGVkLAogICAgICAnc2NvcmUnID0+IHNjb3JlLAogICAgICAndHlwZScgPT4gdHlwZQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -449,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setting</last-search>
+      <last-search>screening</last-search>
       <last-offset />
-      <last-pattern>setting</last-pattern>
+      <last-pattern>screening</last-pattern>
       <last-replace>stub</last-replace>
       <last-substitute>mock</last-substitute>
       <last-dir>1</last-dir>
@@ -475,10 +472,10 @@
         <entry>frozen</entry>
         <entry>mock</entry>
         <entry>decision</entry>
-        <entry>screening</entry>
         <entry>approval</entry>
         <entry encoding="base64">XDxzYXZlX3J1bGVfcmVzdWx0c1w+</entry>
         <entry>setting</entry>
+        <entry>screening</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGVsL29mZmVuc2UvZw==</entry>
