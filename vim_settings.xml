@@ -214,10 +214,10 @@
         <mark key="^" line="114" column="58" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/criminals/_criminal_registry_rule_new.html.erb" timestamp="1513277186448">
-        <mark key="[" line="25" column="41" />
-        <mark key="]" line="25" column="45" />
-        <mark key="." line="25" column="45" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/criminals/_criminal_registry_rule_new.html.erb" timestamp="1513367468443">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_fail_presenter_test.rb" timestamp="1513028389546">
@@ -238,7 +238,7 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513295064350">
+      <file name="/Dummy.txt" timestamp="1513367290866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/total_decision_generator.rb" timestamp="1513036514028">
@@ -316,6 +316,12 @@
         <mark key="]" line="4" column="49" />
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_bankruptcy_rule_new.html.erb" timestamp="1513367367963">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="118" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -424,8 +430,8 @@
       <register name="a" type="4">
         <text>Michael</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPCU9IGNyaXRlcmlhX2Zvcm1fZXJyb3JzIGNyaXRlcmlvbl9kZWNvcmF0b3Iuc2V4X29mZmVuZGVyX3JlZ2lzdHJ5X3J1bGUmLmVycm9ycy50cnkoOltdLCAnZGVjaXNpb25fdHlwZScpJi5mbGF0dGVuICU+Cg==</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -452,49 +458,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>open_bankruptcy_rule</text>
       </register>
       <register name="/" type="4">
         <text>devise</text>
       </register>
       <register name="0" type="4">
-        <text>Screenings::Decisions::CriminalRegistryRule::DECISION_TYPE__CONDITIONAL</text>
+        <text>ofac_terrorist_registry_rule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlYwo=</text>
+        <text encoding="base64">ICAgICAgPCU9IGNyaXRlcmlhX2Zvcm1fZXJyb3JzIGNyaXRlcmlvbl9kZWNvcmF0b3Iuc2V4X29mZmVuZGVyX3JlZ2lzdHJ5X3J1bGUmLmVycm9ycy50cnkoOltdLCAnZGVjaXNpb25fdHlwZScpJi5mbGF0dGVuICU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcmltaW5hbFJlZ2lzdHJ5UnVsZTo6REVDSVNJT05fVFlQRV9fREVOWSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxlYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzc2xfcmVxdWlyZWQgOmFsbAo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICdvbW5pYXV0aC1vYXV0aDInLCAnfj4gMS4zLjEnCg==</text>
+        <text encoding="base64">ICBjb25maWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmFpbHMuYXBwbGljYXRpb24uY29uZmlnLm1pZGRsZXdhcmUudXNlIE9tbmlBdXRoOjpCdWlsZGVyIGRvCiAgT21uaUF1dGguY29uZmlnLmZ1bGxfaG9zdCA9IFJhaWxzLmVudi5wcm9kdWN0aW9uPyA/ICdodHRwczovL2RvbWFpbi5jb20nIDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODg4OCcKZW5kCg==</text>
+        <text encoding="base64">ICBzc2xfcmVxdWlyZWQgOmFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm92aWRlciA6Z29vZ2xlX29hdXRoMiwgRU5WWydHT09HTEVfQ0xJRU5UX0lEJ10sIEVOVlsnR09PR0xFX0NMSUVOVF9TRUNSRVQnXQo=</text>
+        <text encoding="base64">Z2VtICdvbW5pYXV0aC1vYXV0aDInLCAnfj4gMS4zLjEnCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm92aWRlciA6Z29vZ2xlX29hdXRoMiwgRU5WWydHT09HTEVfQ0xJRU5UX0lEJ10sIEVOVlsnR09PR0xFX0NMSUVOVF9TRUNSRVQnXQo=</text>
+        <text encoding="base64">UmFpbHMuYXBwbGljYXRpb24uY29uZmlnLm1pZGRsZXdhcmUudXNlIE9tbmlBdXRoOjpCdWlsZGVyIGRvCiAgT21uaUF1dGguY29uZmlnLmZ1bGxfaG9zdCA9IFJhaWxzLmVudi5wcm9kdWN0aW9uPyA/ICdodHRwczovL2RvbWFpbi5jb20nIDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODg4OCcKZW5kCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">T21uaUF1dGguY29uZmlnLmZ1bGxfaG9zdCA9IFJhaWxzLmVudi5wcm9kdWN0aW9uPyA/ICdodHRwczovL2RvbWFpbi5jb20nIDogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODg4OCcK</text>
+        <text encoding="base64">ICBwcm92aWRlciA6Z29vZ2xlX29hdXRoMiwgRU5WWydHT09HTEVfQ0xJRU5UX0lEJ10sIEVOVlsnR09PR0xFX0NMSUVOVF9TRUNSRVQnXQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
