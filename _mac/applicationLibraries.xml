@@ -9768,6 +9768,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="auto_strip_attributes (v2.0.2, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/auto_strip_attributes-2.0.2/lib" />
@@ -22494,6 +22502,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parser-2.3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="passenger (v5.0.21, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/passenger-5.0.21/bin" />
@@ -25266,6 +25284,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.3 [global]) [gem]">
