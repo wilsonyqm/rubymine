@@ -56,7 +56,7 @@
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decision_generators/income_to_rent_ratio_decision_generator_test.rb" timestamp="1513722131577">
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decision_generators/income_to_rent_ratio_decision_generator_test.rb" timestamp="1513722845903">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="61" column="34" />
         <mark key="." line="61" column="34" />
@@ -115,7 +115,7 @@
         <mark key="." line="7" column="76" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/criminal_offense_decision_generator.rb" timestamp="1513625586836" />
-      <file name="/Dummy.txt" timestamp="1513720292353">
+      <file name="/Dummy.txt" timestamp="1513723073679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_frozen_credit_presenter_test.rb" timestamp="1513720340872">
@@ -134,6 +134,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/app/models/decisions/rule_result.rb" timestamp="1513637742174" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/bankruptcy_classifier.rb" timestamp="1513723122664" />
+      <file name="$USER_HOME$/src/screenings_app/app/decorators/public_record_decorator.rb" timestamp="1513723124777">
+        <mark key="[" line="13" column="76" />
+        <mark key="]" line="13" column="96" />
+        <mark key="^" line="13" column="96" />
+        <mark key="." line="13" column="96" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_and_income_presenter_test.rb" timestamp="1513720318037">
         <mark key="'" line="7" column="23" />
         <mark key="[" line="7" column="23" />
@@ -141,6 +148,7 @@
         <mark key="." line="7" column="44" />
         <mark key="^" line="7" column="44" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/app/views/reports/_public_records.html.erb" timestamp="1513723103442" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" timestamp="1513638455394" />
     </filemarks>
     <jumps>
