@@ -13,11 +13,11 @@
         <mark key="^" line="47" column="52" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513638044877" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513722124329" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/config/initializers/screening_service_initializers.rb" timestamp="1513625861373" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_presenter_factory.rb" timestamp="1513638911649">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_presenter_factory.rb" timestamp="1513720403052">
         <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="71" />
+        <mark key="]" line="11" column="70" />
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="40" />
       </file>
@@ -33,6 +33,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="17" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_presenter_factory_test.rb" timestamp="1513720414676">
+        <mark key="[" line="173" column="37" />
+        <mark key="]" line="173" column="51" />
+        <mark key="^" line="173" column="51" />
+        <mark key="." line="173" column="51" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_summary_presenter_factory.rb" timestamp="1513711765436">
         <mark key="[" line="6" column="36" />
@@ -50,6 +56,12 @@
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decision_generators/income_to_rent_ratio_decision_generator_test.rb" timestamp="1513722131577">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="^" line="61" column="34" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/owner_packets/report_pdf_generator.rb" timestamp="1513638423206" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_pending_presenter.rb" timestamp="1513633512429">
         <mark key="[" line="29" column="10" />
@@ -64,14 +76,31 @@
       <file name="/Ruby Console" timestamp="1512089349686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_presenter_test.rb" timestamp="1513720326132">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="22" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/test/all.rb" timestamp="1505168486845">
         <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/credit_score_decision_generator.rb" timestamp="1513637870973" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/screenings/decisions/final_decision_status_selector_test.rb" timestamp="1513721553311">
+        <mark key="[" line="130" column="55" />
+        <mark key="]" line="130" column="83" />
+        <mark key="^" line="126" column="156" />
+        <mark key="." line="130" column="55" />
+      </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/constants.rb" timestamp="1513037201542">
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/criminal_fuzzy_matcher.rb" timestamp="1513644130314" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_income_presenter_test.rb" timestamp="1513720335391">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="23" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/user_texting_setting.rb" timestamp="1513710301461" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_presenter_factory_test.rb" timestamp="1513714125599">
         <mark key="[" line="74" column="58" />
@@ -79,15 +108,21 @@
         <mark key="." line="74" column="56" />
         <mark key="^" line="74" column="56" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/constants.rb" timestamp="1513708550135">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="76" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/constants.rb" timestamp="1513721552060">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="33" />
         <mark key="^" line="7" column="76" />
         <mark key="." line="7" column="76" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/criminal_offense_decision_generator.rb" timestamp="1513625586836" />
-      <file name="/Dummy.txt" timestamp="1513711778984">
+      <file name="/Dummy.txt" timestamp="1513720292353">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_frozen_credit_presenter_test.rb" timestamp="1513720340872">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="7" column="66" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/models/screenings/decisions/rule_result.rb" timestamp="1513710386952">
         <mark key="[" line="26" column="24" />
@@ -99,10 +134,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/app/models/decisions/rule_result.rb" timestamp="1513637742174" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_and_income_presenter_test.rb" timestamp="1513720318037">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" timestamp="1513638455394" />
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="40" column="33" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="154" column="10" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
@@ -202,13 +243,14 @@
       <jump line="95" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_presenter.rb" />
       <jump line="92" column="10" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
       <jump line="44" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/decision_results_saver.rb" />
+      <jump line="7" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_and_income_presenter_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Michael</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3R1YihhdHRyaWJ1dGVzOiA=</text>
+        <text>FINAL_DECISION_STATUS__MISSING_RENT_OR_INCOME</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -235,49 +277,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R1YihhdHRyaWJ1dGVzOiA=</text>
+        <text>FINAL_DECISION_STATUS__MISSING_RENT_OR_INCOME</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX2ZpbmFsX2RlY2lzaW9uX3Jlc3VsdFw+</text>
+        <text>pending</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCYuZGV0YWlscy5wcmVzZW50PyAmJiByZXN1bHQuZGV0YWlscy5wcmVzZW50PyAmJgogICAgICAgICAgICBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNvbnN0YW50czo6TUlTU0lOR19SRU5UX09SX0lOQ09NRV9MSVNULmluY2x1ZGU/KHJlc3VsdC5kZXRhaWxzWydtaXNzaW5nJ10pCg==</text>
+      <register name="0" type="4">
+        <text>FINAL_DECISION_STATUS__READY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwIHJlc3VsdCYuZGV0YWlscy5wcmVzZW50PyAmJiByZXN1bHQuZGV0YWlscy5wcmVzZW50PyAmJgogICAgICAgICAgICBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNvbnN0YW50czo6TUlTU0lOR19SRU5UX09SX0lOQ09NRV9MSVNULmluY2x1ZGU/KHJlc3VsdC5kZXRhaWxzWydtaXNzaW5nJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNpc2lvbl9yZXN1bHRzLnJ1bGVfcmVzdWx0cyA9IHsgJ21pc3NpbmcnID0+ICdtaXNzaW5nX3JlbnQnIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0tLS0tLS0tLScK</text>
+        <text encoding="base64">ICAgICAgICAgIHBwIHJlc3VsdCYuZGV0YWlscy5wcmVzZW50PyAmJiByZXN1bHQuZGV0YWlscy5wcmVzZW50PyAmJgogICAgICAgICAgICBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNvbnN0YW50czo6TUlTU0lOR19SRU5UX09SX0lOQ09NRV9MSVNULmluY2x1ZGU/KHJlc3VsdC5kZXRhaWxzWydtaXNzaW5nJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwICd0aGlzIGlzIHdyb25nJwogICAgICAgICAgcHAgJy0tLS0tLS0tLS0tLS0tLS0nCg==</text>
+        <text encoding="base64">ICAgICAgICBwcCAnLS0tLS0tLS0tLS0tLS0tLS0tLScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tLS0tLS0tJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBwICd0aGlzIGlzIHdyb25nJwogICAgICAgICAgcHAgJy0tLS0tLS0tLS0tLS0tLS0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBwICdzdGF0dXMtLS0tLS0tLS0tJwogICAgICAgICMgcHAgc3RhdHVzCiAgICAgICAgIyByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSBpZiBzdGF0dXMucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tLS0tLS0tJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBwICdzdGF0dXMtLS0tLS0tLS0tJwogICAgICAgICMgcHAgc3RhdHVzCiAgICAgICAgIyByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSBpZiBzdGF0dXMucHJlc2VudD8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tLS0tLScKICAgICAgICAgIHBwIHJlc3VsdCYuZGV0YWlscy5wcmVzZW50PyAmJiByZXN1bHQuZGV0YWlscy5hdHRyaWJ1dGVzWydtaXNzaW5nJ10ucHJlc2VudD8gJiYKICAgICAgICAgICAgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDb25zdGFudHM6Ok1JU1NJTkdfUkVOVF9PUl9JTkNPTUVfTElTVC5pbmNsdWRlPyhyZXN1bHQuZGV0YWlscy5hdHRyaWJ1dGVzWydtaXNzaW5nJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBzdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICAgIHBwICctLS0tLS0tLS0tLS0tLS0tLScKICAgICAgICAgIHBwIHJlc3VsdCYuZGV0YWlscy5wcmVzZW50PyAmJiByZXN1bHQuZGV0YWlscy5hdHRyaWJ1dGVzWydtaXNzaW5nJ10ucHJlc2VudD8gJiYKICAgICAgICAgICAgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDb25zdGFudHM6Ok1JU1NJTkdfUkVOVF9PUl9JTkNPTUVfTElTVC5pbmNsdWRlPyhyZXN1bHQuZGV0YWlscy5hdHRyaWJ1dGVzWydtaXNzaW5nJ10pCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -290,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX2ZpbmFsX2RlY2lzaW9uX3Jlc3VsdFw+</last-search>
+      <last-search>pending</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX2ZpbmFsX2RlY2lzaW9uX3Jlc3VsdFw+</last-pattern>
+      <last-pattern>pending</last-pattern>
       <last-replace>stub</last-replace>
       <last-substitute>mock</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>af</entry>
         <entry>Result</entry>
         <entry>Fail</entry>
         <entry>&quot;</entry>
@@ -320,6 +361,7 @@
         <entry encoding="base64">XDxpbmZvX21lc3NhZ2VzXD4=</entry>
         <entry encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGlzcG9zaXRpb25cPg==</entry>
         <entry encoding="base64">XDxzYXZlX2ZpbmFsX2RlY2lzaW9uX3Jlc3VsdFw+</entry>
+        <entry>pending</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21vZGVsL29mZmVuc2UvZw==</entry>
