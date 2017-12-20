@@ -110,6 +110,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="59" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/criminal_offense_rule_decorator_test.rb" timestamp="1513796253204">
+        <mark key="'" line="26" column="45" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_pending_presenter_test.rb" timestamp="1513633524309">
         <mark key="[" line="33" column="21" />
         <mark key="]" line="33" column="25" />
@@ -303,6 +310,12 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="44" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" timestamp="1513796082254">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_and_income_presenter_test.rb" timestamp="1513720318037">
         <mark key="'" line="7" column="23" />
         <mark key="[" line="7" column="23" />
@@ -326,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="33" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="154" column="10" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="46" column="6" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
       <jump line="167" column="10" filename="$USER_HOME$/src/screenings_app/test/unit/decisions/decisions_makers/numerical_decision_maker_test.rb" />
@@ -426,13 +438,14 @@
       <jump line="92" column="10" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
       <jump line="44" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/decision_results_saver.rb" />
       <jump line="7" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_and_income_presenter_test.rb" />
+      <jump line="26" column="45" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/criminal_offense_rule_decorator_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Michael</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>felony</text>
       </register>
       <register name="b" type="4">
         <text>Abacommon</text>
@@ -459,13 +472,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>felony</text>
       </register>
       <register name="/" type="4">
         <text>pending</text>
       </register>
-      <register name="0" type="4">
-        <text>FINAL_DECISION_STATUS__READY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGVmIHRlc3RfdGl0bGVfX2ZlbG9ueQogICAgICAgIGNyaXRlcmlvbiA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNyZWF0ZV9leGVtcGxhciEKICAgICAgICB2aW9sZW50X29mZmVuc2VfcnVsZSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jcmVhdGUhKAogICAgICAgICAgY3JpdGVyaW9uOiBjcml0ZXJpb24sCiAgICAgICAgICB2YWx1ZV90b19hY2NlcHQ6IDQsCiAgICAgICAgICB2YWx1ZV90b19kZW55OiAxLAogICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICd2aW9sZW50X29mZmVuc2VfcnVsZScsCiAgICAgICAgICBzZXZlcml0eV90eXBlOiAnZmVsb255JwogICAgICAgICkKCiAgICAgICAgYXNzZXJ0X2VxdWFsICdWaW9sZW50IE9mZmVuc2VzIChGZWxvbnkpJywgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcmltaW5hbE9mZmVuc2VSdWxlRGVjb3JhdG9yLm5ldyh2aW9sZW50X29mZmVuc2VfcnVsZSkudGl0bGUKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWNpc2lvbl9yZXN1bHRzLnJ1bGVfcmVzdWx0cyA9IHsgJ21pc3NpbmcnID0+ICdtaXNzaW5nX3JlbnQnIH0K</text>
