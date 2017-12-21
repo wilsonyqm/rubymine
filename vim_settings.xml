@@ -141,12 +141,12 @@
         <mark key="]" line="131" column="67" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513722124329" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1513887628400">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1513893922046">
         <mark key="'" line="118" column="40" />
-        <mark key="[" line="194" column="45" />
-        <mark key="]" line="194" column="45" />
-        <mark key="." line="194" column="45" />
-        <mark key="^" line="194" column="73" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="226" column="59" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/criteria_controller.rb" timestamp="1513808409569">
         <mark key="[" line="56" column="96" />
@@ -342,8 +342,8 @@
       <register name="a" type="4">
         <text>updateIncomeRatioCheckboxAcceptDisplay</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9EZW55Um93ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcihpbmNvbWVSYXRpb1ZhbHVlRGVueVJvd1NlbGVjdG9yKTsK</text>
       </register>
       <register name="b" type="4">
         <text>updateIncomeRatioCheckboxConditionalDisplay</text>
@@ -370,43 +370,43 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Less than 3 times monthly rent</text>
       </register>
       <register name="/" type="4">
         <text>document.querySelector</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGluY29tZVJhdGlvQ29uZGl0aW9uYWxDaGVja2JveCkudG8uaGF2ZS5wcm9wKCdkaXNhYmxlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgaW5jb21lUmF0aW9Db25kaXRpb25hbENoZWNrYm94LnByb3AoJ2NoZWNrZWQnLCBmYWxzZSk7CiAgICAgIGluY29tZVJhdGlvQ29uZGl0aW9uYWxDaGVja2JveC50cmlnZ2VyKCdjaGFuZ2UnKTsKICAgICAgZXhwZWN0KGluY29tZVJhdGlvQWNjZXB0VmFsdWUuaW5uZXJIVE1MKS50by5iZS5lcXVhbCgnMycpOwogICAgICBleHBlY3QoaW5jb21lUmF0aW9EZW55VmFsdWUuaW5uZXJIVE1MKS50by5iZS5lcXVhbCgnTGVzcyB0aGFuIDMgdGltZXMgbW9udGhseSByZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGluY29tZVJhdGlvQ29uZGl0aW9uYWxDaGVja2JveCkudG8uaGF2ZS5wcm9wKCdkaXNhYmxlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9EZW55Um93ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcihpbmNvbWVSYXRpb1ZhbHVlRGVueVJvd1NlbGVjdG9yKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9Db25kaXRpb25hbENoZWNrYm94ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcihpbmNvbWVSYXRpb1ZhbHVlQ29uZGl0aW9uYWxDaGVja2JveFNlbGVjdG9yKTsKICAgICAgY29uc3QgaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoaW5jb21lUmF0aW9WYWx1ZUNvbmRpdGlvbmFsUm93U2VsZWN0b3IpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZnVuY3Rpb24gdHJpZ2dlckNoYW5nZUV2ZW50KGVsZW1lbnQpIHsKICAgIHRyaWdnZXJFdmVudCgnY2hhbmdlJywgZWxlbWVudCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9BY2NlcHRDaGVja2JveCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoaW5jb21lUmF0aW9WYWx1ZUFjY2VwdENoZWNrYm94U2VsZWN0b3IpOwogICAgICBjb25zdCBpbmNvbWVSYXRpb0FjY2VwdFJvdyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoaW5jb21lUmF0aW9WYWx1ZUFjY2VwdFJvd1NlbGVjdG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5jb21lUmF0aW9Db25kaXRpb25hbENoZWNrYm94LnByb3AoJ2NoZWNrZWQnLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9BY2NlcHRDaGVja2JveCA9ICQoaW5jb21lUmF0aW9WYWx1ZUFjY2VwdENoZWNrYm94U2VsZWN0b3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdy5jbGFzc05hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9BY2NlcHRSb3cgPSAkKGluY29tZVJhdGlvVmFsdWVBY2NlcHRSb3dTZWxlY3Rvcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdyA9ICQoaW5jb21lUmF0aW9WYWx1ZUNvbmRpdGlvbmFsUm93U2VsZWN0b3IpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5jb21lUmF0aW9EZW55Um93ID0gJChpbmNvbWVSYXRpb1ZhbHVlRGVueVJvd1NlbGVjdG9yKTsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGluY29tZVJhdGlvQWNjZXB0VmFsdWUuaW5uZXJIVE1MKS50by5iZS5lcXVhbCgnMycpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
