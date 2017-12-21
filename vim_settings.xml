@@ -81,12 +81,12 @@
         <mark key="^" line="26" column="29" />
         <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" timestamp="1513883202672">
-        <mark key="'" line="40" column="11" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="12" column="84" />
-        <mark key="^" line="85" column="1" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" timestamp="1513884808339">
+        <mark key="'" line="64" column="48" />
+        <mark key="[" line="93" column="74" />
+        <mark key="]" line="93" column="76" />
+        <mark key="^" line="93" column="76" />
+        <mark key="." line="93" column="76" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/test/dummy/tmp/test/screenshots/test_letters{51b70a53-0ec7-0445-b069-1798b5d3f975}_current.html" timestamp="1513816020336">
         <mark key="[" line="85" column="0" />
@@ -136,12 +136,17 @@
         <mark key="^" line="47" column="52" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/surveys/test/components/filters/property.spec.js" timestamp="1513883836281">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="67" />
+      </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/income_to_rent_ratio_decision_generator.rb" timestamp="1513722124329" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1513883253096">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="37" column="65" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1513887628400">
+        <mark key="'" line="118" column="40" />
+        <mark key="[" line="194" column="45" />
+        <mark key="]" line="194" column="45" />
+        <mark key="." line="194" column="45" />
+        <mark key="^" line="194" column="73" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/criteria_controller.rb" timestamp="1513808409569">
         <mark key="[" line="56" column="96" />
@@ -225,21 +230,13 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513883234362">
+      <file name="/Dummy.txt" timestamp="1513887609805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/criminals/_criminal_rule_new.html.erb" timestamp="1513880664577" />
       <file name="$USER_HOME$/src/screenings_app/app/models/decisions/rule_result.rb" timestamp="1513637742174" />
     </filemarks>
     <jumps>
-      <jump line="949" column="20" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="953" column="30" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="125" column="45" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="288" column="41" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="500" column="59" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="640" column="67" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="708" column="0" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
-      <jump line="723" column="51" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
       <jump line="784" column="41" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/src/zoology_app/db/seeds.rb" />
       <jump line="1" column="70" filename="$USER_HOME$/src/zoology_app/app/models/criminal_offenses.rb" />
@@ -332,13 +329,21 @@
       <jump line="23" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
       <jump line="40" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
       <jump line="55" column="82" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_income_to_rent_ratio_rule_new.html.erb" />
+      <jump line="109" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
+      <jump line="60" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
+      <jump line="62" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
+      <jump line="63" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
+      <jump line="64" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/income_to_rent_ratio.es6" />
+      <jump line="67" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
+      <jump line="56" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
+      <jump line="118" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>updateIncomeRatioCheckboxAcceptDisplay</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ianMtc2NyZWVuaW5nLWNyaXRlcmlhX19pbmNvbWUtdG8tcmVudC1yYXRpb19fY29uZGl0aW9uYWwtcmFuZ2UiPjwvc3Bhbj4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <text>updateIncomeRatioCheckboxConditionalDisplay</text>
@@ -365,76 +370,71 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>accept</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>accept-value</text>
+        <text>document.querySelector</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzPSJqcy1zY3JlZW5pbmctZGVjaXNpb24tY3JpdGVyaWFfX3RhYmxlX19hY2NlcHQtdmFsdWUiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGluY29tZVJhdGlvQ29uZGl0aW9uYWxDaGVja2JveCkudG8uaGF2ZS5wcm9wKCdkaXNhYmxlZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ianMtc2NyZWVuaW5nLWNyaXRlcmlhX19pbmNvbWUtdG8tcmVudC1yYXRpb19fY29uZGl0aW9uYWwtcmFuZ2UiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGluY29tZVJhdGlvQ29uZGl0aW9uYWxDaGVja2JveCkudG8uaGF2ZS5wcm9wKCdkaXNhYmxlZCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIGluY29tZVJhdGlvVmFsdWVDb25kaXRpb25hbFJhbmdlU2VsZWN0b3IgPSAnLmpzLXNjcmVlbmluZy1jcml0ZXJpYV9faW5jb21lLXRvLXJlbnQtcmF0aW9fX2NvbmRpdGlvbmFsLXJhbmdlJwo=</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsIGluY29tZVJhdGlvVmFsdWVUb0RlbnlJbnB1dFNlbGVjdG9yID0gJ2lucHV0W25hbWU9InNjcmVlbmluZ3NfZGVjaXNpb25zX2NyaXRlcmlvbltpbmNvbWVfdG9fcmVudF9yYXRpb19ydWxlX2F0dHJpYnV0ZXNdW3ZhbHVlX3RvX2RlbnldIl0nCg==</text>
+        <text encoding="base64">CiAgZnVuY3Rpb24gdHJpZ2dlckNoYW5nZUV2ZW50KGVsZW1lbnQpIHsKICAgIHRyaWdnZXJFdmVudCgnY2hhbmdlJywgZWxlbWVudCk7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgaW5jb21lUmF0aW9WYWx1ZVRvQWNjZXB0SW5wdXRTZWxlY3RvciA9ICdpbnB1dFtuYW1lPSJzY3JlZW5pbmdzX2RlY2lzaW9uc19jcml0ZXJpb25baW5jb21lX3RvX3JlbnRfcmF0aW9fcnVsZV9hdHRyaWJ1dGVzXVt2YWx1ZV90b19hY2NlcHRdIl0nCg==</text>
+        <text encoding="base64">ICAgICAgaW5jb21lUmF0aW9Db25kaXRpb25hbENoZWNrYm94LnByb3AoJ2NoZWNrZWQnLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdy5jbGFzc05hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgbmFtZT0ic2NyZWVuaW5nc19kZWNpc2lvbnNfY3JpdGVyaW9uW2luY29tZV90b19yZW50X3JhdGlvX3J1bGVfYXR0cmlidXRlc11bdmFsdWVfdG9fZGVueV0iIHR5cGU9InRleHQiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCBuYW1lPSJzY3JlZW5pbmdzX2RlY2lzaW9uc19jcml0ZXJpb25baW5jb21lX3RvX3JlbnRfcmF0aW9fcnVsZV9hdHRyaWJ1dGVzXVt2YWx1ZV90b19hY2NlcHRdIiB0eXBlPSJ0ZXh0Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5jb21lUmF0aW9Db25kaXRpb25hbFJvdyk7Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0RlbnkvQWNjZXB0L2c=</text>
+        <text encoding="base64">JzwsJz5zL2RvY3VtZW50LnF1ZXJ5U2VsZWN0b3IvJC9n</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
       </register>
     </registers>
     <search>
-      <last-search>accept-value</last-search>
+      <last-search>document.querySelector</last-search>
       <last-offset />
-      <last-pattern>accept-value</last-pattern>
-      <last-replace>Accept</last-replace>
-      <last-substitute>Deny</last-substitute>
+      <last-pattern>document.querySelector</last-pattern>
+      <last-replace>$</last-replace>
+      <last-substitute>document.querySelector</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>final</entry>
-        <entry encoding="base64">XDxkYW5nZXJvdXNfcmVwZXRpdGl2ZV9vZmZlbnNlX21lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxpbmZvX21lc3NhZ2VzXD4=</entry>
-        <entry encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGlzcG9zaXRpb25cPg==</entry>
-        <entry encoding="base64">XDxzYXZlX2ZpbmFsX2RlY2lzaW9uX3Jlc3VsdFw+</entry>
         <entry>pending</entry>
         <entry encoding="base64">XDxyZXNldFw+</entry>
         <entry encoding="base64">XDxWaW9sZW50XD4=</entry>
@@ -450,9 +450,13 @@
         <entry encoding="base64">XDx1cGRhdGVJbmNvbWVSYXRpb1ZhbHVlRGVueURpc3BsYXlXaXRoXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVJbmNvbWVSYXRpb1ZhbHVlRGVueURpc3BsYXlcPg==</entry>
         <entry>accept-value</entry>
+        <entry encoding="base64">XDxpbmNvbWVSYXRpb1ZhbHVlQ29uZGl0aW9uYWxDaGVja2JveFNlbGVjdG9yXD4=</entry>
+        <entry>to</entry>
+        <entry>toggl</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyRXZlbnRcPg==</entry>
+        <entry>document.querySelector</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FnYWluc3RfcGVyc29uX3J1bGUvYWdhaW5zdF9wZXJzb25zX3J1bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL290aGVyX2RydWdfb2ZmZW5zZV9ydWxlL290aGVyX2RydWdfb2ZmZW5zZXNfcnVsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3NleF9vZmZlbmRlci9vZmFjX3RlcnJvcmlzdC9n</entry>
         <entry encoding="base64">JzwsJz5zL2V4cGVyaWFuL25iZGRjL2c=</entry>
@@ -472,6 +476,7 @@
         <entry encoding="base64">JzwsJz5zL21vY2svc3R1Yi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RlbnkvYWNjZXB0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RlbnkvQWNjZXB0L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RvY3VtZW50LnF1ZXJ5U2VsZWN0b3IvJC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
