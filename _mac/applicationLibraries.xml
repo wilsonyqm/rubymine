@@ -1942,6 +1942,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/af_ach-9.18.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_ach_maintenance_schedule (v1.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_ach_maintenance_schedule-1.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_acts_as_taggable_on (v4.4.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_acts_as_taggable_on-4.4.0/lib" />
@@ -3876,6 +3888,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_extjs (v4.7.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-4.7.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_gem_licenses (v0.13.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -24626,6 +24650,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-2.0.1/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-attack (v5.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-attack-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-attack-5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.2, RVM: ruby-2.3.3) [gem]">
