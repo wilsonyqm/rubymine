@@ -73,13 +73,6 @@
         <mark key="." line="6" column="61" />
         <mark key="^" line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/criteria_controller.rb" timestamp="1514508633714">
-        <mark key="'" line="71" column="58" />
-        <mark key="[" line="67" column="92" />
-        <mark key="]" line="69" column="86" />
-        <mark key="^" line="69" column="86" />
-        <mark key="." line="69" column="86" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/helpers/screenings/screenings_helper_test.rb" timestamp="1513204159982">
         <mark key="[" line="139" column="21" />
         <mark key="]" line="139" column="21" />
@@ -170,13 +163,6 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/controllers/screenings/decisions/criteria_controller_test.rb" timestamp="1514499486635">
-        <mark key="'" line="447" column="24" />
-        <mark key="[" line="426" column="47" />
-        <mark key="]" line="426" column="47" />
-        <mark key="." line="426" column="47" />
-        <mark key="^" line="426" column="47" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_pending_presenter.rb" timestamp="1513633512429">
         <mark key="[" line="29" column="10" />
         <mark key="]" line="29" column="28" />
@@ -204,6 +190,12 @@
       </file>
       <file name="/Ruby Console" timestamp="1512089349686">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/gems/property_page_objects/lib/property_page_objects/rental_applications/rental_application_page.rb" timestamp="1514923932449">
+        <mark key="[" line="224" column="10" />
+        <mark key="]" line="224" column="49" />
+        <mark key="^" line="226" column="17" />
+        <mark key="." line="226" column="17" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_summary_missing_rent_presenter_test.rb" timestamp="1513720326132">
         <mark key="[" line="7" column="23" />
@@ -295,7 +287,7 @@
         <mark key="^" line="67" column="55" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/criminal_offense_decision_generator.rb" timestamp="1514919857000" />
-      <file name="/Dummy.txt" timestamp="1514921181206">
+      <file name="/Dummy.txt" timestamp="1514922667454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/total_decision_generator.rb" timestamp="1513036514028">
@@ -367,6 +359,12 @@
         <mark key="]" line="6" column="67" />
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/rental_applications_screening_flow_test.rb" timestamp="1514924047559">
+        <mark key="[" line="70" column="36" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="74" column="36" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" timestamp="1513796082254">
         <mark key="[" line="31" column="10" />
@@ -490,8 +488,8 @@
       <register name="a" type="4">
         <text>collectionAcceptRowSelector</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdmFsaWRfb24gcnVsZSwgOnZhbHVlX3RvX2RlbnkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>collectionAcceptCheckboxSelector</text>
@@ -518,55 +516,55 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'is not included in the list'</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIHJ1bGUsIDp2YWx1ZV90b19kZW55LCAnbXVzdCBiZSBsZXNzIHRoYW4gYXBwcm92ZWQgaW5jb21lLXRvLXJlbnQgcmF0aW8gb2YgMy40Jwo=</text>
+      <register name="0" type="4">
+        <text>wait_for_screening_decision_ready_dialog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdmFsaWRfb24gcnVsZSwgOnZhbHVlX3RvX2RlbnkK</text>
+        <text encoding="base64">ICAgICMKICAgICMgc2NyZWVuaW5nX3N1YmplY3QgPSBTY3JlZW5pbmdTdWJqZWN0LmZpbmRfYnkoc2NyZWVuYWJsZTogQGFwcGxpY2F0aW9uMSkKICAgICMgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpTY3JlZW5pbmdTdWJqZWN0Q3JpdGVyaW9uLmNyZWF0ZSEoY3JpdGVyaW9uOiBAY3JpdGVyaW9uLCBzY3JlZW5pbmdfc3ViamVjdDogc2NyZWVuaW5nX3N1YmplY3QpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHRlc3RfdmFsaWRhdGVfdmFsdWVzX3dpdGhfb25seV92YWx1ZV90b19kZW55CiAgICAgICAgY3JpdGVyaW9uID0gU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb24uY3JlYXRlX2V4ZW1wbGFyIQogICAgICAgIHJ1bGUgPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkV2aWN0aW9uSnVkZ2VtZW50c1RpbWVGcmFtZVJ1bGUubmV3KGNyaXRlcmlvbjogY3JpdGVyaW9uLCB2YWx1ZV90b19kZW55OiAxKQogICAgICAgIGFzc2VydF92YWxpZCBydWxlCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZWFkeV9kaWFsb2cudGV4dC5pbmNsdWRlPygnV2UgaGF2ZSByZWNlaXZlZCB5b3VyIHNjcmVlbmluZyBkZWNpc2lvbiByZXF1ZXN0LiBZb3Ugd2lsbCBiZSBub3RpZmllZCBieSBlbWFpbCB3aGVuIGEgZGVjaXNpb24gaGFzIGJlZW4gbWFkZS4gVGhlIGRlY2lzaW9uIHdpbGwgYmUgYWNjZXNzaWJsZSBhcyBhbiBhdHRhY2htZW50IG9uIHRoZSByZW50YWwgYXBwbGljYXRpb24uJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIHJ1bGUsIDp2YWx1ZV90b19hY2NlcHQsICJjYW4ndCBiZSBibGFuayBhdCBzYW1lIHRpbWUiCiAgICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBydWxlLCA6dmFsdWVfdG9fZGVueSwgImNhbid0IGJlIGJsYW5rIGF0IHNhbWUgdGltZSIK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdmFsaWRfb24gcnVsZSwgOnZhbHVlX3RvX2RlbnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3J1bGUgPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OlJ1bGUubGFzdAogICAgICAgIGFzc2VydF9lcXVhbCBuaWwsIGxhc3RfcnVsZS52YWx1ZV90b19hY2NlcHQKICAgICAgICBhc3NlcnRfZXF1YWwgNCwgbGFzdF9ydWxlLnZhbHVlX3RvX2RlbnkKICAgICAgICBhc3NlcnRfZXF1YWwgbmlsLCBsYXN0X3J1bGUuY29uZGl0aW9uYWxfcmVjb21tZW5kYXRpb24KICAgICAgICBhc3NlcnRfaW5zdGFuY2Vfb2YgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpFdmljdGlvbkp1ZGdlbWVudHNUaW1lRnJhbWVSdWxlLCBsYXN0X3J1bGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgbGFzdF9jcml0ZXJpb24sIGxhc3RfcnVsZS5jcml0ZXJpb24K</text>
+        <text encoding="base64">ICAgICAgZGVmIHRlc3RfdmFsaWRhdGVfdmFsdWVzX3dpdGhfb25seV92YWx1ZV90b19kZW55CiAgICAgICAgY3JpdGVyaW9uID0gU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb24uY3JlYXRlX2V4ZW1wbGFyIQogICAgICAgIHJ1bGUgPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkV2aWN0aW9uSnVkZ2VtZW50c1RpbWVGcmFtZVJ1bGUubmV3KGNyaXRlcmlvbjogY3JpdGVyaW9uLCB2YWx1ZV90b19kZW55OiAxKQogICAgICAgIGFzc2VydF92YWxpZCBydWxlCiAgICAgIGVuZAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc2xhc3RfcnVsZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIHJ1bGUsIDp2YWx1ZV90b19hY2NlcHQsICJjYW4ndCBiZSBibGFuayBhdCBzYW1lIHRpbWUiCiAgICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBydWxlLCA6dmFsdWVfdG9fZGVueSwgImNhbid0IGJlIGJsYW5rIGF0IHNhbWUgdGltZSIK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdmFsaWRfb24gZm9ybS5jcml0ZXJpb24uZXZpY3Rpb25fanVkZ2VtZW50c190aW1lX2ZyYW1lX3J1bGUsIDpjb25kaXRpb25hbF9yZWNvbW1lbmRhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NvbGxlY3Rpb24vRXZpY3Rpb24vZw==</text>
+        <text>w</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
@@ -622,9 +620,9 @@
         <entry encoding="base64">JzwsJz5zL29wZW4vZGlzY2hhcmdlZC9n</entry>
         <entry encoding="base64">JzwsJz5zL29wZW5CYW5rcnVwdGN5L2NvbGxlY3Rpb25BY2NlcHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc2NoYXJnZWRCYW5rcnVwdGN5L2NvbGxlY3Rpb25EZW55L2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2NvbGxlY3Rpb24vZXZpY3Rpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbGxlY3Rpb24vRXZpY3Rpb24vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
