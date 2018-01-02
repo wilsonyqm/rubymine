@@ -354,6 +354,7 @@
         <mark key="." line="131" column="0" />
         <mark key="^" line="128" column="38" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/decision_generators/criminal_offense_decision_generator.rb" timestamp="1514919857000" />
       <file name="/Dummy.txt" timestamp="1514919034054">
         <mark key="[" line="0" column="0" />
       </file>
@@ -442,11 +443,11 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" timestamp="1514920441185">
+        <mark key="'" line="62" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="143" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="105" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_toggler.es6" />
       <jump line="43" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_toggler.es6" />
       <jump line="16" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/helpers/screenings/decisions/criteria_helper_test.rb" />
       <jump line="555" column="123" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/controllers/screenings/decisions/criteria_controller_test.rb" />
@@ -544,6 +545,9 @@
       <jump line="145" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
       <jump line="144" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
       <jump line="129" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="15" column="19" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
+      <jump line="24" column="9" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
+      <jump line="62" column="45" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -580,7 +584,7 @@
         <text>Screenings::Decisions::Rule::CONDITIONAL_RECOMMENDATION__COSIGNER</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0X3J1bGVcPg==</text>
+        <text encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3Rfbm90X3ZhbGlkX19ldmljdGlvbl9ydWxlX19hY2NlcHRfY2hlY2tib3hfbm9fZGVueQogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgZXZpY3Rpb25fanVkZ2VtZW50c190aW1lX2ZyYW1lX3J1bGVfYXR0cmlidXRlczogewogICAgICAgICAgICB2YWx1ZV90b19hY2NlcHQ6IDMsCiAgICAgICAgICAgIHZhbHVlX3RvX2Rlbnk6IDQsCiAgICAgICAgICAgIGNvbmRpdGlvbmFsX3JlY29tbWVuZGF0aW9uOiAnY29zaWduZXInLAogICAgICAgICAgICBldmljdGlvbl9hY2NlcHRfY2hlY2tib3g6ICcxJywKICAgICAgICAgICAgZXZpY3Rpb25fZGVueV9jaGVja2JveDogJzAnLAogICAgICAgICAgfQogICAgICAgICkKICAgICAgICBmb3JtID0gU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb25Gb3JtLm5ld19mcm9tX3BhcmFtcyhwYXJhbXMpCgogICAgICAgIGFzc2VydF9wcmVkaWNhdGUgZm9ybSwgOnZhbGlkPwoKICAgICAgICBhc3NlcnRfZGlmZmVyZW5jZSAnU2NyZWVuaW5nczo6RGVjaXNpb25zOjpFdmljdGlvbkp1ZGdlbWVudHNUaW1lRnJhbWVSdWxlLmNvdW50JywgMSBkbwogICAgICAgICAgZm9ybS5zYXZlIQogICAgICAgIGVuZAoKICAgICAgICBsYXN0X3J1bGUgPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OlJ1bGUubGFzdAogICAgICAgIGFzc2VydF9lcXVhbCAzLCBsYXN0X3J1bGUudmFsdWVfdG9fYWNjZXB0CiAgICAgICAgYXNzZXJ0X2VxdWFsIG5pbCwgbGFzdF9ydWxlLnZhbHVlX3RvX2RlbnkKICAgICAgICBhc3NlcnRfZXF1YWwgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpSdWxlOjpDT05ESVRJT05BTF9SRUNPTU1FTkRBVElPTl9fQ09TSUdORVIsIGxhc3RfcnVsZS5jb25kaXRpb25hbF9yZWNvbW1lbmRhdGlvbgogICAgICAgIGFzc2VydF9pbnN0YW5jZV9vZiBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkV2aWN0aW9uSnVkZ2VtZW50c1RpbWVGcmFtZVJ1bGUsIGxhc3RfcnVsZQogICAgICBlbmQK</text>
@@ -633,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0X3J1bGVcPg==</last-search>
+      <last-search encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0X3J1bGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</last-pattern>
       <last-replace>Eviction</last-replace>
       <last-substitute>Collection</last-substitute>
       <last-dir>1</last-dir>
@@ -643,8 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>credit_score</entry>
-        <entry encoding="base64">XDxBc2NlbmRpbmdNaXNzaW5nRGVjaXNpb25HZW5lcmF0b3JcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVJbmNvbWVSYXRpb1ZhbHVlQWNjZXB0RGlzcGxheVw+</entry>
         <entry>Income</entry>
         <entry encoding="base64">XDxkaXNjaGFyZ2VkX2JhbmtydXB0Y3lfY2hlY2tib3hcPg==</entry>
@@ -663,6 +665,8 @@
         <entry>Eviction</entry>
         <entry>eviction</entry>
         <entry encoding="base64">XDxsYXN0X3J1bGVcPg==</entry>
+        <entry encoding="base64">XDxsb3dfc2NvcmVfb2ZmZW5zZV9kZXNjcmlwdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
