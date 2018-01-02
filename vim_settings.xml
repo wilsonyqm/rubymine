@@ -94,12 +94,12 @@
         <mark key="^" line="69" column="86" />
         <mark key="." line="69" column="86" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" timestamp="1514917180191">
-        <mark key="'" line="976" column="50" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="115" column="40" />
-        <mark key="^" line="113" column="110" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" timestamp="1514917846640">
+        <mark key="'" line="129" column="8" />
+        <mark key="[" line="274" column="21" />
+        <mark key="]" line="274" column="23" />
+        <mark key="." line="274" column="23" />
+        <mark key="^" line="274" column="23" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/helpers/screenings/screenings_helper_test.rb" timestamp="1513204159982">
         <mark key="[" line="139" column="21" />
@@ -347,10 +347,10 @@
         <mark key="." line="67" column="55" />
         <mark key="^" line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/forms/screenings/decisions/criterion_form.rb" timestamp="1514917129547">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/forms/screenings/decisions/criterion_form.rb" timestamp="1514917654485">
         <mark key="'" line="129" column="10" />
-        <mark key="[" line="121" column="23" />
-        <mark key="]" line="121" column="44" />
+        <mark key="[" line="131" column="42" />
+        <mark key="]" line="131" column="72" />
         <mark key="." line="131" column="0" />
         <mark key="^" line="128" column="38" />
       </file>
@@ -444,24 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/controllers/screenings/decisions/criteria_controller_test.rb" />
-      <jump line="757" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="22" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="195" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="721" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="761" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="9" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_toggler.es6" />
-      <jump line="62" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_toggler.es6" />
-      <jump line="45" column="56" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="216" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="205" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="24" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="208" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="136" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
-      <jump line="94" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
       <jump line="14" column="143" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
       <jump line="105" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" />
       <jump line="10" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_toggler.es6" />
@@ -542,15 +524,33 @@
       <jump line="29" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/eviction_judgements_time_frame_rule_decorator_test.rb" />
       <jump line="12" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/eviction_judgements_time_frame_rule_decorator_test.rb" />
       <jump line="825" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
-      <jump line="145" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
       <jump line="972" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="287" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="981" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="996" column="98" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="1025" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="11" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="71" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="90" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="110" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="114" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="194" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="212" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="214" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="246" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="148" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="147" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="146" column="93" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="145" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="144" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
+      <jump line="129" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/forms/screenings/decisions/criterion_form_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>collectionAcceptRowSelector</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZpY3Rpb25fYWNjZXB0X2NoZWNrYm94OiAnMScsCiAgICAgICAgICAgIGV2aWN0aW9uX2RlbnlfY2hlY2tib3g6ICcxJywK</text>
+      <register name="&quot;" type="4">
+        <text>Screenings::Decisions::Rule::CONDITIONAL_RECOMMENDATION__COSIGNER</text>
       </register>
       <register name="b" type="4">
         <text>collectionAcceptCheckboxSelector</text>
@@ -577,50 +577,50 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>Screenings::Decisions::Rule::CONDITIONAL_RECOMMENDATION__COSIGNER</text>
       </register>
       <register name="/" type="4">
-        <text>Eviction</text>
+        <text encoding="base64">XDxsYXN0X3J1bGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZpY3Rpb25fYWNjZXB0X2NoZWNrYm94OiAnMScsCiAgICAgICAgICAgIGV2aWN0aW9uX2RlbnlfY2hlY2tib3g6ICcxJywK</text>
+        <text encoding="base64">ICAgICAgZGVmIHRlc3Rfbm90X3ZhbGlkX19ldmljdGlvbl9ydWxlX19hY2NlcHRfY2hlY2tib3hfbm9fZGVueQogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgZXZpY3Rpb25fanVkZ2VtZW50c190aW1lX2ZyYW1lX3J1bGVfYXR0cmlidXRlczogewogICAgICAgICAgICB2YWx1ZV90b19hY2NlcHQ6IDMsCiAgICAgICAgICAgIHZhbHVlX3RvX2Rlbnk6IDQsCiAgICAgICAgICAgIGNvbmRpdGlvbmFsX3JlY29tbWVuZGF0aW9uOiAnY29zaWduZXInLAogICAgICAgICAgICBldmljdGlvbl9hY2NlcHRfY2hlY2tib3g6ICcxJywKICAgICAgICAgICAgZXZpY3Rpb25fZGVueV9jaGVja2JveDogJzAnLAogICAgICAgICAgfQogICAgICAgICkKICAgICAgICBmb3JtID0gU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb25Gb3JtLm5ld19mcm9tX3BhcmFtcyhwYXJhbXMpCgogICAgICAgIGFzc2VydF9wcmVkaWNhdGUgZm9ybSwgOnZhbGlkPwoKICAgICAgICBhc3NlcnRfZGlmZmVyZW5jZSAnU2NyZWVuaW5nczo6RGVjaXNpb25zOjpFdmljdGlvbkp1ZGdlbWVudHNUaW1lRnJhbWVSdWxlLmNvdW50JywgMSBkbwogICAgICAgICAgZm9ybS5zYXZlIQogICAgICAgIGVuZAoKICAgICAgICBsYXN0X3J1bGUgPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OlJ1bGUubGFzdAogICAgICAgIGFzc2VydF9lcXVhbCAzLCBsYXN0X3J1bGUudmFsdWVfdG9fYWNjZXB0CiAgICAgICAgYXNzZXJ0X2VxdWFsIG5pbCwgbGFzdF9ydWxlLnZhbHVlX3RvX2RlbnkKICAgICAgICBhc3NlcnRfZXF1YWwgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpSdWxlOjpDT05ESVRJT05BTF9SRUNPTU1FTkRBVElPTl9fQ09TSUdORVIsIGxhc3RfcnVsZS5jb25kaXRpb25hbF9yZWNvbW1lbmRhdGlvbgogICAgICAgIGFzc2VydF9pbnN0YW5jZV9vZiBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkV2aWN0aW9uSnVkZ2VtZW50c1RpbWVGcmFtZVJ1bGUsIGxhc3RfcnVsZQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgbGFzdF9jcml0ZXJpb24sIGxhc3RfcnVsZS5jcml0ZXJpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc2xhc3RfcnVsZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdmFsaWRfb24gZm9ybS5jcml0ZXJpb24uZXZpY3Rpb25fanVkZ2VtZW50c190aW1lX2ZyYW1lX3J1bGUsIDpjb25kaXRpb25hbF9yZWNvbW1lbmRhdGlvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcCBwYXJhbXMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>rule = mock(quantity_to_deny: '')
         assert_equal false, Screenings::Decisions::EvictionRuleDecorator.new(rule).e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHRlc3RfZXZpY3Rpb25fYWNjZXB0X2NoZWNrYm94CiAgICAgICAgcnVsZSA9IG1vY2sodmFsdWVfdG9fYWNjZXB0OiAnaGknKQogICAgICAgIGFzc2VydF9lcXVhbCB0cnVlLCBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkluY29tZVRvUmVudFJhdGlvUnVsZURlY29yYXRvci5uZXcocnVsZSkuaW5jb21lX3RvX3JlbnRfcmF0aW9fYWNjZXB0X2NoZWNrYm94CiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfZXZpY3Rpb25fY29uZGl0aW9uYWxfY2hlY2tib3gKICAgICAgICBydWxlID0gbW9jayh2YWx1ZV90b19kZW55OiAnJywgY29uZGl0aW9uYWxfcmVjb21tZW5kYXRpb246ICd0aGVyZScpCiAgICAgICAgYXNzZXJ0X2VxdWFsIHRydWUsIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6SW5jb21lVG9SZW50UmF0aW9SdWxlRGVjb3JhdG9yLm5ldyhydWxlKS5pbmNvbWVfdG9fcmVudF9yYXRpb19jb25kaXRpb25hbF9jaGVja2JveAoKICAgICAgICBydWxlID0gbW9jayh2YWx1ZV90b19kZW55OiAnJywgY29uZGl0aW9uYWxfcmVjb21tZW5kYXRpb246ICcnKQogICAgICAgIGFzc2VydF9lcXVhbCBmYWxzZSwgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpJbmNvbWVUb1JlbnRSYXRpb1J1bGVEZWNvcmF0b3IubmV3KHJ1bGUpLmluY29tZV90b19yZW50X3JhdGlvX2NvbmRpdGlvbmFsX2NoZWNrYm94CgogICAgICAgIHJ1bGUgPSBtb2NrKHZhbHVlX3RvX2Rlbnk6ICdoaScpCiAgICAgICAgYXNzZXJ0X2VxdWFsIHRydWUsIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6SW5jb21lVG9SZW50UmF0aW9SdWxlRGVjb3JhdG9yLm5ldyhydWxlKS5pbmNvbWVfdG9fcmVudF9yYXRpb19jb25kaXRpb25hbF9jaGVja2JveAogICAgICBlbmQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYGlucHV0W25hbWU9InNjcmVlbmluZ3NfZGVjaXNpb25zX2NyaXRlcmlvblske2NvbGxlY3Rpb25JbnB1dENsYXNzfV1bcXVhbnRpdHlfdG9fZGVueV0iXWAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYGlucHV0W25hbWU9InNjcmVlbmluZ3NfZGVjaXNpb25zX2NyaXRlcmlvblske2NvbGxlY3Rpb25JbnB1dENsYXNzfV1bcXVhbnRpdHlfdG9fYWNjZXB0XSJdYAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHRlc3RfZXZpY3Rpb25fYWNjZXB0X2NoZWNrYm94CiAgICAgICAgcnVsZSA9IG1vY2sodmFsdWVfdG9fYWNjZXB0OiAnaGknKQogICAgICAgIGFzc2VydF9lcXVhbCB0cnVlLCBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkluY29tZVRvUmVudFJhdGlvUnVsZURlY29yYXRvci5uZXcocnVsZSkuaW5jb21lX3RvX3JlbnRfcmF0aW9fYWNjZXB0X2NoZWNrYm94CiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfZXZpY3Rpb25fY29uZGl0aW9uYWxfY2hlY2tib3gKICAgICAgICBydWxlID0gbW9jayh2YWx1ZV90b19kZW55OiAnJywgY29uZGl0aW9uYWxfcmVjb21tZW5kYXRpb246ICd0aGVyZScpCiAgICAgICAgYXNzZXJ0X2VxdWFsIHRydWUsIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6SW5jb21lVG9SZW50UmF0aW9SdWxlRGVjb3JhdG9yLm5ldyhydWxlKS5pbmNvbWVfdG9fcmVudF9yYXRpb19jb25kaXRpb25hbF9jaGVja2JveAoKICAgICAgICBydWxlID0gbW9jayh2YWx1ZV90b19kZW55OiAnJywgY29uZGl0aW9uYWxfcmVjb21tZW5kYXRpb246ICcnKQogICAgICAgIGFzc2VydF9lcXVhbCBmYWxzZSwgU2NyZWVuaW5nczo6RGVjaXNpb25zOjpJbmNvbWVUb1JlbnRSYXRpb1J1bGVEZWNvcmF0b3IubmV3KHJ1bGUpLmluY29tZV90b19yZW50X3JhdGlvX2NvbmRpdGlvbmFsX2NoZWNrYm94CgogICAgICAgIHJ1bGUgPSBtb2NrKHZhbHVlX3RvX2Rlbnk6ICdoaScpCiAgICAgICAgYXNzZXJ0X2VxdWFsIHRydWUsIFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6SW5jb21lVG9SZW50UmF0aW9SdWxlRGVjb3JhdG9yLm5ldyhydWxlKS5pbmNvbWVfdG9fcmVudF9yYXRpb19jb25kaXRpb25hbF9jaGVja2JveAogICAgICBlbmQK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbml0aWFsaXplQmFua3J1cHRjeUNoZWNrYm94VG9nZ2xlcigpIHsKICAgIG5ldyBDaGVja2JveFNpbmdsZVRvZ2dsZXIoYmFua3J1cHRjeVJ1bGVUYWJsZSwgb3BlbkJhbmtydXB0Y3lSdWxlQ2hlY2tib3gsIG9wZW5CYW5rcnVwdGN5UnVsZVJvdyk7CiAgICBuZXcgQ2hlY2tib3hTaW5nbGVUb2dnbGVyKGJhbmtydXB0Y3lSdWxlVGFibGUsIGRpc2NoYXJnZWRCYW5rcnVwdGN5UnVsZUNoZWNrYm94LCBkaXNjaGFyZ2VkQmFua3J1cHRjeVJ1bGVSb3cpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgYGlucHV0W25hbWU9InNjcmVlbmluZ3NfZGVjaXNpb25zX2NyaXRlcmlvblske2NvbGxlY3Rpb25JbnB1dENsYXNzfV1bcXVhbnRpdHlfdG9fZGVueV0iXWAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYGlucHV0W25hbWU9InNjcmVlbmluZ3NfZGVjaXNpb25zX2NyaXRlcmlvblske2NvbGxlY3Rpb25JbnB1dENsYXNzfV1bcXVhbnRpdHlfdG9fYWNjZXB0XSJdYAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -633,9 +633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Eviction</last-search>
+      <last-search encoding="base64">XDxsYXN0X3J1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern>Eviction</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0X3J1bGVcPg==</last-pattern>
       <last-replace>Eviction</last-replace>
       <last-substitute>Collection</last-substitute>
       <last-dir>1</last-dir>
@@ -643,8 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVkaXRTY29yZVZhbHVlVG9BY2NlcHRJbnB1dFNlbGVjdG9yXD4=</entry>
-        <entry encoding="base64">XDxpbmNvbWVUb1JlbnRSYXRpb1J1bGVJbnB1dENsYXNzXD4=</entry>
         <entry>credit_score</entry>
         <entry encoding="base64">XDxBc2NlbmRpbmdNaXNzaW5nRGVjaXNpb25HZW5lcmF0b3JcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVJbmNvbWVSYXRpb1ZhbHVlQWNjZXB0RGlzcGxheVw+</entry>
@@ -663,6 +661,8 @@
         <entry>collection</entry>
         <entry>Collection</entry>
         <entry>Eviction</entry>
+        <entry>eviction</entry>
+        <entry encoding="base64">XDxsYXN0X3J1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
