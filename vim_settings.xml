@@ -42,6 +42,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1515192167504">
+        <mark key="[" line="131" column="66" />
+        <mark key="]" line="132" column="12" />
+        <mark key="." line="132" column="12" />
+        <mark key="^" line="132" column="12" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/helpers/screenings/decisions/criminal_offense_rule_decorator_helper.rb" timestamp="1515190617704">
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="54" />
@@ -100,8 +106,8 @@
         <mark key="^" line="204" column="75" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_criminal_toggler.es6" timestamp="1515180441265">
-        <mark key="[" line="4" column="38" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_criminal_toggler.es6" timestamp="1515192057111">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="74" />
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="22" />
@@ -229,8 +235,8 @@
       <register name="a" type="2">
         <text encoding="base64">bW9kdWxlIFNjcmVlbmluZ3MKICBtb2R1bGUgRGVjaXNpb25zCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>assert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1zZWxlY3QyLWNvbWJvYm94IGpzLXNlY29uZC1kcm9wZG93biI+Cg==</text>
       </register>
       <register name="b" type="4">
         <text>CriminalOffenseRuleDecoratorHelper</text>
@@ -257,49 +263,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>assert</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>felonies</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHRlc3RfYW55X2ZpZWxkX3ByZXNlbnRfX2RlY2lzaW9uX3R5cGVfcHJlc2VudAogICAgICAgIEB2YWx1ZSA9IDAKICAgICAgICBAb2ZmZW5zZV9ydWxlX3R5cGUgPSAnJwogICAgICAgIEBkZWNpc2lvbl90eXBlID0gJ2InCiAgICAgICAgYXNzZXJ0IGFueV9maWVsZF9wcmVzZW50PwogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1zZWxlY3QyLWNvbWJvYm94IGpzLXNlY29uZC1kcm9wZG93biI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXR0cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ianMtc2VsZWN0Mi1jb21ib2JveCI+PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSAhPSAwIHx8IG9mZmVuc2VfcnVsZV90eXBlLnByZXNlbnQ/IHx8IGRlY2lzaW9uX3R5cGUucHJlc2VudD8K</text>
+        <text encoding="base64">ICAsIGRpc2FibGVSb3dDbGFzcyA9ICdzY3JlZW5pbmctZGVjaXNpb24tY3JpdGVyaWFfX3RhYmxlX19kaXNhYmxlLXJvdy13aXRoLWNvbG9yJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IGZhbHNlKV0K</text>
+        <text encoding="base64">ICAgICAgYXR0cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IHRydWUpXQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSAhPSAwIHx8IG9mZmVuc2VfcnVsZV90eXBlLnByZXNlbnQ/IHx8IGRlY2lzaW9uX3R5cGUucHJlc2VudD8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IuZmVsb255X3ByZXNldF9ydWxlX3BhcnRpYWxzID0gW3RlbXBdCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IGZhbHNlKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIGRlZiBmZWxvbmllc19jaGVja2JveAogICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMucHJlc2VudD8gJiYKICAgICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMuZmlyc3QuYW55X2ZpZWxkX3ByZXNlbnQ/CiAgICAgIGVuZAoKICAgICAgZGVmIG1pc2RlbWVhbm9yc19jaGVja2JveAogICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFscy5wcmVzZW50PyAmJgogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzLmZpcnN0LmFueV9maWVsZF9wcmVzZW50PwogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IHRydWUpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IuZmVsb255X3ByZXNldF9ydWxlX3BhcnRpYWxzID0gW3RlbXBdCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZSBFUkI6OlV0aWwK</text>
+        <text encoding="base64">CiAgICAgIGRlZiBmZWxvbmllc19jaGVja2JveAogICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMucHJlc2VudD8gJiYKICAgICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMuZmlyc3QuYW55X2ZpZWxkX3ByZXNlbnQ/CiAgICAgIGVuZAoKICAgICAgZGVmIG1pc2RlbWVhbm9yc19jaGVja2JveAogICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFscy5wcmVzZW50PyAmJgogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzLmZpcnN0LmFueV9maWVsZF9wcmVzZW50PwogICAgICBlbmQK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHRlc3RfbWlzZGVtZWFub3JzX2NoZWNrYm94CgogICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
