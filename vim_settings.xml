@@ -26,6 +26,10 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/test/all.rb" timestamp="1505168486845">
         <mark key="[" line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/component.es6" timestamp="1515192358470">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="31" column="101" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/temporary_criminal_offense_rule_decorator.rb" timestamp="1515182730132">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="5" column="0" />
@@ -36,17 +40,16 @@
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/constants.rb" timestamp="1513037201542">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/criminals/_shared_criminal_rule_new.html.erb" timestamp="1515181601615">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/criminals/_shared_criminal_rule_new.html.erb" timestamp="1515192330237">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="108" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1515192167504">
-        <mark key="[" line="131" column="66" />
-        <mark key="]" line="132" column="12" />
-        <mark key="." line="132" column="12" />
-        <mark key="^" line="132" column="12" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/javascripts/screenings/decisions/criteria/new/component.spec.js" timestamp="1515192925699">
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="461" column="0" />
+        <mark key="." line="461" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/helpers/screenings/decisions/criminal_offense_rule_decorator_helper.rb" timestamp="1515190617704">
         <mark key="[" line="4" column="54" />
@@ -106,9 +109,9 @@
         <mark key="^" line="204" column="75" />
         <mark key="." line="206" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_criminal_toggler.es6" timestamp="1515192057111">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="74" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria/new/checkbox_criminal_toggler.es6" timestamp="1515192212348">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="56" />
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="22" />
       </file>
@@ -232,14 +235,14 @@
       <jump line="212" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/criterion_decorator_test.rb" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">bW9kdWxlIFNjcmVlbmluZ3MKICBtb2R1bGUgRGVjaXNpb25zCg==</text>
+      <register name="a" type="4">
+        <text>hmf-row__remove</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1zZWxlY3QyLWNvbWJvYm94IGpzLXNlY29uZC1kcm9wZG93biI+Cg==</text>
+        <text encoding="base64">ICAgICAgLy9taXNkZW1lYW5vciBzaGFyZSB0aGUgc2FtZSBjb2RlCg==</text>
       </register>
       <register name="b" type="4">
-        <text>CriminalOffenseRuleDecoratorHelper</text>
+        <text>js-has-many-fields-add</text>
       </register>
       <register name="c" type="4">
         <text>js-screening-decision-criteria__table__sex-offender-checkbox</text>
@@ -263,49 +266,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/misdemeanor</text>
       </register>
       <register name="/" type="4">
         <text>felonies</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJqcy1zZWxlY3QyLWNvbWJvYm94IGpzLXNlY29uZC1kcm9wZG93biI+Cg==</text>
+        <text encoding="base64">ICAgICAgY3JpbWluYWxGZWxvbnlSdWxlQ2hlY2tib3gucHJvcCgnY2hlY2tlZCcsIGZhbHNlKTsKICAgICAgY3JpbWluYWxGZWxvbnlSdWxlQ2hlY2tib3gudHJpZ2dlcignY2hhbmdlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ianMtc2VsZWN0Mi1jb21ib2JveCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgLy9taXNkZW1lYW5vciBzaGFyZSB0aGUgc2FtZSBjb2RlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAsIGRpc2FibGVSb3dDbGFzcyA9ICdzY3JlZW5pbmctZGVjaXNpb24tY3JpdGVyaWFfX3RhYmxlX19kaXNhYmxlLXJvdy13aXRoLWNvbG9yJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXR0cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZSAhPSAwIHx8IG9mZmVuc2VfcnVsZV90eXBlLnByZXNlbnQ/IHx8IGRlY2lzaW9uX3R5cGUucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgICwgY3JpbWluYWxGZWxvbnlSdWxlVGFibGVTZWxlY3RvciA9ICcuanMtc2NyZWVuaW5nLWRlY2lzaW9uLWNyaXRlcmlhX190YWJsZS1jcmltaW5hbC1vZmZlbnNlLXJ1bGUtc2VjdGlvbl9fZmVsb25pZXMnCiAgICAgICAgLCBjcmltaW5hbEZlbG9ueVJ1bGVDaGVja2JveFNlbGVjdG9yID0gJy5qcy1zY3JlZW5pbmctZGVjaXNpb24tY3JpdGVyaWFfX3RhYmxlLWNyaW1pbmFsLWZlbG9uaWVzLWNoZWNrYm94JwogICAgICAgICwgY3JpbWluYWxGZWxvbnlSZW1vdmVCdXR0b25TZWxlY3RvciA9ICcuaG1mLXJvd19fcmVtb3ZlJwogICAgICAgICwgY3JpbWluYWxGZWxvbnlBZGRBbm90aGVyQnV0dG9uU2VsZWN0b3IgPSAnLmpzLWhhcy1tYW55LWZpZWxkcy1hZGQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IGZhbHNlKV0K</text>
+        <text encoding="base64">ICAgICAgY3JpbWluYWxSZWdpc3RyeVNleENoZWNrYm94LnByb3AoJ2NoZWNrZWQnLCB0cnVlKTsKICAgICAgY3JpbWluYWxSZWdpc3RyeVNleENoZWNrYm94LnRyaWdnZXIoJ2NoYW5nZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IubWlzZGVtZWFub3JfcHJlc2V0X3J1bGVfcGFydGlhbHMgPSBbbW9jayhhbnlfZmllbGRfcHJlc2VudD86IHRydWUpXQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNyaW1pbmFsRmVsb255UmVtb3ZlQnV0dG9uKS50by5oYXZlLmNsYXNzKGRpc2FibGVSZW1vdmVCdXR0b25DbGFzcyk7CiAgICAgIGV4cGVjdChjcmltaW5hbEZlbG9ueUFkZEFub3RoZXJCdXR0b24pLnRvLmhhdmUuY2xhc3MoZGlzYWJsZUFkZEFub3RoZXJCdXR0b25DbGFzcyk7CiAgICAgIGV4cGVjdChjcmltaW5hbEZlbG9ueVJ1bGVEcm9wRG93bikudG8uaGF2ZS5jbGFzcyhkaXNhYmxlU2VsZWN0MkNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvcmF0b3IuZmVsb255X3ByZXNldF9ydWxlX3BhcnRpYWxzID0gW3RlbXBdCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNyaW1pbmFsUmVnaXN0cnlTZXhSb3cpLm5vdC50by5oYXZlLmNsYXNzKGRpc2FibGVSb3dDbGFzcyk7CiAgICAgIGV4cGVjdChjcmltaW5hbFJlZ2lzdHJ5U2V4RHJvcGRvd24pLm5vdC50by5oYXZlLmNsYXNzKGRpc2FibGVTZWxlY3QyQ2xhc3MpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIGRlZiBmZWxvbmllc19jaGVja2JveAogICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMucHJlc2VudD8gJiYKICAgICAgICAgIGZlbG9ueV9jcmltaW5hbF9vZmZlbnNlX3J1bGVfcGFydGlhbHMuZmlyc3QuYW55X2ZpZWxkX3ByZXNlbnQ/CiAgICAgIGVuZAoKICAgICAgZGVmIG1pc2RlbWVhbm9yc19jaGVja2JveAogICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFscy5wcmVzZW50PyAmJgogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzLmZpcnN0LmFueV9maWVsZF9wcmVzZW50PwogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNyaW1pbmFsUmVnaXN0cnlTZXhSb3cpLnRvLmhhdmUuY2xhc3MoZGlzYWJsZVJvd0NsYXNzKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICwgY3JpbWluYWxGZWxvbnlSdWxlVGFibGUgPSAnLmpzLXNjcmVlbmluZy1kZWNpc2lvbi1jcml0ZXJpYV9fdGFibGUtY3JpbWluYWwtb2ZmZW5zZS1ydWxlLXNlY3Rpb25fX2ZlbG9uaWVzJwogICAgICAgICwgY3JpbWluYWxGZWxvbnlSdWxlQ2hlY2tib3ggPSAnLmpzLXNjcmVlbmluZy1kZWNpc2lvbi1jcml0ZXJpYV9fdGFibGUtY3JpbWluYWwtZmVsb25pZXMtY2hlY2tib3gnCiAgICAgICAgLCBkaXNhYmxlUmVtb3ZlQnV0dG9uQ2xhc3MgPSAnY3JpbWluYWwtcmVtb3ZlLWJ1dHRvbi1kaXNhYmxlZCcKICAgICAgICAsIGRpc2FibGVBZGRBbm90aGVyQnV0dG9uQ2xhc3MgPSAnY3JpbWluYWwtYWRkLWFub3RoZXItYnV0dG9uLWRpc2FibGVkJzsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
