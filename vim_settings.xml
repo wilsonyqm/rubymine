@@ -48,7 +48,7 @@
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/config/decisions/criminal_offenses_20180110.csv" timestamp="1515627330331">
+      <file name="$USER_HOME$/src/screenings_app/config/decisions/criminal_offenses_20180110.csv" timestamp="1515706126328">
         <mark key="'" line="3642" column="108" />
         <mark key="[" line="0" column="77" />
         <mark key="]" line="0" column="84" />
@@ -191,11 +191,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/config/decisions/script.rb" timestamp="1515631196881">
-        <mark key="[" line="121" column="4" />
-        <mark key="]" line="121" column="7" />
-        <mark key="^" line="121" column="7" />
-        <mark key="." line="121" column="7" />
+      <file name="$USER_HOME$/src/screenings_app/config/decisions/script.rb" timestamp="1515706532858">
+        <mark key="[" line="130" column="76" />
+        <mark key="]" line="130" column="87" />
+        <mark key="^" line="130" column="87" />
+        <mark key="." line="130" column="87" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/criminal_offense_rule_presenter_test.rb" timestamp="1515453569648">
         <mark key="[" line="30" column="0" />
@@ -373,8 +373,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19mZWxvbnlfX3dpdGhvdXRfY2hlY2tib3hfX3ZhbGlkCiAgICAgICAgcGFyYW1zID0gYmFzaWNfZm9ybV9wYXJhbXMubWVyZ2UoCiAgICAgICAgICBmZWxvbnlfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICBvZmZlbnNlX3J1bGVfdHlwZTogJ3NleHVhbF9vZmZlbnNlX3J1bGUnLAogICAgICAgICAgICAgIHZhbHVlOiAzCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICBmZWxvbmllc19jaGVja2JveDogJzAnCiAgICAgICAgKQogICAgICAgIGZvcm0gPSBTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNyaXRlcmlvbkZvcm0ubmV3X2Zyb21fcGFyYW1zKHBhcmFtcykKCiAgICAgICAgYXNzZXJ0X3ByZWRpY2F0ZSBmb3JtLCA6dmFsaWQ/CgogICAgICAgIGFzc2VydF9kaWZmZXJlbmNlICdTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNyaXRlcmlvbi5jb3VudCcsIDEgZG8KICAgICAgICAgIGFzc2VydF9kaWZmZXJlbmNlICdTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OlJ1bGUuY291bnQnLCAyIGRvCiAgICAgICAgICAgIGFzc2VydF9kaWZmZXJlbmNlICdTY3JlZW5pbmdzOjpEZWNpc2lvbnM6OkNyaW1pbmFsT2ZmZW5zZVJ1bGUuY291bnQnLCAwIGRvCiAgICAgICAgICAgICAgZm9ybS5zYXZlIQogICAgICAgICAgICBlbmQKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGRlZiB0ZXN0X2luaXRpYWxpemVfY3JpbWluYWxfcnVsZXNfX3NpbmdsZV9fZmVsb255X193aXRob3V0X2NoZWNrYm94X19pbnZhbGlkCiAgICAgICAgcGFyYW1zID0gYmFzaWNfZm9ybV9wYXJhbXMubWVyZ2UoCiAgICAgICAgICBmZWxvbnlfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgZmVsb25pZXNfY2hlY2tib3g6ICcwJwogICAgICAgICkKICAgICAgICBmb3JtID0gU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb25Gb3JtLm5ld19mcm9tX3BhcmFtcyhwYXJhbXMpCgogICAgICAgIGFzc2VydF9wcmVkaWNhdGUgZm9ybSwgOnZhbGlkPwoKICAgICAgICBhc3NlcnRfZGlmZmVyZW5jZSAnU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcml0ZXJpb24uY291bnQnLCAxIGRvCiAgICAgICAgICBhc3NlcnRfZGlmZmVyZW5jZSAnU2NyZWVuaW5nczo6RGVjaXNpb25zOjpSdWxlLmNvdW50JywgMiBkbwogICAgICAgICAgICBhc3NlcnRfZGlmZmVyZW5jZSAnU2NyZWVuaW5nczo6RGVjaXNpb25zOjpDcmltaW5hbE9mZmVuc2VSdWxlLmNvdW50JywgMCBkbwogICAgICAgICAgICAgIGZvcm0uc2F2ZSEKICAgICAgICAgICAgZW5kCiAgICAgICAgICBlbmQKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbm9fb2ZmZW5zZV9pbmZvID0gcHJlX2ZpbHRlcl9fbm9fb2ZmZW5zZV9pbmZvKGNyaW1pbmFsX3R5cGUpCiAgICAgIHJldHVybiBub19vZmZlbnNlX2luZm8gaWYgbm9fb2ZmZW5zZV9pbmZvLnByZXNlbnQ/CiAgICAgIGNyaW1pbmFsX3R5cGUgPSBwcmVfZmlsdGVyX19zbGljaW5nKGNyaW1pbmFsX3R5cGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Category</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9fdmFsaWQKICAgICAgICBwYXJhbXMgPSBiYXNpY19mb3JtX3BhcmFtcy5tZXJnZSgKICAgICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFsc19hdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICcwJyA9PiB7CiAgICAgICAgICAgICAgZGVjaXNpb25fdHlwZTogJ2FjY2VwdCcsCiAgICAgICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9faW52YWxpZAogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
@@ -401,13 +401,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>pre_filter_slicing</text>
+        <text>Category</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVfZmlsdGVyX3NsaWNpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbm9fb2ZmZW5zZV9pbmZvID0gcHJlX2ZpbHRlcl9fbm9fb2ZmZW5zZV9pbmZvKGNyaW1pbmFsX3R5cGUpCiAgICAgIHJldHVybiBub19vZmZlbnNlX2luZm8gaWYgbm9fb2ZmZW5zZV9pbmZvLnByZXNlbnQ/CiAgICAgIGNyaW1pbmFsX3R5cGUgPSBwcmVfZmlsdGVyX19zbGljaW5nKGNyaW1pbmFsX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgIGFhLm1lcmdlIShyb3dbaV1bJ29mZmVuc2UgZGVzY3JpcHRpb24nXSA9PiByb3dbaV1bJ0NhdGVnb3J5J10pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcHJlX2ZpbHRlcl9fbm9fb2ZmZW5zZV9pbmZvKGNyaW1pbmFsX3R5cGUpCg==</text>
