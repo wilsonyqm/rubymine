@@ -5806,6 +5806,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_job (v24.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_lockless_touch (v0.2.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_lockless_touch-0.2.0/lib" />
@@ -7374,6 +7390,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_payments (v34.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_phone_number_formatter (v1.2.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_phone_number_formatter-1.2.0/lib" />
@@ -7994,6 +8024,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-28.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_rails (v29.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_request-2.0.0/lib" />
@@ -8416,6 +8454,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.3.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.3.1/config" />
+      </SOURCES>
+    </library>
+    <library name="af_runtime (v11.4.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.4.0/config" />
       </SOURCES>
     </library>
     <library name="af_runtime (v6.18.0, RVM: ruby-2.2.3) [gem]">
