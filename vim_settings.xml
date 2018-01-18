@@ -244,7 +244,13 @@
         <mark key="." line="331" column="3" />
         <mark key="^" line="331" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516301143669">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/constants.rb" timestamp="1516304987713">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1516304988054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="39" filename="$USER_HOME$/src/screenings_app/config/decisions/felony_criminal_type_to_rule_name.yml" />
-      <jump line="708" column="25" filename="$USER_HOME$/src/screenings_app/config/decisions/felony_criminal_type_to_rule_name.yml" />
       <jump line="724" column="27" filename="$USER_HOME$/src/screenings_app/config/decisions/felony_criminal_type_to_rule_name.yml" />
       <jump line="783" column="27" filename="$USER_HOME$/src/screenings_app/config/decisions/felony_criminal_type_to_rule_name.yml" />
       <jump line="930" column="30" filename="$USER_HOME$/src/screenings_app/config/decisions/felony_criminal_type_to_rule_name.yml" />
@@ -405,6 +409,8 @@
       <jump line="355" column="6" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
       <jump line="356" column="68" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
       <jump line="198" column="6" filename="$USER_HOME$/src/screenings_app/app/models/screening_subject.rb" />
+      <jump line="90" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/constants.rb" />
+      <jump line="11" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/lib/screenings/decisions/constants.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -441,7 +447,7 @@
         <text>Shared</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b194bWxcPg==</text>
+        <text>FROZEN</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFJlbnRhbEFwcGxpY2F0aW9uczo6U2hhcmVkUmVudGFsQXBwbGljYXRpb25zSGVscGVyCg==</text>
@@ -493,9 +499,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b194bWxcPg==</last-search>
+      <last-search>FROZEN</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b194bWxcPg==</last-pattern>
+      <last-pattern>FROZEN</last-pattern>
       <last-replace>subject2</last-replace>
       <last-substitute>valid_dec</last-substitute>
       <last-dir>1</last-dir>
@@ -503,7 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtX19jb25kaXRpb25cPg==</entry>
         <entry>comment</entry>
         <entry>pending</entry>
         <entry encoding="base64">XDxzcGFuXD4=</entry>
@@ -523,6 +528,7 @@
         <entry encoding="base64">XDxhZGRfZmFpbHVyZV9lcnJvcnNfZm9yX21pc3NpbmdfcmVwb3J0c1w+</entry>
         <entry encoding="base64">XDxkZWNpc2lvbl9yZXN1bHRzXD4=</entry>
         <entry encoding="base64">XDx0b194bWxcPg==</entry>
+        <entry>FROZEN</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbGxlY3Rpb24vZXZpY3Rpb24vZw==</entry>
