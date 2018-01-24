@@ -1,17 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*s.rb</mask>
-      <mask>*.rb</mask>
-      <mask>*cs.rb</mask>
-      <mask>*css.rb</mask>
       <mask>*css.r</mask>
       <mask>*css.</mask>
       <mask>*css.c</mask>
@@ -38,6 +34,10 @@
       <mask>es6</mask>
       <mask>*es6</mask>
       <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
