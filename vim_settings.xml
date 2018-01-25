@@ -12,6 +12,12 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/app/views/layouts/application.html.erb" timestamp="1516842804051">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="66" />
+        <mark key="." line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/decisions/accept_criminal_offense_rule_decorator_test.rb" timestamp="1515448483334">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="37" />
@@ -64,7 +70,7 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="94" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" timestamp="1516841445760" />
+      <file name="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" timestamp="1516842582165" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/vendor.rb" timestamp="1516818955482">
         <mark key="'" line="60" column="6" />
       </file>
@@ -360,11 +366,12 @@
         <mark key="." line="23" column="73" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1516818776754" />
-      <file name="/Dummy.txt" timestamp="1516840989161">
+      <file name="/Dummy.txt" timestamp="1516842789066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/db/seeds.rb" timestamp="1516842618716" />
       <file name="$USER_HOME$/src/zoology_app/app/views/categorize_criminal_offense/new.html.erb" timestamp="1516836771199">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="66" />
@@ -494,7 +501,7 @@
         <text encoding="base64">ICAgICAgYXBwbGljYW50ID0gQXBwbGljYW50LmNyZWF0ZV9leGVtcGxhcgogICAgICBzczEgPSBTY3JlZW5pbmdTdWJqZWN0LmNyZWF0ZV9leGVtcGxhciEoc2NyZWVuYWJsZTogYXBwbGljYW50KQogICAgICBkZWNvcmF0b3IxID0gU2NyZWVuaW5nU3ViamVjdERlY29yYXRvci5uZXcoc3MxKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>first</text>
+        <text>.png</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9fdmFsaWQKICAgICAgICBwYXJhbXMgPSBiYXNpY19mb3JtX3BhcmFtcy5tZXJnZSgKICAgICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFsc19hdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICcwJyA9PiB7CiAgICAgICAgICAgICAgZGVjaXNpb25fdHlwZTogJ2FjY2VwdCcsCiAgICAgICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9faW52YWxpZAogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
@@ -521,7 +528,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>.png</text>
       </register>
       <register name="/" type="4">
         <text>migrate</text>
