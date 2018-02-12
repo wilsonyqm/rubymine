@@ -7530,6 +7530,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.3.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_payments (v34.4.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-34.4.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_phone_number_formatter (v1.2.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_phone_number_formatter-1.2.0/lib" />
@@ -11594,6 +11610,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-1.67.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.104, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.10.104/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.10.104/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.116, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.10.116/lib" />
@@ -11696,6 +11720,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.9.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.104, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.10.104/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.10.116, RVM: ruby-2.3.3) [gem]">
@@ -11852,6 +11888,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.9.11/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.104, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.10.104/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.10.104/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.10.116, RVM: ruby-2.3.3) [gem]">
@@ -18052,6 +18096,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.2/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="gears (v14.3.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gears-14.3.3/vendor" />
       </SOURCES>
     </library>
     <library name="gem-release (v1.0.0, RVM: ruby-2.3.3) [gem]">
@@ -36674,6 +36732,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/turbolinks-2.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks (v5.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/turbolinks-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/turbolinks-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.0.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/turbolinks-source-5.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/turbolinks-source-5.0.3/lib" />
       </SOURCES>
     </library>
     <library name="twilio-ruby (v3.16.1, RVM: ruby-2.2.3 [global]) [gem]">
