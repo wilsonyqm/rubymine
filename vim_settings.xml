@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/zoology_app/app/models/user.rb" timestamp="1518466961717">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="47" />
+      <file name="$USER_HOME$/src/zoology_app/app/models/user.rb" timestamp="1518471781202">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/screenings.gemspec" timestamp="1518132041471">
         <mark key="[" line="18" column="20" />
@@ -81,12 +81,12 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1518466567042">
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/users/omniauth_callbacks_controller.rb" timestamp="1518473199678">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="12" column="102" />
-        <mark key="]" line="12" column="137" />
-        <mark key="^" line="12" column="137" />
-        <mark key="." line="12" column="137" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/bankruptcy_rule_presenter.rb" timestamp="1515452081117">
         <mark key="[" line="15" column="87" />
@@ -134,6 +134,10 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.0/guides/bug_report_templates/integration_test.rb" timestamp="1518472091196">
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="75" column="19" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/eviction_judgements_time_frame_rule_decorator.rb" timestamp="1515454738345">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="19" />
@@ -154,6 +158,10 @@
         <mark key="]" line="18" column="44" />
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/test/controllers/http_authenticated_controller_test.rb" timestamp="1518472139084">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/javascripts/screenings/decisions/criteria_properties/new/index.js" timestamp="1516744859953">
         <mark key="[" line="2" column="0" />
@@ -200,6 +208,11 @@
         <mark key="[" line="51" column="79" />
         <mark key="]" line="51" column="80" />
         <mark key="." line="51" column="80" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/mobile/sessions_controller_test.rb" timestamp="1518472506087">
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="20" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1518461620822" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/rental_applications/shared_rental_applications_helper_test.rb" timestamp="1516299495263">
@@ -324,9 +337,9 @@
         <mark key="^" line="57" column="27" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/test/controllers/categorize_criminal_offense_controller_test.rb" timestamp="1516840180122">
-        <mark key="[" line="37" column="75" />
-        <mark key="]" line="38" column="5" />
+      <file name="$USER_HOME$/src/zoology_app/test/controllers/categorize_criminal_offense_controller_test.rb" timestamp="1518471181978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="72" />
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
       </file>
@@ -381,9 +394,9 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/config/initializers/devise.rb" timestamp="1518465752784">
-        <mark key="[" line="263" column="28" />
-        <mark key="]" line="263" column="28" />
+      <file name="$USER_HOME$/src/zoology_app/config/initializers/devise.rb" timestamp="1518472853095">
+        <mark key="[" line="263" column="36" />
+        <mark key="]" line="263" column="56" />
         <mark key="^" line="276" column="36" />
         <mark key="." line="263" column="28" />
       </file>
@@ -409,10 +422,16 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518466393977">
+      <file name="/Dummy.txt" timestamp="1518473120809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/test/controllers/users/omniauth_callbacks_controller_test.rb" timestamp="1518473286471">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="29" column="98" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/app/views/categorize_criminal_offense/new.html.erb" timestamp="1516836771199">
         <mark key="[" line="7" column="25" />
@@ -457,6 +476,10 @@
         <mark key="^" line="350" column="14" />
         <mark key="." line="350" column="4" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/company_test.rb" timestamp="1518473017985">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="43" />
+      </file>
       <file name="$USER_HOME$/src/zoology_app/lib/custom_failure.rb" timestamp="1518465415870">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
@@ -465,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="91" filename="$USER_HOME$/src/apm_bundle/apps/property/gems/screening_service/test/unit/screening_test.rb" />
       <jump line="313" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/gems/screening_service/test/unit/screening_test.rb" />
       <jump line="148" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/gems/screening_service/test/unit/screening_test.rb" />
       <jump line="140" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/gems/screening_service/test/unit/screening_test.rb" />
@@ -565,6 +587,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/signup/test/dummy/config/application.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/application.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/src/zoology_app/app/controllers/users/omniauth_callbacks_controller.rb" />
+      <jump line="150" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/mobile/sessions_controller_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -601,46 +624,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>exception</text>
+        <text encoding="base64">XDxhZGRfZGV2aXNlX2NvbnRleHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRfZmxhc2hfbWVzc2FnZSg6aW5mbywgOnN1Y2Nlc3MsIGtpbmQ6IHByb3ZpZGVyX25hbWUpIGlmIGlzX25hdmlnYXRpb25hbF9mb3JtYXQ/Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X2VxdWFsICdTdWNjZXNzZnVsbHkgYXV0aGVudGljYXRlZCBmcm9tIEdvb2dsZSBhY2NvdW50LicsIGZsYXNoLm5vd1s6aW5mb10KICAgICAgYXNzZXJ0X25pbCBmbGFzaC5ub3dbOmFsZXJ0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X25pbCBmbGFzaC5ub3dbOmluZm9dCiAgICAgIGFzc2VydF9lcXVhbCAnQ291bGQgbm90IGF1dGhlbnRpY2F0ZSB5b3UgZnJvbSBHb29nbGUgYmVjYXVzZSAiWW91IGFyZSBub3QgYWxsb3dlZCB0byBsb2dpbiwgcGxlYXNlIGNvbnRhY3QgZW5naW5lZXIgZm9yIGFjY2VzcyIuJywgZmxhc2gubm93WzphbGVydF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHAgQHVzZXIK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19uYXZpZ2F0aW9uYWxfZm9ybWF0PwogICAgICAgICAgc2V0X2ZsYXNoX21lc3NhZ2UoCiAgICAgICAgICAgIDphbGVydCwKICAgICAgICAgICAgOmZhaWx1cmUsCiAgICAgICAgICAgIGtpbmQ6IHByb3ZpZGVyX25hbWUsCiAgICAgICAgICAgIHJlYXNvbjogJ1lvdSBhcmUgbm90IGFsbG93ZWQgdG8gbG9naW4sIHBsZWFzZSBjb250YWN0IGVuZ2luZWVyIGZvciBhY2Nlc3MnCiAgICAgICAgICApCiAgICAgICAgZW5kCiAgICAgICAgcmVkaXJlY3RfdG8gbmV3X3VzZXJfc2Vzc2lvbl9wYXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHAgJ0hJSEknCg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduX2luX2FuZF9yZWRpcmVjdCBAdXNlciwgZXZlbnQ6IDphdXRoZW50aWNhdGlvbgogICAgICAgIHNldF9mbGFzaF9tZXNzYWdlKDppbmZvLCA6c3VjY2Vzcywga2luZDogcHJvdmlkZXJfbmFtZSkgaWYgaXNfbmF2aWdhdGlvbmFsX2Zvcm1hdD8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NpZ25faW5fd2l0aF9fZmFpbDIKICAgICAgdXNlciA9IFVzZXIuY3JlYXRlIShlbWFpbDogJ3dob190aGVfaGVsbEBhcHAuY29tJykKICAgICAgVXNlci5leHBlY3RzKDpmcm9tX29tbmlhdXRoKS53aXRoKHJlcXVlc3QuZW52WydvbW5pYXV0aC5hdXRoJ10pLnJldHVybnModXNlcikKCiAgICAgIEByZXF1ZXN0LmVudlsnZGV2aXNlLm1hcHBpbmcnXSA9IERldmlzZS5tYXBwaW5nc1s6dXNlcl0KICAgICAgc2lnbl9vdXQoOnVzZXIpCiAgICAgIGdldCA6Z29vZ2xlX29hdXRoMgoKICAgICAgYXNzZXJ0X25pbCBmbGFzaC5ub3dbOmluZm9dCiAgICAgIGFzc2VydF9lcXVhbCAnQ291bGQgbm90IGF1dGhlbnRpY2F0ZSB5b3UgZnJvbSBHb29nbGUgYmVjYXVzZSAiWW91IGFyZSBub3QgYWxsb3dlZCB0byBsb2dpbiwgcGxlYXNlIGNvbnRhY3QgZW5naW5lZXIgZm9yIGFjY2VzcyIuJywgZmxhc2gubm93WzphbGVydF0KICAgIGVuZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGFjY2Vzc190eXBlOiAnb2ZmbGluZScsCiAgICAgICAgICAgICAgICAgIGFwcHJvdmFsX3Byb21wdDogJycsCiAgICAgICAgICAgICAgICAgIHByb21wdDogJ3NlbGVjdF9hY2NvdW50JywKICAgICAgICAgICAgICAgICAgc2NvcGU6ICdlbWFpbCBwcm9maWxlJywKICAgICAgICAgICAgICAgICAgaGQ6ICdhcHBmb2xpby5jb20n</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25maWcuZXhjZXB0aW9uc19hcHAgPSBSYWlscy5yb290Cg==</text>
+        <text encoding="base64">ICAgICAgZGV2aXNlX3Njb3BlIDp1c2VyIGRvCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVkaXJlY3RfdXJpOiAnLycsCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQgIi9zb21lL3JvdXRlIiA9PiAic29tZV9kZXZpc2VfY29udHJvbGxlciIK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVkaXJlY3RfdXJpOiAnLycsCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0IDpnb29nbGVfb2F1dGgyCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -653,9 +676,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exception</last-search>
+      <last-search encoding="base64">XDxhZGRfZGV2aXNlX2NvbnRleHRcPg==</last-search>
       <last-offset />
-      <last-pattern>exception</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRfZGV2aXNlX2NvbnRleHRcPg==</last-pattern>
       <last-replace>signup</last-replace>
       <last-substitute>screenings</last-substitute>
       <last-dir>1</last-dir>
@@ -663,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>string</entry>
         <entry>address</entry>
         <entry encoding="base64">XDxjcml0ZXJpb25fYnlfcXVlcnlfcGFyYW1zXD4=</entry>
@@ -683,6 +705,7 @@
         <entry encoding="base64">XDxzY3JlZW5pbmdzXD4=</entry>
         <entry>screenings</entry>
         <entry>exception</entry>
+        <entry encoding="base64">XDxhZGRfZGV2aXNlX2NvbnRleHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZlbG9ueS9taXNkZW1lYW5vci9naQ==</entry>
