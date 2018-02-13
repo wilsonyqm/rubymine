@@ -159,6 +159,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/criminal_fuzzy_matcher.rb" timestamp="1518557371774">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="55" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/rental_applications/rental_applications_helper.rb" timestamp="1518118757013">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="57" />
@@ -184,11 +188,6 @@
         <mark key="[" line="51" column="79" />
         <mark key="]" line="51" column="80" />
         <mark key="." line="51" column="80" />
-      </file>
-      <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1518550501053">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/config/settings/production_production.yml" timestamp="1518550951522">
         <mark key="'" line="43" column="11" />
@@ -242,11 +241,14 @@
         <mark key="]" line="31" column="37" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/controllers/private/categorize_criminal_offense_controller.rb" timestamp="1518552879449">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/private/categorize_criminal_offense_controller.rb" timestamp="1518557220507">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" timestamp="1518557640524">
+        <mark key="'" line="59" column="38" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/config/settings/base.yml" timestamp="1518550266548">
         <mark key="[" line="25" column="0" />
@@ -351,6 +353,7 @@
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1518557700135" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/invoice_approval_predictor.rb" timestamp="1518550645747">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="78" />
@@ -414,6 +417,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/private/criminal_offense_descriptions_controller.rb" timestamp="1518557777108">
+        <mark key="[" line="7" column="81" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="81" />
+        <mark key="^" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/bankruptcy_rule_presenter_test.rb" timestamp="1515452726825">
         <mark key="[" line="23" column="73" />
         <mark key="]" line="23" column="73" />
@@ -447,11 +456,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1518552626998">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="97" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1518557791182">
+        <mark key="[" line="27" column="101" />
+        <mark key="]" line="27" column="101" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="101" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/config/settings/development.yml" timestamp="1518551668284">
         <mark key="'" line="57" column="8" />
@@ -500,8 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="75" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" />
-      <jump line="158" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" />
       <jump line="159" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" />
       <jump line="7" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" />
       <jump line="1296" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" />
@@ -600,13 +607,15 @@
       <jump line="859" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
       <jump line="1679" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
       <jump line="803" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
+      <jump line="22" column="9" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
+      <jump line="59" column="38" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgYXBwbGljYW50ID0gQXBwbGljYW50LmNyZWF0ZV9leGVtcGxhcgogICAgICBzczEgPSBTY3JlZW5pbmdTdWJqZWN0LmNyZWF0ZV9leGVtcGxhciEoc2NyZWVuYWJsZTogYXBwbGljYW50KQogICAgICBkZWNvcmF0b3IxID0gU2NyZWVuaW5nU3ViamVjdERlY29yYXRvci5uZXcoc3MxKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgIHB1dHMgdXNlcm5hbWUKICAgICAgcHV0cyBwYXNzd29yZAogICAgICBwdXRzICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScK</text>
+      <register name="&quot;" type="4">
+        <text>bulk_</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9fdmFsaWQKICAgICAgICBwYXJhbXMgPSBiYXNpY19mb3JtX3BhcmFtcy5tZXJnZSgKICAgICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFsc19hdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICcwJyA9PiB7CiAgICAgICAgICAgICAgZGVjaXNpb25fdHlwZTogJ2FjY2VwdCcsCiAgICAgICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9faW52YWxpZAogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
@@ -633,49 +642,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>bulk_</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text encoding="base64">XDxkZXNjcmlwdGlvbl9mdXp6eV9tYXRjaGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+      <register name="0" type="4">
+        <text>bulk_categorize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgIHB1dHMgdXNlcm5hbWUKICAgICAgcHV0cyBwYXNzd29yZAogICAgICBwdXRzICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScK</text>
+        <text encoding="base64">CiAgICBkZWYgY2F0ZWdvcml6ZV9jcmltaW5hbF9vZmZlbnNlX2Zvcm1fcGFyYW1zCiAgICAgIHBhcmFtcy5yZXF1aXJlKDpjYXRlZ29yaXplX2NyaW1pbmFsX29mZmVuc2VfZm9ybSkucGVybWl0KDpjcmltaW5hbF9kZXNjcmlwdGlvbikKICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcHV0cyAnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgIHB1dHMgdXNlcm5hbWUKICAgICAgcHV0cyBwYXNzd29yZAogICAgICBwdXRzICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2UgOnByaXZhdGUgZG8K</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcyA6c2NyZWVuaW5ncywgOm9ubHkgPT4gWyA6Y3JlYXRlLCA6c2hvdyBdIGRvCiAgICAgIG1lbWJlciBkbwogICAgICAgIHBvc3QgOnJlZG93bmxvYWQKICAgICAgZW5kCiAgICAgIGNvbGxlY3Rpb24gZG8KICAgICAgICBwb3N0IDp1cGRhdGVfYWNjb3VudF9uYW1lcwogICAgICBlbmQKICAgICAgcmVzb3VyY2VzIDpzY3JlZW5pbmdfc3ViamVjdHMsIDpvbmx5ID0+IFsgXSBkbwogICAgICAgIHJlc291cmNlcyA6cmVwb3J0X3ZpZXdpbmdzLCA6b25seSA9PiBbIDpjcmVhdGUsIDpzaG93IF0KICAgICAgZW5kCiAgICBlbmQKCiAgICByZXNvdXJjZXMgOmNyZWRpdF9zY29yZXMsIG9ubHk6IFs6c2hvd10K</text>
+        <text encoding="base64">ICBuYW1lc3BhY2UgOnByaXZhdGUgZG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc3QgJy9kZWNpc2lvbnMvOmlkL3JlbWFrZScsIHRvOiAnZGVjaXNpb25zI3JlbWFrZScsIGFzOiA6cmVtYWtlX2RlY2lzaW9uCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlc291cmNlcyA6c2NyZWVuaW5ncywgOm9ubHkgPT4gWyA6Y3JlYXRlLCA6c2hvdyBdIGRvCiAgICAgIG1lbWJlciBkbwogICAgICAgIHBvc3QgOnJlZG93bmxvYWQKICAgICAgZW5kCiAgICAgIGNvbGxlY3Rpb24gZG8KICAgICAgICBwb3N0IDp1cGRhdGVfYWNjb3VudF9uYW1lcwogICAgICBlbmQKICAgICAgcmVzb3VyY2VzIDpzY3JlZW5pbmdfc3ViamVjdHMsIDpvbmx5ID0+IFsgXSBkbwogICAgICAgIHJlc291cmNlcyA6cmVwb3J0X3ZpZXdpbmdzLCA6b25seSA9PiBbIDpjcmVhdGUsIDpzaG93IF0KICAgICAgZW5kCiAgICBlbmQKCiAgICByZXNvdXJjZXMgOmNyZWRpdF9zY29yZXMsIG9ubHk6IFs6c2hvd10K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvc3QgJy9kZWNpc2lvbnMvOmlkL3JlbWFrZScsIHRvOiAnZGVjaXNpb25zI3JlbWFrZScsIGFzOiA6cmVtYWtlX2RlY2lzaW9uCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcyA6c2NyZWVuaW5ncywgOm9ubHkgPT4gWyA6Y3JlYXRlLCA6c2hvdyBdIGRvCiAgICAgIG1lbWJlciBkbwogICAgICAgIHBvc3QgOnJlZG93bmxvYWQKICAgICAgZW5kCiAgICAgIGNvbGxlY3Rpb24gZG8KICAgICAgICBwb3N0IDp1cGRhdGVfYWNjb3VudF9uYW1lcwogICAgICBlbmQKICAgICAgcmVzb3VyY2VzIDpzY3JlZW5pbmdfc3ViamVjdHMsIDpvbmx5ID0+IFsgXSBkbwogICAgICAgIHJlc291cmNlcyA6cmVwb3J0X3ZpZXdpbmdzLCA6b25seSA9PiBbIDpjcmVhdGUsIDpzaG93IF0KICAgICAgZW5kCiAgICBlbmQKCiAgICByZXNvdXJjZXMgOmNyZWRpdF9zY29yZXMsIG9ubHk6IFs6c2hvd10K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgbmV3CiAgICBAY2F0ZWdvcml6ZV9jcmltaW5hbF9vZmZlbnNlX2Zvcm0gPSBGb3Jtczo6Q2F0ZWdvcml6ZUNyaW1pbmFsT2ZmZW5zZUZvcm0ubmV3CiAgICByZW5kZXIgJ2NhdGVnb3JpemVfY3JpbWluYWxfb2ZmZW5zZS9uZXcnLCBsb2NhbHM6IHsgcmVzdWx0OiBuaWwgfQogIGVuZAoKICBkZWYgY3JlYXRlCiAgICBjcmltaW5hbCA9IGNhdGVnb3JpemVfY3JpbWluYWxfb2ZmZW5zZV9mb3JtX3BhcmFtc1s6Y3JpbWluYWxfZGVzY3JpcHRpb25dCiAgICBpZiBjcmltaW5hbC5wcmVzZW50PwogICAgICByZXN1bHQgPSBAc2VydmljZS5maW5kX3dpdGhfc2NvcmUoY3JpbWluYWwpCiAgICAgIEBjYXRlZ29yaXplX2NyaW1pbmFsX29mZmVuc2VfZm9ybSA9IEZvcm1zOjpDYXRlZ29yaXplQ3JpbWluYWxPZmZlbnNlRm9ybS5uZXcKICAgICAgcmVuZGVyICdjYXRlZ29yaXplX2NyaW1pbmFsX29mZmVuc2UvbmV3JywgbG9jYWxzOiB7IHJlc3VsdDogcmVzdWx0IH0KICAgIGVsc2UKICAgICAgaGVhZCA6dW5wcm9jZXNzYWJsZV9lbnRpdHkKICAgIGVuZAogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbmV3CiAgICBAY2F0ZWdvcml6ZV9jcmltaW5hbF9vZmZlbnNlX2Zvcm0gPSBGb3Jtczo6Q2F0ZWdvcml6ZUNyaW1pbmFsT2ZmZW5zZUZvcm0ubmV3CiAgICByZW5kZXIgJ2NhdGVnb3JpemVfY3JpbWluYWxfb2ZmZW5zZS9uZXcnLCBsb2NhbHM6IHsgcmVzdWx0OiBuaWwgfQogIGVuZAoKICBkZWYgY3JlYXRlCiAgICBjcmltaW5hbCA9IGNhdGVnb3JpemVfY3JpbWluYWxfb2ZmZW5zZV9mb3JtX3BhcmFtc1s6Y3JpbWluYWxfZGVzY3JpcHRpb25dCiAgICBpZiBjcmltaW5hbC5wcmVzZW50PwogICAgICByZXN1bHQgPSBAc2VydmljZS5maW5kX3dpdGhfc2NvcmUoY3JpbWluYWwpCiAgICAgIEBjYXRlZ29yaXplX2NyaW1pbmFsX29mZmVuc2VfZm9ybSA9IEZvcm1zOjpDYXRlZ29yaXplQ3JpbWluYWxPZmZlbnNlRm9ybS5uZXcKICAgICAgcmVuZGVyICdjYXRlZ29yaXplX2NyaW1pbmFsX29mZmVuc2UvbmV3JywgbG9jYWxzOiB7IHJlc3VsdDogcmVzdWx0IH0KICAgIGVsc2UKICAgICAgaGVhZCA6dW5wcm9jZXNzYWJsZV9lbnRpdHkKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -688,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search encoding="base64">XDxkZXNjcmlwdGlvbl9mdXp6eV9tYXRjaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
+      <last-pattern encoding="base64">XDxkZXNjcmlwdGlvbl9mdXp6eV9tYXRjaGVyXD4=</last-pattern>
       <last-replace>$</last-replace>
       <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
@@ -698,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>document_temp</entry>
         <entry encoding="base64">XDxtYXRjaF9kYXRhX2Rlc2NyaXB0aW9uXD4=</entry>
         <entry>Decisions::CriminalFuzzyMatcher</entry>
         <entry encoding="base64">IF0=</entry>
@@ -718,6 +726,7 @@
         <entry>af_request</entry>
         <entry>af</entry>
         <entry>private</entry>
+        <entry encoding="base64">XDxkZXNjcmlwdGlvbl9mdXp6eV9tYXRjaGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21pc2RlbWVhbm9yL2ZlbG9ueS9n</entry>
