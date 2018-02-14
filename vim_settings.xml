@@ -46,6 +46,10 @@
         <mark key="]" line="20" column="86" />
         <mark key="." line="20" column="86" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/criminal_fuzzy_matcher_test.rb" timestamp="1518565611165">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="175" column="6" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_eviction_judgements_time_frame_rule_show.html.erb" timestamp="1515448288952">
         <mark key="[" line="23" column="83" />
         <mark key="]" line="23" column="84" />
@@ -98,11 +102,11 @@
         <mark key="]" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/zoology_requesters/base_requester.rb" timestamp="1518558409645">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/zoology_requesters/base_requester.rb" timestamp="1518565101977">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/eviction_judgements_time_frame_rule_presenter.rb" timestamp="1515452116737">
         <mark key="[" line="41" column="83" />
@@ -126,6 +130,7 @@
         <mark key="." line="18" column="70" />
         <mark key="^" line="18" column="69" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/test/test_helper.rb" timestamp="1518565994430" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/eviction_judgements_time_frame_rule_decorator.rb" timestamp="1515454738345">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="19" />
@@ -195,11 +200,6 @@
         <mark key="]" line="51" column="80" />
         <mark key="." line="51" column="80" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1518550501053">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
       <file name="$USER_HOME$/src/screenings_app/config/settings/production_production.yml" timestamp="1518550951522">
         <mark key="'" line="43" column="11" />
         <mark key="[" line="65" column="7" />
@@ -207,15 +207,16 @@
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="32" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/config/routes.rb" timestamp="1518552484666">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="19" column="5" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/rental_applications/shared_rental_applications_helper_test.rb" timestamp="1516299495263">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="334" column="0" />
         <mark key="." line="334" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/.rubocop.yml" timestamp="1518566333029">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/invoice_approval_predictor_client.rb" timestamp="1518549712552" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/signup/lib/signup/signup_link_generator.rb" timestamp="1518132015179">
@@ -259,11 +260,10 @@
         <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" timestamp="1518558923638">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="59" column="68" />
-        <mark key="]" line="59" column="77" />
-        <mark key="." line="59" column="77" />
-        <mark key="^" line="59" column="77" />
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="77" />
+        <mark key="." line="22" column="77" />
+        <mark key="^" line="22" column="77" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/config/settings/base.yml" timestamp="1518550266548">
         <mark key="[" line="25" column="0" />
@@ -290,11 +290,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/app/services/decisions/update_fuzzy_match_data_service.rb" timestamp="1518558831660">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_eviction_judgements_time_frame_rule_new.html.erb" timestamp="1515448262963">
         <mark key="[" line="56" column="79" />
         <mark key="]" line="56" column="80" />
@@ -315,17 +310,16 @@
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/zoology_requesters/base_requester.rb" timestamp="1518564932257">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_income_to_rent_ratio_rule_show.html.erb" timestamp="1515451830747">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/screenings_app/config/settings/test.yml" timestamp="1518550934897">
-        <mark key="'" line="66" column="38" />
-        <mark key="[" line="100" column="33" />
-        <mark key="]" line="101" column="28" />
-        <mark key="^" line="101" column="28" />
-        <mark key="." line="101" column="28" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/locales/en.yml" timestamp="1516227595155">
         <mark key="[" line="511" column="8" />
@@ -338,16 +332,11 @@
         <mark key="^" line="130" column="9" />
         <mark key="." line="130" column="6" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/test/controllers/categorize_criminal_offense_controller_test.rb" timestamp="1518475267251">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/src/zoology_app/test/controllers/categorize_criminal_offense_controller_test.rb" timestamp="1518565381961">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1518548992677">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="26" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/lib/nbddc/request.rb" timestamp="1518484484221">
         <mark key="[" line="32" column="0" />
@@ -373,12 +362,12 @@
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1518557980017">
+      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1518566180472">
         <mark key="'" line="31" column="31" />
-        <mark key="[" line="75" column="33" />
-        <mark key="]" line="75" column="33" />
-        <mark key="." line="75" column="33" />
-        <mark key="^" line="82" column="39" />
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/invoice_approval_predictor.rb" timestamp="1518550645747">
         <mark key="[" line="4" column="0" />
@@ -395,9 +384,9 @@
         <mark key="." line="16" column="60" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/zoology_requesters/offense_description_requester.rb" timestamp="1518558949142">
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="68" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/zoology_requesters/offense_description_requester.rb" timestamp="1518565129204">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="60" />
         <mark key="." line="2" column="68" />
         <mark key="^" line="2" column="68" />
       </file>
@@ -418,20 +407,17 @@
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="69" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1518552573691">
-        <mark key="'" line="803" column="13" />
-        <mark key="[" line="1679" column="0" />
-        <mark key="]" line="1679" column="78" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/bankruptcy_rule_decorator.rb" timestamp="1515441150726">
         <mark key="[" line="4" column="131" />
         <mark key="]" line="4" column="132" />
         <mark key="." line="4" column="132" />
       </file>
-      <file name="$USER_HOME$/src/screenings_app/lib/decisions/felony_criminal_classification.rb" timestamp="1518558813917">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/src/screenings_app/lib/decisions/felony_criminal_classification.rb" timestamp="1518558813917" />
+      <file name="$USER_HOME$/src/zoology_app/test/controllers/private/criminal_offense_descriptions_controller_test.rb" timestamp="1518566365436">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="9" column="95" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria_properties/new.html.erb" timestamp="1516831480871">
         <mark key="[" line="9" column="78" />
@@ -448,20 +434,31 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/zoology_requesters/offense_description_requester_test.rb" timestamp="1518565178254">
+        <mark key="[" line="16" column="83" />
+        <mark key="]" line="16" column="105" />
+        <mark key="." line="16" column="105" />
+        <mark key="^" line="16" column="105" />
+      </file>
       <file name="$USER_HOME$/src/zoology_app/config/initializers/devise.rb" timestamp="1518472853095">
         <mark key="[" line="263" column="36" />
         <mark key="]" line="263" column="56" />
         <mark key="^" line="276" column="36" />
         <mark key="." line="263" column="28" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" timestamp="1518565691774">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/src/zoology_app/config/initializers/simple_form.rb" timestamp="1516839557527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/controllers/private/criminal_offense_descriptions_controller.rb" timestamp="1518559014796">
-        <mark key="[" line="7" column="72" />
-        <mark key="]" line="7" column="72" />
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/private/criminal_offense_descriptions_controller.rb" timestamp="1518566040415">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="70" />
         <mark key="." line="7" column="72" />
         <mark key="^" line="7" column="72" />
       </file>
@@ -483,7 +480,13 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518561364996">
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/decision_generators/criminal_offense_decision_generator_test.rb" timestamp="1518564238284">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="95" />
+        <mark key="^" line="261" column="134" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518566619070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -499,11 +502,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1518557791182">
-        <mark key="[" line="27" column="101" />
-        <mark key="]" line="27" column="101" />
-        <mark key="^" line="27" column="51" />
-        <mark key="." line="27" column="101" />
+      <file name="$USER_HOME$/src/zoology_app/config/routes.rb" timestamp="1518566379546">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/src/screenings_app/config/settings/development.yml" timestamp="1518561280235">
         <mark key="[" line="98" column="0" />
@@ -521,17 +524,14 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/screenings_app/test/unit/decisions/fetchers/base_fetcther_test.rb" timestamp="1518564689816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="2" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/rental_applications.rb" timestamp="1518118470469">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/screenings_app/secrets_manifest.yml" timestamp="1518550308472">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="32" />
-        <mark key="^" line="75" column="32" />
-        <mark key="." line="75" column="32" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/config/settings/test.yml" timestamp="1518550414252">
         <mark key="[" line="4" column="12" />
@@ -661,7 +661,7 @@
         <text encoding="base64">ICAgICAgYXBwbGljYW50ID0gQXBwbGljYW50LmNyZWF0ZV9leGVtcGxhcgogICAgICBzczEgPSBTY3JlZW5pbmdTdWJqZWN0LmNyZWF0ZV9leGVtcGxhciEoc2NyZWVuYWJsZTogYXBwbGljYW50KQogICAgICBkZWNvcmF0b3IxID0gU2NyZWVuaW5nU3ViamVjdERlY29yYXRvci5uZXcoc3MxKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KCnpvb2xvZ3k6CiAgcGFzc3dvcmQ6IGxvY2FsX3pvb2xvZ3lfcGFzc3dvcmQKICB1cmw6IGxvY2FsaG9zdDo4ODg4Cgo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9fdmFsaWQKICAgICAgICBwYXJhbXMgPSBiYXNpY19mb3JtX3BhcmFtcy5tZXJnZSgKICAgICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFsc19hdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICcwJyA9PiB7CiAgICAgICAgICAgICAgZGVjaXNpb25fdHlwZTogJ2FjY2VwdCcsCiAgICAgICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9faW52YWxpZAogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
@@ -688,49 +688,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fuzzy</text>
       </register>
-      <register name="0" type="4">
-        <text>ZoologyRequesters</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBFeGNsdWRlOgogICAgLSAndGVzdC8qKi8qJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KCnpvb2xvZ3k6CiAgcGFzc3dvcmQ6IGxvY2FsX3pvb2xvZ3lfcGFzc3dvcmQKICB1cmw6IGxvY2FsaG9zdDo4ODg4Cgo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm90ZWN0X2Zyb21fZm9yZ2VyeSB3aXRoOiA6ZXhjZXB0aW9uCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNldHVwIDpsb2dpbl9hc19wcmVzaWRlbnQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9vZmZlbnNlX2Rlc2NyaXB0aW9uX2J1Y2tldHMKICAgICAgc2VydmljZSA9IERlY2lzaW9uczo6VXBkYXRlRnV6enlNYXRjaERhdGFTZXJ2aWNlLm5ldwogICAgICBmaWxlID0gc2VydmljZS5zZW5kKDpmZWxvbnlfY3JpbWluYWxfdHlwZV90b19ydWxlX25hbWVfZmlsZSkKICAgICAgc2FtcGxlX2Rlc2NyaXB0aW9uX2NsYXNzaWZpY2F0aW9uID0gewogICAgICAgICdkZXNjcmlwdGlvbiAxJyA9PiAnYnVja2V0IDEnLAogICAgICAgICdkZXNjcmlwdGlvbiAyJyA9PiAnYnVja2V0IDInCiAgICAgIH0KICAgICAgRmlsZS5vcGVuKGZpbGUsICd3JykgeyB8ZnwgZi53cml0ZShzYW1wbGVfZGVzY3JpcHRpb25fY2xhc3NpZmljYXRpb24udG9feWFtbCkgfQoKICAgICAgc2VydmljZS51cGRhdGUKCiAgICAgIGFzc2VydF9lcXVhbCBzYW1wbGVfZGVzY3JpcHRpb25fY2xhc3NpZmljYXRpb24sCiAgICAgICAgICAgICAgICAgICBEZWNpc2lvbnM6OkZlbG9ueUNyaW1pbmFsQ2xhc3NpZmljYXRpb24uY29uZmlndXJhdGlvbi5vZmZlbnNlX2Rlc2NyaXB0aW9uX2J1Y2tldHMKICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgZGVmIHRlc3RfbGFzdF9yZXN1bHQKICAgIEZ1enp5TWF0Y2guYW55X2luc3RhbmNlLmV4cGVjdHMoOmxhc3RfcmVzdWx0KS5yZXR1cm5zKCdIZWxsJykKICAgIGFzc2VydF9lcXVhbCAnSGVsbCcsIENyaW1pbmFsT2ZmZW5zZUZ1enp5TWF0Y2hTZXJ2aWNlLm5ldy5sYXN0X3Jlc3VsdAogIGVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBmZWxvbnlfY3JpbWluYWxfdHlwZV90b19ydWxlX25hbWVfZmlsZQogICAgICBSYWlscy5yb290LmpvaW4oJ2NvbmZpZycsICdkZWNpc2lvbnMnLCAnZmVsb255X2NyaW1pbmFsX3R5cGVfdG9fcnVsZV9uYW1lLnltbCcpCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIERlY2lzaW9uczo6Q3JpbWluYWxGdXp6eU1hdGNoZXIuYW55X2luc3RhbmNlLmV4cGVjdHMoOm1hdGNoX2RhdGFfZGVzY3JpcHRpb24pLnJldHVybnMoZmlsdGVyZWRfcm93cykKICAgIG1hdGNoZXIgPSBEZWNpc2lvbnM6OkNyaW1pbmFsRnV6enlNYXRjaGVyLm5ldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmVsb255X2NyaW1pbmFsX3R5cGVfdG9fcnVsZV9uYW1lID0gWUFNTC5sb2FkX2ZpbGUoZmVsb255X2NyaW1pbmFsX3R5cGVfdG9fcnVsZV9uYW1lX2ZpbGUpCg==</text>
+        <text encoding="base64">ICBkZWYgdGVzdF9maW5kCiAgICBtYXRjaGVyID0gQ3JpbWluYWxPZmZlbnNlRnV6enlNYXRjaFNlcnZpY2UubmV3CgogICAgYXNzZXJ0X2VxdWFsICdjcmltaW5hbF9taXNjaGllZl9ydWxlJywgbWF0Y2hlci5maW5kKCdGQUlMVVJFIFRPIEJFIEJPT0tFRCcpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcHJvcGVydHlfcnVsZScsIG1hdGNoZXIuZmluZCgnUEVUSVQgVEhFRlQgLSBSRVRBSUwnKQoKICAgIGFzc2VydF9lcXVhbCAnb3RoZXJfZHJ1Z19vZmZlbnNlc19ydWxlJywgbWF0Y2hlci5maW5kKCdTb21ldGhpbmcgd2l0aCBQQVJBJykKICAgIGFzc2VydF9ub3RfZXF1YWwgJ290aGVyX2RydWdfb2ZmZW5zZXNfcnVsZScsIG1hdGNoZXIuZmluZCgnU29tZXRoaW5nIHdpdGggQVBBUkEnKQogICAgYXNzZXJ0X2VxdWFsICdvdGhlcl9kcnVnX29mZmVuc2VzX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1NvbWV0aGluZyB3aXRoIFBBUkFQSEVSTkEnKQoKICAgIGFzc2VydF9lcXVhbCAnZGlzaG9uZXN0eV9vcl9mcmF1ZF9ydWxlJywgbWF0Y2hlci5maW5kKCdQUklOQ0lQQUwgLSBGUkFVRC1DUkVESVQtQ0FSRCcpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcHJvcGVydHlfcnVsZScsIG1hdGNoZXIuZmluZCgnUFJJTkNJUEFMIC0gVEhFRlQtQ1JFRElULUNBUkQnKQogICAgYXNzZXJ0X2VxdWFsICdmaW5hbmNpYWxfbm9uX3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdDUkVESVQgQ0FSRCBGT1JHRVJZJykKICAgIGFzc2VydF9lcXVhbCAnZGlzaG9uZXN0eV9vcl9mcmF1ZF9ydWxlJywgbWF0Y2hlci5maW5kKCdDUklNSU5BTCBDT05TUElSQUNZIEVOR0FHSU5HIElERU5USVRZIFRIRUZUJykKICAgIGFzc2VydF9lcXVhbCAnZGlzaG9uZXN0eV9vcl9mcmF1ZF9ydWxlJywgbWF0Y2hlci5maW5kKCdJRCBDUklNSU5BTCBDT05TUElSQUNZIEVOR0FHSU5HIFRIRUZUJykKICAgIGFzc2VydF9lcXVhbCAnZmluYW5jaWFsX25vbl92aW9sZW50X29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnVEhFRlQtVE9UQUxMWSBGQUxTRSBJTVBSRVNTSU9OJykKCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcHJvcGVydHlfcnVsZScsIG1hdGNoZXIuZmluZCgnUFJJTkNJUEFMIC0gQlVSR1VOT0NDU1RSVUMvQ1YgT1IgQVRULicpCgogICAgIyBzZXh1YWwgb2ZmZW5zZQogICAgYXNzZXJ0X2VxdWFsICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdXQVRDSCBQT1JOIE1PVklFJykKICAgIGFzc2VydF9lcXVhbCAnc2V4dWFsX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnUkFQRSBBIEJPWScpCgogICAgIyBhbGNvaG9sCiAgICBhc3NlcnRfZXF1YWwgJ2FsY29ob2xfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdMSVFVT1ItVE8gTUlOT1IgQlkgTElDRU5TRUUvVU5ERVJBR0UgQ09OU1VNUFRJT04nKQogICAgYXNzZXJ0X2VxdWFsICdhbGNvaG9sX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnTElRVU9SIEJVUkxBUlknKQogICAgYXNzZXJ0X2VxdWFsICdjcmltaW5hbF9taXNjaGllZl9ydWxlJywgbWF0Y2hlci5maW5kKCdQVUJMSUMgU1dFQVJJTkcvSU5UT1hJQ0FUSU9OJykKICAgIGFzc2VydF9lcXVhbCAnYWxjb2hvbF9vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ01JTk9SIElOVE9YSUNBVEVEIElOIFBVQkxJQyBTVFJFRVQnKQogICAgYXNzZXJ0X2VxdWFsICdjcmltaW5hbF9taXNjaGllZl9ydWxlJywgbWF0Y2hlci5maW5kKCdEUklOSyBJTiBQVUJMSUMnKQogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnUkVGVVNFIEFMQ08gVEVTVCcpCgogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnTk8gRFJJVkVSIExJQyAyTkQgT0ZGRU5TRScpCiAgICBhc3NlcnRfZXF1YWwgJ3RyYWZmaWNfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdEV0xTIDMwMCBERUdSRUUnKQogICAgYXNzZXJ0X2VxdWFsICdkcml2aW5nX3VuZGVyX2luZmx1ZW5jZV9ydWxlJywgbWF0Y2hlci5maW5kKCdUUkFGRklDIC0gRFdJIC0gT1BFUkFURSBIT1JTRSAtIEFMQ09IT0wgQ08nKQogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnRFdMSSBXLVBSRVYgQ09OViBPUiBTVVNQJykKCiAgICAjIERVSQogICAgYXNzZXJ0X2VxdWFsICdkcml2aW5nX3VuZGVyX2luZmx1ZW5jZV9ydWxlJywgbWF0Y2hlci5maW5kKCdEVUkgTUlOT1InKQogICAgYXNzZXJ0X2VxdWFsICdkcml2aW5nX3VuZGVyX2luZmx1ZW5jZV9ydWxlJywgbWF0Y2hlci5maW5kKCdEUlYgV0lUSCBBTENPJykKCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcGVyc29uc19ydWxlJywgbWF0Y2hlci5maW5kKCdVTkxBV0ZVTCBJTVBSSVNPTk1FTlQnKQoKICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9wcm9wZXJ0eV9ydWxlJywgbWF0Y2hlci5maW5kKCdUSEVGVDsgQUdHUkFWQVRFRCBUSEVGVCcpCgogICAgYXNzZXJ0X2VxdWFsICdmaW5hbmNpYWxfbm9uX3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdQUklOQ0lQQUwgLSBXT1JUSExFU1MgQ0hFQ0tTJykKICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9wcm9wZXJ0eV9ydWxlJywgbWF0Y2hlci5maW5kKCdUSEVGVCBBIExPVCBPRiBNT05FWS0gQ0hFQ0snKQoKICAgIGFzc2VydF9lcXVhbCAnZGlzaG9uZXN0eV9vcl9mcmF1ZF9ydWxlJywgbWF0Y2hlci5maW5kKCdQT1NTRVNTIEZJQ1RJVElPVVMgSUQnKQoKICAgICMgZHJ1ZwogICAgYXNzZXJ0X2VxdWFsICdkcnVnX3RyYWZmaWNraW5nX29yX21hbnVmYWN0dXJpbmdfcnVsZScsIG1hdGNoZXIuZmluZCgnREVBTElORy1DT0tFL05BUkNPVEMgSU4gUFVCTElDJykKICAgIGFzc2VydF9lcXVhbCAnbWFyaWp1YW5hX3RyYWZmaWNraW5nX29yX21hbnVmYWN0dXJpbmdfcnVsZScsIG1hdGNoZXIuZmluZCgnTUFSSUpVQU5BLVNBTEUvTUFOVUYvREVMJykKCiAgICBhc3NlcnRfZXF1YWwgJ2RydWdfdHJhZmZpY2tpbmdfb3JfbWFudWZhY3R1cmluZ19ydWxlJywgbWF0Y2hlci5maW5kKCdTVUItREVMIE9OIE1JRERMRSBPRiBOT1dIRVJFJykKICAgIGFzc2VydF9lcXVhbCAnbWFyaWp1YW5hX3Bvc3Nlc3Npb25fcnVsZScsIG1hdGNoZXIuZmluZCgnUE9TUyBPRiBNQVJJSiBVTkRFUiAyMDAwMCBHUkFNUycpCiAgICBhc3NlcnRfZXF1YWwgJ2RydWdfcG9zc2Vzc2lvbl9ydWxlJywgbWF0Y2hlci5maW5kKCdQT1NTIE9GIE1FVEggVU5ERVIgMjAwMDAgR1JBTVMnKQogICAgYXNzZXJ0X2VxdWFsICdtYXJpanVhbmFfdHJhZmZpY2tpbmdfb3JfbWFudWZhY3R1cmluZ19ydWxlJywgbWF0Y2hlci5maW5kKCdQT1NTRVNTL1NBTEUgSFVHRSBBTU9VTlQgT0YgTUFSSUpVQU5BJykKICAgIGFzc2VydF9lcXVhbCAnZHJpdmluZ191bmRlcl9pbmZsdWVuY2VfcnVsZScsIG1hdGNoZXIuZmluZCgnRFVJOiBDT05UUk9MTEVEIFNVQlNUQU5DRScpCiAgICBhc3NlcnRfZXF1YWwgJ2RydWdfdHJhZmZpY2tpbmdfb3JfbWFudWZhY3R1cmluZ19ydWxlJywgbWF0Y2hlci5maW5kKCdDT05UUk9MTEVEIFNVQlNUQU5DRS1ERUxJVkVSWS4nKQogICAgYXNzZXJ0X2VxdWFsICdtYXJpanVhbmFfcG9zc2Vzc2lvbl9ydWxlJywgbWF0Y2hlci5maW5kKCdDQU5OIFBPU1MgVE9PIE1VQ0gnKQogICAgYXNzZXJ0X2VxdWFsICdtYXJpanVhbmFfcG9zc2Vzc2lvbl9ydWxlJywgbWF0Y2hlci5maW5kKCdNQVJJSFVBTkEgUE9TUyBUT08gTVVDSCBUSElTIElTIEJBRCcpCiAgICBhc3NlcnRfZXF1YWwgJ21hcmlqdWFuYV9wb3NzZXNzaW9uX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1RIQyBQT1NTIFRPTyBNVUNIIERVREUnKQogICAgYXNzZXJ0X2VxdWFsICdkcnVnX3Bvc3Nlc3Npb25fcnVsZScsIG1hdGNoZXIuZmluZCgnTFNEIFBPU1MgVE9PIE1VQ0gnKQogICAgYXNzZXJ0X2VxdWFsICdkcnVnX3Bvc3Nlc3Npb25fcnVsZScsIG1hdGNoZXIuZmluZCgnUFNJTE9DSU4gUE9TUyBUT08gTVVDSCcpCgogICAgYXNzZXJ0X2VxdWFsICdjcmltZV9hZ2FpbnN0X3Byb3BlcnR5X3J1bGUnLCBtYXRjaGVyLmZpbmQoJ0JVUkdMIC0gT0YgVU5PQ0NVUElFRCBTVFJVQ1RVUkUgVU5BUk1FRCcpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcHJvcGVydHlfcnVsZScsIG1hdGNoZXIuZmluZCgnU1RBVC5CVVJHTEFSWScpCgogICAgYXNzZXJ0X2VxdWFsICdmaW5hbmNpYWxfbm9uX3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdGT1JHRSBBIEJBTksgQUNDT1VOVCcpCiAgICBhc3NlcnRfZXF1YWwgJ2ZpbmFuY2lhbF9ub25fdmlvbGVudF9vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ0ZPUkdFIEEgQ0hFQ0snKQoKICAgIGFzc2VydF9lcXVhbCAnZHJ1Z190cmFmZmlja2luZ19vcl9tYW51ZmFjdHVyaW5nX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1RFTEUsIFVTRSBPRiBURUxFQ09NTSBERVZJQ0UgSU4gRFJVRyBUUkFOU0FDVElPTicpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcGVyc29uc19ydWxlJywgbWF0Y2hlci5maW5kKCdURUxFQ09NTVVOSUNBVElPTlMgSEFSQVNTTUVOVCcpCgogICAgIyB3ZWFwb24KICAgIGFzc2VydF9lcXVhbCAndmlvbGVudF9vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1JPQkJFUlkgVU5BUk1FRCcpCiAgICBhc3NlcnRfZXF1YWwgJ3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdST0JCIFNUQVJLJykKICAgIGFzc2VydF9lcXVhbCAndmlvbGVudF9vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1JPQkIgU1RBUksgSEFTIFdQTicpCiAgICBhc3NlcnRfZXF1YWwgJ3dlYXBvbl9vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1VOTEFXIENBUlJZIFdQTicpCiAgICBhc3NlcnRfZXF1YWwgJ3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdBR0cgQVNTTFQtVy9XUE4nKQogICAgYXNzZXJ0X2VxdWFsICd3ZWFwb25fb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdVU0UgVy9XUE4nKQogICAgYXNzZXJ0X2VxdWFsICdjcmltZV9hZ2FpbnN0X3BlcnNvbnNfcnVsZScsIG1hdGNoZXIuZmluZCgnR1VOIFRPIElOSlVSRScpCiAgICBhc3NlcnRfZXF1YWwgJ3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdBR0cgQU1NTycpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcGVyc29uc19ydWxlJywgbWF0Y2hlci5maW5kKCdBU1NMVCBXSVRIIEZJUkVBUk0nKQogICAgYXNzZXJ0X2VxdWFsICdjcmltZV9hZ2FpbnN0X3BlcnNvbnNfcnVsZScsIG1hdGNoZXIuZmluZCgnVVNFIFdQTiBJTiBGRUxPTlkgMVNUIE9GRicpCgogICAgYXNzZXJ0X2VxdWFsICd2aW9sZW50X29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnTUFMSUNJT1VTIFdPVU5ESU5HIEEgQkFCWScpCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcGVyc29uc19ydWxlJywgbWF0Y2hlci5maW5kKCdXT1VORElORyBBIExJVFRMRSBCQUJZJykKCiAgICBhc3NlcnRfZXF1YWwgJ2NyaW1lX2FnYWluc3RfcHJvcGVydHlfcnVsZScsIG1hdGNoZXIuZmluZCgnVFJFUyBCSUxMIEdBVEVTIEJJRyBIT1VTRScpCgogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnRkFJTCBUTyBTVE9QIFdPUktJTkcnKQogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnU1RPUCBTSUdOIElTIENPT0wnKQoKICAgICMgb2JzdHJ1Y3QKICAgIGFzc2VydF9lcXVhbCAnY3JpbWluYWxfbWlzY2hpZWZfcnVsZScsIG1hdGNoZXIuZmluZCgnT0JTVFJVQ1RJTkcgSlVTVElDRSAoREVQUklWSU5HIFVTRSBPRiA5MTEpJykKICAgIGFzc2VydF9lcXVhbCAnY3JpbWluYWxfbWlzY2hpZWZfcnVsZScsIG1hdGNoZXIuZmluZCgnT0JTVFJVQ1RJTkcgJiBISU5ERVJJTkcnKQogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnT0JTVFJVQ1RJTkcgQ1JPU1MgVFJBRkZJQycpCiAgICBhc3NlcnRfZXF1YWwgJ3RyYWZmaWNfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdPQlNUUlVDVCBPVVRTSURFIE9GIEhJR0hXQVknKQogICAgYXNzZXJ0X2VxdWFsICd0cmFmZmljX29mZmVuc2VfcnVsZScsIG1hdGNoZXIuZmluZCgnT0JTVFJVQ1QgT1VUU0lERSBPRiBISUdIV0FZLUFMQ08gQU5EIElOVE9YSUNBVEVEJykKCiAgICBhc3NlcnRfZXF1YWwgJ3RyYWZmaWNfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdFWENFRUQgVEhFIExJTUlUJykKICAgIGFzc2VydF9lcXVhbCAndHJhZmZpY19vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1NQRUVEIElTIFRPTyBNVUNIJykKICAgIGFzc2VydF9lcXVhbCAndHJhZmZpY19vZmZlbnNlX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1RPTEwgSVMgVE9PIE1VQ0gnKQoKICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9zb2NpZXR5X3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1BST1MgSU4gUFVCTElDJykKICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9zb2NpZXR5X3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1BST1NUSVRVVElPTiBPTiBTVFJFRVQnKQogICAgYXNzZXJ0X25vdF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9zb2NpZXR5X3J1bGUnLCBtYXRjaGVyLmZpbmQoJ1BST1NFQ1VUSU9OIElOIFBVQkxJQycpCgogICAgYXNzZXJ0X2VxdWFsICdmaW5hbmNpYWxfbm9uX3Zpb2xlbnRfb2ZmZW5zZV9ydWxlJywgbWF0Y2hlci5maW5kKCdVVFRFUklORyBUV08gT1IgTU9SRSBCT0dVUyBDSEVDS1MgTEVTUyBUSEFOICQ1MDAnKQoKICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9wZXJzb25zX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ0RFTU9OU1RSQVRFIEhJVCBBTkQgUlVOIFNLSUxMIElOIERPVEEyJykKCiAgICAjIGF0dGVtcHQgdG8gY29tbWl0CiAgICBhc3NlcnRfZXF1YWwgJ25vX29mZmVuc2VfaW5mb3JtYXRpb25fZm91bmQnLCBtYXRjaGVyLmZpbmQoJ0FUVEVNUFQgVE8gQ09NTUlUJykKICAgIGFzc2VydF9lcXVhbCAnbm9fb2ZmZW5zZV9pbmZvcm1hdGlvbl9mb3VuZCcsIG1hdGNoZXIuZmluZCgnQVRURU1QVCBUTyBDT01NSVQgQ1JJTUUnKQogICAgYXNzZXJ0X2VxdWFsICdtYXJpanVhbmFfcG9zc2Vzc2lvbl9ydWxlJywgbWF0Y2hlci5maW5kKCdBVFRFTVBUIFRPIENPTU1JVC1QT1NTIE1BUklKIDMuNSBQT1VORCcpCiAgICBhc3NlcnRfZXF1YWwgJ21hcmlqdWFuYV90cmFmZmlja2luZ19vcl9tYW51ZmFjdHVyaW5nX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ0FUVEVNUFQgVE8gQ09NTUlULURFTCBNQVJJSiAzLjUgUE9VTkQnKQogICAgYXNzZXJ0X2VxdWFsICdub19vZmZlbnNlX2luZm9ybWF0aW9uX2ZvdW5kJywgbWF0Y2hlci5maW5kKCdBVFRFTVBUIFRPIENPTU1JVCBBIENMQVNTIEIgRkVMT05ZJykKCiAgICAjIGNvbnNwaXJhY3kgdG8gY29tbWl0CiAgICBhc3NlcnRfZXF1YWwgJ25vX29mZmVuc2VfaW5mb3JtYXRpb25fZm91bmQnLCBtYXRjaGVyLmZpbmQoJ0NPTlNQSVJBQ1kgVE8gQ09NTUlUJykKICAgIGFzc2VydF9lcXVhbCAnbm9fb2ZmZW5zZV9pbmZvcm1hdGlvbl9mb3VuZCcsIG1hdGNoZXIuZmluZCgnQ09OU1BJUkFDWSBUTyBDT01NSVQgQ1JJTUUnKQogICAgYXNzZXJ0X2VxdWFsICdtYXJpanVhbmFfcG9zc2Vzc2lvbl9ydWxlJywgbWF0Y2hlci5maW5kKCdDT05TUElSQUNZIFRPIENPTU1JVC1QT1NTIE1BUklKIDMuNSBQT1VORCcpCiAgICBhc3NlcnRfZXF1YWwgJ21hcmlqdWFuYV90cmFmZmlja2luZ19vcl9tYW51ZmFjdHVyaW5nX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ0NPTlNQSVJBQ1kgVE8gQ09NTUlULURFTCBNQVJJSiAzLjUgUE9VTkQnKQogICAgYXNzZXJ0X2VxdWFsICdub19vZmZlbnNlX2luZm9ybWF0aW9uX2ZvdW5kJywgbWF0Y2hlci5maW5kKCdDT05TUElSQUNZIFRPIENPTU1JVCBBIENMQVNTIEIgRkVMT05ZJykKICBlbmQKCiAgZGVmIHRlc3RfZmluZF93aXRoX3Njb3JlCiAgICBtYXRjaGVyID0gQ3JpbWluYWxPZmZlbnNlRnV6enlNYXRjaFNlcnZpY2UubmV3CgogICAgYXNzZXJ0X2VxdWFsIFsnbWFyaWp1YW5hX3Bvc3Nlc3Npb25fcnVsZScsIDEsIHRydWVdLCBtYXRjaGVyLmZpbmRfd2l0aF9zY29yZSgnUE9TUyBNQVJJSiA8ID0gNUxCUyA+IDRPWicpCiAgICBhc3NlcnRfZXF1YWwgWydub19vZmZlbnNlX2luZm9ybWF0aW9uX2ZvdW5kJywgMSwgXSwgbWF0Y2hlci5maW5kX3dpdGhfc2NvcmUoJ0FUVEVNUFQgVE8gQ09NTUlUJykKICAgIGFzc2VydF9lcXVhbCBbJ25vX29mZmVuc2VfaW5mb3JtYXRpb25fZm91bmQnLCAxXSwgbWF0Y2hlci5maW5kX3dpdGhfc2NvcmUoJ0NPTlNQSVJBQ1kgVE8gQ09NTUlUJykKICBlbmQKCiAgZGVmIHRlc3RfcHJlX2ZpbHRlcl9fc2xpY2luZwogICAgbWF0Y2hlciA9IENyaW1pbmFsT2ZmZW5zZUZ1enp5TWF0Y2hTZXJ2aWNlLm5ldwoKICAgIGFzc2VydF9lcXVhbCAnSEVMTE8nLCBtYXRjaGVyLnNlbmQoOnByZV9maWx0ZXJfX3NsaWNpbmcsICdBVFRFTVBUIFRPIENPTU1JVCBIRUxMTycpCiAgICBhc3NlcnRfZXF1YWwgJ0hFTExPJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19zbGljaW5nLCAnQ09OU1BJUkFDWSBUTyBDT01NSVQgSEVMTE8nKQogICAgYXNzZXJ0X2VxdWFsICdIQUhBJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19zbGljaW5nLCAnSU5URU5UIFRPIENPTU1JVCBIQUhBJykKICAgIGFzc2VydF9lcXVhbCAnRkFOQ1kgU1RZTEUnLCBtYXRjaGVyLnNlbmQoOnByZV9maWx0ZXJfX3NsaWNpbmcsICdGQU5DWSBTVFlMRScpCiAgZW5kCgogIGRlZiB0ZXN0X3ByZV9maWx0ZXJfX25vX29mZmVuc2VfaW5mbwogICAgbWF0Y2hlciA9IENyaW1pbmFsT2ZmZW5zZUZ1enp5TWF0Y2hTZXJ2aWNlLm5ldwoKICAgIGFzc2VydF9lcXVhbCAnJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdBVFRFTVBUIFRPIENPTU1JVCBIRUxMTycpCiAgICBhc3NlcnRfZXF1YWwgJ25vX29mZmVuc2VfaW5mb3JtYXRpb25fZm91bmQnLCBtYXRjaGVyLnNlbmQoOnByZV9maWx0ZXJfX25vX29mZmVuc2VfaW5mbywgJ0FUVEVNUFQgVE8gQ09NTUlUJykKICAgIGFzc2VydF9lcXVhbCAnbm9fb2ZmZW5zZV9pbmZvcm1hdGlvbl9mb3VuZCcsIG1hdGNoZXIuc2VuZCg6cHJlX2ZpbHRlcl9fbm9fb2ZmZW5zZV9pbmZvLCAnQVRURU1QVCBUTyBDT01NSVQgQ1JJTUUnKQogICAgYXNzZXJ0X2VxdWFsICdub19vZmZlbnNlX2luZm9ybWF0aW9uX2ZvdW5kJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdBVFRFTVBUIFRPIENPTU1JVCBBIENMQVNTIEhFTExPJykKICAgIGFzc2VydF9lcXVhbCAnJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdBVFRFTVBUIFRPIENPTU1JVCBBIFdIQVQgQ0xBU1MnKQoKICAgIGFzc2VydF9lcXVhbCAnJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdDT05TUElSQUNZIFRPIENPTU1JVCBIRUxMTycpCiAgICBhc3NlcnRfZXF1YWwgJ25vX29mZmVuc2VfaW5mb3JtYXRpb25fZm91bmQnLCBtYXRjaGVyLnNlbmQoOnByZV9maWx0ZXJfX25vX29mZmVuc2VfaW5mbywgJ0NPTlNQSVJBQ1kgVE8gQ09NTUlUJykKICAgIGFzc2VydF9lcXVhbCAnbm9fb2ZmZW5zZV9pbmZvcm1hdGlvbl9mb3VuZCcsIG1hdGNoZXIuc2VuZCg6cHJlX2ZpbHRlcl9fbm9fb2ZmZW5zZV9pbmZvLCAnQ09OU1BJUkFDWSBUTyBDT01NSVQgQ1JJTUUnKQogICAgYXNzZXJ0X2VxdWFsICdub19vZmZlbnNlX2luZm9ybWF0aW9uX2ZvdW5kJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdDT05TUElSQUNZIFRPIENPTU1JVCBBIENMQVNTIEhFTExPJykKICAgIGFzc2VydF9lcXVhbCAnJywgbWF0Y2hlci5zZW5kKDpwcmVfZmlsdGVyX19ub19vZmZlbnNlX2luZm8sICdDT05TUElSQUNZIFRPIENPTU1JVCBBIFdIQVQgQ0xBU1MnKQogIGVuZAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmZWxvbnlfY3JpbWluYWxfdHlwZV90b19ydWxlX25hbWUsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9mZmVuc2VfZGVzY3JpcHRpb25fYnVja2V0cywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
