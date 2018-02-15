@@ -2502,6 +2502,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_audit_trail (v2.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_billable (v3.2.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_billable-3.2.0/app" />
@@ -3716,6 +3728,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.5.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.5.0/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_devise (v8.6.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.6.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_disk_cache (v0.3.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -33528,6 +33556,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-2.53.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.9.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="semver2 (v3.4.2, RVM: ruby-2.2.3 [global]) [gem]">
