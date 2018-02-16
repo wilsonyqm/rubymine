@@ -9868,6 +9868,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-17.3.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_selenium (v18.2.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-18.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-18.2.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-18.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-18.2.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_send_and_delete_file (v1.0.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_send_and_delete_file-1.0.0/lib" />
@@ -13480,6 +13490,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.12.1/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.18.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.18.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.18.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.2.1, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/capybara-2.2.1/lib" />
@@ -13598,6 +13618,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capybara-email (v2.5.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-2.5.0/lib" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v2.2.8, RVM: ruby-2.2.3 [global]) [gem]">
@@ -27456,6 +27484,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-2.15.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-2.15.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/puma-2.15.3/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.11.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/puma-3.11.2/tools" />
       </SOURCES>
     </library>
     <library name="puma (v3.4.0, RVM: ruby-2.2.3 [global]) [gem]">
