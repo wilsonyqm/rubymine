@@ -8264,6 +8264,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_rails (v29.2.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_request-2.0.0/lib" />
@@ -10700,6 +10708,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.4.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_testing (v8.5.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.5.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.5.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="afm (v0.2.2, RVM: ruby-2.2.3) [gem]">
@@ -19998,6 +20016,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.9.5/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n-tasks (v0.9.5, RVM: ruby-2.2.3) [gem]">
@@ -30876,6 +30904,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v2.11.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-2.11.1/exe" />
@@ -30984,6 +31020,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.7.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.7.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.7.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v2.11.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-expectations-2.11.2/lib" />
@@ -31044,6 +31090,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-legacy_formatters (v1.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-legacy_formatters-1.0.1/features" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v2.11.2, RVM: ruby-2.3.3) [gem]">
@@ -31142,6 +31200,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-support-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.7.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-support-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.39.0, RVM: ruby-2.2.3 [global]) [gem]">
