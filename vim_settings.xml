@@ -153,11 +153,11 @@
         <mark key="]" line="51" column="83" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/config/locales/en.yml" timestamp="1519760689550">
-        <mark key="'" line="109" column="27" />
-        <mark key="[" line="111" column="53" />
-        <mark key="]" line="111" column="53" />
-        <mark key="^" line="111" column="7" />
-        <mark key="." line="111" column="53" />
+        <mark key="'" line="110" column="27" />
+        <mark key="[" line="112" column="53" />
+        <mark key="]" line="112" column="53" />
+        <mark key="^" line="112" column="7" />
+        <mark key="." line="112" column="53" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/rental_applications/applicants_helper.rb" timestamp="1516299637427">
         <mark key="[" line="4" column="0" />
@@ -348,13 +348,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/metrics/biz_reports/client_usage_test.rb" timestamp="1519843333267">
-        <mark key="[" line="1157" column="0" />
-        <mark key="]" line="1157" column="0" />
-        <mark key="." line="1157" column="0" />
-        <mark key="^" line="1151" column="80" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1519844201192">
+      <file name="/Dummy.txt" timestamp="1519854172475">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -383,6 +377,7 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/presenters/screenings/decisions/rule_result_frozen_presenter.rb" timestamp="1519854172240" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/criminal_offense_rule_presenter_test.rb" timestamp="1515453569648">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -417,11 +412,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" timestamp="1519756937468">
-        <mark key="[" line="65" column="1" />
-        <mark key="]" line="65" column="33" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" timestamp="1519854252154">
+        <mark key="'" line="27" column="17" />
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/views/screenings/decisions/criteria/rules/_income_to_rent_ratio_rule_new.html.erb" timestamp="1515454360975">
         <mark key="[" line="67" column="0" />
@@ -449,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
       <jump line="67" column="35" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
       <jump line="63" column="64" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
       <jump line="9" column="20" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
@@ -549,13 +544,14 @@
       <jump line="111" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="110" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="91" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" />
+      <jump line="27" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgYXBwbGljYW50ID0gQXBwbGljYW50LmNyZWF0ZV9leGVtcGxhcgogICAgICBzczEgPSBTY3JlZW5pbmdTdWJqZWN0LmNyZWF0ZV9leGVtcGxhciEoc2NyZWVuYWJsZTogYXBwbGljYW50KQogICAgICBkZWNvcmF0b3IxID0gU2NyZWVuaW5nU3ViamVjdERlY29yYXRvci5uZXcoc3MxKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Is Grouped</text>
+        <text>st-blue</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9fdmFsaWQKICAgICAgICBwYXJhbXMgPSBiYXNpY19mb3JtX3BhcmFtcy5tZXJnZSgKICAgICAgICAgIG1pc2RlbWVhbm9yX2NyaW1pbmFsX29mZmVuc2VfcnVsZV9wYXJ0aWFsc19hdHRyaWJ1dGVzOiB7CiAgICAgICAgICAgICcwJyA9PiB7CiAgICAgICAgICAgICAgZGVjaXNpb25fdHlwZTogJ2FjY2VwdCcsCiAgICAgICAgICAgICAgb2ZmZW5zZV9ydWxlX3R5cGU6ICdzZXh1YWxfb2ZmZW5zZV9ydWxlJywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHRlc3RfaW5pdGlhbGl6ZV9jcmltaW5hbF9ydWxlc19fc2luZ2xlX19taXNkZW1lYW5vcl9fd2l0aG91dF9jaGVja2JveF9faW52YWxpZAogICAgICAgIHBhcmFtcyA9IGJhc2ljX2Zvcm1fcGFyYW1zLm1lcmdlKAogICAgICAgICAgbWlzZGVtZWFub3JfY3JpbWluYWxfb2ZmZW5zZV9ydWxlX3BhcnRpYWxzX2F0dHJpYnV0ZXM6IHsKICAgICAgICAgICAgJzAnID0+IHsKICAgICAgICAgICAgICBkZWNpc2lvbl90eXBlOiAnYWNjZXB0JywKICAgICAgICAgICAgICB2YWx1ZTogMwogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgbWlzZGVtZWFub3JzX2NoZWNrYm94OiAnMCcKICAgICAgICApCiAgICAgICAgZm9ybSA9IFNjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uRm9ybS5uZXdfZnJvbV9wYXJhbXMocGFyYW1zKQoKICAgICAgICBhc3NlcnRfcHJlZGljYXRlIGZvcm0sIDp2YWxpZD8KCiAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpdGVyaW9uLmNvdW50JywgMSBkbwogICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6UnVsZS5jb3VudCcsIDIgZG8KICAgICAgICAgICAgYXNzZXJ0X2RpZmZlcmVuY2UgJ1NjcmVlbmluZ3M6OkRlY2lzaW9uczo6Q3JpbWluYWxPZmZlbnNlUnVsZS5jb3VudCcsIDAgZG8KICAgICAgICAgICAgICBmb3JtLnNhdmUhCiAgICAgICAgICAgIGVuZAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICAgIGVuZAo=</text>
@@ -582,10 +578,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>Is Grouped</text>
+        <text>st-blue</text>
       </register>
       <register name="/" type="4">
-        <text>screening_pac</text>
+        <text>frozen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgdGVzdF9hdXRvX2RlY2lzaW9uX2Jhc2VkX3NjcmVlbmluZ19jb3VudF9pbnRvX3NjcmVlbmluZ3NfYW1vdW50CiAgICAgICAgICBhc3NlcnRfZXF1YWwgMCwgT2NjdXBhbmN5LmNvdW50CgogICAgICAgICAgc2V0dXBfcmVwb3J0CgogICAgICAgICAgQ29tcGFueS5zZXR0aW5ncy51cGRhdGVfYXR0cmlidXRlcyhzY3JlZW5pbmdfcGFja2FnZTogU2NyZWVuaW5nOjpQQUNLQUdFXzMsIHNjcmVlbmluZ19zZXJ2aWNlOiAnc2NyZWVuaW5nc190ZXN0JykKICAgICAgICAgIHJlbnRhbF9hcHBsaWNhdGlvbiA9IFJlbnRhbEFwcGxpY2F0aW9uLmNyZWF0ZV9leGVtcGxhciEKICAgICAgICAgIEFwcGxpY2FudC5jcmVhdGVfZXhlbXBsYXIhKHJlbnRhbF9hcHBsaWNhdGlvbjogcmVudGFsX2FwcGxpY2F0aW9uKQogICAgICAgICAgcmVudGFsX2FwcGxpY2F0aW9uLnJlbG9hZAogICAgICAgICAgUmVtb3RlU2NyZWVuaW5nLmV4cGVjdHMoOnN0YXJ0ISkud2l0aCB7IHxzY3JlZW5pbmd8IHNjcmVlbmluZyA9PSBTY3JlZW5pbmcubGFzdCB9CiAgICAgICAgICBzID0gU2NyZWVuaW5nczo6UmVudGFsQXBwbGljYXRpb25TY3JlZW5pbmcubmV3KHJlbnRhbF9hcHBsaWNhdGlvbikuY3JlYXRlX3NjcmVlbmluZyEocHJvcGVydHlfYXV0aG9yaXphdGlvbl91c2Vycyg6c2NyZWVuaW5nX3NlcnZpY2VzKSkKICAgICAgICAgIHMuZmluaXNoZWQhCiAgICAgICAgICBzLnNjcmVlbmluZ19zdWJqZWN0cy5lYWNoKCY6ZmluaXNoZWQhKQoKICAgICAgICAgIENvbXBhbnkuc2V0dGluZ3MudXBkYXRlX2F0dHJpYnV0ZXMoc2NyZWVuaW5nX3BhY2thZ2U6IFNjcmVlbmluZzo6UEFDS0FHRV80LCBzY3JlZW5pbmdfc2VydmljZTogJ3NjcmVlbmluZ3NfdGVzdCcpCiAgICAgICAgICByZW50YWxfYXBwbGljYXRpb24gPSBSZW50YWxBcHBsaWNhdGlvbi5jcmVhdGVfZXhlbXBsYXIhCiAgICAgICAgICBBcHBsaWNhbnQuY3JlYXRlX2V4ZW1wbGFyIShyZW50YWxfYXBwbGljYXRpb246IHJlbnRhbF9hcHBsaWNhdGlvbikKICAgICAgICAgIHJlbnRhbF9hcHBsaWNhdGlvbi5yZWxvYWQKICAgICAgICAgIFJlbW90ZVNjcmVlbmluZy5leHBlY3RzKDpzdGFydCEpLndpdGggeyB8c2NyZWVuaW5nfCBzY3JlZW5pbmcgPT0gU2NyZWVuaW5nLmxhc3QgfQogICAgICAgICAgcyA9IFNjcmVlbmluZ3M6OlJlbnRhbEFwcGxpY2F0aW9uU2NyZWVuaW5nLm5ldyhyZW50YWxfYXBwbGljYXRpb24pLmNyZWF0ZV9zY3JlZW5pbmchKHByb3BlcnR5X2F1dGhvcml6YXRpb25fdXNlcnMoOnNjcmVlbmluZ19zZXJ2aWNlcykpCiAgICAgICAgICBzLmZpbmlzaGVkIQogICAgICAgICAgcy5zY3JlZW5pbmdfc3ViamVjdHMuZWFjaCgmOmZpbmlzaGVkISkKCiAgICAgICAgICByZWNvcmQgPSBAcmVwb3J0LnJ1bgoKICAgICAgICAgIGFzc2VydF9lcXVhbCA0LCByZWNvcmRbJ1RvdGFsIFNjcmVlbmluZ3MnXQogICAgICAgICAgYXNzZXJ0X2VxdWFsIDQsIHJlY29yZFsnU2NyZWVuaW5ncyBMYXN0IDMwIERheXMnXQogICAgICAgICAgYXNzZXJ0X2VxdWFsIDU4LCByZWNvcmRbJ1NjcmVlbmluZyBBbW91bnQgTVREJ10udG9faQogICAgICAgICAgYXNzZXJ0X2VxdWFsIFNjcmVlbmluZzo6QklMTElOR19VTklUX1NDUkVFTklOR180LCByZWNvcmRbJ1NjcmVlbmluZyBQYWNrYWdlJ10KICAgICAgICBlbmQK</text>
@@ -637,9 +633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>screening_pac</last-search>
+      <last-search>frozen</last-search>
       <last-offset />
-      <last-pattern>screening_pac</last-pattern>
+      <last-pattern>frozen</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZF9kZWNpc2lvblw+</entry>
         <entry encoding="base64">XDxQQVNTVEhST1VHSF9ERUNJU0lPTl9SRVNVTFRcPg==</entry>
         <entry encoding="base64">XDxjb25kaXRpb25hbF9kZWNpc2lvbl9yZXN1bHRcPg==</entry>
         <entry>is_con</entry>
@@ -667,6 +662,7 @@
         <entry>Package</entry>
         <entry encoding="base64">XDxzY3JlZW5pbmdfcGFja2FnZVw+</entry>
         <entry>screening_pac</entry>
+        <entry>frozen</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvL3N0cm9uZz4vL2c=</entry>
