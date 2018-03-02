@@ -200,6 +200,12 @@
         <mark key="]" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_tinymce_new_edit.erb" timestamp="1520027560459">
+        <mark key="[" line="79" column="43" />
+        <mark key="]" line="79" column="42" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_manual_review_presenter_test.rb" timestamp="1515448489763">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="37" />
@@ -232,6 +238,7 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/salesforce/pending_final_decision_case_creator.rb" timestamp="1520026909068" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/rental_applications/shared_rental_applications_helper_test.rb" timestamp="1516299495263">
         <mark key="[" line="334" column="0" />
         <mark key="]" line="334" column="0" />
@@ -372,6 +379,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/new_edit.html.erb" timestamp="1520027370627" />
       <file name="$USER_HOME$/src/zoology_app/app/views/dashboards/index.html.erb" timestamp="1520014878159">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="31" />
@@ -393,7 +401,7 @@
         <mark key="]" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1519930941331">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1520027353308">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -471,7 +479,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1519929898392">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1520027435930">
         <mark key="[" line="71" column="34" />
         <mark key="]" line="71" column="36" />
         <mark key="^" line="71" column="36" />
@@ -482,7 +490,7 @@
         <mark key="]" line="92" column="25" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520019996285">
+      <file name="/Dummy.txt" timestamp="1520027162386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -515,6 +523,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" timestamp="1520027584409">
+        <mark key="'" line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/rental_applications.rb" timestamp="1518118470469">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -528,8 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="2" filename="$USER_HOME$/src/screenings_app/config/decisions/criminal_disposition_convictions.yml" />
-      <jump line="204" column="6" filename="$USER_HOME$/src/screenings_app/config/decisions/criminal_disposition_convictions.yml" />
       <jump line="211" column="0" filename="$USER_HOME$/src/screenings_app/config/decisions/criminal_disposition_convictions.yml" />
       <jump line="196" column="162" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
       <jump line="186" column="180" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
@@ -628,6 +637,8 @@
       <jump line="39" column="1134" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/tenant_letters_controller_test.rb" />
       <jump line="39" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/upgrade_screening_package_service.rb" />
       <jump line="57" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" />
+      <jump line="2" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -664,7 +675,7 @@
         <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
-        <text>image</text>
+        <text>atta</text>
       </register>
       <register name="0" type="4">
         <text>controllers</text>
@@ -716,9 +727,9 @@
       </register>
     </registers>
     <search>
-      <last-search>image</last-search>
+      <last-search>atta</last-search>
       <last-offset />
-      <last-pattern>image</last-pattern>
+      <last-pattern>atta</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -726,11 +737,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUb3RhbEd1ZXN0Q2FyZHNcPg==</entry>
-        <entry encoding="base64">XDxTY3JlZW5pbmdQYWNrYWdlXD4=</entry>
-        <entry>screening</entry>
-        <entry>Package</entry>
-        <entry encoding="base64">XDxzY3JlZW5pbmdfcGFja2FnZVw+</entry>
         <entry>screening_pac</entry>
         <entry>frozen</entry>
         <entry>fuzzy</entry>
@@ -746,6 +752,11 @@
         <entry>text-align</entry>
         <entry encoding="base64">XDx1cGdyYWRlX3NjcmVlbmluZ19wYWNrYWdlXD4=</entry>
         <entry>image</entry>
+        <entry>Report</entry>
+        <entry>att</entry>
+        <entry>attac</entry>
+        <entry>report</entry>
+        <entry>atta</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvL3N0cm9uZz4vL2c=</entry>
