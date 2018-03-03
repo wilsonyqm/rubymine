@@ -335,6 +335,13 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1520068877159">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/src/zoology_app/app/views/criminal_low_scores/_form.html.erb" timestamp="1520014910336">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="30" />
@@ -397,6 +404,13 @@
         <mark key="[" line="31" column="69" />
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="69" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1520070808760">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="47" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/bankruptcy_rule_decorator.rb" timestamp="1515441150726">
         <mark key="[" line="4" column="131" />
@@ -487,9 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="10" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
-      <jump line="237" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="186" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="187" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="212" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="182" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
@@ -580,20 +591,23 @@
       <jump line="36" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/tenant_letters_controller_test.rb" />
       <jump line="39" column="1134" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/tenant_letters_controller_test.rb" />
       <jump line="39" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/upgrade_screening_package_service.rb" />
-      <jump line="57" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
       <jump line="19" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" />
       <jump line="2" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" />
       <jump line="60" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" />
       <jump line="87" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" />
       <jump line="54" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
+      <jump line="57" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
+      <jump line="34" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
+      <jump line="23" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>='0'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25maWcuYWxsb3dlZENvbnRlbnQgPSB0cnVlOwo=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -620,50 +634,50 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>='0'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRhY2hlZF9yZXBvcnRcPg==</text>
+        <text>image</text>
       </register>
-      <register name="0" type="4">
-        <text>table[border='0']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJpbmRlbnQsIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Our development team is actively working on improvements to the Owner Statement format in a new version called Owner Statement (Enhanced). 
-   To turn this on for your company</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25maWcuYWxsb3dlZENvbnRlbnQgPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgT3B0aW9uYWw6IG9ubHkgc2hvdyB0aGlzIHdoYXRzIG5ldyB3aGVuIHRoZSBzcGVjaWZpZWQgZXhwZXJpbWVudCBpcyBlbmFibGVkIC8gZGlzYWJsZWQKIyBleHBlcmltZW50OiA8ZXhwZXJpbWVudCBuYW1lPgojIC0gb3IgLQojIGV4cGVyaW1lbnQ6CiMgICA8ZXhwZXJpbWVudCBuYW1lPjogPHRydWV8ZmFsc2U+CgojIE9wdGlvbmFsOiBjb25maWd1cmF0aW9uIGZvciB0aGUgbGVhcm4gbW9yZSBzZWN0aW9uCiMgICBsaW5rOiBsaW5rIG9yIHRoZSBuYW1lIG9mIGEgbWV0aG9kIGluIFdlYkNvbW1vbkhvb2tzOjpXaGF0c05ld0ludGVycG9sYXRpb25zCiMgICAgICAgICB3aGljaCBpcyBleGVjdXRlZCBhdCBydW50aW1lIGZvciBlYWNoIHVzZXIgKHVzZWZ1bCB0byBoYW5kbGUgdmVyYi1iYXNlZCBzZWN1cml0eSkuCiMgICAgICAgICBEbyBub3QgaW5jbHVkZSBkaXJlY3QgbGlua3MgdG8gdGhlIGhlbHAgc2l0ZSwgcmF0aGVyIGltcGxlbWVudCBhIG1ldGhvZCBpbgojICAgICAgICAgV2ViQ29tbW9uSG9va3M6OldoYXRzTmV3SW50ZXJwb2xhdGlvbnMgdG8gdXNlIFdlYkNvbW1vbjo6SGVscFVybEJ1aWxkZXIuYnVpbGRfc3NvX3VybC4KIyAgIGxpbmtzOiBhIGNvbGxlY3Rpb24gb2YgbGlua3MsIGVhY2ggd2l0aCBhIGxpbmsgYW5kIHN1YnRleHQga2V5LiBUaGUgbGluayBrZXkgZm9sbG93cyB0aGUgc2FtZQojICAgICAgICAgIGd1aWRlbGluZXMgb3V0bGluZWQgYWJvdmUsIHdoaWxlIHRoZSBzdWJ0ZXh0IGtleSBpcyBqdXN0IGludGVuZGVkIHRvIGJlIGEgc2ltcGxlCiMgICAgICAgICAgZGVzY3JpcHRpb24gb2Ygd2hhdCB0aGUgbGluayBpcyBmb3IuIFRoZSBzdWJ0ZXh0IHdpbGwgYmUgZGlzcGxheWVkIGFmdGVyIHRoZSB3b3JkcwojICAgICAgICAgICJMZWFybiBNb3JlIi4gRm9yIGV4YW1wbGUsIGlmIHRoZSBzdWJ0ZXh0IGlzIFNjaGVkdWxpbmcgU2hvd2luZ3MsIHRoZSBsaW5rIHdpbGwKIyAgICAgICAgICBkaXNwbGF5IGFzICJMZWFybiBNb3JlOiBTY2hlZHVsaW5nIFNob3dpbmdzIi4gVGhlIHN1YnRleHQga2V5IGlzIHJlcXVpcmVkIHdoZW4gdXNpbmcKIyAgICAgICAgICB0aGlzIGxpbmtzIGNvbGxlY3Rpb24uCiMgbGVhcm5fbW9yZTogPHVybHxtZXRob2QgbmFtZT4KIyAtIG9yIC0KIyBsZWFybl9tb3JlOgojICAgbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAtIG9yIC0KIyBsZWFybl9tb3JlOgojICAgbGlua3M6CiMgICAgIC0gbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAgICAgICBzdWJ0ZXh0OiA8ZGVzaXJlZCBzdWJ0ZXh0IGhlcmU+CiMgICAgIC0gbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAgICAgICBzdWJ0ZXh0OiA8ZGVzaXJlZCBzdWJ0ZXh0IGhlcmU+CgojIE9wdGlvbmFsOiBjb25maWd1cmF0aW9uIGZvciB0aGUgc3VibWl0IGZlZWRiYWNrIHNlY3Rpb24KIyAgIGZlYXR1cmVfbmFtZSAtIGluY2x1ZGVkIGluIHRoZSBzdWJqZWN0IC8gZW1haWwgYWRkcmVzcyBvZiB0aGUgZmVlZGJhY2sgZW1haWwKIyBmZWVkYmFjazogPGZlYXR1cmUgbmFtZT4KIyAtIG9yIC0KIyBmZWVkYmFjazoKIyAgIGZlYXR1cmVfbmFtZTogPGZlYXR1cmUgbmFtZT4KIyAgIGNjOiA8ZW1haWwgYWRkcmVzcz4gKFRoaXMgbGluZSBpcyBvcHRpb25hbCkKCiMgT3B0aW9uYWw6IGNvbmZpZ3VyYXRpb24gZm9yIHRoZSBmZWF0dXJlIHRvdXIKIyAgIGxpbms6IHVybCB0byB0aGUgdG91ciBvciB0aGUgbmFtZSBvZiBhIG1ldGhvZCBpbiBXZWJDb21tb25Ib29rczo6V2hhdHNOZXdJbnRlcnBvbGF0aW9ucwojICAgICAgICAgd2hpY2ggaXMgZXhlY3V0ZWQgYXQgcnVudGltZSBmb3IgZWFjaCB1c2VyICh1c2VmdWwgdG8gaGFuZGxlIHZlcmItYmFzZWQgc2VjdXJpdHkpCiMgc2hvd19tZTogPHVybD4KIyAtIG9yIC0KIyBzaG93X21lOgojICAgbGluazogPHVybHxtZXRob2QgbmFtZT4KCiMgT3B0aW9uYWw6IG9ubHkgc2hvdyB0aGlzIHdoYXQncyBuZXcgd2hlbiB0aGUgdXNlciBpcyBhIEFQTSBwbHVzIHVzZXIsIGRlZmF1bHRzIHRvIGZhbHNlCiMgcGx1c191c2VyX29ubHk6IDx0cnVlfGZhbHNlPgo=</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdwKG1zbyosTm9ybWFsKSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICsgICAgICA8cD48Yj5QbGVhc2Ugbm90ZSB0aGF0IGlmIHlvdSBoYXZlIHRoZSBPd25lciBTdGF0ZW1lbnQgKEVuaGFuY2VkKSBpbmNsdWRlZCBpbiB0aGUgT3duZXIgUGFja2V0IGZvciBhbnkgb3duZXIgaXQgd2lsbCBub3QgYmUgcmVtb3ZlZCB1bmxlc3MgeW91IGRvIHNvIG1hbnVhbGx5LjwvYj48L3A+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
+      <register name="4" type="4">
+        <text>Our development team is actively working on improvements to the Owner Statement format in a new version called Owner Statement (Enhanced). 
+   To turn this on for your company</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8JSBpZiAld1t0ZW5hbnQgYXNzb2NpYXRpb25dLmluY2x1ZGU/IEBsZXR0ZXJfdHlwZSAlPgo=</text>
+        <text encoding="base64">CiMgT3B0aW9uYWw6IG9ubHkgc2hvdyB0aGlzIHdoYXRzIG5ldyB3aGVuIHRoZSBzcGVjaWZpZWQgZXhwZXJpbWVudCBpcyBlbmFibGVkIC8gZGlzYWJsZWQKIyBleHBlcmltZW50OiA8ZXhwZXJpbWVudCBuYW1lPgojIC0gb3IgLQojIGV4cGVyaW1lbnQ6CiMgICA8ZXhwZXJpbWVudCBuYW1lPjogPHRydWV8ZmFsc2U+CgojIE9wdGlvbmFsOiBjb25maWd1cmF0aW9uIGZvciB0aGUgbGVhcm4gbW9yZSBzZWN0aW9uCiMgICBsaW5rOiBsaW5rIG9yIHRoZSBuYW1lIG9mIGEgbWV0aG9kIGluIFdlYkNvbW1vbkhvb2tzOjpXaGF0c05ld0ludGVycG9sYXRpb25zCiMgICAgICAgICB3aGljaCBpcyBleGVjdXRlZCBhdCBydW50aW1lIGZvciBlYWNoIHVzZXIgKHVzZWZ1bCB0byBoYW5kbGUgdmVyYi1iYXNlZCBzZWN1cml0eSkuCiMgICAgICAgICBEbyBub3QgaW5jbHVkZSBkaXJlY3QgbGlua3MgdG8gdGhlIGhlbHAgc2l0ZSwgcmF0aGVyIGltcGxlbWVudCBhIG1ldGhvZCBpbgojICAgICAgICAgV2ViQ29tbW9uSG9va3M6OldoYXRzTmV3SW50ZXJwb2xhdGlvbnMgdG8gdXNlIFdlYkNvbW1vbjo6SGVscFVybEJ1aWxkZXIuYnVpbGRfc3NvX3VybC4KIyAgIGxpbmtzOiBhIGNvbGxlY3Rpb24gb2YgbGlua3MsIGVhY2ggd2l0aCBhIGxpbmsgYW5kIHN1YnRleHQga2V5LiBUaGUgbGluayBrZXkgZm9sbG93cyB0aGUgc2FtZQojICAgICAgICAgIGd1aWRlbGluZXMgb3V0bGluZWQgYWJvdmUsIHdoaWxlIHRoZSBzdWJ0ZXh0IGtleSBpcyBqdXN0IGludGVuZGVkIHRvIGJlIGEgc2ltcGxlCiMgICAgICAgICAgZGVzY3JpcHRpb24gb2Ygd2hhdCB0aGUgbGluayBpcyBmb3IuIFRoZSBzdWJ0ZXh0IHdpbGwgYmUgZGlzcGxheWVkIGFmdGVyIHRoZSB3b3JkcwojICAgICAgICAgICJMZWFybiBNb3JlIi4gRm9yIGV4YW1wbGUsIGlmIHRoZSBzdWJ0ZXh0IGlzIFNjaGVkdWxpbmcgU2hvd2luZ3MsIHRoZSBsaW5rIHdpbGwKIyAgICAgICAgICBkaXNwbGF5IGFzICJMZWFybiBNb3JlOiBTY2hlZHVsaW5nIFNob3dpbmdzIi4gVGhlIHN1YnRleHQga2V5IGlzIHJlcXVpcmVkIHdoZW4gdXNpbmcKIyAgICAgICAgICB0aGlzIGxpbmtzIGNvbGxlY3Rpb24uCiMgbGVhcm5fbW9yZTogPHVybHxtZXRob2QgbmFtZT4KIyAtIG9yIC0KIyBsZWFybl9tb3JlOgojICAgbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAtIG9yIC0KIyBsZWFybl9tb3JlOgojICAgbGlua3M6CiMgICAgIC0gbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAgICAgICBzdWJ0ZXh0OiA8ZGVzaXJlZCBzdWJ0ZXh0IGhlcmU+CiMgICAgIC0gbGluazogPHVybHxtZXRob2QgbmFtZT4KIyAgICAgICBzdWJ0ZXh0OiA8ZGVzaXJlZCBzdWJ0ZXh0IGhlcmU+CgojIE9wdGlvbmFsOiBjb25maWd1cmF0aW9uIGZvciB0aGUgc3VibWl0IGZlZWRiYWNrIHNlY3Rpb24KIyAgIGZlYXR1cmVfbmFtZSAtIGluY2x1ZGVkIGluIHRoZSBzdWJqZWN0IC8gZW1haWwgYWRkcmVzcyBvZiB0aGUgZmVlZGJhY2sgZW1haWwKIyBmZWVkYmFjazogPGZlYXR1cmUgbmFtZT4KIyAtIG9yIC0KIyBmZWVkYmFjazoKIyAgIGZlYXR1cmVfbmFtZTogPGZlYXR1cmUgbmFtZT4KIyAgIGNjOiA8ZW1haWwgYWRkcmVzcz4gKFRoaXMgbGluZSBpcyBvcHRpb25hbCkKCiMgT3B0aW9uYWw6IGNvbmZpZ3VyYXRpb24gZm9yIHRoZSBmZWF0dXJlIHRvdXIKIyAgIGxpbms6IHVybCB0byB0aGUgdG91ciBvciB0aGUgbmFtZSBvZiBhIG1ldGhvZCBpbiBXZWJDb21tb25Ib29rczo6V2hhdHNOZXdJbnRlcnBvbGF0aW9ucwojICAgICAgICAgd2hpY2ggaXMgZXhlY3V0ZWQgYXQgcnVudGltZSBmb3IgZWFjaCB1c2VyICh1c2VmdWwgdG8gaGFuZGxlIHZlcmItYmFzZWQgc2VjdXJpdHkpCiMgc2hvd19tZTogPHVybD4KIyAtIG9yIC0KIyBzaG93X21lOgojICAgbGluazogPHVybHxtZXRob2QgbmFtZT4KCiMgT3B0aW9uYWw6IG9ubHkgc2hvdyB0aGlzIHdoYXQncyBuZXcgd2hlbiB0aGUgdXNlciBpcyBhIEFQTSBwbHVzIHVzZXIsIGRlZmF1bHRzIHRvIGZhbHNlCiMgcGx1c191c2VyX29ubHk6IDx0cnVlfGZhbHNlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHAgQGRvY3VtZW50X3RlbXBsYXRlLmNsYXNzLmF2YWlsYWJsZV9yZXBvcnRzCg==</text>
+        <text encoding="base64">ICAgICsgICAgICA8cD48Yj5QbGVhc2Ugbm90ZSB0aGF0IGlmIHlvdSBoYXZlIHRoZSBPd25lciBTdGF0ZW1lbnQgKEVuaGFuY2VkKSBpbmNsdWRlZCBpbiB0aGUgT3duZXIgUGFja2V0IGZvciBhbnkgb3duZXIgaXQgd2lsbCBub3QgYmUgcmVtb3ZlZCB1bmxlc3MgeW91IGRvIHNvIG1hbnVhbGx5LjwvYj48L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aW55bWNlOiAwCg==</text>
+        <text encoding="base64">ICA8JSBlbmQgJT4K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGl2ZV9kaXNwb3NpdGlvbl9uYXZfdGFiPyhwYXJhbXMpID8gJ2FjdGl2ZScgOiAnJwo=</text>
+        <text encoding="base64">ICA8JSBpZiAld1t0ZW5hbnQgYXNzb2NpYXRpb25dLmluY2x1ZGU/IEBsZXR0ZXJfdHlwZSAlPgo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYWN0aXZlX2Rpc3Bvc2l0aW9uX25hdl90YWI/KHBhcmFtcykKICAgIGNvbnRyb2xsZXIgPSBwYXJhbXNbOmNvbnRyb2xsZXJdCiAgICBpZiBjb250cm9sbGVyID09IExPV19TQ09SRV9DT05UUk9MTEVSCiAgICAgIGlmIHBhcmFtc1s6YWN0aW9uXSA9PSAnZWRpdCcKICAgICAgICBDcmltaW5hbExvd1Njb3JlLmZpbmRfYnlfaWQocGFyYW1zWzppZF0pJi5jcmltaW5hbF90eXBlID09CiAgICAgICAgICBDcmltaW5hbExvd1Njb3JlOjpMT1dfU0NPUkVfQ1JJTUlOQUxfRElTUE9TSVRJT04KICAgICAgZWxzZQogICAgICAgIHBhcmFtc1s6Y3JpbWluYWxfdHlwZV0gPT0gJ0NyaW1pbmFsRGlzcG9zaXRpb24nCiAgICAgIGVuZAogICAgZWxzZQogICAgICBDUklNSU5BTF9ESVNQT1NJVElPTl9DT05UUk9MTEVSUy5pbmNsdWRlPyhjb250cm9sbGVyKQogICAgZW5kCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgcHAgQGRvY3VtZW50X3RlbXBsYXRlLmNsYXNzLmF2YWlsYWJsZV9yZXBvcnRzCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -676,9 +690,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRhY2hlZF9yZXBvcnRcPg==</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRhY2hlZF9yZXBvcnRcPg==</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -686,9 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3dfc2NvcmVfb2ZmZW5zZV9kZXNjcmlwdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxzaW5nbGVfbG93X3Njb3JlX29mZmVuc2VfZGVzY3JpcHRpb25cPg==</entry>
-        <entry>version</entry>
         <entry>just</entry>
         <entry encoding="base64">XDxkb2N1bWVudF90ZW1wbGF0ZV9ib2R5XD4=</entry>
         <entry encoding="base64">XDxpbnN0YW5jZXNcPg==</entry>
@@ -696,7 +707,6 @@
         <entry>s</entry>
         <entry>text-align</entry>
         <entry encoding="base64">XDx1cGdyYWRlX3NjcmVlbmluZ19wYWNrYWdlXD4=</entry>
-        <entry>image</entry>
         <entry>Report</entry>
         <entry>att</entry>
         <entry>attac</entry>
@@ -706,6 +716,10 @@
         <entry>cked</entry>
         <entry>test_edit</entry>
         <entry encoding="base64">XDxhdHRhY2hlZF9yZXBvcnRcPg==</entry>
+        <entry>file</entry>
+        <entry encoding="base64">XDxleHRyYUFsbG93ZWRDb250ZW50XD4=</entry>
+        <entry>content</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvL3N0cm9uZz4vL2c=</entry>
