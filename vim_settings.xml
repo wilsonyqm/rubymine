@@ -473,12 +473,12 @@
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="73" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520366886465">
-        <mark key="'" line="81" column="19" />
-        <mark key="[" line="35" column="59" />
-        <mark key="]" line="35" column="59" />
-        <mark key="." line="35" column="59" />
-        <mark key="^" line="35" column="29" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520372209309">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="22" />
+        <mark key="." line="101" column="22" />
+        <mark key="^" line="101" column="22" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_fail_presenter_test.rb" timestamp="1520019969263">
         <mark key="[" line="92" column="25" />
@@ -516,10 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="64" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_low_scores_controller.rb" />
-      <jump line="53" column="6" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_low_scores_controller.rb" />
-      <jump line="55" column="23" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_low_scores_controller.rb" />
-      <jump line="6" column="24" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_low_scores_controller.rb" />
       <jump line="82" column="6" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" />
       <jump line="50" column="11" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" />
       <jump line="50" column="22" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_dispositions_controller.rb" />
@@ -590,7 +586,6 @@
       <jump line="61" column="23" filename="$USER_HOME$/src/appfolio-react-template/package.json" />
       <jump line="21" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="12" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="85" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="40" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" />
       <jump line="44" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" />
@@ -616,13 +611,18 @@
       <jump line="59" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="62" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="81" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="87" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="94" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="106" column="121" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="100" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MERGE_FIELDS</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -652,46 +652,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>rent</text>
+        <text encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>tenant_agent_company_name</text>
+        <text>MERGE_FIELDS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICdvY2N1cGFuY3kudGVuYW50X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgICA9PiAnVGVuYW50IEFnZW50IENvbXBhbnkgTmFtZScsCiAgICAgICAgICAnb2NjdXBhbmN5LnByb3BlcnR5X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgPT4gJ1Byb3BlcnR5IEFnZW50IENvbXBhbnkgTmFtZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnRlbmFudF9hZ2VudF9jb21wYW55X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICdvY2N1cGFuY3kudGVuYW50X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgICA9PiAnVGVuYW50IEFnZW50IENvbXBhbnkgTmFtZScsCiAgICAgICAgICAnb2NjdXBhbmN5LnByb3BlcnR5X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgPT4gJ1Byb3BlcnR5IEFnZW50IENvbXBhbnkgTmFtZScsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnRlbmFudF9hZ2VudF9jb21wYW55X25hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnRlbmFudF9hZ2VudF9jb21wYW55X25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZ2VudF9vZl9yZWNvcmQudG9fcwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZ2VudF9vZl9yZWNvcmQudG9fcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXR0ZXJfY29tcG9zaXRpb24vbWVyZ2VfZmllbGRzL21lcmdlX2ZpZWxkX21lbnVfZGF0YS9jb21wb25lbnQuanMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXR0ZXJfY29tcG9zaXRpb24vbWVyZ2VfZmllbGRzL21lcmdlX2ZpZWxkX21lbnVfZGF0YS9jb21wb25lbnQuanMK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIGRlZiB0ZW5hbnRfY29udGFjdF9pbmZvCiAgICAgICAgaC5yZW5kZXIgcGFydGlhbDogJ21lcmdlX2ZpZWxkcy90ZW5hbnRfY29udGFjdF9pbmZvJywgbG9jYWxzOiB7IHRlbmFudHM6IG1vZGVsLnRlbmFudHMubm9uX2hpZGRlbiB9CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -704,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rent</last-search>
+      <last-search encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</last-search>
       <last-offset />
-      <last-pattern>rent</last-pattern>
+      <last-pattern encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -719,11 +719,9 @@
         <entry>util</entry>
         <entry encoding="base64">XDx0ZW5hbnRfY29udGFjdF9pbmZvXD4=</entry>
         <entry>attachment</entry>
-        <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
         <entry encoding="base64">XDxtZXJnZV9maWVsZF9rZXlzXD4=</entry>
         <entry encoding="base64">XDxsaXF1aWRfbWVyZ2VfZmllbGRfcmVnZXhwXD4=</entry>
         <entry encoding="base64">XDxCTE9DS19NRVJHRV9GSUVMRFNcPg==</entry>
-        <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
         <entry>plus</entry>
         <entry encoding="base64">XDxsZWFzZV9hZGRlbmR1bV90ZW1wbGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxlbWVyZ2VuY3lfY29udGFjdHNcPg==</entry>
@@ -734,6 +732,8 @@
         <entry>tenant</entry>
         <entry>Activation</entry>
         <entry>rent</entry>
+        <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
+        <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
