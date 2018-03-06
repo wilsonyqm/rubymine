@@ -56,6 +56,12 @@
         <mark key="]" line="25" column="18" />
         <mark key="." line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_lease_edit.html.erb" timestamp="1520375580820">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1520361932963">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="74" />
@@ -340,11 +346,11 @@
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/assets/javascripts/letter_composition/merge_fields/merge_field_menu_data/component.js.erb" timestamp="1520364013687">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/assets/javascripts/letter_composition/merge_fields/merge_field_menu_data/component.js.erb" timestamp="1520373098352">
+        <mark key="[" line="11" column="118" />
+        <mark key="]" line="11" column="137" />
+        <mark key="." line="11" column="137" />
+        <mark key="^" line="11" column="137" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1520029689603">
         <mark key="[" line="99" column="0" />
@@ -406,7 +412,13 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" timestamp="1520364522580" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" timestamp="1520375511929">
+        <mark key="'" line="121" column="10" />
+        <mark key="[" line="37" column="118" />
+        <mark key="]" line="37" column="118" />
+        <mark key="." line="37" column="118" />
+        <mark key="^" line="37" column="118" />
+      </file>
       <file name="$USER_HOME$/src/screenings_app/test/services/decisions/update_fuzzy_match_data_service_test.rb" timestamp="1518558853607">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -473,19 +485,19 @@
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="73" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520372209309">
-        <mark key="'" line="100" column="12" />
-        <mark key="[" line="101" column="22" />
-        <mark key="]" line="101" column="22" />
-        <mark key="." line="101" column="22" />
-        <mark key="^" line="101" column="22" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520375017085">
+        <mark key="'" line="106" column="41" />
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="73" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/rule_result_fail_presenter_test.rb" timestamp="1520019969263">
         <mark key="[" line="92" column="25" />
         <mark key="]" line="92" column="25" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520365616507">
+      <file name="/Dummy.txt" timestamp="1520375512427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -516,12 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="6" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" />
-      <jump line="50" column="11" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_offenses_controller.rb" />
-      <jump line="50" column="22" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_dispositions_controller.rb" />
-      <jump line="51" column="4" filename="$USER_HOME$/src/zoology_app/app/controllers/criminal_dispositions_controller.rb" />
-      <jump line="54" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/screening_subject_decorator.rb" />
-      <jump line="7" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/full_decision_result_selector.rb" />
       <jump line="66" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/services/screenings/decisions/full_decision_result_selector.rb" />
       <jump line="99" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/screening_subject_decorator_test.rb" />
       <jump line="11" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/screening_subject_decorator.rb" />
@@ -614,15 +620,21 @@
       <jump line="87" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="94" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="106" column="121" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="100" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="108" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="16" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="109" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="106" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
+      <jump line="95" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
+      <jump line="87" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
+      <jump line="121" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MERGE_FIELDS</text>
+        <text>occupancy</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -649,49 +661,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>occupancy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</text>
+        <text encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>MERGE_FIELDS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICdvY2N1cGFuY3kucGV0cycgICAgICAgICAgICAgICAgICAgICAgICA9PiBlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rKCdBZGQgUGV0cycsICdvY2N1cGFuY3lfcGV0cycsICcuanMtcGV0LXJvdycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICdvY2N1cGFuY3kudGVuYW50X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgICA9PiAnVGVuYW50IEFnZW50IENvbXBhbnkgTmFtZScsCiAgICAgICAgICAnb2NjdXBhbmN5LnByb3BlcnR5LnByb3BlcnR5X2FnZW50X2NvbXBhbnlfbmFtZScgPT4gJ1Byb3BlcnR5IEFnZW50IENvbXBhbnkgTmFtZScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICdvY2N1cGFuY3kudGVuYW50X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgICA9PiAnVGVuYW50IEFnZW50IENvbXBhbnkgTmFtZScsCiAgICAgICAgICAnb2NjdXBhbmN5LnByb3BlcnR5X2FnZW50X2NvbXBhbnlfbmFtZScgICAgICAgICAgPT4gJ1Byb3BlcnR5IEFnZW50IENvbXBhbnkgTmFtZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnRlbmFudF9hZ2VudF9jb21wYW55X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnRlbmFudF9hZ2VudF9jb21wYW55X25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE1FUkdFX0ZJRUxEUwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZ2VudF9vZl9yZWNvcmQudG9fcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICFDb21wYW55LnNldHRpbmdzLnBsdXNfdXNlcj8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXR0ZXJfY29tcG9zaXRpb24vbWVyZ2VfZmllbGRzL21lcmdlX2ZpZWxkX21lbnVfZGF0YS9jb21wb25lbnQuanMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyAnTWVyZ2UgRmllbGRzJyA9PiBtZXJnZV9maWVsZHNfZm9yX3VzZXIgfQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeydNZXJnZSBGaWVsZHMnID0+IH0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -704,9 +716,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</last-search>
+      <last-search encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -714,11 +726,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3000</entry>
-        <entry>main</entry>
-        <entry>util</entry>
-        <entry encoding="base64">XDx0ZW5hbnRfY29udGFjdF9pbmZvXD4=</entry>
-        <entry>attachment</entry>
         <entry encoding="base64">XDxtZXJnZV9maWVsZF9rZXlzXD4=</entry>
         <entry encoding="base64">XDxsaXF1aWRfbWVyZ2VfZmllbGRfcmVnZXhwXD4=</entry>
         <entry encoding="base64">XDxCTE9DS19NRVJHRV9GSUVMRFNcPg==</entry>
@@ -732,8 +739,13 @@
         <entry>tenant</entry>
         <entry>Activation</entry>
         <entry>rent</entry>
-        <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
         <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
+        <entry encoding="base64">XDxGaWVsZHNcPg==</entry>
+        <entry encoding="base64">XDxBUE1fUExVU19NRVJHRV9GSUVMRFNcPg==</entry>
+        <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9hbmNob3JfdG9fb3Blbl9ibG9ja19lZGl0X2FuZF9oaWdobGlnaHRfZmllbGRzXD4=</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eV9saW5rXD4=</entry>
+        <entry encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
