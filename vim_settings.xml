@@ -167,9 +167,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/src/App.js" timestamp="1520381189766">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
+      <file name="$USER_HOME$/src/excel_integration_app/src/App.js" timestamp="1520448057511">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="41" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
@@ -178,7 +179,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/api-helper.js" timestamp="1520390432855">
+      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/api-helper.js" timestamp="1520447471323">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -282,11 +283,11 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520412962658">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="100" />
-        <mark key="." line="19" column="100" />
-        <mark key="^" line="19" column="100" />
+      <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520448027152">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" timestamp="1520376766953">
         <mark key="'" line="0" column="0" />
@@ -474,11 +475,8 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" timestamp="1520412886470">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="35" column="11" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" timestamp="1520447399544">
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/config/initializers/simple_form.rb" timestamp="1516839557527">
         <mark key="[" line="0" column="0" />
@@ -569,7 +567,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/services/search/search_field/property_and_list_search.rb" timestamp="1520410799760" />
     </filemarks>
     <jumps>
-      <jump line="87" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="660" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="679" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="110" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
@@ -669,13 +666,14 @@
       <jump line="21" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
       <jump line="13" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
       <jump line="83" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
+      <jump line="18" column="2" filename="$USER_HOME$/src/excel_integration_app/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.state.value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICB3aW5kb3cuRXhjZWwucnVuKGZ1bmN0aW9uIChjb250ZXh0KSB7Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -702,49 +700,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.value</text>
+        <text>.body</text>
       </register>
       <register name="/" type="4">
-        <text>user_id</text>
+        <text encoding="base64">XDxjcmVhdGVUYWJsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>@metadata</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICB3aW5kb3cuRXhjZWwucnVuKGZ1bmN0aW9uIChjb250ZXh0KSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBAbWV0YWRhdGEK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJSEknKTsK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ05PJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGF0YTogcmVzcG9uc2UuanNvbigpfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vdXRwdXQgPSByZXNwb25zZS5ib2R5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJSEknKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZShleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcCBAbWV0YWRhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmV0Y2ggfSBmcm9tICdqcy11dGlscy1hcG0vZGlzdC9hcGkvaW5kZXguanMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcCAK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldCh0aGlzLnN0YXRlLnZhbHVlKS50aGVuKChyZXNwb25zZSkgPT4gewogICAgICBkb2N1bWVudC53cml0ZSgnSEknKTsKICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGF0YTogcmVzcG9uc2V9KTsKICAgIH0pLmNhdGNoKChyZXNwb25zZSkgPT4gewogICAgICBpZiAocmVzcG9uc2Uuc3RhdHVzID09PSAzMDIpIHsKICAgICAgICB0aGlzLmVycm9yTWVzc2FnZSA9ICdUaGlzIHByb3BlcnR5IGlzIG5vdCBlbnJvbGxlZCBmb3IgTGVhc2luZyBDb250YWN0IENlbnRlci4nOwogICAgICB9CiAgICAgIHRoaXMuZXJyb3JNZXNzYWdlID0gcmVzcG9uc2UuZGF0YTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJSEknKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGF0YTogcmVzcG9uc2UuanNvbigpfSk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -757,9 +755,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user_id</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVUYWJsZVw+</last-search>
       <last-offset />
-      <last-pattern>user_id</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVUYWJsZVw+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -767,7 +765,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXRlX2ZlZV9ydWxlXD4=</entry>
         <entry encoding="base64">XDxsYXRlX2ZlZV9kYWlseVw+</entry>
         <entry>late_fee_dail</entry>
         <entry encoding="base64">XDxhZ2VudF9vZl9yZWNvcmRcPg==</entry>
@@ -787,6 +784,7 @@
         <entry>ssl</entry>
         <entry>auto</entry>
         <entry>user_id</entry>
+        <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
