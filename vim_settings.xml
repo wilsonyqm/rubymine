@@ -271,11 +271,18 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="26" column="6" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520384758808">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="13" />
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" timestamp="1520387008013">
+        <mark key="'" line="79" column="10" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520386720379">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="54" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/config/settings/base.yml" timestamp="1518550266548">
         <mark key="[" line="25" column="0" />
@@ -444,6 +451,7 @@
         <mark key="." line="31" column="69" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/registerServiceWorker.js" timestamp="1520290406279" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/helpers/reports/integrated_reports_helper.rb" timestamp="1520386814500" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/bankruptcy_rule_decorator.rb" timestamp="1515441150726">
         <mark key="[" line="4" column="131" />
         <mark key="]" line="4" column="132" />
@@ -478,7 +486,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/property_decorator.rb" timestamp="1520377447326">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520381049218">
+      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520386142728">
         <mark key="[" line="58" column="59" />
         <mark key="]" line="58" column="57" />
         <mark key="." line="58" column="57" />
@@ -496,6 +504,7 @@
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
+      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/dist/api/index.js" timestamp="1520386359277" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/presenters/screenings/decisions/bankruptcy_rule_presenter_test.rb" timestamp="1515452726825">
         <mark key="[" line="23" column="73" />
         <mark key="]" line="23" column="73" />
@@ -513,7 +522,7 @@
         <mark key="]" line="92" column="25" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520385053911">
+      <file name="/Dummy.txt" timestamp="1520387131945">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -545,10 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/screening_subject_decorator_test.rb" />
-      <jump line="11" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/screening_subject_decorator.rb" />
-      <jump line="6" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/screening_subject_decorator.rb" />
-      <jump line="262" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/test/decorators/screenings/screening_subject_decorator_test.rb" />
       <jump line="629" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/config/locales/en.yml" />
       <jump line="683" column="190" filename="$USER_HOME$/src/apm_bundle/apps/property/config/locales/en.yml" />
       <jump line="3" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/screening_subject_decorator.rb" />
@@ -645,13 +650,17 @@
       <jump line="121" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
       <jump line="127" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
       <jump line="75" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/merge_url_helper_test.rb" />
+      <jump line="37" column="10" filename="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" />
+      <jump line="80" column="8" filename="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" />
+      <jump line="47" column="1" filename="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" />
+      <jump line="79" column="10" filename="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
       <register name="&quot;" type="4">
-        <text>key:</text>
+        <text encoding="base64">b3B0aW9uc1s6cHJvdG9jb2xdIHx8IChSYWlscy5lbnYucHJvZHVjdGlvbj8gPyA=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -678,49 +687,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>key:</text>
+        <text encoding="base64">b3B0aW9uc1s6cHJvdG9jb2xdIHx8IChSYWlscy5lbnYucHJvZHVjdGlvbj8gPyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3RlZF9zdGFuZGFyZF9tYXBwaW5nX2Zvcl9tb3ZlX2luX2Zsb3dcPg==</text>
+        <text>ssl</text>
       </register>
       <register name="0" type="4">
-        <text>@results</text>
+        <text>this.state.value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGF0YTogcmVzcG9uc2V9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LndyaXRlKHRoaXMuc3RhdGUudmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50LndyaXRlKHRoaXMuc3RhdGUudmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe2RhdGE6IGRhdGF9KTsK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5pbnRlcmVzdFJvdy5zZXRTZWxlY3RlZEludGVyZXN0KG5ldyBJbnRlcmVzdChyZXNwb25zZSkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuc3RhdGUuZGF0YSAhPT0gJycpCiAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5yYXcodGhpcy5zdGF0ZS5kYXRhKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgcmV0dXJuICdlbXB0eScK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7ZGF0YTogcmVzcG9uc2V9KTsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCdUaGUgdXJsIHdhcyBzdWJtaXR0ZWQ6ICcgKyB0aGlzLnN0YXRlLnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -733,9 +742,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBlY3RlZF9zdGFuZGFyZF9tYXBwaW5nX2Zvcl9tb3ZlX2luX2Zsb3dcPg==</last-search>
+      <last-search>ssl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3RlZF9zdGFuZGFyZF9tYXBwaW5nX2Zvcl9tb3ZlX2luX2Zsb3dcPg==</last-pattern>
+      <last-pattern>ssl</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -743,9 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXF1aWRfbWVyZ2VfZmllbGRfcmVnZXhwXD4=</entry>
-        <entry encoding="base64">XDxCTE9DS19NRVJHRV9GSUVMRFNcPg==</entry>
-        <entry>plus</entry>
         <entry encoding="base64">XDxsZWFzZV9hZGRlbmR1bV90ZW1wbGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxlbWVyZ2VuY3lfY29udGFjdHNcPg==</entry>
         <entry encoding="base64">XDxsYXRlX2ZlZV9ydWxlXD4=</entry>
@@ -763,6 +769,9 @@
         <entry encoding="base64">XDxwcm9wZXJ0eV9saW5rXD4=</entry>
         <entry encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9zdGFuZGFyZF9tYXBwaW5nX2Zvcl9tb3ZlX2luX2Zsb3dcPg==</entry>
+        <entry encoding="base64">XDx1cmlfZm9yXD4=</entry>
+        <entry encoding="base64">XDxkZWZhdWx0X3VyaVw+</entry>
+        <entry>ssl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
