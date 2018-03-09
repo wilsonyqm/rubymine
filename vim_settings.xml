@@ -23,6 +23,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" timestamp="1520029077541">
+        <mark key="'" line="87" column="22" />
+      </file>
       <file name="$USER_HOME$/src/appfolio-react-template/dev_server.js" timestamp="1520292677995">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="16" />
@@ -63,6 +66,9 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/client/leasing_contact_center/src/components/selectable-interest-row.js" timestamp="1520384071976" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/api/property.js" timestamp="1520410816352" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" timestamp="1520362377877">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/blank_merge_fields_modal/component.js" timestamp="1520364453308" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" timestamp="1520412567000">
         <mark key="'" line="83" column="39" />
@@ -87,6 +93,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="19" column="45" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" timestamp="1520376766953">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/public/index.html" timestamp="1520295030914">
         <mark key="'" line="11" column="4" />
@@ -146,6 +155,9 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1520390698416">
+        <mark key="'" line="240" column="12" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/index.js" timestamp="1520451155069" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" timestamp="1520461430422">
         <mark key="'" line="36" column="26" />
@@ -179,7 +191,7 @@
         <mark key="." line="13" column="73" />
         <mark key="^" line="13" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520556960110">
+      <file name="/Dummy.txt" timestamp="1520557628306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -187,7 +199,16 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" timestamp="1520364877533">
         <mark key="'" line="44" column="5" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1520364692609">
+        <mark key="'" line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/test/browser.js" timestamp="1520453342293" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" timestamp="1520558064552">
+        <mark key="'" line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" timestamp="1520027584409">
+        <mark key="'" line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/merge_url_helper_test.rb" timestamp="1520378576409">
         <mark key="'" line="75" column="10" />
         <mark key="[" line="96" column="114" />
@@ -203,7 +224,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/services/search/search_field/property_and_list_search.rb" timestamp="1520410799760" />
     </filemarks>
     <jumps>
-      <jump line="614" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="680" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="299" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="111" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
@@ -303,6 +323,7 @@
       <jump line="86" column="9" filename="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/api-helper.js" />
       <jump line="36" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/app/controllers/web_common/feedbacks_controller.rb" />
+      <jump line="32" column="2" filename="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -339,7 +360,7 @@
         <text>records</text>
       </register>
       <register name="/" type="4">
-        <text>oauth</text>
+        <text encoding="base64">XDxhc3luY1w+</text>
       </register>
       <register name="0" type="4">
         <text>response</text>
@@ -391,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>oauth</last-search>
+      <last-search encoding="base64">XDxhc3luY1w+</last-search>
       <last-offset />
-      <last-pattern>oauth</last-pattern>
+      <last-pattern encoding="base64">XDxhc3luY1w+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -401,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Activation</entry>
-        <entry>rent</entry>
         <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
         <entry encoding="base64">XDxGaWVsZHNcPg==</entry>
         <entry encoding="base64">XDxBUE1fUExVU19NRVJHRV9GSUVMRFNcPg==</entry>
@@ -421,6 +440,8 @@
         <entry encoding="base64">XDxjaGVja1Jlc3BvbnNlU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry>oauth</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
+        <entry encoding="base64">XDxhc3luY1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
