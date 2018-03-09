@@ -3,14 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/appfolio-react-template/public/index.html" timestamp="1520295030914">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="13" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.js" timestamp="1520295169356">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_extensions_controller.rb" timestamp="1520364604601" />
-      <file name="$USER_HOME$/src/excel_integration_app/src/index.html" timestamp="1520295116600" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" timestamp="1520376927645">
+        <mark key="'" line="127" column="37" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="75" />
+        <mark key="." line="129" column="8" />
+        <mark key="^" line="127" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/assets/javascripts/letter_composition/merge_fields/merge_field_menu_data/component.js.erb" timestamp="1520373098352">
+        <mark key="[" line="11" column="118" />
+        <mark key="]" line="11" column="137" />
+        <mark key="." line="11" column="137" />
+        <mark key="^" line="11" column="137" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_lease_edit.html.erb" timestamp="1520375580820">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="56" />
@@ -26,28 +44,58 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" timestamp="1520029077541">
         <mark key="'" line="87" column="22" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1520556806670">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/src/appfolio-react-template/dev_server.js" timestamp="1520292677995">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/api/lease_expiration_data.js" timestamp="1520410841152" />
       <file name="$USER_HOME$/src/excel_integration_app/public/index.html" timestamp="1520295123280">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_addendum_template.rb" timestamp="1520364704809" />
+      <file name="$USER_HOME$/src/appfolio-react-template/appfolio-manifest.xml" timestamp="1520292415233">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="121" column="76" />
+        <mark key="]" line="121" column="79" />
+        <mark key="." line="121" column="79" />
+        <mark key="^" line="121" column="79" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" timestamp="1520378530799">
+        <mark key="'" line="121" column="10" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="149" />
+        <mark key="." line="37" column="118" />
+        <mark key="^" line="37" column="118" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_merge_fields_validator.rb" timestamp="1520364836483">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" timestamp="1520453077910" />
-      <file name="/merge_field.rb" timestamp="1520366116964" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/accounting/src/components/journal_entry/Errors.js" timestamp="1520384849961" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/helpers/reports/integrated_reports_helper.rb" timestamp="1520412232976">
+        <mark key="[" line="10" column="86" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1520390698416">
+        <mark key="'" line="240" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1520623506852">
+        <mark key="'" line="48" column="9" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/App.js" timestamp="1520448057511">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="19" column="0" />
@@ -55,21 +103,73 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" timestamp="1520461430422">
+        <mark key="'" line="36" column="26" />
+        <mark key="[" line="34" column="94" />
+        <mark key="]" line="35" column="60" />
+        <mark key="." line="35" column="60" />
+        <mark key="^" line="35" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/property_decorator.rb" timestamp="1520377447326">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/api-helper.js" timestamp="1520451820978">
         <mark key="'" line="86" column="9" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520410477693">
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
+        <mark key="^" line="58" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/appfolio-react-template/resource.html" timestamp="1520292582052">
+        <mark key="[" line="50" column="67" />
+        <mark key="]" line="50" column="70" />
+        <mark key="." line="50" column="70" />
+        <mark key="^" line="50" column="70" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520375017085">
+        <mark key="'" line="106" column="41" />
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/app/controllers/web_common/feedbacks_controller.rb" timestamp="1520549420707">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/leasing_contact_center/src/components/selectable-interest-row.js" timestamp="1520384071976" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/api/property.js" timestamp="1520410816352" />
+      <file name="/Dummy.txt" timestamp="1520624218140">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" timestamp="1520364877533">
+        <mark key="'" line="44" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1520364692609">
+        <mark key="'" line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1520624217928" />
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520623456006" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" timestamp="1520558064552">
+        <mark key="'" line="32" column="2" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" timestamp="1520362377877">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/blank_merge_fields_modal/component.js" timestamp="1520364453308" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" timestamp="1520027584409">
+        <mark key="'" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/merge_url_helper_test.rb" timestamp="1520378576409">
+        <mark key="'" line="75" column="10" />
+        <mark key="[" line="96" column="114" />
+        <mark key="]" line="96" column="114" />
+        <mark key="." line="96" column="114" />
+        <mark key="^" line="96" column="114" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" timestamp="1520412567000">
         <mark key="'" line="83" column="39" />
       </file>
@@ -80,7 +180,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="$USER_HOME$/src/appfolio-react-template/src/vendor.ts" timestamp="1520290311979" />
+      <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" timestamp="1520387008013">
         <mark key="'" line="79" column="10" />
         <mark key="[" line="48" column="34" />
@@ -97,134 +201,8 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" timestamp="1520376766953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/appfolio-react-template/public/index.html" timestamp="1520295030914">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="13" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/views/reports/automated_reports/show.html.erb" timestamp="1520384964475" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" timestamp="1520376927645">
-        <mark key="'" line="127" column="37" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="75" />
-        <mark key="." line="129" column="8" />
-        <mark key="^" line="127" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/api/current_lease_pricing_data.js" timestamp="1520459272159" />
-      <file name="$USER_HOME$/src/appfolio-react-template/src/main.tsx" timestamp="1520290360813" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/assets/javascripts/letter_composition/merge_fields/merge_field_menu_data/component.js.erb" timestamp="1520373098352">
-        <mark key="[" line="11" column="118" />
-        <mark key="]" line="11" column="137" />
-        <mark key="." line="11" column="137" />
-        <mark key="^" line="11" column="137" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_addendum_template_page.rb" timestamp="1520364708432" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1520556806670">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/engine.rb" timestamp="1520363651302" />
-      <file name="$USER_HOME$/src/appfolio-react-template/appfolio-manifest.xml" timestamp="1520292415233">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="121" column="76" />
-        <mark key="]" line="121" column="79" />
-        <mark key="." line="121" column="79" />
-        <mark key="^" line="121" column="79" />
-      </file>
-      <file name="/component.js.erb" timestamp="1520363869823" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" timestamp="1520378530799">
-        <mark key="'" line="121" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="149" />
-        <mark key="." line="37" column="118" />
-        <mark key="^" line="37" column="118" />
-      </file>
-      <file name="/lease_decorator.rb" timestamp="1520364924516" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/integrated_report.rb" timestamp="1520412243043" />
-      <file name="$USER_HOME$/src/appfolio-react-template/src/registerServiceWorker.js" timestamp="1520290406279" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/helpers/reports/integrated_reports_helper.rb" timestamp="1520412232976">
-        <mark key="[" line="10" column="86" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1520390698416">
-        <mark key="'" line="240" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/index.js" timestamp="1520451155069" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" timestamp="1520461430422">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="34" column="94" />
-        <mark key="]" line="35" column="60" />
-        <mark key="." line="35" column="60" />
-        <mark key="^" line="35" column="60" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/property_decorator.rb" timestamp="1520377447326">
-        <mark key="'" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520410477693">
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="57" />
-        <mark key="." line="58" column="57" />
-        <mark key="^" line="58" column="57" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/shared/_blank_merge_fields_modal_body.html.erb" timestamp="1520364500949" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/api/helpers.js" timestamp="1520410745414" />
-      <file name="$USER_HOME$/src/appfolio-react-template/resource.html" timestamp="1520292582052">
-        <mark key="[" line="50" column="67" />
-        <mark key="]" line="50" column="70" />
-        <mark key="." line="50" column="70" />
-        <mark key="^" line="50" column="70" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/dist/api/index.js" timestamp="1520386359277" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" timestamp="1520375017085">
-        <mark key="'" line="106" column="41" />
-        <mark key="[" line="13" column="72" />
-        <mark key="]" line="13" column="73" />
-        <mark key="." line="13" column="73" />
-        <mark key="^" line="13" column="73" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520557628306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" timestamp="1520364877533">
-        <mark key="'" line="44" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1520364692609">
-        <mark key="'" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/test/browser.js" timestamp="1520453342293" />
-      <file name="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" timestamp="1520558064552">
-        <mark key="'" line="32" column="2" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/document_templates/_form.html.erb" timestamp="1520027584409">
-        <mark key="'" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/merge_url_helper_test.rb" timestamp="1520378576409">
-        <mark key="'" line="75" column="10" />
-        <mark key="[" line="96" column="114" />
-        <mark key="]" line="96" column="114" />
-        <mark key="." line="96" column="114" />
-        <mark key="^" line="96" column="114" />
-      </file>
-      <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/services/search/search_field/property_and_list_search.rb" timestamp="1520410799760" />
     </filemarks>
     <jumps>
-      <jump line="680" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="299" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="111" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="110" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
@@ -324,6 +302,7 @@
       <jump line="36" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/controllers/reports/automated_reports_controller.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/app/controllers/web_common/feedbacks_controller.rb" />
       <jump line="32" column="2" filename="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" />
+      <jump line="48" column="9" filename="$USER_HOME$/src/passport-frontend/src/lib/api.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -360,7 +339,7 @@
         <text>records</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3luY1w+</text>
+        <text encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="4">
         <text>response</text>
@@ -412,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3luY1w+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3luY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
         <entry encoding="base64">XDxGaWVsZHNcPg==</entry>
         <entry encoding="base64">XDxBUE1fUExVU19NRVJHRV9GSUVMRFNcPg==</entry>
         <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
@@ -442,6 +420,7 @@
         <entry>oauth</entry>
         <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
         <entry encoding="base64">XDxhc3luY1w+</entry>
+        <entry encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
