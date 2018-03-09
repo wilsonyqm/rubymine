@@ -13,9 +13,16 @@
         <mark key="^" line="29" column="13" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" timestamp="1520625983535">
+        <mark key="'" line="9" column="38" />
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1520623506852">
         <mark key="'" line="48" column="9" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/NewApplicationPage.jsx" timestamp="1520626146147" />
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.js" timestamp="1520295169356">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -86,7 +93,7 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520624462638">
+      <file name="/Dummy.txt" timestamp="1520626146433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -103,6 +110,10 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1520626172690" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" timestamp="1520625180298">
+        <mark key="'" line="19" column="43" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" timestamp="1520029077541">
         <mark key="'" line="87" column="22" />
       </file>
@@ -110,6 +121,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1520625966947" />
       <file name="$USER_HOME$/src/appfolio-react-template/dev_server.js" timestamp="1520292677995">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="16" />
@@ -199,24 +211,12 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/application.js" timestamp="1520626034392" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" timestamp="1520376766953">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
-      <jump line="111" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
-      <jump line="110" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
-      <jump line="91" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" />
-      <jump line="27" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/assets/stylesheets/screenings/decisions/results/show.scss" />
-      <jump line="72" column="11" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
-      <jump line="16" column="19" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
-      <jump line="25" column="9" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
-      <jump line="122" column="10" filename="$USER_HOME$/src/screenings_app/lib/decisions/classifiers/criminal_offense_classifier.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/ckeditor.js" />
-      <jump line="18" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" />
-      <jump line="319" column="422" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/ckeditor.js" />
-      <jump line="320" column="368" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/ckeditor.js" />
       <jump line="321" column="407" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/ckeditor.js" />
       <jump line="444" column="254" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/ckeditor.js" />
       <jump line="118" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
@@ -304,13 +304,26 @@
       <jump line="13" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/app/controllers/web_common/feedbacks_controller.rb" />
       <jump line="32" column="2" filename="$USER_HOME$/src/passport-frontend/src/components/ApplicationPage.jsx" />
       <jump line="48" column="9" filename="$USER_HOME$/src/passport-frontend/src/lib/api.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="46" column="28" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="47" column="25" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="21" column="8" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="25" column="20" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="26" column="22" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="37" column="12" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="44" column="11" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="55" column="4" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="22" column="57" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="33" column="48" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="19" column="43" filename="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" />
+      <jump line="9" column="38" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0gJyc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -337,10 +350,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>records</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxzZWFyY2hcPg==</text>
       </register>
       <register name="0" type="4">
         <text>response</text>
@@ -392,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -402,11 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWVsZHNcPg==</entry>
-        <entry encoding="base64">XDxBUE1fUExVU19NRVJHRV9GSUVMRFNcPg==</entry>
-        <entry encoding="base64">XDxNRVJHRV9GSUVMRFNcPg==</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9hbmNob3JfdG9fb3Blbl9ibG9ja19lZGl0X2FuZF9oaWdobGlnaHRfZmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxwcm9wZXJ0eV9saW5rXD4=</entry>
         <entry encoding="base64">XDxlZGl0X29jY3VwYW5jeV9ibG9ja19saW5rXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9zdGFuZGFyZF9tYXBwaW5nX2Zvcl9tb3ZlX2luX2Zsb3dcPg==</entry>
         <entry encoding="base64">XDx1cmlfZm9yXD4=</entry>
@@ -419,9 +427,14 @@
         <entry encoding="base64">XDxjaGVja1Jlc3BvbnNlU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry>oauth</entry>
-        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
         <entry encoding="base64">XDxhc3luY1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
+        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
+        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
+        <entry encoding="base64">XDxpZHBfdHlwZVw+</entry>
+        <entry encoding="base64">XDxpZHBUeXBlXD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
