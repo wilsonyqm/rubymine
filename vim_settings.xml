@@ -435,8 +435,11 @@
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="69" />
       </file>
-      <file name="$USER_HOME$/src/nlp_test/test.py" timestamp="1520553988634">
-        <mark key="'" line="195" column="7" />
+      <file name="$USER_HOME$/src/nlp_test/test.py" timestamp="1520558561776">
+        <mark key="'" line="167" column="25" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/decorators/screenings/decisions/bankruptcy_rule_decorator.rb" timestamp="1515441150726">
         <mark key="[" line="4" column="131" />
@@ -535,7 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="614" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="680" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/metrics/biz_reports/client_usage.rb" />
       <jump line="299" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
       <jump line="111" column="5" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company.rb" />
@@ -623,9 +625,7 @@
       <jump line="159" column="49" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="181" column="59" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="83" column="4" filename="$USER_HOME$/src/nlp_test/test.py" />
-      <jump line="164" column="4" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="203" column="36" filename="$USER_HOME$/src/nlp_test/test.py" />
-      <jump line="204" column="14" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="152" column="0" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="30" column="6" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="225" column="18" filename="$USER_HOME$/src/nlp_test/test.py" />
@@ -635,13 +635,16 @@
       <jump line="180" column="4" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="190" column="9" filename="$USER_HOME$/src/nlp_test/test.py" />
       <jump line="195" column="7" filename="$USER_HOME$/src/nlp_test/test.py" />
+      <jump line="204" column="14" filename="$USER_HOME$/src/nlp_test/test.py" />
+      <jump line="164" column="14" filename="$USER_HOME$/src/nlp_test/test.py" />
+      <jump line="167" column="25" filename="$USER_HOME$/src/nlp_test/test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DataUrlForm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIChtb2RlbF9kaXIgLyAnY29uZmlnLmpzb24nKS5vcGVuKCd3YicpIGFzIGZpbGVfOgogICAgICAgICAgICBmaWxlXy53cml0ZSgnMTExMScpCg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -668,49 +671,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lstm.to_json()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbF9kaXJcPg==</text>
+        <text encoding="base64">XDxkYXRhX2Rpclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>DataUrlForm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAobW9kZWxfZGlyIC8gJ2NvbmZpZy5qc29uJykub3Blbignd2InKSBhcyBmaWxlXzoKICAgICAgICAgICAgICAgIGZpbGVfLndyaXRlKGxzdG0udG9fanNvbigpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlQ2hhbmdlID0gdGhpcy5oYW5kbGVDaGFuZ2UuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIChtb2RlbF9kaXIgLyAnY29uZmlnLmpzb24nKS5vcGVuKCd3YicpIGFzIGZpbGVfOgogICAgICAgICAgICBmaWxlXy53cml0ZSgnMTExMScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBtb2RlbF9kaXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UoZXZlbnQpIHsKICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiBldmVudC50YXJnZXQudmFsdWV9KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBtb2RlbF9kaXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcmVhZEZyb21Qcm9wZXJ0eSgpIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIG1vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0ibXMtQnV0dG9uIiBvbkNsaWNrPXt0aGlzLmNyZWF0ZVRhYmxlfT5DcmVhdGUgVGFibGU8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlQ2hhbmdlID0gdGhpcy5oYW5kbGVDaGFuZ2UuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICc8YSBocmVmPSIjIiBjbGFzcz0ianMtd2ViZmxvdy1uYXYtY2xpY2thYmxlIiBkYXRhLXN0YXRlPSJhZGRpdGlvbmFsX3RlbmFudHMiPjwvYT4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBoYXNfb25lIDphZ2VudF9vZl9yZWNvcmQsIC0+e29yZGVyKGNyZWF0ZWRfYXQ6IDpkZXNjKX0sIGFzOiA6cmVwcmVzZW50ZWUK</text>
+        <text encoding="base64">ICBoYW5kbGVDaGFuZ2UoZXZlbnQpIHsKICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiBldmVudC50YXJnZXQudmFsdWV9KTsKICB9Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcmVhZEZyb21Qcm9wZXJ0eSgpIHsKCiAgfQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoYXNfb25lIDphZ2VudF9vZl9yZWNvcmQsIC0+e29yZGVyKGNyZWF0ZWRfYXQ6IDpkZXNjKX0sIGFzOiA6cmVwcmVzZW50ZWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0ibXMtQnV0dG9uIiBvbkNsaWNrPXt0aGlzLmNyZWF0ZVRhYmxlfT5DcmVhdGUgVGFibGU8L2J1dHRvbj4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -723,9 +726,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbF9kaXJcPg==</last-search>
+      <last-search encoding="base64">XDxkYXRhX2Rpclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbF9kaXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhX2Rpclw+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -733,7 +736,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Activation</entry>
         <entry>rent</entry>
         <entry encoding="base64">XDxpc19ibG9ja19tZXJnZV9maWVsZFw+</entry>
         <entry encoding="base64">XDxGaWVsZHNcPg==</entry>
@@ -750,9 +752,10 @@
         <entry>read_imdb</entry>
         <entry>neg</entry>
         <entry encoding="base64">XDxyZWFkX2RhdGFcPg==</entry>
-        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
         <entry encoding="base64">XDxTZW50aW1lbnRBbmFseXNlclw+</entry>
         <entry encoding="base64">XDxtb2RlbF9kaXJcPg==</entry>
+        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
+        <entry encoding="base64">XDxkYXRhX2Rpclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
