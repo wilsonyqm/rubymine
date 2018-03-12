@@ -40,6 +40,13 @@
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1520892635441">
+        <mark key="'" line="61" column="3" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/letter_composition/engine.rb" timestamp="1520364016994">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -100,11 +107,11 @@
         <mark key="]" line="23" column="56" />
         <mark key="." line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520410477693">
-        <mark key="[" line="58" column="59" />
-        <mark key="]" line="58" column="57" />
-        <mark key="." line="58" column="57" />
-        <mark key="^" line="58" column="57" />
+      <file name="$USER_HOME$/src/excel_integration_app/package.json" timestamp="1520893061355">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/resource.html" timestamp="1520292582052">
         <mark key="[" line="50" column="67" />
@@ -114,14 +121,15 @@
       </file>
       <file name="$USER_HOME$/src/passport-frontend/webpack.config.js" timestamp="1520880795375" />
       <file name="$USER_HOME$/src/oauth_app/db/seeds.rb" timestamp="1520881322108" />
-      <file name="/Dummy.txt" timestamp="1520890877088">
+      <file name="/Dummy.txt" timestamp="1520892916405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1520881141671" />
       <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1520875183796" />
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520880740287">
+      <file name="$USER_HOME$/src/excel_integration_app/.npmrc" timestamp="1520892217909" />
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520891756474">
         <mark key="'" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
@@ -139,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="29" filename="$USER_HOME$/src/appfolio-react-template/src/components/App.js" />
       <jump line="24" column="8" filename="$USER_HOME$/src/appfolio-react-template/src/components/App.js" />
       <jump line="19" column="8" filename="$USER_HOME$/src/appfolio-react-template/src/components/App.js" />
       <jump line="47" column="8" filename="$USER_HOME$/src/appfolio-react-template/src/components/App.js" />
@@ -239,13 +246,14 @@
       <jump line="125" column="14" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="123" column="79" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="126" column="77" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
+      <jump line="61" column="3" filename="$USER_HOME$/src/passport-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>3000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJwcml2YXRlIjogdHJ1ZSwK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -275,46 +283,46 @@
         <text>3000</text>
       </register>
       <register name="/" type="4">
-        <text>3000</text>
+        <text>private</text>
       </register>
       <register name="0" type="4">
         <text>8080</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdld2ZmZXcnKTsK</text>
+        <text encoding="base64">ICAgICJwcml2YXRlIjogdHJ1ZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0gJyc7Cg==</text>
+        <text encoding="base64">ICAicHJpdmF0ZSI6IHRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJpbnRIZXJlID0gdGhpcy5wcmludEhlcmUuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdld2ZmZXcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludEhlcmUoKSB7CiAgICBpZiAodGhpcy5zdGF0ZS5kYXRhKQogICAgICByZXR1cm4gdGhpcy5zdGF0ZS5kYXRhOwogICAgZWxzZQogICAgICByZXR1cm4gJ2VtcHR5JzsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0gJyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJpbnRIZXJlID0gdGhpcy5wcmludEhlcmUuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICBwcmludEhlcmUoKSB7CiAgICBpZiAodGhpcy5zdGF0ZS5kYXRhKQogICAgICByZXR1cm4gdGhpcy5zdGF0ZS5kYXRhOwogICAgZWxzZQogICAgICByZXR1cm4gJ2VtcHR5JzsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuanNvbigpLnRoZW4oKGRhdGEpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZShkYXRhLnJlc3VsdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuanNvbigpLnRoZW4oKGRhdGEpID0+IHsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -327,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>3000</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>3000</last-pattern>
+      <last-pattern>private</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
         <entry>user_id</entry>
         <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxIRUFERVJTXD4=</entry>
@@ -357,6 +364,7 @@
         <entry encoding="base64">XDxsb2dJblw+</entry>
         <entry>ruby</entry>
         <entry>3000</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
