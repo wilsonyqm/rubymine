@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" timestamp="1520625983535">
-        <mark key="'" line="9" column="38" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-      </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/LoginForm.jsx" timestamp="1520880620185" />
       <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1520880550070">
         <mark key="'" line="51" column="29" />
@@ -34,12 +28,6 @@
       <file name="$USER_HOME$/src/oauth_app/README.md" timestamp="1520881579215" />
       <file name="$USER_HOME$/src/insights_app/app/controllers/sign_on_controller.rb" timestamp="1520878642321" />
       <file name="$USER_HOME$/src/insights_app/app/javascript/dashboard/index.js" timestamp="1520878720115" />
-      <file name="$USER_HOME$/src/excel_integration_app/node_modules/js-utils-apm/package/dist/api/api-helper.js" timestamp="1520451820978">
-        <mark key="'" line="86" column="9" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/src/passport-frontend/webpack.config.js" timestamp="1520880795375" />
       <file name="$USER_HOME$/src/oauth_app/db/seeds.rb" timestamp="1520881322108" />
       <file name="/Dummy.txt" timestamp="1520881116330">
@@ -56,6 +44,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520889500314">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/lib/application.js" timestamp="1520878473918">
         <mark key="'" line="17" column="8" />
@@ -167,8 +160,8 @@
       <register name="a" type="4">
         <text encoding="base64">Y29udHJvbGxlcjog</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdld2ZmZXcnKTsK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">Y3JpbWluYWxfdHlwZTog</text>
@@ -204,40 +197,40 @@
         <text>response</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdld2ZmZXcnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJpbnRIZXJlID0gdGhpcy5wcmludEhlcmUuYmluZCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludEhlcmUoKSB7CiAgICBpZiAodGhpcy5zdGF0ZS5kYXRhKQogICAgICByZXR1cm4gdGhpcy5zdGF0ZS5kYXRhOwogICAgZWxzZQogICAgICByZXR1cm4gJ2VtcHR5JzsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJpbnRIZXJlID0gdGhpcy5wcmludEhlcmUuYmluZCh0aGlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludEhlcmUoKSB7CiAgICBpZiAodGhpcy5zdGF0ZS5kYXRhKQogICAgICByZXR1cm4gdGhpcy5zdGF0ZS5kYXRhOwogICAgZWxzZQogICAgICByZXR1cm4gJ2VtcHR5JzsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuanNvbigpLnRoZW4oKGRhdGEpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZShkYXRhLnJlc3VsdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuanNvbigpLnRoZW4oKGRhdGEpID0+IHsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZShkYXRhLnJlc3VsdHMpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZShkYXRhLnJlc3VsdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
