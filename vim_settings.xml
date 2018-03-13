@@ -3,11 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/zoology_app/config/application.rb" timestamp="1520977077058">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="40" column="60" />
+      </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.js" timestamp="1520295169356">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/http_authenticated_controller.rb" timestamp="1520976472329">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/src/my-addin/README.md" timestamp="1520898382648">
         <mark key="[" line="1069" column="158" />
@@ -15,12 +23,10 @@
         <mark key="^" line="1069" column="161" />
         <mark key="." line="1069" column="161" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1520898411109">
-        <mark key="'" line="126" column="77" />
-        <mark key="[" line="128" column="85" />
-        <mark key="]" line="128" column="89" />
-        <mark key="." line="128" column="85" />
-        <mark key="^" line="23" column="60" />
+      <file name="$USER_HOME$/src/oauth_app/lib/apm_authenticator.rb" timestamp="1520972447468" />
+      <file name="$USER_HOME$/src/oauth_app/app/controllers/oauth/authorizations_controller.rb" timestamp="1520975457385">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/assets/javascripts/letter_composition/merge_fields/merge_field_menu_data/component.js.erb" timestamp="1520373098352">
         <mark key="[" line="11" column="118" />
@@ -52,18 +58,36 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/admin.html.erb" timestamp="1520977520901">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_lease_edit.html.erb" timestamp="1520375580820">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="56" />
         <mark key="." line="11" column="56" />
         <mark key="^" line="11" column="56" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1520962327068">
+      <file name="$USER_HOME$/src/oauth_app/app/controllers/oauth/property_logins_controller.rb" timestamp="1520976492335">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1520972947450">
         <mark key="'" line="14" column="11" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="38" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="31" />
         <mark key="^" line="61" column="3" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/app/view/oauth/property_logins/new.html.erb" timestamp="1520976102884">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/lib/letter_composition/engine.rb" timestamp="1520364016994">
         <mark key="[" line="11" column="0" />
@@ -87,15 +111,33 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/public/index.html" timestamp="1520295123280">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/LoginPage.js" timestamp="1520900833236">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/src/my-addin/src/components/LoginPage.js" timestamp="1520974201629">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/application_controller.rb" timestamp="1520976239287" />
+      <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/app/controllers/property_logins_controller.rb" timestamp="1520978045387">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_merge_fields_validator.rb" timestamp="1520364836483">
         <mark key="[" line="16" column="11" />
@@ -109,16 +151,29 @@
         <mark key="." line="22" column="54" />
         <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1520899247102">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="32" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1520975261155">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/app/controllers/oauth/property_login_controller.rb" timestamp="1520975520028">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" timestamp="1520890940791">
+        <mark key="'" line="126" column="77" />
+        <mark key="[" line="128" column="85" />
+        <mark key="]" line="128" column="89" />
+        <mark key="." line="128" column="85" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/helpers/reports/integrated_reports_helper.rb" timestamp="1520412232976">
         <mark key="[" line="10" column="86" />
@@ -126,8 +181,20 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1520900784832">
-        <mark key="'" line="7" column="6" />
+      <file name="$USER_HOME$/src/oauth_app/Gemfile" timestamp="1520977296364">
+        <mark key="'" line="68" column="61" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/app/views/layouts/application.html.erb" timestamp="1520978039800" />
+      <file name="$USER_HOME$/src/excel_integration_app/src/App.js" timestamp="1520894626393">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/config/webpack.common.js" timestamp="1520897026086">
         <mark key="[" line="23" column="52" />
@@ -156,27 +223,63 @@
         <mark key="." line="50" column="70" />
         <mark key="^" line="50" column="70" />
       </file>
+      <file name="$USER_HOME$/src/oauth_app/config/application.rb" timestamp="1520977424905">
+        <mark key="'" line="16" column="44" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/components/VHostFormRow.js" timestamp="1520900185713">
         <mark key="[" line="2" column="67" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1520975367000">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/app/controllers/categorize_criminal_offense_controller.rb" timestamp="1520976288696" />
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginPage.jsx" timestamp="1520895350535">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="36" column="25" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/config/environment.rb" timestamp="1520976301929" />
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520960862185">
+      <file name="$USER_HOME$/src/oauth_app/config/routes.rb" timestamp="1520975721024">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520977850195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1520973887532">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" timestamp="1520973752547">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/app/view/oauth/new.html.erb" timestamp="1520975783905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520900941285">
         <mark key="'" line="22" column="47" />
@@ -196,23 +299,37 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/index.js" timestamp="1520898189361" />
+      <file name="$USER_HOME$/src/my-addin/src/index.js" timestamp="1520975187365">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/config/initializers/assets.rb" timestamp="1520977783240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="68" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/public/index.html" timestamp="1520898175973">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="6" column="85" />
         <mark key="^" line="6" column="85" />
         <mark key="." line="6" column="85" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/Gemfile" timestamp="1520977288064">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="24" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/oauth_app/lib/auth_helpers.rb" timestamp="1520972455798" />
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/package.json" timestamp="1520963344576">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/my-addin/package.json" timestamp="1520972966515">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520889500314">
         <mark key="[" line="17" column="0" />
@@ -221,14 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="67" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="15" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="62" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="63" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="128" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="129" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/occupancy_decorator.rb" />
-      <jump line="19" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/decorators/merge_fields/lease_templates/property_decorator.rb" />
       <jump line="6" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="32" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="42" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
@@ -321,13 +430,21 @@
       <jump line="1" column="7" filename="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" />
       <jump line="63" column="13" filename="$USER_HOME$/src/passport-frontend/package.json" />
       <jump line="14" column="11" filename="$USER_HOME$/src/passport-frontend/package.json" />
+      <jump line="6" column="11" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
+      <jump line="11" column="36" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
+      <jump line="43" column="38" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/zoology_app/Gemfile" />
+      <jump line="24" column="7" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
+      <jump line="16" column="44" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIjIwLjQuMiIsCiAgICAiamVzdC1jbGkiOiAiXjIyLjQuMiIsCg==</text>
+        <text encoding="base64">ICAgIHBwIFJhaWxzLnJvb3QK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -354,37 +471,37 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlclw+</text>
+        <text encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm55YyAtLWV4dGVuc2lvbiAuanN4IGF2YSIsCg==</text>
+        <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUKCiMgQmUgc3VyZSB0byByZXN0YXJ0IHlvdXIgc2VydmVyIHdoZW4geW91IG1vZGlmeSB0aGlzIGZpbGUuCgojIFZlcnNpb24gb2YgeW91ciBhc3NldHMsIGNoYW5nZSB0aGlzIGlmIHlvdSB3YW50IHRvIGV4cGlyZSBhbGwgeW91ciBhc3NldHMuClJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5hc3NldHMudmVyc2lvbiA9ICcxLjAnCgojIEFkZCBhZGRpdGlvbmFsIGFzc2V0cyB0byB0aGUgYXNzZXQgbG9hZCBwYXRoCiMgUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFzc2V0cy5wYXRocyA8PCBFbW9qaS5pbWFnZXNfcGF0aAoKIyBQcmVjb21waWxlIGFkZGl0aW9uYWwgYXNzZXRzLgojIGFwcGxpY2F0aW9uLmpzLCBhcHBsaWNhdGlvbi5jc3MsIGFuZCBhbGwgbm9uLUpTL0NTUyBpbiBhcHAvYXNzZXRzIGZvbGRlciBhcmUgYWxyZWFkeSBhZGRlZC4KUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFzc2V0cy5wcmVjb21waWxlICs9IFsvXlstX2EtekEtWjAtOV0qXC4uKi9dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIjIwLjQuMiIsCiAgICAiamVzdC1jbGkiOiAiXjIyLjQuMiIsCg==</text>
+        <text encoding="base64">ICAgIHBwIFJhaWxzLnJvb3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmZWlvZmppb2V3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVkaXJlY3QgfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luRm9ybSBmcm9tICcuLi8uLi9zcmMvY29tcG9uZW50cy9Mb2dpbkZvcm0nOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c291cmNlICdodHRwczovL2dlbWluaS5hdGwuYXBwZm9saW8ubmV0JyBkbwogIGdlbSAnYWZfcnVudGltZScsICd+PiAxMS40LjAnCmVuZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBnZW0gJ2FmX3NldHRpbmdzJywgJ34+IDMuMS4wJwoKICBncm91cCA6ZGV2ZWxvcG1lbnQsIDp0ZXN0IGRvCiAgICBnZW0gJ2FmX2RldicKICAgIGdlbSAnYWZfcGFyYWxsZWxfdGVzdHMnLCAnfj4gNS43JwogIGVuZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVkaXJlY3QgfSBmcm9tICdyZWFjdC1yb3V0ZXInOwo=</text>
+        <text encoding="base64">ICBnZW0gJ2FmX3NldHRpbmdzJywgJ34+IDMuMS4wJwoKICBncm91cCA6ZGV2ZWxvcG1lbnQsIDp0ZXN0IGRvCiAgICBnZW0gJ2FmX2RldicKICAgIGdlbSAnYWZfcGFyYWxsZWxfdGVzdHMnLCAnfj4gNS43JwogIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGVzdCgnc2hvdWxkIGxvZ0luIHVzZXInLCBhc3luYyB0ID0+IHsKICBjb25zdCBmYWtlQ3JlZGVudGlhbHMgPSB7IHVzZXI6ICdmb28nIH07CiAgY29uc3QgY29tcG9uZW50ID0gc2hhbGxvdygKICAgIDxMb2dpblBhZ2UgbG9jYXRpb249e3sgc2VhcmNoOiAnP2lkcF90eXBlPXRwb3J0YWwnIH19Lz4KICApLmluc3RhbmNlKCk7CgogIGZha2VMb2dpbi5yZXNvbHZlcygpOwogIGNvbnN0IHNldFN0YXRlID0gc2lub24uc3B5KGNvbXBvbmVudCwgJ3NldFN0YXRlJyk7CiAgYXdhaXQgY29tcG9uZW50LmxvZ0luKCdldmVudCcsIGZha2VDcmVkZW50aWFscyk7CiAgdC5pcyhzZXRTdGF0ZS5jYWxsQ291bnQsIDIpOwogIHQudHJ1ZShzZXRTdGF0ZS5maXJzdENhbGwuYXJnc1swXS5sb2FkaW5nKTsKICB0LmZhbHNlKHNldFN0YXRlLnNlY29uZENhbGwuYXJnc1swXS5sb2FkaW5nKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcucHJvamVjdF9yb290ID0gUmFpbHMucm9vdAoKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ2RldmVsb3BtZW50JykKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ3Rlc3QnKQogICAgICAgIGNvbmZpZy5yZWdpc3Rlcl9lbnZpcm9ubWVudChuYW1lOiAncWEnLCBzdGFjazogWydwcm9kdWN0aW9uJywgJ3Byb2R1Y3Rpb25fcWEnXSkKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ3Byb2R1Y3Rpb24nLCBzdGFjazogWydwcm9kdWN0aW9uJywgJ3Byb2R1Y3Rpb25fcHJvZHVjdGlvbiddKQoKICAgICAgICBjb25maWcuZW52aXJvbm1lbnQgPSBSYWlscy5hcHBsaWNhdGlvbi5kZXBsb3ltZW50X2Vudgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
@@ -396,7 +513,7 @@
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdC5iZWZvcmVFYWNoKCgpID0+IGF1dGguc2V0VG9rZW4odW5kZWZpbmVkKSk7CnRlc3QuYWZ0ZXJFYWNoKCgpID0+IGZha2VMb2dpbi5yZXNldCgpKTsK</text>
+        <text encoding="base64">ICAgIGNvbmZpZy50b19wcmVwYXJlIGRvCiAgICAgICMgT25seSBBcHBsaWNhdGlvbnMgbGlzdAogICAgICBEb29ya2VlcGVyOjpBcHBsaWNhdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgoKICAgICAgIyBPbmx5IEF1dGhvcml6YXRpb24gZW5kcG9pbnQKICAgICAgRG9vcmtlZXBlcjo6QXV0aG9yaXphdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgoKICAgICAgIyBPbmx5IEF1dGhvcml6ZWQgQXBwbGljYXRpb25zCiAgICAgIERvb3JrZWVwZXI6OkF1dGhvcml6ZWRBcHBsaWNhdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgogICAgZW5kCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -409,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlclw+</last-search>
+      <last-search encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -419,12 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
-        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
-        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
-        <entry encoding="base64">XDxpZHBfdHlwZVw+</entry>
-        <entry encoding="base64">XDxpZHBUeXBlXD4=</entry>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxsb2dJblw+</entry>
@@ -439,6 +550,12 @@
         <entry encoding="base64">XDxhcGlCYXNlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>door</entry>
+        <entry>view</entry>
+        <entry>root</entry>
+        <entry>af_run</entry>
+        <entry encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
