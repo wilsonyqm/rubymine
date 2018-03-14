@@ -23,10 +23,10 @@
         <mark key="^" line="1069" column="161" />
         <mark key="." line="1069" column="161" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1521047731110">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="36" />
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1521051575243">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="23" />
         <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/app/controllers/oauth/authorizations_controller.rb" timestamp="1520975457385">
@@ -252,12 +252,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1521048293968">
+      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1521052043615">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="35" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginPage.jsx" timestamp="1520895350535">
         <mark key="[" line="6" column="0" />
@@ -276,7 +276,7 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521048216021">
+      <file name="/Dummy.txt" timestamp="1521051803655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -461,7 +461,7 @@
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>document.write(token)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -488,49 +488,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>document.write(token)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgzPlRyeSBpdCBvdXQ8L2gzPgo=</text>
+      <register name="0" type="4">
+        <text>passport.qa.appf.io</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaHR0cHM6Ly8/Y2xpZW50X2lkPWI1YWRjZTMzMjQ1ZjU5YTUzZTNiNWMzNjc3ZDEwY2EyZjJmMmU2OTM5MmIwMDFiZTE1YWRlYWU2YTEwMGUxZDQmcmVkaXJlY3RfdXJpPTpvb2ImcmVzcG9uc2VfdHlwZT10b2tlbiZpZHBfdHlwZT1wcm9wZXJ0eQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVkaXJlY3RVcmkgPSBxcy5wYXJzZShsb2NhdGlvbi5zZWFyY2gpLnJlZGlyZWN0X3VyaTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSElISScpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkaXJlY3RVcmkgPSBxcy5wYXJzZShsb2NhdGlvbi5zZWFyY2gpLnJlZGlyZWN0X3VyaTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSElISScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSElISScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChhdXRoLmlzTG9nZ2VkSW4oKSkgewogICAgICBjb25zdCB7IGZyb20gfSA9IGxvY2F0aW9uLnN0YXRlIHx8IHsgZnJvbTogeyBwYXRobmFtZTogJy8nIH0gfTsKICAgICAgcmV0dXJuIDxSZWRpcmVjdCB0bz17ZnJvbX0gLz47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0hJSEknKTsK</text>
+        <text encoding="base64">ICAgIGlmIChhdXRoLmlzTG9nZ2VkSW4oKSkgewogICAgICBjb25zdCB7IGZyb20gfSA9IGxvY2F0aW9uLnN0YXRlIHx8IHsgZnJvbTogeyBwYXRobmFtZTogJy8nIH0gfTsKICAgICAgcmV0dXJuIDxSZWRpcmVjdCB0bz17ZnJvbX0gLz47CiAgICB9Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3F1ZXJ5LXN0cmluZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0hJSEknKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
