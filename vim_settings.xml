@@ -77,10 +77,10 @@
         <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1520972947450">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="61" column="3" />
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="31" />
+        <mark key="^" line="59" column="3" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/app/view/oauth/property_logins/new.html.erb" timestamp="1520976102884">
@@ -95,10 +95,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1520902033045">
-        <mark key="'" line="51" column="29" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="32" column="2" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1520989306208">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginForm.js" timestamp="1520894454274">
         <mark key="[" line="8" column="6" />
@@ -188,7 +190,19 @@
         <mark key="^" line="52" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" timestamp="1520984084049">
+        <mark key="'" line="4421" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1520900784832">
+        <mark key="'" line="7" column="6" />
+      </file>
       <file name="$USER_HOME$/src/oauth_app/app/views/layouts/application.html.erb" timestamp="1520978039800" />
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/idp.js" timestamp="1520986076874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/App.js" timestamp="1520894626393">
         <mark key="'" line="19" column="2" />
         <mark key="[" line="2" column="41" />
@@ -236,12 +250,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1520975367000">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1520985953300">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/app/controllers/categorize_criminal_offense_controller.rb" timestamp="1520976288696" />
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginPage.jsx" timestamp="1520895350535">
@@ -262,12 +275,12 @@
         <mark key="^" line="8" column="51" />
         <mark key="." line="8" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520977850195">
+      <file name="/Dummy.txt" timestamp="1520983245056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1520973887532">
+      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1520985615881">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="27" column="22" />
       </file>
@@ -281,10 +294,15 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520900941285">
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1520985885574">
         <mark key="'" line="22" column="47" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="23" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.d.ts" timestamp="1520983275467">
+        <mark key="'" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/lib/tasks/oauth_client.rake" timestamp="1520902133706" />
       <file name="$USER_HOME$/src/my-addin/resource.html" timestamp="1520898420907">
@@ -338,20 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="32" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="42" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="55" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="59" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="62" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="81" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="87" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="94" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="12" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="100" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="108" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="16" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
-      <jump line="109" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="106" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="95" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
       <jump line="87" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/merge_url_helper.rb" />
@@ -438,13 +442,27 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/zoology_app/Gemfile" />
       <jump line="24" column="7" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
       <jump line="16" column="44" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
+      <jump line="38" column="23" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="16" column="15" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="35" column="12" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="56" column="26" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.d.ts" />
+      <jump line="67" column="40" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.d.ts" />
+      <jump line="4603" column="18" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="4416" column="22" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="3163" column="141" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="3292" column="32" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="3539" column="32" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="4210" column="28" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="4233" column="25" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="4235" column="20" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
+      <jump line="4421" column="41" filename="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBwIFJhaWxzLnJvb3QK</text>
+      <register name="&quot;" type="4">
+        <text>redirectUri</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -471,49 +489,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>redirectUri</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</text>
+        <text encoding="base64">XDxzZXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUKCiMgQmUgc3VyZSB0byByZXN0YXJ0IHlvdXIgc2VydmVyIHdoZW4geW91IG1vZGlmeSB0aGlzIGZpbGUuCgojIFZlcnNpb24gb2YgeW91ciBhc3NldHMsIGNoYW5nZSB0aGlzIGlmIHlvdSB3YW50IHRvIGV4cGlyZSBhbGwgeW91ciBhc3NldHMuClJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5hc3NldHMudmVyc2lvbiA9ICcxLjAnCgojIEFkZCBhZGRpdGlvbmFsIGFzc2V0cyB0byB0aGUgYXNzZXQgbG9hZCBwYXRoCiMgUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFzc2V0cy5wYXRocyA8PCBFbW9qaS5pbWFnZXNfcGF0aAoKIyBQcmVjb21waWxlIGFkZGl0aW9uYWwgYXNzZXRzLgojIGFwcGxpY2F0aW9uLmpzLCBhcHBsaWNhdGlvbi5jc3MsIGFuZCBhbGwgbm9uLUpTL0NTUyBpbiBhcHAvYXNzZXRzIGZvbGRlciBhcmUgYWxyZWFkeSBhZGRlZC4KUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmFzc2V0cy5wcmVjb21waWxlICs9IFsvXlstX2EtekEtWjAtOV0qXC4uKi9dCg==</text>
+      <register name="0" type="4">
+        <text>`https://${redirectUri}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBwIFJhaWxzLnJvb3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmZWlvZmppb2V3Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVkaXJlY3RVcmkgPSBxcy5wYXJzZShsb2NhdGlvbi5zZWFyY2gpLnJlZGlyZWN0X3VyaTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSElISScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c291cmNlICdodHRwczovL2dlbWluaS5hdGwuYXBwZm9saW8ubmV0JyBkbwogIGdlbSAnYWZfcnVudGltZScsICd+PiAxMS40LjAnCmVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnSElISScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZW0gJ2FmX3NldHRpbmdzJywgJ34+IDMuMS4wJwoKICBncm91cCA6ZGV2ZWxvcG1lbnQsIDp0ZXN0IGRvCiAgICBnZW0gJ2FmX2RldicKICAgIGdlbSAnYWZfcGFyYWxsZWxfdGVzdHMnLCAnfj4gNS43JwogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZW0gJ2FmX3NldHRpbmdzJywgJ34+IDMuMS4wJwoKICBncm91cCA6ZGV2ZWxvcG1lbnQsIDp0ZXN0IGRvCiAgICBnZW0gJ2FmX2RldicKICAgIGdlbSAnYWZfcGFyYWxsZWxfdGVzdHMnLCAnfj4gNS43JwogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcucHJvamVjdF9yb290ID0gUmFpbHMucm9vdAoKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ2RldmVsb3BtZW50JykKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ3Rlc3QnKQogICAgICAgIGNvbmZpZy5yZWdpc3Rlcl9lbnZpcm9ubWVudChuYW1lOiAncWEnLCBzdGFjazogWydwcm9kdWN0aW9uJywgJ3Byb2R1Y3Rpb25fcWEnXSkKICAgICAgICBjb25maWcucmVnaXN0ZXJfZW52aXJvbm1lbnQobmFtZTogJ3Byb2R1Y3Rpb24nLCBzdGFjazogWydwcm9kdWN0aW9uJywgJ3Byb2R1Y3Rpb25fcHJvZHVjdGlvbiddKQoKICAgICAgICBjb25maWcuZW52aXJvbm1lbnQgPSBSYWlscy5hcHBsaWNhdGlvbi5kZXBsb3ltZW50X2Vudgo=</text>
+        <text encoding="base64">ICAgIGlmIChhdXRoLmlzTG9nZ2VkSW4oKSkgewogICAgICBjb25zdCB7IGZyb20gfSA9IGxvY2F0aW9uLnN0YXRlIHx8IHsgZnJvbTogeyBwYXRobmFtZTogJy8nIH0gfTsKICAgICAgcmV0dXJuIDxSZWRpcmVjdCB0bz17ZnJvbX0gLz47CiAgICB9Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0hJSEknKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy50b19wcmVwYXJlIGRvCiAgICAgICMgT25seSBBcHBsaWNhdGlvbnMgbGlzdAogICAgICBEb29ya2VlcGVyOjpBcHBsaWNhdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgoKICAgICAgIyBPbmx5IEF1dGhvcml6YXRpb24gZW5kcG9pbnQKICAgICAgRG9vcmtlZXBlcjo6QXV0aG9yaXphdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgoKICAgICAgIyBPbmx5IEF1dGhvcml6ZWQgQXBwbGljYXRpb25zCiAgICAgIERvb3JrZWVwZXI6OkF1dGhvcml6ZWRBcHBsaWNhdGlvbnNDb250cm9sbGVyLmxheW91dCAibXlfbGF5b3V0IgogICAgZW5kCg==</text>
+        <text encoding="base64">aW1wb3J0IHFzIGZyb20gJ3F1ZXJ5LXN0cmluZyc7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -526,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</last-search>
+      <last-search encoding="base64">XDxzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRcPg==</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -536,9 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
-        <entry encoding="base64">XDxsb2dJblw+</entry>
         <entry>ruby</entry>
         <entry>private</entry>
         <entry>prop</entry>
@@ -556,6 +571,9 @@
         <entry>root</entry>
         <entry>af_run</entry>
         <entry encoding="base64">XDxkZXBsb3ltZW50X2NvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDx1c2VNaWNyb3NvZnRUZWFtc1w+</entry>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
