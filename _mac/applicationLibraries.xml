@@ -2770,6 +2770,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_authenticator (v1.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_authenticator (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-2.0.0/bin" />
@@ -17308,6 +17318,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/draper-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/draper-2.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="dropbox_api (v0.1.10, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/yardoc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dropbox_api-0.1.10/yardoc" />
       </SOURCES>
     </library>
     <library name="easy_translate (v0.5.0, RVM: ruby-2.2.3) [gem]">
