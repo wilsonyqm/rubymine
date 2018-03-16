@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" timestamp="1520984084049">
         <mark key="'" line="4421" column="41" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1520900784832">
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/api.js" timestamp="1521223167079">
         <mark key="'" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/config/webpack.common.js" timestamp="1520897026086">
@@ -34,6 +34,7 @@
       <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1521073361178">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/ExcelHelpers.js" timestamp="1521222550089" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/af_authenticator.rb" timestamp="1521071737301">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="23" />
@@ -45,7 +46,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521073285673">
+      <file name="/Dummy.txt" timestamp="1521223392130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,11 +65,6 @@
         <mark key="." line="41" column="68" />
         <mark key="^" line="41" column="68" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1521061084100">
-        <mark key="'" line="5" column="33" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="27" column="22" />
-      </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginForm.js" timestamp="1520894454274">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="7" />
@@ -77,7 +73,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1521071386177">
         <mark key="'" line="283" column="9" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521222254090" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521222475096" />
       <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1521060968955">
         <mark key="'" line="22" column="47" />
         <mark key="[" line="27" column="0" />
@@ -98,13 +94,19 @@
       <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.d.ts" timestamp="1521060556246">
         <mark key="'" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" timestamp="1521072336829">
-        <mark key="'" line="46" column="4" />
+      <file name="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" timestamp="1521223227391">
+        <mark key="'" line="165" column="53" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521223813060">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/index.js" timestamp="1520975187365">
         <mark key="[" line="5" column="0" />
@@ -116,6 +118,11 @@
         <mark key="]" line="34" column="41" />
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1521223396354">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
         <mark key="[" line="17" column="0" />
@@ -133,7 +140,7 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/DataUrlForm.js" timestamp="1521072098929">
+      <file name="$USER_HOME$/src/my-addin/src/components/DataUrlForm.js" timestamp="1521223015802">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="23" column="3" />
       </file>
@@ -156,12 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="10" filename="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.2.1/lib/af_runtime/core/remote_services.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
-      <jump line="241" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
-      <jump line="242" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
-      <jump line="243" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
-      <jump line="245" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
       <jump line="246" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
       <jump line="247" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
       <jump line="248" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
@@ -256,13 +257,19 @@
       <jump line="188" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/config/settings/development.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/settings/development.yml" />
       <jump line="46" column="4" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="52" column="9" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="119" column="19" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="130" column="53" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="142" column="53" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="153" column="53" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="165" column="53" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>quan1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -289,13 +296,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>quan1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIRUFERVJTXD4=</text>
+        <text encoding="base64">XDxnZXRDc3JmVG9rZW5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>almdemo2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH07Cg==</text>
@@ -345,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIRUFERVJTXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRDc3JmVG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIRUFERVJTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDc3JmVG9rZW5cPg==</last-pattern>
       <last-replace>property</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2dnbGVIZWxwXD4=</entry>
         <entry encoding="base64">XDx1cmxIZWxwXD4=</entry>
         <entry encoding="base64">XDxhcGlCYXNlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
@@ -375,6 +381,7 @@
         <entry encoding="base64">XDxwdWJsaWNfa2V5XD4=</entry>
         <entry>get</entry>
         <entry encoding="base64">XDxIRUFERVJTXD4=</entry>
+        <entry encoding="base64">XDxnZXRDc3JmVG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxzdHJvbmc+Ly9n</entry>
