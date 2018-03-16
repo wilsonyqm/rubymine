@@ -3,73 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" timestamp="1521061059278" />
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1521062199194">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/af_authenticator.rb" timestamp="1521071737301">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1521069102254">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="32" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1521062412419">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="41" column="68" />
-        <mark key="]" line="41" column="68" />
-        <mark key="." line="41" column="68" />
-        <mark key="^" line="41" column="68" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginForm.js" timestamp="1520894454274">
-        <mark key="[" line="8" column="6" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1521071386177">
-        <mark key="'" line="283" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/excel_integration_app/public/index.html" timestamp="1520295123280">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/lib/af_authenticator/api_base_controller.rb" timestamp="1521073154327" />
-      <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1521064749108">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1521072847337">
-        <mark key="[" line="116" column="52" />
-        <mark key="]" line="116" column="52" />
-        <mark key="." line="116" column="52" />
-        <mark key="^" line="116" column="43" />
-      </file>
       <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.js" timestamp="1520984084049">
         <mark key="'" line="4421" column="41" />
       </file>
@@ -92,13 +25,20 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="$USER_HOME$/src/appfolio-react-template/package.json" timestamp="1521065326842" />
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1521062199194">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="36" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1521073361178">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="40" column="76" />
-        <mark key="]" line="40" column="88" />
-        <mark key="." line="40" column="88" />
-        <mark key="^" line="40" column="88" />
+        <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/af_authenticator.rb" timestamp="1521071737301">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
@@ -110,12 +50,33 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1521069102254">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="59" column="3" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1521062412419">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="68" />
+        <mark key="." line="41" column="68" />
+        <mark key="^" line="41" column="68" />
+      </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1521061084100">
         <mark key="'" line="5" column="33" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1521061009071" />
+      <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginForm.js" timestamp="1520894454274">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1521071386177">
+        <mark key="'" line="283" column="9" />
+      </file>
       <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1521060968955">
         <mark key="'" line="22" column="47" />
         <mark key="[" line="27" column="0" />
@@ -123,16 +84,42 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/excel_integration_app/public/index.html" timestamp="1520295123280">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/node_modules/@microsoft/office-js-helpers/dist/office.helpers.d.ts" timestamp="1521060556246">
         <mark key="'" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" timestamp="1521072336829">
         <mark key="'" line="46" column="4" />
       </file>
+      <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/index.js" timestamp="1520975187365">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1521221575161">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
         <mark key="[" line="13" column="0" />
@@ -273,8 +260,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -301,7 +288,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIRUFERVJTXD4=</text>
