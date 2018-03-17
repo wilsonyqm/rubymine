@@ -62,6 +62,12 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/node_modules/react-router-dom/umd/react-router-dom.js" timestamp="1521263962549" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1521263840093">
+        <mark key="'" line="5" column="33" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/LoginForm.js" timestamp="1520894454274">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="7" />
@@ -71,7 +77,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1521071386177">
         <mark key="'" line="283" column="9" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521222475096" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521263654833">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -254,8 +264,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ2VkaXRpbmcnLCAgICAgZ3JvdXBzOiBbICdmaW5kJywgJ3NlbGVjdGlvbicsICdzcGVsbGNoZWNrZXInIF0gfSwK</text>
+      <register name="&quot;" type="4">
+        <text>authorize</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -282,7 +292,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>quan1</text>
+        <text>authorize</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</text>
