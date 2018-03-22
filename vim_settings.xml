@@ -19,7 +19,7 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" timestamp="1521742055285">
-        <mark key="'" line="47" column="27" />
+        <mark key="'" line="48" column="27" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -40,9 +40,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/Authenticator.js" timestamp="1521742222360">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="41" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/Authenticator.js" timestamp="1521743646025">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1521742274982">
         <mark key="'" line="50" column="0" />
@@ -50,7 +52,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" timestamp="1521742768866">
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" timestamp="1521742883108">
         <mark key="'" line="55" column="9" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -62,7 +64,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521739342347">
+      <file name="/Dummy.txt" timestamp="1521743482368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -124,11 +126,8 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521742798269">
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="9" />
-        <mark key="." line="33" column="9" />
-        <mark key="^" line="52" column="49" />
+        <mark key="'" line="5" column="29" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1521742331744">
         <mark key="[" line="0" column="0" />
@@ -288,7 +287,7 @@
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -324,40 +323,40 @@
         <text>selectedSavedReport</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAvLyB3ZSBjb3VsZCBhbHNvIGFic3RyYWN0IHRoaXMgdG8gUmVxdWVzdGVyIGFuZCBoYXZlIGEgUmVxdWVzdGVyI2dldFNhdmVkUmVwb3J0TGlzdCgpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LnRoZW4oKGpzb25SZXNwb25zZSkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICBzYXZlZFJlcG9ydExpc3Q6IGpzb25SZXNwb25zZS5zYXZlZF9yZXBvcnRzLAogICAgICBzZWxlY3RlZFNhdmVkUmVwb3J0OiBqc29uUmVzcG9uc2Uuc2F2ZWRfcmVwb3J0c1swXQogICAgfSk7CiAgfSkuY2F0Y2goKGVycikgPT4gewogICAgY29uc29sZS5sb2coZXJyKTsKICB9KTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcXVlc3RlciBmcm9tICcuLi9saWIvUmVxdWVzdGVyJzsKaW1wb3J0IHsgaW5zZXJ0VGFibGVJbnRvRXhjZWwgfSBmcm9tICcuLi9saWIvZXhjZWwvVGFibGVJbnNlcnRpb25IZWxwZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlcXVlc3RlciBmcm9tICcuLi9saWIvUmVxdWVzdGVyJzsKaW1wb3J0IHsgaW5zZXJ0VGFibGVJbnRvRXhjZWwgfSBmcm9tICcuLi9saWIvZXhjZWwvVGFibGVJbnNlcnRpb25IZWxwZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcG9ydERhdGFQYXJzZXIgZnJvbSAnLi4vbGliL1JlcG9ydERhdGFQYXJzZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlcG9ydERhdGFQYXJzZXIgZnJvbSAnLi4vbGliL1JlcG9ydERhdGFQYXJzZXInOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXJ5UGFyYW1zID0gYG1lbW9yaXplZF9yZXBvcnQlNUJpZCU1RD0ke3RoaXMuc3RhdGUuc2VsZWN0ZWRTYXZlZFJlcG9ydC5pZH0mbWVtb3JpemVkX3JlcG9ydCU1Qm9mZnNldCU1RD0wJm1lbW9yaXplZF9yZXBvcnQlNUJsaW1pdCU1RD0xMDAwYDsKCiAgICAvLyBUT0RPIG1vdmUgc29tZXdoZXJlIGVsc2UKICAgIC8vIFRPRE8gY2hlY2sgaWYgYWNjZXNzIHRva2VuIGhhcyBleHBpcmVkIGJlZm9yZSBzZW5kaW5nIHJlcXVlc3QKICAgIGZldGNoKGAke2F1dGguZ2V0SWRwSG9zdCgpfS9hcGkvdjEvZXhjZWxfaW50ZWdyYXRpb25zL3NhdmVkX3JlcG9ydF9kYXRhPyR7cXVlcnlQYXJhbXN9YCwgewogICAgICBtZXRob2Q6ICdHRVQnLAogICAgICBoZWFkZXJzOiB7CiAgICAgICAgJ0FjY2VwdCc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgICdBdXRob3JpemF0aW9uJzogYEJlYXJlciAke2F1dGguZ2V0QWNjZXNzVG9rZW4oKX1gCiAgICAgIH0KICAgIH0pLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7CiAgICB9KS50aGVuKChqc29uUmVzcG9uc2UpID0+IHsKICAgICAgY29uc3QgcmVwb3J0UGFyc2VyID0gbmV3IFJlcG9ydERhdGFQYXJzZXIoanNvblJlc3BvbnNlKTsKICAgICAgcmVwb3J0UGFyc2VyLnBhcnNlKCk7CgogICAgICBjb25zdCByZXBvcnREYXRhID0gcmVwb3J0UGFyc2VyLmdldFJlcG9ydERhdGFGb3JFeGNlbCgpOwogICAgICBjb25zdCBoZWFkZXJzID0gcmVwb3J0UGFyc2VyLmdldFJlcG9ydEhlYWRlcnNGb3JFeGNlbCgpOwogICAgICBjb25zb2xlLmxvZygnSGVhZGVycycpOwogICAgICBjb25zb2xlLmxvZyhoZWFkZXJzKTsKCiAgICAgIGNvbnNvbGUubG9nKCdyZXBvcnQnKTsKICAgICAgY29uc29sZS5sb2cocmVwb3J0RGF0YSk7CgogICAgICB3aW5kb3cuRXhjZWwucnVuKChjb250ZXh0KSA9PiB7CiAgICAgICAgY29uc3Qgc2hlZXQgPSBjb250ZXh0Lndvcmtib29rLndvcmtzaGVldHMuZ2V0QWN0aXZlV29ya3NoZWV0KCk7CiAgICAgICAgc2hlZXQubG9hZCgnbmFtZScpOwoKICAgICAgICByZXR1cm4gY29udGV4dC5zeW5jKCkudGhlbigoKSA9PiB7CiAgICAgICAgICBpbnNlcnRUYWJsZUludG9FeGNlbChgJHtzaGVldC5uYW1lfSR7dGhpcy5zdGF0ZS5zZWxlY3RlZFNhdmVkUmVwb3J0Lm5hbWV9YCwgc2hlZXQsIHJlcG9ydERhdGEsIGhlYWRlcnMpOwogICAgICAgIH0pOwogICAgICB9KS5jYXRjaCgoZXJyKSA9PiB7Y29uc29sZS5sb2coZXJyKX0pOwogICAgICBjb25zb2xlLmxvZyhyZXBvcnREYXRhKQogICAgfSkuY2F0Y2goKHJlc3BvbnNlKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
