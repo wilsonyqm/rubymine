@@ -18,19 +18,17 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" timestamp="1521679355898">
-        <mark key="'" line="49" column="27" />
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" timestamp="1521741918251">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/EnvIdentifier.js" timestamp="1521677413461">
-        <mark key="'" line="23" column="44" />
-        <mark key="[" line="4" column="58" />
-        <mark key="]" line="4" column="58" />
-        <mark key="." line="4" column="58" />
-        <mark key="^" line="22" column="9" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/EnvIdentifier.js" timestamp="1521741902820">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/index.html" timestamp="1521670289719">
         <mark key="[" line="19" column="0" />
@@ -132,11 +130,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521739989487">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="^" line="155" column="9" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521741998741">
+        <mark key="'" line="83" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1521668791804">
         <mark key="[" line="0" column="0" />
@@ -184,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="60" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="41" column="55" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="121" column="79" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="125" column="14" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
@@ -284,13 +281,14 @@
       <jump line="18" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="43" column="8" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="48" column="27" filename="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" />
+      <jump line="85" column="26" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IEVudklkZW50aWZpZXIgZnJvbSAnLi4vbGliL0VudklkZW50aWZpZXInOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -317,49 +315,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>${this.envIdentifier.propertyUrl()}</text>
       </register>
       <register name="/" type="4">
-        <text>keys</text>
+        <text>env</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIgLz4K</text>
+      <register name="0" type="4">
+        <text>${auth.getIdpHost()}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IEVudklkZW50aWZpZXIgZnJvbSAnLi4vbGliL0VudklkZW50aWZpZXInOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVzc2FnZUJhciBtZXNzYWdlQmFyVHlwZT17IE1lc3NhZ2VCYXJUeXBlLnN1Y2Nlc3MgfQogICAgICAgICAgICAgICAgICAgIG9uRGltaXNzPXsgY29uc29sZS5sb2coJ3Rlc3QnKSB9CiAgICAgICAgICAgICAgICAgICAgZGlzbWlzc0J1dHRvbkFyaWFMYWJlbD0nQ2xvc2UnCiAgICAgICAgPgogICAgICAgICAgeyB0aGlzLnN0YXRlLnN1Y2Nlc3NNZXNzYWdlIH0KICAgICAgICA8L01lc3NhZ2VCYXI+Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW52SWRlbnRpZmllciA9IG5ldyBFbnZJZGVudGlmaWVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzTXVsdGlsaW5lPXsgZmFsc2UgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZW52SWRlbnRpZmllci5wcm9wZXJ0eVVybCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM9ewogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxNZXNzYWdlQmFyQnV0dG9uPlllczwvTWVzc2FnZUJhckJ1dHRvbj4KICAgICAgICAgICAgICA8TWVzc2FnZUJhckJ1dHRvbj5ObzwvTWVzc2FnZUJhckJ1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcG9ydERhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxlcnQgfSBmcm9tICdyZWFjdC1nZWFycyc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcm9wZXJ0eVVybCgpIHsKICAgIHJldHVybiB0aGlzLmlzRGV2ZWxvcG1lbnQoKSA/IExPQ0FMX1BST1BFUlRZX1VSTCA6IFBST0RVQ1RJT05fUFJPUEVSVFlfVVJMOwogIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Y29uc3QgTE9DQUxfUFJPUEVSVFlfVVJMID0gJ2h0dHBzOi8vYWxsZW4xLnFhLmFwcGZvbGlvLmNvbSc7CmNvbnN0IFBST0RVQ1RJT05fUFJPUEVSVFlfVVJMID0gJ2h0dHBzOi8vYWxsZW4xLnFhLmFwcGZvbGlvLmNvbSc7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBzdWNjZXNzTWVzc2FnZTogYFN1Y2Nlc3NmdWxseSBsb2FkZWQgJHt0aGlzLnN0YXRlLnNlbGVjdGVkU2F2ZWRSZXBvcnQubmFtZX0hYCB9KTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0hlYWRlcnMnKTsKICAgICAgY29uc29sZS5sb2coaGVhZGVycyk7CgogICAgICBjb25zb2xlLmxvZygncmVwb3J0Jyk7CiAgICAgIGNvbnNvbGUubG9nKHJlcG9ydERhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0aGlzLnN0YXRlLnN1Y2Nlc3NNZXNzYWdlLmxlbmd0aCA+IDAgJiYKICAgICAgICAgIDxNZXNzYWdlQmFyIG1lc3NhZ2VCYXJUeXBlPXsgTWVzc2FnZUJhclR5cGUuc3VjY2VzcyB9CiAgICAgICAgICAgICAgICAgICAgICBvbkRpbWlzcz17IGNvbnNvbGUubG9nKCd0ZXN0JykgfQogICAgICAgICAgICAgICAgICAgICAgZGlzbWlzc0J1dHRvbkFyaWFMYWJlbD0nQ2xvc2UnCiAgICAgICAgICA+CiAgICAgICAgICAgIHsgdGhpcy5zdGF0ZS5zdWNjZXNzTWVzc2FnZSB9CiAgICAgICAgICA8L01lc3NhZ2VCYXI+CiAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -372,9 +370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>keys</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>keys</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>PROPERTY</last-replace>
       <last-substitute>BASE</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxpZHBIb3N0XD4=</entry>
         <entry encoding="base64">XDxkZWNvZGVkQWNjZXNzVG9rZW5cPg==</entry>
         <entry>sinon</entry>
@@ -402,6 +399,7 @@
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</entry>
         <entry>keys</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FUVEVNUFQvQ09OU1BJUkFDWS9n</entry>
