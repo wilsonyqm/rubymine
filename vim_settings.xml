@@ -30,11 +30,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/index.html" timestamp="1521670289719">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/src/my-addin/src/App.css" timestamp="1521567100647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -70,7 +65,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1521755518732">
-        <mark key="'" line="5" column="33" />
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
@@ -106,11 +100,6 @@
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1521659359985">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="57" column="4" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
         <mark key="[" line="16" column="0" />
@@ -171,10 +160,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/index.js" timestamp="1521673442619">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/passport-frontend/src/index.js" timestamp="1521759228041">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/src/excel_integration_app/src/components/dataUrlForm.js" timestamp="1520889500314">
         <mark key="[" line="17" column="0" />
@@ -294,8 +283,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>search</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -322,34 +311,34 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>search</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>selectedSavedReport</text>
+        <text>hash</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VIYXNoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VIYXNoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB3ZSBjb3VsZCBhbHNvIGFic3RyYWN0IHRoaXMgdG8gUmVxdWVzdGVyIGFuZCBoYXZlIGEgUmVxdWVzdGVyI2dldFNhdmVkUmVwb3J0TGlzdCgpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoYXNoVXJsKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LnRoZW4oKGpzb25SZXNwb25zZSkgPT4gewogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIGxvYWRpbmc6IGZhbHNlLAogICAgICBzYXZlZFJlcG9ydExpc3Q6IGpzb25SZXNwb25zZS5zYXZlZF9yZXBvcnRzLAogICAgICBzZWxlY3RlZFNhdmVkUmVwb3J0OiBqc29uUmVzcG9uc2Uuc2F2ZWRfcmVwb3J0c1swXQogICAgfSk7CiAgfSkuY2F0Y2goKGVycikgPT4gewogICAgY29uc29sZS5sb2coZXJyKTsKICB9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocGFyc2VkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGFyc2VkID0gcXVlcnlTdHJpbmcucGFyc2Uod2luZG93LmxvY2F0aW9uLnNlYXJjaCB8fCB3aW5kb3cubG9jYXRpb24uaGFzaCk7CmNvbnN0IHBhcnNlZCA9IHF1ZXJ5U3RyaW5nLnBhcnNlKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2ggfHwgd2luZG93LmxvY2F0aW9uLmhhc2gpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcXVlc3RlciBmcm9tICcuLi9saWIvUmVxdWVzdGVyJzsKaW1wb3J0IHsgaW5zZXJ0VGFibGVJbnRvRXhjZWwgfSBmcm9tICcuLi9saWIvZXhjZWwvVGFibGVJbnNlcnRpb25IZWxwZXInOwo=</text>
+        <text encoding="base64">ICBmaW5hbCBpbnQgaW5kZXggPSBvcmlnLmluZGV4T2YoJz8nKTsKICByZXR1cm4gaW5kZXggPT0gLTEgPyBvcmlnIDogb3JpZy5zdWJTdHJpbmcoMCwgaW5kZXgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,7 +347,7 @@
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcG9ydERhdGFQYXJzZXIgZnJvbSAnLi4vbGliL1JlcG9ydERhdGFQYXJzZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b2tlbik7Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
