@@ -18,10 +18,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" timestamp="1521676322378">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="87" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" timestamp="1521679355898">
+        <mark key="'" line="49" column="27" />
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/EnvIdentifier.js" timestamp="1521677413461">
         <mark key="'" line="23" column="44" />
@@ -119,17 +121,23 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableInsertionHelper.js" timestamp="1521679846855">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521677389366">
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521679465063">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="67" column="16" />
-        <mark key="]" line="67" column="48" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="28" />
+        <mark key="[" line="99" column="40" />
+        <mark key="]" line="99" column="50" />
+        <mark key="^" line="99" column="50" />
+        <mark key="." line="99" column="50" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1521668791804">
         <mark key="'" line="13" column="50" />
@@ -178,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="43" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="23" column="60" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="41" column="55" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
       <jump line="121" column="79" filename="$USER_HOME$/src/excel_integration_app/appfolio-manifest.xml" />
@@ -278,13 +285,14 @@
       <jump line="93" column="58" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="18" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="43" column="8" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="48" column="27" filename="$USER_HOME$/src/my-addin/src/lib/ReportDataParser.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>null</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -311,16 +319,16 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</text>
+        <text>keys</text>
       </register>
       <register name="0" type="4">
-        <text>this.envIdentifier.propertyUrl()</text>
+        <text>this.headers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucmVwb3J0RGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -329,16 +337,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvblJlc3BvbnNlKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgaW5zZXJ0VGFibGVJbnRvRXhjZWwgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW5jbHVzaXZlIGJhc2VkIG9uIHN0YXJ0IGFuZCBlbmQK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -347,13 +355,13 @@
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZW1haW5pbmcpCg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgaW5zZXJ0VGFibGVJbnRvRXhjZWwgfTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZXhwZWN0cyBudW0gdG8gYmUgWzAuLi4sIGluZmluaXR5XS4gSS5lLiBleGNlbCBjb2x1bW5zIGFyZSB6ZXJvIGJhc2VkIGluIHRoaXMgc3lzdGVtCg==</text>
+        <text encoding="base64">Ly8gaW5jbHVzaXZlIGJhc2VkIG9uIHN0YXJ0IGFuZCBlbmQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -366,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</last-search>
+      <last-search>keys</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</last-pattern>
+      <last-pattern>keys</last-pattern>
       <last-replace>PROPERTY</last-replace>
       <last-substitute>BASE</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDc3JmVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxpZHBIb3N0XD4=</entry>
         <entry encoding="base64">XDxkZWNvZGVkQWNjZXNzVG9rZW5cPg==</entry>
@@ -396,6 +403,7 @@
         <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</entry>
+        <entry>keys</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FUVEVNUFQvQ09OU1BJUkFDWS9n</entry>
