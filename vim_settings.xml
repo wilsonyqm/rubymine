@@ -24,7 +24,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/Requester.js" timestamp="1521742392464" />
       <file name="$USER_HOME$/src/my-addin/src/lib/EnvIdentifier.js" timestamp="1521763806202">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -75,6 +74,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/config.js" timestamp="1521838752612">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/src/passport-frontend/package.json" timestamp="1521761282912">
         <mark key="'" line="15" column="11" />
         <mark key="[" line="49" column="0" />
@@ -99,7 +103,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" timestamp="1521755514197" />
       <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1521659355760">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="59" />
@@ -166,9 +169,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1521227534023">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1521838740548">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="33" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1521739103646">
@@ -316,7 +319,7 @@
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJzY2F5dCwiOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -348,48 +351,48 @@
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lMVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>selectedSavedReport</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJzY2F5dCwiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJzY2F5dCwiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5FeGNlbC5ydW4oKGNvbnRleHQpID0+IHsKICAgICAgY29uc3Qgc2hlZXQgPSBjb250ZXh0Lndvcmtib29rLndvcmtzaGVldHMuZ2V0QWN0aXZlV29ya3NoZWV0KCk7CiAgICAgIHNoZWV0LmxvYWQoJ25hbWUnKTsKCiAgICAgIHJldHVybiBjb250ZXh0LnN5bmMoKS50aGVuKCgpID0+IHsKICAgICAgICBpbnNlcnRUYWJsZUludG9FeGNlbChgJHtzaGVldC5uYW1lfSR7c2VsZWN0ZWRTYXZlZFJlcG9ydC5uYW1lfWAsIHNoZWV0LCByZXBvcnREYXRhLCBoZWFkZXJzKTsKICAgICAgfSk7CiAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycikKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5FeGNlbC5ydW4oKGNvbnRleHQpID0+IHsKICAgICAgY29uc3Qgc2hlZXQgPSBjb250ZXh0Lndvcmtib29rLndvcmtzaGVldHMuZ2V0QWN0aXZlV29ya3NoZWV0KCk7CiAgICAgIHNoZWV0LmxvYWQoJ25hbWUnKTsKCiAgICAgIHJldHVybiBjb250ZXh0LnN5bmMoKS50aGVuKCgpID0+IHsKICAgICAgICBpbnNlcnRUYWJsZUludG9FeGNlbChgJHtzaGVldC5uYW1lfSR7c2VsZWN0ZWRTYXZlZFJlcG9ydC5uYW1lfWAsIHNoZWV0LCByZXBvcnREYXRhLCBoZWFkZXJzKTsKICAgICAgfSk7CiAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycikKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nZGRqc29uUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nZGRqc29uUmVzcG9uc2UpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGZ1bmNNb2NrKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         loading: false,
         savedReportList: [1, 2],
         selectedSavedReport: 1
       }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
-      </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Zpb3dlZmppbycpOwo=</text>
+        <text encoding="base64">ICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
