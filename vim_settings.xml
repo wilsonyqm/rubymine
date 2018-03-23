@@ -52,12 +52,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" timestamp="1521763985588">
-        <mark key="'" line="64" column="9" />
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="45" />
-        <mark key="." line="56" column="45" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" timestamp="1521767638656">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+        <mark key="^" line="45" column="3" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
@@ -70,7 +70,7 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521763913116">
+      <file name="/Dummy.txt" timestamp="1521764956347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,6 +125,13 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" timestamp="1521767312648">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableInsertionHelper.js" timestamp="1521679846855">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -136,7 +143,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521763623765">
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1521764279160">
         <mark key="'" line="5" column="29" />
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="38" />
@@ -147,9 +154,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1521742331744">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
+      <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1521766454975">
+        <mark key="'" line="71" column="48" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="79" />
+        <mark key="^" line="80" column="37" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/public/index.html" timestamp="1521670356882">
         <mark key="[" line="13" column="0" />
@@ -200,25 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="34" filename="$USER_HOME$/src/passport-frontend/package.json" />
-      <jump line="53" column="26" filename="$USER_HOME$/src/passport-frontend/webpack.config.js" />
-      <jump line="67" column="35" filename="$USER_HOME$/src/passport-frontend/webpack.config.js" />
-      <jump line="50" column="18" filename="$USER_HOME$/src/passport-frontend/webpack.config.js" />
-      <jump line="22" column="46" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="23" column="60" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="41" column="55" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="121" column="79" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="122" column="79" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="123" column="79" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="126" column="77" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
-      <jump line="43" column="2" filename="$USER_HOME$/src/my-addin/src/components/VHostFormRow.js" />
-      <jump line="4" column="9" filename="$USER_HOME$/src/my-addin/src/components/VHostFormRow.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/src/passport-frontend/src/lib/api.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" />
-      <jump line="63" column="13" filename="$USER_HOME$/src/passport-frontend/package.json" />
-      <jump line="14" column="11" filename="$USER_HOME$/src/passport-frontend/package.json" />
-      <jump line="6" column="11" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
-      <jump line="5" column="2" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
       <jump line="27" column="0" filename="$USER_HOME$/src/my-addin/src/components/HomePage.js" />
       <jump line="11" column="36" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
       <jump line="43" column="38" filename="$USER_HOME$/src/oauth_app/config/application.rb" />
@@ -300,13 +291,32 @@
       <jump line="23" column="0" filename="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" />
       <jump line="44" column="29" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="65" column="9" filename="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" />
+      <jump line="21" column="14" filename="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="21" column="14" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="31" column="43" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="32" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="78" column="20" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="79" column="35" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="89" column="62" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="90" column="35" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="94" column="29" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="96" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="99" column="29" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="0" column="7" filename="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" />
+      <jump line="73" column="92" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="71" column="48" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS41LjEwIiwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.state.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -333,49 +343,53 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>this.state.</text>
+        <text>, reportData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</text>
+        <text encoding="base64">XDxuYW1lMVw+</text>
       </register>
       <register name="0" type="4">
-        <text>`${auth.getIdpHost()}/api/v1/excel_integrations/saved_report_data?${queryParams}`</text>
+        <text>selectedSavedReport</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJHthdXRoLmdldElkcEhvc3QoKX0vYXBpL3YxL2V4Y2VsX2ludGVncmF0aW9ucy9zYXZlZF9yZXBvcnRfZGF0YT8ke3F1ZXJ5UGFyYW1zfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0SWRwSG9zdEZyb21Ub2tlbigpKTsK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5FeGNlbC5ydW4oKGNvbnRleHQpID0+IHsKICAgICAgY29uc3Qgc2hlZXQgPSBjb250ZXh0Lndvcmtib29rLndvcmtzaGVldHMuZ2V0QWN0aXZlV29ya3NoZWV0KCk7CiAgICAgIHNoZWV0LmxvYWQoJ25hbWUnKTsKCiAgICAgIHJldHVybiBjb250ZXh0LnN5bmMoKS50aGVuKCgpID0+IHsKICAgICAgICBpbnNlcnRUYWJsZUludG9FeGNlbChgJHtzaGVldC5uYW1lfSR7c2VsZWN0ZWRTYXZlZFJlcG9ydC5uYW1lfWAsIHNoZWV0LCByZXBvcnREYXRhLCBoZWFkZXJzKTsKICAgICAgfSk7CiAgICB9KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGVycikKICAgIH0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnRoZW4oKGpzb25SZXNwb25zZSkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgbG9hZGluZzogZmFsc2UsCiAgICAgICAgICBzYXZlZFJlcG9ydExpc3Q6IGpzb25SZXNwb25zZS5zYXZlZF9yZXBvcnRzLAogICAgICAgICAgc2VsZWN0ZWRTYXZlZFJlcG9ydDoganNvblJlc3BvbnNlLnNhdmVkX3JlcG9ydHNbMF0KICAgICAgICB9KTsKICAgICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIH0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoanNvblJlc3BvbnNlKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nZGRqc29uUmVzcG9uc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZ1bmNNb2NrKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+        loading: false,
+        savedReportList: [1, 2],
+        selectedSavedReport: 1
+      }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlc3QgZnJvbSAnYXZhJzsK</text>
+        <text encoding="base64">ICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmlmICh3aW5kb3cubG9jYXRpb24uaHJlZi5pbmNsdWRlcygnaGFzSGFzaCcpKSB7CiAgdXNlSGFzaCA9IHF1ZXJ5U3RyaW5nLnBhcnNlKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpLnVzZUhhc2g7Cn0gZWxzZSB7CiAgbGV0IGhhc2hVcmwgPSB3aW5kb3cubG9jYXRpb24uaGFzaDsKICB1c2VIYXNoID0gcXVlcnlTdHJpbmcucGFyc2UoaGFzaFVybC5zdWJzdHJpbmcoaGFzaFVybC5pbmRleE9mKCc/JykgKyAxKSkudXNlSGFzaDsKfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Zpb3dlZmppbycpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -388,9 +402,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</last-search>
+      <last-search encoding="base64">XDxuYW1lMVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lMVw+</last-pattern>
       <last-replace>PROPERTY</last-replace>
       <last-substitute>BASE</last-substitute>
       <last-dir>1</last-dir>
@@ -398,10 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tokens</entry>
-        <entry encoding="base64">XDxIRUxQRVJfRU5EUE9JTlRfTkFNRVw+</entry>
-        <entry>consol</entry>
-        <entry encoding="base64">XDxzZXRJZHBIb3N0RnJvbVRva2VuXD4=</entry>
         <entry encoding="base64">XDxnZXRJZHBIb3N0XD4=</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry>BASE</entry>
@@ -418,6 +428,10 @@
         <entry encoding="base64">XDxSZXF1ZXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRTYXZlZFJlcG9ydExpc3RcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZU1vY2tHZXRcPg==</entry>
+        <entry>auth</entry>
+        <entry encoding="base64">XDxhdXRoXD4=</entry>
+        <entry encoding="base64">XDxuYW1lMVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FUVEVNUFQvQ09OU1BJUkFDWS9n</entry>
