@@ -148,6 +148,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" timestamp="1522263615932">
+        <mark key="'" line="111" column="8" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/EnvIdentifierService.test.js" timestamp="1522172204107">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="35" />
@@ -220,12 +223,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_general_ledger.rb" timestamp="1522205611516">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" timestamp="1522261080349">
-        <mark key="'" line="119" column="8" />
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="32" />
-        <mark key="." line="34" column="6" />
-        <mark key="^" line="34" column="5" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" timestamp="1522262464580">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableInsertionHelper.js" timestamp="1522110598560">
         <mark key="'" line="23" column="9" />
@@ -273,6 +275,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/jobs/reports/buffered_report_csv_job.rb" timestamp="1522262673920">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/config/webpack.common.js" timestamp="1520897026086">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="56" />
@@ -319,7 +327,7 @@
         <mark key="." line="10" column="52" />
         <mark key="^" line="10" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522259688284">
+      <file name="/Dummy.txt" timestamp="1522263616367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -370,10 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="9" filename="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" />
-      <jump line="83" column="13" filename="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" />
-      <jump line="89" column="32" filename="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" />
-      <jump line="73" column="13" filename="$USER_HOME$/src/my-addin/src/test/api/PropertyRequester.test.js" />
       <jump line="41" column="6" filename="$USER_HOME$/src/my-addin/src/lib/api/PropertyRequester.js" />
       <jump line="23" column="9" filename="$USER_HOME$/src/my-addin/src/lib/excel/TableInsertionHelper.js" />
       <jump line="4" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/accounting/src/api/helpers.js" />
@@ -470,13 +474,17 @@
       <jump line="90" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" />
       <jump line="55" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" />
       <jump line="118" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" />
+      <jump line="90" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
+      <jump line="40" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
+      <jump line="75" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
+      <jump line="111" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHAgJ0hJSElISScKICAgICAgcHAgcwo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -506,46 +514,46 @@
         <text>'HIHIHI'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfZm9vdGVyXD4=</text>
+        <text encoding="base64">XDxmb3JtYXRfZmlyc3RfZm9vdGVyX2NvbHVtblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHAgJ0hJSElISScK</text>
+      <register name="0" type="4">
+        <text>File.open(xlsx_file_name, 'w') { |f| f.write(s.read) }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHAgJ0hJSElISScKICAgICAgcHAgcwo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHAgJ0hJSElISScKICAgICAgcHAgcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gUmVxdWVzdGVyLmdldChgaHR0cHM6Ly9qZnJ6eWZycW12LmxvY2FsdHVubmVsLm1lL2FwaS92MS9leGNlbF9pbnRlZ3JhdGlvbnMvc2F2ZWRfcmVwb3J0X2RhdGE/JHtxdWVyeVBhcmFtc31gKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGVhZGVycykK</text>
+        <text encoding="base64">ICByZXR1cm4gUmVxdWVzdGVyLmdldChgaHR0cHM6Ly9qZnJ6eWZycW12LmxvY2FsdHVubmVsLm1lL2FwaS92MS9leGNlbF9pbnRlZ3JhdGlvbnMvc2F2ZWRfcmVwb3J0X2RhdGE/JHtxdWVyeVBhcmFtc31gKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvblJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaGVhZGVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcG9ydERhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coanNvblJlc3BvbnNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWRTYXZlZFJlcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcG9ydERhdGEpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dGggZnJvbSAnLi4vdXRpbHMvYXV0aGVudGljYXRvcic7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWRTYXZlZFJlcG9ydCk7Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBpZHggPSAwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGF1dGggZnJvbSAnLi4vdXRpbHMvYXV0aGVudGljYXRvcic7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -558,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfZm9vdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxmb3JtYXRfZmlyc3RfZm9vdGVyX2NvbHVtblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfZm9vdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtYXRfZmlyc3RfZm9vdGVyX2NvbHVtblw+</last-pattern>
       <last-replace>PROPERTY</last-replace>
       <last-substitute>BASE</last-substitute>
       <last-dir>1</last-dir>
@@ -568,9 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZW1vcml6ZWRfcmVwb3J0X2lkXD4=</entry>
-        <entry encoding="base64">XDxyZXBvcnRfaWRcPg==</entry>
-        <entry encoding="base64">XDxuZXdfZGVmYXVsdF93aWR0aHNcPg==</entry>
         <entry encoding="base64">XDxnZXRfZGVmYXVsdF93aWR0aFw+</entry>
         <entry encoding="base64">XDxnZXRfY29sdW1uX3dpZHRoXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZWRfY29sdW1uc1w+</entry>
@@ -584,10 +589,13 @@
         <entry>FV</entry>
         <entry>x</entry>
         <entry>xlsx</entry>
-        <entry encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfaGVhZGVyXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJfcmVwb3J0X25hbWVcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJfZmlsdGVyX2luZm9cPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfZm9vdGVyXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJfdG9fZmlsZVw+</entry>
+        <entry encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfaGVhZGVyXD4=</entry>
+        <entry encoding="base64">XDx0b19jc3ZcPg==</entry>
+        <entry encoding="base64">XDxmb3JtYXRfZmlyc3RfZm9vdGVyX2NvbHVtblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FUVEVNUFQvQ09OU1BJUkFDWS9n</entry>
