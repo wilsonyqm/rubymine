@@ -31,6 +31,11 @@
         <mark key="." line="96" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1522358044876" />
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522362060451">
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="82" />
+        <mark key="." line="32" column="82" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/document_templates_test.rb" timestamp="1521853532102">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="85" column="39" />
@@ -554,8 +559,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -582,13 +587,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNlbF9pbnRlZ3JhdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>getReportHeadersForExcel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxBcHBEb21haW4+aHR0cHM6Ly9sb2NhbGhvc3Q6NTA4MDwvQXBwRG9tYWluPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
