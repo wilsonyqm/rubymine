@@ -16,8 +16,8 @@
         <mark key="." line="96" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1522358044876" />
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522366602764">
-        <mark key="'" line="144" column="0" />
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522370795199">
+        <mark key="'" line="142" column="8" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="0" />
@@ -68,11 +68,11 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1522171265596">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="2" column="58" />
-        <mark key="." line="2" column="58" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1522370912059">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521263654833">
         <mark key="[" line="14" column="22" />
@@ -183,11 +183,13 @@
         <mark key="." line="39" column="32" />
         <mark key="^" line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/EnvIdentifierService.js" timestamp="1522366684869">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="52" />
-        <mark key="." line="3" column="41" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/EnvIdentifierService.js" timestamp="1522370165632">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="93" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1522370752334" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1522280386639">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="21" column="12" />
@@ -299,10 +301,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/EnvIdentifierService.test.js" timestamp="1522366686170">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="66" />
-        <mark key="." line="31" column="42" />
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/EnvIdentifierService.test.js" timestamp="1522370280422">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="36" column="1" />
       </file>
       <file name="$USER_HOME$/src/appfolio-react-template/src/index.html" timestamp="1520295112805">
         <mark key="[" line="13" column="0" />
@@ -322,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/unconsolidated_property_reports/worker_job.rb" />
       <jump line="86" column="104" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/unconsolidated_property_reports/worker_job.rb" />
       <jump line="74" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/unconsolidated_property_reports/worker_job.rb" />
       <jump line="48" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/v1/excel_integrations_controller.rb" />
@@ -422,13 +424,14 @@
       <jump line="48" column="57" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
       <jump line="123" column="81" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
       <jump line="144" column="0" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
+      <jump line="142" column="8" filename="$USER_HOME$/src/my-addin/appfolio-manifest.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text>/</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -455,13 +458,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>localhost:5080</text>
+        <text>excel.qa.appf.io</text>
       </register>
       <register name="0" type="4">
-        <text>https://excel.qa.appf.io</text>
+        <text>clientId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxBcHBEb21haW4+PC9BcHBEb21haW4+Cg==</text>
@@ -503,24 +506,23 @@
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xvY2FsaG9zdDo1MDgwL2V4Y2VsLnFhLmFwcGYuaW8vZw==</text>
+        <text encoding="base64">JzwsJz5zL2V4Y2VsLnFhLmFwcGYuaW8vbG9jYWxob3N0OjUwODAvZw==</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
       </register>
     </registers>
     <search>
-      <last-search>localhost:5080</last-search>
+      <last-search>excel.qa.appf.io</last-search>
       <last-offset />
-      <last-pattern>localhost:5080</last-pattern>
-      <last-replace>excel.qa.appf.io</last-replace>
-      <last-substitute>localhost:5080</last-substitute>
+      <last-pattern>excel.qa.appf.io</last-pattern>
+      <last-replace>localhost:5080</last-replace>
+      <last-substitute>excel.qa.appf.io</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRlcm5hbGl6ZWRfcm93c1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFcPg==</entry>
         <entry encoding="base64">XDxsb2dpbl9hc1w+</entry>
         <entry>report_name</entry>
@@ -540,9 +542,9 @@
         <entry>v1</entry>
         <entry>5080</entry>
         <entry>localhost:5080</entry>
+        <entry>excel.qa.appf.io</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry>s/Decisions::CriminalFuzzyMatcher/CriminalOffenseFuzzyMatchService/g</entry>
         <entry>nohl</entry>
@@ -562,6 +564,7 @@
         <entry encoding="base64">JzwsJz5zL0JBU0UvUFJPUEVSVFkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zjc3YvYnVmZmVyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2xvY2FsaG9zdDo1MDgwL2V4Y2VsLnFhLmFwcGYuaW8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2V4Y2VsLnFhLmFwcGYuaW8vbG9jYWxob3N0OjUwODAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
