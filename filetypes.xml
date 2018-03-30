@@ -3,10 +3,13 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="_imageSharer.html.erb" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.qa" type="PLAIN_TEXT" />
       <mapping pattern="images/a" type="PLAIN_TEXT" />
       <mapping pattern="test_html" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="criminal_low_score_test.rb" type="PLAIN_TEXT" />
       <mapping pattern="criminal_low_score_test" type="Ruby" />
       <mapping pattern="images_crud_test" type="Ruby" />
