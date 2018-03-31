@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/models/google_calendar_sync/lease_end_dependency_observer.rb" timestamp="1522455851976" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1522358044876" />
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522370795199">
         <mark key="'" line="142" column="8" />
@@ -37,6 +38,12 @@
         <mark key="." line="14" column="117" />
         <mark key="^" line="14" column="117" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/environments/production.rb" timestamp="1522456150428">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -47,13 +54,16 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="14" column="2" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/environments/development.rb" timestamp="1522456507330">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="106" column="3" />
+        <mark key="^" line="100" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-2.1.1/lib/af_authenticator/api_base_controller.rb" timestamp="1522357503250">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_cash_flow.rb" timestamp="1522362912596">
-        <mark key="'" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1522451882892">
         <mark key="'" line="50" column="2" />
@@ -182,6 +192,11 @@
         <mark key="^" line="35" column="83" />
         <mark key="." line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/requester.js" timestamp="1522457067945">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/services/EnvIdentifierService.js" timestamp="1522443226040">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -194,7 +209,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1522358039298">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1522456526610">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
@@ -222,6 +237,10 @@
         <mark key="]" line="111" column="52" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" timestamp="1522455461999">
+        <mark key="'" line="130" column="71" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/application.rb" timestamp="1522455860771" />
       <file name="$USER_HOME$/src/my-addin/.env.qa" timestamp="1522434536649">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="18" />
@@ -245,10 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_xlsx_template.rb" />
-      <jump line="90" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
-      <jump line="75" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
-      <jump line="111" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="91" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="109" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="76" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
@@ -345,13 +360,17 @@
       <jump line="50" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="187" column="22" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="194" column="30" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="118" column="13" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="119" column="13" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
+      <jump line="130" column="71" filename="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/dist/api/api-helper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdEb21haW4nOgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -378,49 +397,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>excel_integration</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text encoding="base64">XDxIRUFERVJTXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIuc3RhdGUoKS5jb21ib0JveEVycm9yTWVzc2FnZSkudG9FcXVhbCgnSW52YWxpZCBzYXZlZCByZXBvcnQnKTsK</text>
+        <text encoding="base64">ICBjb25maWcubWlkZGxld2FyZS5pbnNlcnRfYmVmb3JlIDAsICJSYWNrOjpDb3JzIiBkbwogICAgYWxsb3cgZG8KICAgICAgb3JpZ2lucyAlcntcQWh0dHBzOlwvXC8uK1wuYXBwZi5pb1x6fQogICAgICByZXNvdXJjZSAnL2FwaS9vYXV0aC8qJywgaGVhZGVyczogOmFueSwgbWV0aG9kczogJWlbZ2V0IHBvc3Qgb3B0aW9uc10sIGNyZWRlbnRpYWxzOiB0cnVlCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGV4Y2VsSW5zZXJ0aW9uU2VydmljZVNweSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoeyBpZDogMTIzIH0sICdkJywgJ2gnKTsK</text>
+        <text encoding="base64">ICAgICdEb21haW4nOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGV4Y2VsSW5zZXJ0aW9uU2VydmljZVNweSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoeyBpZDogMTIzIH0sICdkJywgJ2gnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgcHJvcGVydHlSZXF1ZXN0ZXJTcHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJvcGVydHlSZXF1ZXN0ZXJTcHkgPSBqZXN0LnNweU9uKHByb3BlcnR5UmVxdWVzdGVyLCAnZ2V0UmVwb3J0RGF0YScpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiBQcm9taXNlLnJlc29sdmUoeyBkYXRhOiAnZCcsIGhlYWRlcnM6ICdoJ30pKTsK</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgcHJvcGVydHlSZXF1ZXN0ZXJTcHkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcHJvcGVydHlSZXF1ZXN0ZXJTcHkgPSBqZXN0LnNweU9uKHByb3BlcnR5UmVxdWVzdGVyLCAnZ2V0UmVwb3J0RGF0YScpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiBQcm9taXNlLnJlc29sdmUoeyBkYXRhOiAnZCcsIGhlYWRlcnM6ICdoJ30pKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChzYXZlUmVwb3J0TGlzdC5sZW5ndGggPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChzYXZlUmVwb3J0TGlzdC5sZW5ndGggPiAwKSB7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2Uuc2F2ZWRSZXBvcnRzLmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBZb3UgZG9uJ3QgaGF2ZSBhbnkgc2F2ZWQgcmVwb3J0IG5vdywgcGxlYXNlIGNyZWF0ZSBvbmUgaW4gQXBwZm9saW8gQXBwLmApOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2Uuc2F2ZWRSZXBvcnRzLmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBZb3UgZG9uJ3QgaGF2ZSBhbnkgc2F2ZWQgcmVwb3J0IG5vdywgcGxlYXNlIGNyZWF0ZSBvbmUgaW4gQXBwZm9saW8gQXBwLmApOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -433,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search encoding="base64">XDxIRUFERVJTXD4=</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern encoding="base64">XDxIRUFERVJTXD4=</last-pattern>
       <last-replace>localhost:5080</last-replace>
       <last-substitute>excel.qa.appf.io</last-substitute>
       <last-dir>1</last-dir>
@@ -443,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTl9HTF9JRFw+</entry>
         <entry encoding="base64">XDxjb21iaW5lZF9wcm9wZXJ0eV9pZHNcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJfbWV0YWRhdGFfaGVhZGVyXD4=</entry>
         <entry encoding="base64">XDxDTl9VTklUX0lEXD4=</entry>
@@ -463,6 +481,7 @@
         <entry encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRTYXZlZFJlcG9ydExpc3RGb3JEcm9wZG93blw+</entry>
         <entry>state</entry>
+        <entry encoding="base64">XDxIRUFERVJTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
