@@ -113,6 +113,9 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="1" column="40" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/AuthorizationForm.jsx" timestamp="1522700039172">
+        <mark key="'" line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/src/passport-frontend/test/lib/hashRouterHelper.spec.js" timestamp="1521761860084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -251,9 +254,9 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ErrorMessage.jsx" timestamp="1522700103906" />
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="81" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="96" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_csv_template.rb" />
       <jump line="610" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
@@ -353,6 +356,7 @@
       <jump line="99" column="24" filename="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" />
       <jump line="100" column="24" filename="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" />
       <jump line="101" column="24" filename="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" />
+      <jump line="0" column="7" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationForm.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -389,7 +393,7 @@
         <text>Contoso.tpicon</text>
       </register>
       <register name="/" type="4">
-        <text>Image</text>
+        <text encoding="base64">XDxSZWFjdFw+</text>
       </register>
       <register name="0" type="4">
         <text>appfolioLogo</text>
@@ -441,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Image</last-search>
+      <last-search encoding="base64">XDxSZWFjdFw+</last-search>
       <last-offset />
-      <last-pattern>Image</last-pattern>
+      <last-pattern encoding="base64">XDxSZWFjdFw+</last-pattern>
       <last-replace>appfolioTouch.png</last-replace>
       <last-substitute>appfolioLogo.svg</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>5080</entry>
         <entry>localhost:5080</entry>
         <entry>excel.qa.appf.io</entry>
         <entry encoding="base64">XDxDb21ib0JveFw+</entry>
@@ -471,6 +474,7 @@
         <entry>appfolioLogo.svg</entry>
         <entry encoding="base64">XDxhcHBmb2xpb1RvdWNoXD4=</entry>
         <entry>Image</entry>
+        <entry encoding="base64">XDxSZWFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/Decisions::CriminalFuzzyMatcher/CriminalOffenseFuzzyMatchService/g</entry>
