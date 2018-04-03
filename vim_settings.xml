@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/surveys/src/api/helpers.js" timestamp="1522779871055">
-        <mark key="'" line="124" column="10" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1522794246263">
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/styles/components/CenteredLayout.scss" timestamp="1522704790348">
         <mark key="[" line="1" column="17" />
@@ -18,9 +21,6 @@
         <mark key="]" line="23" column="81" />
         <mark key="^" line="23" column="79" />
         <mark key="." line="23" column="75" />
-      </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1522775214181">
-        <mark key="'" line="145" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1521847342909">
         <mark key="[" line="3" column="0" />
@@ -40,7 +40,6 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/accounting/src/api/helpers.js" timestamp="1522779638827" />
       <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1522689991526">
         <mark key="[" line="46" column="24" />
         <mark key="]" line="46" column="24" />
@@ -76,10 +75,16 @@
         <mark key="." line="14" column="117" />
         <mark key="^" line="14" column="117" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_new_relic_insights/lib/property_new_relic_insights/event_store.rb" timestamp="1522793353541">
+        <mark key="'" line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" timestamp="1522793268124">
+        <mark key="'" line="187" column="16" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/environments/production.rb" timestamp="1522456150428">
         <mark key="[" line="37" column="0" />
@@ -94,10 +99,18 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/hold_deposits_controller.rb" timestamp="1522793022578">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="29" column="52" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="/create_bulk_tenant_charge_service_test.rb" timestamp="1522793525399">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="141" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/browserMocks.js" timestamp="1521574342091">
         <mark key="[" line="20" column="0" />
@@ -138,6 +151,7 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/showings/data_tracking_service.rb" timestamp="1522793459232" />
       <file name="$USER_HOME$/src/passport-frontend/test/lib/hashRouterHelper.spec.js" timestamp="1521761860084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -167,16 +181,16 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="51" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522792305181">
+      <file name="/Dummy.txt" timestamp="1522793502442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1522456526610">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1522793708518">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="42" />
+        <mark key="." line="26" column="42" />
+        <mark key="^" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1522780558320">
         <mark key="[" line="22" column="0" />
@@ -192,7 +206,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-2.1.1/lib/af_authenticator/api_base_controller.rb" timestamp="1522357503250">
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-2.1.1/lib/af_authenticator/api_base_controller.rb" timestamp="1522794370324">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -214,12 +228,6 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1522780230975">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/src/my-addin/.env" timestamp="1522443241367">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="40" />
@@ -236,6 +244,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/.env.qa" timestamp="1522775741097">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/index.css" timestamp="1521566803287">
         <mark key="[" line="0" column="0" />
@@ -278,23 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="105" column="25" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="55" column="8" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="57" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="89" column="18" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="144" column="16" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="64" column="30" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="90" column="58" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="45" column="12" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="68" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="67" column="60" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="66" column="18" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="62" column="12" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="52" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="119" column="25" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="50" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="187" column="22" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="194" column="30" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
@@ -378,13 +374,30 @@
       <jump line="34" column="54" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionService.test.js" />
       <jump line="70" column="56" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionService.test.js" />
       <jump line="26" column="46" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" />
+      <jump line="54" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="55" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="57" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="95" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="96" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="97" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="120" column="64" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="121" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="165" column="108" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="173" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="211" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="245" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="171" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="182" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="194" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="187" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
+      <jump line="15" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_new_relic_insights/lib/property_new_relic_insights/event_store.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29udmVydE51bWJlclJhbmdlVG9FeGNlbENvbHVtblJhbmdlIH0gZnJvbSAnLi4vLi4vdXRpbHMvZXhjZWwvd29ya3NoZWV0X2hlbHBlcic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -411,49 +424,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW5pdGl6ZUZvclRhYmxlTmFtZVw+</text>
+        <text>time</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxlY3RlZFJhbmdlTW9jayA9IHsgIGxvYWQ6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksICBhZGRyZXNzOiAnc2hlZXQxIUIxMTpFMTEnfTsKICAgICAgICBjb25zdCBjZWxsTW9jayA9IHsgIGdldFJlc2l6ZWRSYW5nZTogamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKGEsIGIpID0+IHNlbGVjdGVkUmFuZ2VNb2NrICl9OwogICAgICAgIGNvbnN0IHJhbmdlTW9jayA9IHsgZ2V0Q2VsbDogamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKGEsIGIpID0+IGNlbGxNb2NrICl9OwogICAgICAgIGNvbnRleHRNb2NrLndvcmtib29rLmdldFNlbGVjdGVkUmFuZ2UubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoKSA9PiByYW5nZU1vY2spOwo=</text>
+      <register name="0" type="4">
+        <text>buffered_general_ledger</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29udmVydE51bWJlclJhbmdlVG9FeGNlbENvbHVtblJhbmdlIH0gZnJvbSAnLi4vLi4vdXRpbHMvZXhjZWwvd29ya3NoZWV0X2hlbHBlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgd29ya3NoZWV0SGVscGVyIGZyb20gJy4uLy4uLy4uLy4uL2xpYi91dGlscy9leGNlbC93b3Jrc2hlZXRfaGVscGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIG51bWJlcl9vZl9hcHBsaWNhbnRzOiBob2xkX2RlcG9zaXQucmVudGFsX2FwcGxpY2F0aW9uLmFwcGxpY2FudHMuY291bnQsCiAgICAgICAgICB1bml0OiBob2xkX2RlcG9zaXQucmVudGFsX2FwcGxpY2F0aW9uLnVuaXQudHJ5KDpuYW1lKSB8fCAnTm9uZScsCiAgICAgICAgICBjYW1wYWlnbjogaG9sZF9kZXBvc2l0LnJlbnRhbF9hcHBsaWNhdGlvbi5jYW1wYWlnbi50cnkoOnRpdGxlKSB8fCAnTm9uZScsCiAgICAgICAgICBhdmFpbGFibGU6IGhvbGRfZGVwb3NpdC5yZW50YWxfYXBwbGljYXRpb24ubGlzdGFibGUudHJ5KDphdmFpbGFibGUpLnRyeSg6dG9fcykgfHwgJ05vbmUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEluc2VydGlvblNlcnZpY2UgZnJvbSAnLi4vLi4vLi4vLi4vbGliL3NlcnZpY2VzL2V4Y2VsL0luc2VydGlvblNlcnZpY2UnOwppbXBvcnQgKiBhcyB3b3Jrc2hlZXRIZWxwZXIgZnJvbSAnLi4vLi4vLi4vLi4vbGliL3V0aWxzL2V4Y2VsL3dvcmtzaGVldF9oZWxwZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY29udmVydE51bWJlclJhbmdlVG9FeGNlbENvbHVtblJhbmdlIH0gZnJvbSAnLi4vLi4vdXRpbHMvZXhjZWwvd29ya3NoZWV0X2hlbHBlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0ZWRSYW5nZU1vY2sgPSB7ICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLCAgYWRkcmVzczogJ3NoZWV0MSFCMTE6RTExJ307CiAgICAgIGNvbnN0IGNlbGxNb2NrID0geyAgZ2V0UmVzaXplZFJhbmdlOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoYSwgYikgPT4gewogICAgICAgIGlmIChhID09PSAwICYmIGIgPT09IDMpIHsKICAgICAgICAgIHJldHVybiBzZWxlY3RlZFJhbmdlTW9jazsKICAgICAgICB9CiAgICAgIH0pIH07CiAgICAgIGNvbnN0IHJhbmdlTW9jayA9IHsgZ2V0Q2VsbDogamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKGEsIGIpID0+IHsKICAgICAgICBpZiAoYSA9PT0gMCAmJiBiID09PSAwKSB7CiAgICAgICAgICByZXR1cm4gY2VsbE1vY2s7CiAgICAgICAgfQogICAgICB9KX07CiAgICAgIGNvbnRleHRNb2NrLndvcmtib29rLmdldFNlbGVjdGVkUmFuZ2UubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoKSA9PiByYW5nZU1vY2spOwo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgd29ya3NoZWV0SGVscGVyIGZyb20gJy4uLy4uLy4uLy4uL2xpYi91dGlscy9leGNlbC93b3Jrc2hlZXRfaGVscGVyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoYSA9PT0gJ0IxMTpFMTEnICYmIGIpCg==</text>
+        <text encoding="base64">aW1wb3J0IEluc2VydGlvblNlcnZpY2UgZnJvbSAnLi4vLi4vLi4vLi4vbGliL3NlcnZpY2VzL2V4Y2VsL0luc2VydGlvblNlcnZpY2UnOwppbXBvcnQgKiBhcyB3b3Jrc2hlZXRIZWxwZXIgZnJvbSAnLi4vLi4vLi4vLi4vbGliL3V0aWxzL2V4Y2VsL3dvcmtzaGVldF9oZWxwZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoYSA9PT0gJ0IxMTpFMTEnICYmIGIpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZWN0ZWRSYW5nZU1vY2sgPSB7ICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLCAgYWRkcmVzczogJ3NoZWV0MSFCMTE6RTExJ307CiAgICAgIGNvbnN0IGNlbGxNb2NrID0geyAgZ2V0UmVzaXplZFJhbmdlOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoYSwgYikgPT4gewogICAgICAgIGlmIChhID09PSAwICYmIGIgPT09IDMpIHsKICAgICAgICAgIHJldHVybiBzZWxlY3RlZFJhbmdlTW9jazsKICAgICAgICB9CiAgICAgIH0pIH07CiAgICAgIGNvbnN0IHJhbmdlTW9jayA9IHsgZ2V0Q2VsbDogamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKGEsIGIpID0+IHsKICAgICAgICBpZiAoYSA9PT0gMCAmJiBiID09PSAwKSB7CiAgICAgICAgICByZXR1cm4gY2VsbE1vY2s7CiAgICAgICAgfQogICAgICB9KX07CiAgICAgIGNvbnRleHRNb2NrLndvcmtib29rLmdldFNlbGVjdGVkUmFuZ2UubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoKSA9PiByYW5nZU1vY2spOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRVc2VkUmFuZ2U6ICgpID0+IGdldFVzZWRSYW5nZU1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoYSA9PT0gJ0IxMTpFMTEnICYmIGIpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2hlZXRNb2NrID0geyB0YWJsZXM6IHsgYWRkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uKCgpID0+IHRhYmxlTW9jaykgfSB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoYSA9PT0gJ0IxMTpFMTEnICYmIGIpCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGEpID0+IHsKICAgICAgICAgIGlmIChhID09PSAwICYmIGIgPT09IDIpIHsKICAgICAgICAgICAgcmV0dXJuIHNlbGVjdGVkUmFuZ2VNb2NrOwogICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRVc2VkUmFuZ2U6ICgpID0+IGdldFVzZWRSYW5nZU1vY2sK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -466,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW5pdGl6ZUZvclRhYmxlTmFtZVw+</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW5pdGl6ZUZvclRhYmxlTmFtZVw+</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>excel.appf.io</last-replace>
       <last-substitute>excel.qa.appf.io</last-substitute>
       <last-dir>1</last-dir>
@@ -476,14 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Label</entry>
-        <entry encoding="base64">XDxUYXNrcGFuZUJ1dHRvblw+</entry>
-        <entry encoding="base64">XDxUb29sdGlwXD4=</entry>
-        <entry>Contoso</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFNhdmVkUmVwb3J0XD4=</entry>
-        <entry>&quot;</entry>
-        <entry encoding="base64">XDxBX0xvZ284MFw+</entry>
-        <entry>localhost:5080</entry>
         <entry>excel.qa.appf.io</entry>
         <entry encoding="base64">XDxjaGVja1Jlc3BvbnNlU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRUYWJsZUludG9TaGVldFw+</entry>
@@ -496,6 +501,14 @@
         <entry encoding="base64">XDxnZXRVc2VkUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJhbmdlXD4=</entry>
         <entry encoding="base64">XDxzYW5pdGl6ZUZvclRhYmxlTmFtZVw+</entry>
+        <entry>name</entry>
+        <entry encoding="base64">XDxmaXJzdF9uYW1lXD4=</entry>
+        <entry encoding="base64">XDxmdWxsX25hbWVcPg==</entry>
+        <entry>def name</entry>
+        <entry>email</entry>
+        <entry>def eamil</entry>
+        <entry>def email</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NjcmVlbmluZ3Mvc2lnbnVwL2c=</entry>
