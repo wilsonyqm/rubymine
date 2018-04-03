@@ -13,17 +13,12 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522712962598">
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1522714491896">
         <mark key="'" line="140" column="6" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="139" column="217" />
-        <mark key="^" line="139" column="122" />
-        <mark key="." line="139" column="164" />
-      </file>
-      <file name="$USER_HOME$/src/my-addin/src/App.css" timestamp="1522705946574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="139" column="141" />
+        <mark key="]" line="139" column="143" />
+        <mark key="^" line="139" column="143" />
+        <mark key="." line="139" column="143" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1521847342909">
         <mark key="[" line="3" column="0" />
@@ -172,8 +167,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1522712964600">
-        <mark key="]" line="15" column="218" />
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1522714500517">
+        <mark key="[" line="139" column="141" />
+        <mark key="]" line="139" column="144" />
+        <mark key="." line="139" column="144" />
+        <mark key="^" line="15" column="121" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
@@ -204,9 +202,6 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/environments/development.rb" timestamp="1522456507330">
-        <mark key="]" line="105" column="3" />
       </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-2.1.1/lib/af_authenticator/api_base_controller.rb" timestamp="1522357503250">
         <mark key="[" line="9" column="0" />
@@ -395,8 +390,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnQ6U3RyaW5nIGlkPSJBcHBmb2xpby5UYXNrcGFuZUJ1dHRvbi5Ub29sdGlwIiBEZWZhdWx0VmFsdWU9IlN0YXJ0IHRvIGNvbm5lY3QgcmVwb3J0cyIgLz4KICAgICAgICA8YnQ6U3RyaW5nIGlkPSJBcHBmb2xpby5HZXRTdGFydGVkLkRlc2NyaXB0aW9uIiBEZWZhdWx0VmFsdWU9IllvdXIgc2FtcGxlIGFkZC1pbiBsb2FkZWQgc3VjY2VzZnVsbHkuIEdvIHRvIHRoZSBIT01FIHRhYiBhbmQgY2xpY2sgdGhlICdTaG93IFRhc2twYW5lJyBidXR0b24gdG8gZ2V0IHN0YXJ0ZWQuIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>OME</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -423,7 +418,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>Show Taskpane</text>
+        <text>OME</text>
       </register>
       <register name="/" type="4">
         <text>Contoso</text>
