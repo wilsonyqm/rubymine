@@ -20,6 +20,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DeletionService.js" timestamp="1522875066487">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/App.spec.js" timestamp="1522795926836">
         <mark key="'" line="9" column="9" />
         <mark key="[" line="9" column="0" />
@@ -45,10 +51,10 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1522869768243">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1522875216172">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
-        <mark key="^" line="24" column="12" />
+        <mark key="^" line="29" column="13" />
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_new_relic_insights/lib/property_new_relic_insights/event_store.rb" timestamp="1522793353541">
@@ -76,30 +82,18 @@
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1522866707975">
         <mark key="'" line="104" column="38" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/hold_deposits_controller.rb" timestamp="1522793022578">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="52" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/controllers/property_authorization/application_controller.rb" timestamp="1520452497442">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="/create_bulk_tenant_charge_service_test.rb" timestamp="1522793525399">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="141" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/browserMocks.js" timestamp="1521574342091">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/RefreshService.js" timestamp="1522869868795">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/RefreshService.js" timestamp="1522875032602">
         <mark key="'" line="13" column="14" />
-        <mark key="[" line="56" column="100" />
-        <mark key="]" line="56" column="103" />
-        <mark key="." line="56" column="103" />
-        <mark key="^" line="56" column="103" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/ForbiddenPage.js" timestamp="1522780035013">
         <mark key="[" line="12" column="1" />
@@ -151,10 +145,6 @@
         <mark key="]" line="26" column="42" />
         <mark key="." line="26" column="42" />
         <mark key="^" line="26" column="42" />
-      </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1522780558320">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/client/accounting/src/components/check_writing_flow/confirm_page/PaymentDate.js" timestamp="1522795491477">
         <mark key="'" line="3" column="20" />
@@ -361,13 +351,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>parsed.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFeGNlbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>rangeTableRange</text>
+        <text>.getCell(0, 0).getResizedRange(0, headers.length - 1)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
@@ -375,36 +365,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>r
-        const table = sheet.tables.add((r</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgd2luZG93LkV4Y2VsLnJ1bigoY29udGV4dCkgPT4gewogICAgICAgICAgICBsZXQgcGFyc2VkVGFibGVSYW5nZSA9IHRhYmxlLmdldFJhbmdlKCk7CiAgICAgICAgICAgIHBhcnNlZFRhYmxlUmFuZ2UubG9hZCgnYWRkcmVzcycpOwogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRhYmxlID0gY3R4Lndvcmtib29rLnRhYmxlcy5nZXRJdGVtKHRhYmxlTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBJbnNlcnRpb25TZXJ2aWNlLmluc2VydFRhYmxlSW50b1NoZWV0KHRhYmxlLm5hbWUsIHNoZWV0LCBwYXJzZWQuZGF0YSwgcGFyc2VkLmhlYWRlcnMsIHRydWUpLnRoZW4oKCkgPT4gewogICAgICAgICAgICAgICAgLy8gVE9ETzogaW4gc3RvcnkgY29uY2VybmluZyBxdWVpbmcgcmVmcmVzaGVzIHdpdGggbXVsdGlwbGUgdGFibGVzLCBwZXJoYXBzIHdlIGNvdWxkIHJlLXVzZQogICAgICAgICAgICAgICAgLy8gYSBkYXRhIHN0cnVjdHVyZSBmb3IgdGhpcwogICAgICAgICAgICAgICAgb25UYWJsZVJlZnJlc2hlZCgpOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJhbmdlKSByYW5nZS5sb2FkKCdhZGRyZXNzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBJbnNlcnRpb25TZXJ2aWNlLmluc2VydFRhYmxlSW50b1NoZWV0KHRhYmxlLm5hbWUsIHNoZWV0LCBwYXJzZWQuZGF0YSwgcGFyc2VkLmhlYWRlcnMsIHRydWUpLnRoZW4oKCkgPT4gewogICAgICAgICAgICAgICAgLy8gVE9ETzogaW4gc3RvcnkgY29uY2VybmluZyBxdWVpbmcgcmVmcmVzaGVzIHdpdGggbXVsdGlwbGUgdGFibGVzLCBwZXJoYXBzIHdlIGNvdWxkIHJlLXVzZQogICAgICAgICAgICAgICAgLy8gYSBkYXRhIHN0cnVjdHVyZSBmb3IgdGhpcwogICAgICAgICAgICAgICAgb25UYWJsZVJlZnJlc2hlZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHBhcnNlZFRhYmxlUmFuZ2UgPSB0YWJsZS5nZXRSYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwYXJzZWQuZGF0YSk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
