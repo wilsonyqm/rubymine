@@ -49,12 +49,12 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1522885576961">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1522889121186">
         <mark key="'" line="47" column="9" />
-        <mark key="[" line="31" column="53" />
-        <mark key="]" line="31" column="53" />
-        <mark key="^" line="31" column="53" />
-        <mark key="." line="31" column="53" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_new_relic_insights/lib/property_new_relic_insights/event_store.rb" timestamp="1522793353541">
         <mark key="'" line="15" column="25" />
@@ -89,12 +89,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/RefreshService.js" timestamp="1522879303743">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/RefreshService.js" timestamp="1522888252157">
         <mark key="'" line="13" column="14" />
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="11" />
-        <mark key="." line="62" column="11" />
-        <mark key="^" line="62" column="11" />
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="20" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="20" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/ForbiddenPage.js" timestamp="1522780035013">
         <mark key="[" line="12" column="1" />
@@ -163,6 +163,10 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="59" />
         <mark key="." line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/dom/flash_message.js" timestamp="1522888816000">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableHelper.js" timestamp="1521676923807">
         <mark key="[" line="38" column="0" />
@@ -336,8 +340,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb25zb2xlLmxvZy5tb2NrLmNhbGxzWzBdWzBdLm1lc3NhZ2UpCiAgICAgIC50b0VxdWFsKCdVbnN1Y2Nlc3NmdWwgcmVxdWVzdCB3aGVuIHJlcXVlc3RpbmcgdGhlIHJlcG9ydHMgZGF0YSwgc3RhdHVzIGNvZGU6IDQwNCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoZ2V0SXRlbU1vY2spLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0YWJsZU5hbWUnKTsKICAgICAgICBleHBlY3Qoc2hlZXRNb2NrLnRhYmxlcy5hZGQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdCMTE6RTExJywgdHJ1ZSk7CiAgICAgICAgZXhwZWN0KHJhbmdlTW9jay5nZXRDZWxsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAwKTsKICAgICAgICBleHBlY3QoY2VsbE1vY2suZ2V0UmVzaXplZFJhbmdlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>reject</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1nZWFycyI6ICJeMS4yMy4wIiwK</text>
@@ -364,49 +368,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>reject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>'message', 'some error'</text>
+        <text>'Duplicate Insertions'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoZ2V0SXRlbU1vY2spLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0YWJsZU5hbWUnKTsKICAgICAgICBleHBlY3Qoc2hlZXRNb2NrLnRhYmxlcy5hZGQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdCMTE6RTExJywgdHJ1ZSk7CiAgICAgICAgZXhwZWN0KHJhbmdlTW9jay5nZXRDZWxsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAwKTsKICAgICAgICBleHBlY3QoY2VsbE1vY2suZ2V0UmVzaXplZFJhbmdlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyghdXNlUmFuZ2UgJiYgIXJhbmdlVGFibGUuaXNOdWxsKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyYW5nZVRhYmxlLmlzTnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGhlYWRlclJvd1JhbmdlTW9jay52YWx1ZXMpLnRvRXF1YWwoW1snaGVhZGVyMScsICdoZWFkZXIyJywgJzMnLCAnNCddXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaGVhZGVyUm93UmFuZ2VNb2NrID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZWooZXJyKTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICAKICAgICAgfTs=</text>
+        <text encoding="base64">LmNhdGNoKChlcnIpID0+IHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyKTsKICAgICAgfSk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KS5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycik7CiAgICAgIH0pOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGdldEl0ZW1Nb2NrKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGFibGVOYW1lIG5lZWRzU2FuaXRhdGlvbiFAJyk7CiAgICAgIGV4cGVjdChoZWFkZXJSb3dSYW5nZU1vY2sudmFsdWVzKS50b0VxdWFsKFtbJ2hlYWRlcjEnLCAnaGVhZGVyMicsICczJywgJzQnXV0pOwoKICAgICAgZXhwZWN0KHJhbmdlTW9jay5nZXRDZWxsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAwKTsKICAgICAgZXhwZWN0KGNlbGxNb2NrLmdldFJlc2l6ZWRSYW5nZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoMCwgMyk7CgogICAgICBleHBlY3QoY29udGV4dE1vY2suc3luYykudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgICAgcmVqKGVycik7CiAgICAgICAgICB9KTs=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGFibGUgcmVsYXRlZCBleHBlY3RhdGlvbnMK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgICAgcmVqKGVycik7CiAgICAgICAgICB9KQ==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gc2hlZXQgcmVsYXRlZCBleHBlY3RhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoZ2V0SXRlbU1vY2spLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0YWJsZU5hbWUnKTsKICAgICAgICBleHBlY3Qoc2hlZXRNb2NrLnRhYmxlcy5hZGQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdCMTE6RTExJywgdHJ1ZSk7CiAgICAgICAgZXhwZWN0KHJhbmdlTW9jay5nZXRDZWxsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAwKTsKICAgICAgICBleHBlY3QoY2VsbE1vY2suZ2V0UmVzaXplZFJhbmdlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgwLCAyKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
