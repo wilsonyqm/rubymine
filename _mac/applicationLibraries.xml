@@ -6496,6 +6496,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_outboundach-11.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_outboundach (v12.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_outboundach-12.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_outboundach-12.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_outboundach-12.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_outboundach-12.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_outboundach (v2.2.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_outboundach-2.2.0/lib" />
@@ -6964,6 +6974,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.2.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_paperclip (v14.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.3.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_paperclip (v3.6.0, RVM: ruby-2.2.3) [gem]">
@@ -30710,6 +30730,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.8/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.8/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.9, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-1.6.9/example" />
       </SOURCES>
     </library>
     <library name="rack (v2.0.0.rc1, RVM: ruby-2.2.3) [gem]">
