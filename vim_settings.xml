@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/api/requester.test.js" timestamp="1523397288558">
+        <mark key="'" line="60" column="15" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1523044616675">
         <mark key="[" line="60" column="76" />
         <mark key="]" line="60" column="78" />
@@ -37,10 +42,6 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/components/CenteredLayout.test.js" timestamp="1523047237909">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="4" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1523042480008">
         <mark key="[" line="33" column="2" />
         <mark key="]" line="33" column="7" />
@@ -52,11 +53,11 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1523382285777">
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="66" column="17" />
-        <mark key="^" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1523398114166">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="57" column="37" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521263654833">
         <mark key="[" line="14" column="22" />
@@ -102,11 +103,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/authenticator.test.js" timestamp="1523310395087">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="39" column="83" />
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/authenticator.test.js" timestamp="1523397781009">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/browserMocks.js" timestamp="1521574342091">
         <mark key="[" line="20" column="0" />
@@ -189,7 +190,7 @@
         <mark key="'" line="80" column="0" />
         <mark key="^" line="77" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523394316084">
+      <file name="/Dummy.txt" timestamp="1523397371150">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,10 +206,11 @@
         <mark key="]" line="13" column="59" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/utils/dom/flash_message.js" timestamp="1523046921481">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/dom/flash_message.js" timestamp="1523396755446">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableHelper.js" timestamp="1521676923807">
         <mark key="[" line="38" column="0" />
@@ -230,7 +232,7 @@
         <mark key="]" line="111" column="52" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1523308511350">
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1523395416556">
         <mark key="'" line="10" column="7" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="129" />
@@ -273,9 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="14" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionService.test.js" />
-      <jump line="51" column="17" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" />
-      <jump line="0" column="28" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" />
       <jump line="91" column="36" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionService.test.js" />
       <jump line="134" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="131" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
@@ -373,13 +372,16 @@
       <jump line="172" column="56" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="66" column="9" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" />
       <jump line="67" column="9" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/my-addin/src/test/lib/api/requester.test.js" />
+      <jump line="48" column="15" filename="$USER_HOME$/src/my-addin/src/test/lib/api/requester.test.js" />
+      <jump line="60" column="15" filename="$USER_HOME$/src/my-addin/src/test/lib/api/requester.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>authenticated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZsYXNoTWVzc2FnZSBmcm9tICcuLi8uLi9saWIvdXRpbHMvZG9tL2ZsYXNoX21lc3NhZ2UnOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -406,49 +408,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbm9PdmVybGFwT25Db2x1bW5zXD4=</text>
+        <text encoding="base64">XDxnbG9iYWxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>authenticated</text>
+        <text>window.location.assign</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZsYXNoTWVzc2FnZSBmcm9tICcuLi8uLi9saWIvdXRpbHMvZG9tL2ZsYXNoX21lc3NhZ2UnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbmFsTG9jYXRpb24gPSBnbG9iYWwubG9jYXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnN0YXRlID0geyBhdXRoZW50aWNhdGVkOiBhdXRoLmlzQXV0aGVudGljYXRlZCgpIH07Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbC5sb2NhdGlvbiA9IHsgaHJlZjogbnVsbCB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGZsYXNoTWVzc2FnZVNweS5tb2NrUmVzdG9yZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChmbGFzaE1lc3NhZ2VTcHkpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZsYXNoTWVzc2FnZVNweSA9IGplc3Quc3B5T24oZmxhc2hNZXNzYWdlLCAnZGlzcGxheScpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKCkgPT4gJ1RoZSBzZXNzaW9uIGhhcyBleHBpcmVkLCBwbGVhc2UgcmVsb2FkIHRoZSBhcHAuJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGNvbHVtbnMgJiYgY29sdW1ucy5sZW5ndGggPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZsYXNoTWVzc2FnZVNweSA9IGplc3Quc3B5T24oZmxhc2hNZXNzYWdlLCAnZGlzcGxheScpLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKCkgPT4gJ1RoZSBzZXNzaW9uIGhhcyBleHBpcmVkLCBwbGVhc2UgcmVsb2FkIHRoZSBhcHAuJyk7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29sdW1ucyAmJiBjb2x1bW5zLmxlbmd0aCA+IDApIHsKICAgICAgICAgIGNvbHVtblJhbmdlcy5wdXNoKFtjb2x1bW5zWzBdLmluZGV4LCBjb2x1bW5zW2NvbHVtbnMubGVuZ3RoIC0gMV0uaW5kZXhdKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZmxhc2hNZXNzYWdlLmRpc3BsYXkoe2NvbnRlbnQ6ICdUaGUgc2Vzc2lvbiBoYXMgZXhwaXJlZCwgcGxlYXNlIHJpZ2h0IGNsaWNrIHRoaXMgYWRkLWluIHBhbmVsIGFuZCByZWxvYWQgdGhlIHBhZ2UuJywgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -461,9 +463,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbm9PdmVybGFwT25Db2x1bW5zXD4=</last-search>
+      <last-search encoding="base64">XDxnbG9iYWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbm9PdmVybGFwT25Db2x1bW5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnbG9iYWxcPg==</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refresh</entry>
         <entry>service</entry>
         <entry encoding="base64">XDxyZWplY3RzXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUZhaWxlZE1vY2tHZXRcPg==</entry>
@@ -491,6 +492,7 @@
         <entry>flash</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry encoding="base64">XDxfbm9PdmVybGFwT25Db2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxnbG9iYWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
