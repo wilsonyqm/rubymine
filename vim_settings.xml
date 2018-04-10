@@ -81,12 +81,12 @@
         <mark key="^" line="136" column="5" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1523316803822">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionService.js" timestamp="1523317874869">
         <mark key="'" line="0" column="28" />
-        <mark key="[" line="84" column="3" />
-        <mark key="]" line="86" column="55" />
-        <mark key="^" line="86" column="55" />
-        <mark key="." line="86" column="55" />
+        <mark key="[" line="72" column="59" />
+        <mark key="]" line="72" column="60" />
+        <mark key="^" line="72" column="60" />
+        <mark key="." line="72" column="60" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1523054466000">
         <mark key="[" line="69" column="158" />
@@ -389,8 +389,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5SYW5nZXMucHVzaChbY29sdW1uc1tjb2x1bW5zLmxlbmd0aCAtIDFdXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>columnRanges</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -417,13 +417,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>sele</text>
       </register>
       <register name="/" type="4">
         <text>flash</text>
       </register>
       <register name="0" type="4">
-        <text>columns[columns.length - 1]</text>
+        <text>columnRanges</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb2x1bW5SYW5nZXMucHVzaChbY29sdW1uc1tjb2x1bW5zLmxlbmd0aCAtIDFdXSk7Cg==</text>
