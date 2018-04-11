@@ -103,12 +103,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" timestamp="1523480874708">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="185" column="77" />
-        <mark key="]" line="185" column="81" />
-        <mark key="." line="185" column="81" />
-        <mark key="^" line="185" column="81" />
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" timestamp="1523483637679">
+        <mark key="'" line="27" column="86" />
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="22" />
+        <mark key="." line="68" column="13" />
+        <mark key="^" line="58" column="68" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1523309161744">
         <mark key="'" line="172" column="56" />
@@ -177,12 +177,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1523480828167">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1523483668265">
         <mark key="'" line="62" column="61" />
-        <mark key="[" line="72" column="9" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="52" column="9" />
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="41" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" timestamp="1522881868660">
         <mark key="[" line="48" column="84" />
@@ -219,7 +219,7 @@
         <mark key="'" line="2" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523404447274">
+      <file name="/Dummy.txt" timestamp="1523483658819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -306,10 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="44" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="90" column="44" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="265" column="0" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="254" column="45" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="29" column="9" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="261" column="15" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="251" column="14" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
@@ -406,13 +402,17 @@
       <jump line="136" column="76" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
       <jump line="55" column="12" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
       <jump line="63" column="61" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" />
+      <jump line="52" column="86" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
+      <jump line="51" column="12" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
+      <jump line="32" column="13" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
+      <jump line="27" column="86" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>columnFristIndex</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -439,49 +439,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>columnFristIndex</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</text>
+        <text encoding="base64">XDxzaGVldE1vY2tcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KEluc2VydGlvblZhbGlkYXRpb25TZXJ2aWNlLl9mYWxsSW50b1RoZVJhbmdlKDEsIDMsIDEpKS50b0VxdWFsKHRydWUpOwo=</text>
+      <register name="0" type="4">
+        <text>columnFirstIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2sud29ya3NoZWV0cy5nZXRBY3RpdmVXb3Jrc2hlZXQubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoKSA9PiBzaGVldE1vY2spOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGVmdCBsZWZ0ID0gMTsKICAgICAgY29uc3QgcmlnaHQgPSAzOwogICAgICBjb25zdCBpbmRleCA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2sudGFibGVzID0gewogICAgICAgIGxvYWQ6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb24oKSwKICAgICAgICBnZXRJdGVtOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uKCgpID0+IHRhYmxlTW9jayksCiAgICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbGVmdCA9IFt7IGNvbHVtbkluZGV4OiAyIH0sIHsgY29sdW1uSW5kZXg6IDQgfV07CiAgICAgIGNvbnN0IHRhYmxlTGFzdENvbHVtbkl0ZW1zID0gW3sgY29sdW1uSW5kZXg6IDMgfSwgeyBjb2x1bW5JbmRleDogNSB9XTsK</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2sudGFibGVzID0gewogICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBjb2x1bW5SYW5nZXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uKCksCiAgICAgICAgZ2V0SXRlbTogamVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB0YWJsZU1vY2spLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhLCBiLCBjKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2hlZXRNb2NrID0gCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYyA9PT0gMTEpICByZXR1cm4gdHJ1ZTsKICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYyA9PT0gMTApIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgbGVmdCBsZWZ0ID0gMTsKICAgICAgY29uc3QgcmlnaHQgPSAzOwogICAgICBjb25zdCBpbmRleCA9IDM7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -494,9 +494,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</last-search>
+      <last-search encoding="base64">XDxzaGVldE1vY2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzaGVldE1vY2tcPg==</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -520,10 +520,10 @@
         <entry encoding="base64">XDxnZXRDZWxsXD4=</entry>
         <entry encoding="base64">XDxnZXRJdGVtXD4=</entry>
         <entry>getItemOrNull</entry>
-        <entry encoding="base64">XDxzaGVldE1vY2tcPg==</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJhbmdlXD4=</entry>
         <entry encoding="base64">XDxzcHlPblw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</entry>
+        <entry encoding="base64">XDxzaGVldE1vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
