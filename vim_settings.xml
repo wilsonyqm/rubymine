@@ -178,12 +178,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1523495716840">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1523552591598">
         <mark key="'" line="62" column="61" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="5" column="47" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" timestamp="1522881868660">
         <mark key="[" line="48" column="84" />
@@ -412,8 +412,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>tables</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyLm5hbWUgPT09ICkK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -440,7 +440,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>tables</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGVldE1vY2tcPg==</text>
@@ -449,28 +449,28 @@
         <text>sheet.tables</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2hlZXRzLmdldEFjdGl2ZVdvcmtzaGVldCgpLnRhYmxlcy5sb2FkKCdpdGVtcy9uYW1lJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyLm5hbWUgPT09ICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgc2hlZXRzLmdldEFjdGl2ZVdvcmtzaGVldCgpLnRhYmxlcy5sb2FkKCdpdGVtcy9uYW1lJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGFibGVzLjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZSgnSElISScpOwo=</text>
+        <text encoding="base64">ICAgICAgdGFibGVzLjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZSgnSEknKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZSgnSElISScpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZSgnSEknKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC53cml0ZSgnSEknKTsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
@@ -482,7 +482,7 @@
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQud3JpdGUoJ0hJJyk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
