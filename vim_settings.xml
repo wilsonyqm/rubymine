@@ -34,6 +34,9 @@
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1523643560992">
+        <mark key="'" line="71" column="40" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/Alert.test.js" timestamp="1522967246152">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -44,7 +47,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="78" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/javascripts/views/vacancy_lists/show_spec.js" timestamp="1523577381610" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1521847342909">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -151,7 +153,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="30" column="6" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/tasks/scrub.rake" timestamp="1523488532880" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/javascripts/views/accounting/bank_accounts/new/component.spec.js" timestamp="1523576839568">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="14" />
@@ -223,7 +224,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/director_boards/director_board_packets/component.es6" timestamp="1523575980768" />
       <file name="$USER_HOME$/src/passport-frontend/test/lib/hashRouterHelper.spec.js" timestamp="1521761860084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -356,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="13" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="89" column="12" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="374" column="11" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
       <jump line="26" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
@@ -456,6 +455,7 @@
       <jump line="160" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/blue_moon_leases/app/assets/javascripts/blue_moon_leases/blue_moon_credentials_modal/component.es6" />
       <jump line="5" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/data_requests/new/component.es6" />
       <jump line="15" column="184" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/data_requests/new/component.es6" />
+      <jump line="71" column="40" filename="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -492,7 +492,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyX2VtYWlsXD4=</text>
+        <text encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgnI2ZsYXNoX21lc3NhZ2VzJykuaHRtbChhbGVydC4kZWwpOwo=</text>
@@ -544,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyX2VtYWlsXD4=</last-search>
+      <last-search encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyX2VtYWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -554,7 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>items</entry>
         <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
         <entry encoding="base64">XDxnZXRDZWxsXD4=</entry>
         <entry encoding="base64">XDxnZXRJdGVtXD4=</entry>
@@ -574,6 +573,7 @@
         <entry encoding="base64">XDxBbGVydFw+</entry>
         <entry encoding="base64">XDxmbGFzaE1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2VtYWlsXD4=</entry>
+        <entry encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
