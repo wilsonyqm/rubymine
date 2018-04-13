@@ -34,8 +34,11 @@
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1523643560992">
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1523646449178">
         <mark key="'" line="71" column="40" />
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/Alert.test.js" timestamp="1522967246152">
         <mark key="[" line="8" column="0" />
@@ -461,8 +464,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChjb250ZW50LnZhbCgpKS50by5lcXVhbCgKICAgICAgJ1RoZSBjdXJyZW50IGJhbmsgc3RhdGVtZW50IGhhcyBiZWVuIG1vZGlmaWVkLCBwbGVhc2UgcmVmcmVzaCB0aGlzIHBhZ2UgYW5kIHRyeSBhZ2Fpbi4nCiAgICApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -489,7 +492,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</text>
