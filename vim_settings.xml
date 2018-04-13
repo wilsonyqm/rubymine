@@ -101,6 +101,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/excel_integration/saved_report_data_service_test.rb" timestamp="1523652964258">
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/public/index.html" timestamp="1520295123280">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="60" />
@@ -238,6 +244,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1523652989049">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="10" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1523043248272">
         <mark key="[" line="81" column="7" />
         <mark key="]" line="81" column="13" />
@@ -249,12 +261,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523577595005">
+      <file name="/Dummy.txt" timestamp="1523652912792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1522793708518">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1523652175104">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="42" />
         <mark key="." line="26" column="42" />
@@ -303,6 +315,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/registry/accessor.rb" timestamp="1523652767859" />
       <file name="$USER_HOME$/src/my-addin/src/index.js" timestamp="1522802582396">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="6" column="41" />
@@ -357,11 +370,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" timestamp="1523652582558">
+        <mark key="'" line="74" column="88" />
+        <mark key="[" line="137" column="8" />
+        <mark key="]" line="137" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="12" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="374" column="11" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="26" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="108" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="33" column="0" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="107" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
@@ -459,13 +474,16 @@
       <jump line="5" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/data_requests/new/component.es6" />
       <jump line="15" column="184" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/data_requests/new/component.es6" />
       <jump line="71" column="40" filename="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" />
+      <jump line="137" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
+      <jump line="13" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
+      <jump line="74" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -492,13 +510,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</text>
+        <text>buffered</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJCgnI2ZsYXNoX21lc3NhZ2VzJykuaHRtbChhbGVydC4kZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgUmVwb3J0czo6TWVtb3JpemVkUmVwb3J0LmNyZWF0ZV9leGVtcGxhciEocmVwb3J0X2lkOiAnYnVmZmVyZWRfYmFsYW5jZV9zaGVldCcsIHN0YW5kYXJkOiBmYWxzZSwgbmFtZTogJzExMTEnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChjb250ZW50LnZhbCgpKS50by5lcXVhbCgKICAgICAgJ1RoZSBjdXJyZW50IGJhbmsgc3RhdGVtZW50IGhhcyBiZWVuIG1vZGlmaWVkLCBwbGVhc2UgcmVmcmVzaCB0aGlzIHBhZ2UgYW5kIHRyeSBhZ2Fpbi4nCiAgICApOwo=</text>
@@ -547,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</last-search>
+      <last-search>buffered</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</last-pattern>
+      <last-pattern>buffered</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -557,9 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
-        <entry encoding="base64">XDxnZXRDZWxsXD4=</entry>
-        <entry encoding="base64">XDxnZXRJdGVtXD4=</entry>
         <entry>getItemOrNull</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJhbmdlXD4=</entry>
         <entry encoding="base64">XDxzcHlPblw+</entry>
@@ -577,6 +592,9 @@
         <entry encoding="base64">XDxmbGFzaE1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2VtYWlsXD4=</entry>
         <entry encoding="base64">XDxEZXNrdG9wRnVuY3Rpb25GaWxlXD4=</entry>
+        <entry>legacy</entry>
+        <entry encoding="base64">XDxidWZmZXJlZFw+</entry>
+        <entry>buffered</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
