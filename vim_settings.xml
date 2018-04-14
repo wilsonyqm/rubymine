@@ -85,7 +85,8 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1523398114166">
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1523663266066">
+        <mark key="'" line="51" column="2" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="63" column="37" />
@@ -261,7 +262,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523652912792">
+      <file name="/Dummy.txt" timestamp="1523664087332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -377,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="33" column="0" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="107" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="32" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
@@ -477,6 +477,7 @@
       <jump line="137" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
       <jump line="13" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
       <jump line="74" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
+      <jump line="51" column="2" filename="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -513,7 +514,7 @@
         <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
-        <text>buffered</text>
+        <text encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgUmVwb3J0czo6TWVtb3JpemVkUmVwb3J0LmNyZWF0ZV9leGVtcGxhciEocmVwb3J0X2lkOiAnYnVmZmVyZWRfYmFsYW5jZV9zaGVldCcsIHN0YW5kYXJkOiBmYWxzZSwgbmFtZTogJzExMTEnKQo=</text>
@@ -565,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search>buffered</last-search>
+      <last-search encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</last-search>
       <last-offset />
-      <last-pattern>buffered</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -575,7 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getItemOrNull</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJhbmdlXD4=</entry>
         <entry encoding="base64">XDxzcHlPblw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</entry>
@@ -595,6 +595,7 @@
         <entry>legacy</entry>
         <entry encoding="base64">XDxidWZmZXJlZFw+</entry>
         <entry>buffered</entry>
+        <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
