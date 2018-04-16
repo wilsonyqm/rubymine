@@ -231,11 +231,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1523382217199">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="9" column="39" />
+      <file name="$USER_HOME$/src/my-addin/src/components/HomePage.js" timestamp="1523910974023">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="42" />
+        <mark key="." line="43" column="42" />
+        <mark key="^" line="43" column="42" />
       </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1523905085549">
         <mark key="[" line="40" column="0" />
@@ -480,8 +480,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxBcHBEb21haW4+aHR0cHM6Ly9leGNlbC5xYS5hcHBmLmlvPC9BcHBEb21haW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -508,10 +508,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>appfolioTouch</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>OfficeApp</text>
+        <text>terms</text>
       </register>
       <register name="0" type="4">
         <text>A_Logo32x32</text>
@@ -563,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>OfficeApp</last-search>
+      <last-search>terms</last-search>
       <last-offset />
-      <last-pattern>OfficeApp</last-pattern>
+      <last-pattern>terms</last-pattern>
       <last-replace>DummyReportSelectionPage</last-replace>
       <last-substitute>ReportSelectionPage</last-substitute>
       <last-dir>1</last-dir>
@@ -573,8 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcHlPblw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFJhbmdlQW5jaG9yTW9ja1w+</entry>
         <entry encoding="base64">XDxzaGVldE1vY2tcPg==</entry>
         <entry encoding="base64">XDxFcnJvckNvZGVzXD4=</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
@@ -593,6 +591,8 @@
         <entry>buffered</entry>
         <entry encoding="base64">XDxnZXRBY2Nlc3NUb2tlblw+</entry>
         <entry>OfficeApp</entry>
+        <entry>tems</entry>
+        <entry>terms</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
