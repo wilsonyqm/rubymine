@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/data_requests/new/component.es6" timestamp="1524093550512" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/javascripts/views/data_requests/new/component.spec.js" timestamp="1523577624490">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="24" column="45" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1524074365648">
         <mark key="'" line="49" column="10" />
         <mark key="[" line="36" column="21" />
@@ -30,6 +36,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DeletionService.js" timestamp="1523046007335">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/lib/assets/javascripts/web_common/feedback_modal_handler/component.es6" timestamp="1523574425220">
         <mark key="'" line="132" column="48" />
@@ -64,6 +76,12 @@
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" timestamp="1524157211638">
+        <mark key="'" line="676" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="81" column="41" />
+        <mark key="." line="81" column="21" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/styles/components/HomePage.css" timestamp="1523913643995">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -83,6 +101,18 @@
         <mark key="." line="75" column="35" />
         <mark key="^" line="75" column="35" />
       </file>
+      <file name="$USER_HOME$/src/excel_integration_app/src/components/ReportSelectionPage.js" timestamp="1524085985932">
+        <mark key="[" line="145" column="25" />
+        <mark key="]" line="145" column="39" />
+        <mark key="^" line="145" column="39" />
+        <mark key="." line="145" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/authenticator.test.js" timestamp="1523397781009">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="38" />
+        <mark key="^" line="39" column="38" />
+      </file>
       <file name="/data_requests_controller_test.rb" timestamp="1524094160455">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="71" column="4" />
@@ -92,12 +122,36 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/ErrorBoundary.js" timestamp="1522954049684">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1523568854344">
         <mark key="'" line="62" column="61" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/CenteredLayout.js" timestamp="1524158980596">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" timestamp="1523569358969">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1523652989049">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/src/my-addin/test/components/LoginPage.spec.js" timestamp="1520962818449">
         <mark key="[" line="4" column="0" />
@@ -130,9 +184,6 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" timestamp="1524092174725">
-        <mark key="'" line="391" column="8" />
-      </file>
       <file name="$USER_HOME$/src/my-addin/public/index.html" timestamp="1524096453130">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -155,8 +206,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/filters_base.rb" timestamp="1524092790205">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" timestamp="1524091575731">
-        <mark key="'" line="58" column="47" />
+      <file name="$USER_HOME$/src/my-addin/src/components/ExcelAppError.js" timestamp="1523568693194">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_balance_sheet.rb" timestamp="1524091350822" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1521847342909">
@@ -165,11 +219,23 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/occupancies/show/occupancy_summary.es6" timestamp="1524002885873" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1523042480008">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/HomePage.test.js" timestamp="1523914975076">
         <mark key="[" line="52" column="38" />
         <mark key="]" line="52" column="38" />
         <mark key="." line="52" column="38" />
         <mark key="^" line="53" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/excel_integration/saved_report_data_service_test.rb" timestamp="1523652964258">
+        <mark key="[" line="13" column="60" />
+        <mark key="]" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+        <mark key="^" line="13" column="74" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/unconsolidated_property_reports/worker_job.rb" timestamp="1524091096059" />
       <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1524089052934">
@@ -178,10 +244,22 @@
         <mark key="." line="62" column="67" />
         <mark key="^" line="62" column="95" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/README.rdoc" timestamp="1524157360752">
+        <mark key="[" line="4" column="100" />
+        <mark key="]" line="4" column="96" />
+        <mark key="^" line="4" column="99" />
+        <mark key="." line="4" column="96" />
+      </file>
       <file name="$USER_HOME$/src/oauth_app/app/views/layouts/doorkeeper/application.html.erb" timestamp="1520977540860">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/README.md" timestamp="1524157871562">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1523914150247">
         <mark key="[" line="163" column="0" />
@@ -203,6 +281,18 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/components/ExcelAppError.test.js" timestamp="1523047347000">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/ForbiddenPage.js" timestamp="1524158963529">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="55" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/src/excel_integration_app/config/webpack.common.js" timestamp="1520897026086">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="56" />
@@ -212,6 +302,12 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/dom/flash_message.test.js" timestamp="1523047491189">
+        <mark key="[" line="81" column="63" />
+        <mark key="]" line="81" column="69" />
+        <mark key="." line="81" column="69" />
+        <mark key="^" line="81" column="69" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/test/lib/hashRouterHelper.spec.js" timestamp="1521761860084">
         <mark key="[" line="0" column="0" />
@@ -231,8 +327,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="108" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionService.test.js" timestamp="1524088033341">
-        <mark key="'" line="183" column="84" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1523043248272">
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="81" column="13" />
+        <mark key="^" line="81" column="13" />
+        <mark key="." line="81" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1524096594509">
         <mark key="[" line="0" column="0" />
@@ -244,6 +343,12 @@
         <mark key="]" line="25" column="49" />
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/dom/flash_message.js" timestamp="1523396755446">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/excel/TableHelper.js" timestamp="1521676923807">
         <mark key="[" line="38" column="0" />
@@ -281,6 +386,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/components/Footer.js" timestamp="1524159185912">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/users/_property_list_form.html.erb" timestamp="1523998881890">
         <mark key="[" line="24" column="0" />
@@ -397,7 +508,7 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDE2eDE2</text>
+        <text>#</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -424,49 +535,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDE2eDE2</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDTl9XT1JLX09SREVSX0lEXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Appfolio Report Connection</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ29mZmljZS11aS1mYWJyaWMtcmVhY3QvbGliL0xpbmsnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAic2hvcnRfbmFtZSI6ICJSZWFjdCBBcHAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxub3NjcmlwdD4KICAgICAgWW91IG5lZWQgdG8gZW5hYmxlIEphdmFTY3JpcHQgdG8gcnVuIHRoaXMgYXBwLgogICAgPC9ub3NjcmlwdD4K</text>
+        <text encoding="base64">aW1wb3J0ICcuLi9zdHlsZXMvY29tcG9uZW50cy9DZW50ZXJlZExheW91dC5jc3MnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YnQ6U3RyaW5nIGlkPSJBcHBmb2xpby5HZXRTdGFydGVkLlRpdGxlIiBEZWZhdWx0VmFsdWU9IkdldCBzdGFydGVkIHRvIGNvbm5lY3QgeW91ciBhcHBmb2xpbyByZXBvcnRzISIgLz4K</text>
+        <text encoding="base64">aW1wb3J0IEZvb3RlciBmcm9tICcuL0Zvb3RlcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YnQ6U3RyaW5nIGlkPSJBcHBmb2xpby5HZXRTdGFydGVkLlRpdGxlIiBEZWZhdWx0VmFsdWU9IkdldCBzdGFydGVkIHdpdGggeW91ciBzYW1wbGUgYWRkLWluISIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxoNiBjbGFzcz0ibWItMCB3aGl0ZS10ZXh0IHRleHQtY2VudGVyIHRleHQtbWQtbGVmdCI+CiAgICAgICAgICAgICAgPHN0cm9uZz5HZXQgY29ubmVjdGVkIHdpdGggdXMgb24gc29jaWFsIG5ldHdvcmtzITwvc3Ryb25nPgogICAgICAgICAgPC9oNj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjaGVja19kYXRhX3JlcXVlc3RfZXhwZXJpbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXJnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvZmZzZXRSYW5nZU1vY2sgPSB7CiAgICAgICAgICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLAogICAgICAgICAgbWVyZ2U6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksCiAgICAgICAgfTsKICAgICAgICBjb25zdCByYW5nZU1vY2sgPSB7CiAgICAgICAgICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLAogICAgICAgICAgYWRkcmVzczogJ3NoZWV0MSFCMTE6RTEyJywKICAgICAgICAgIGdldE9mZnNldFJhbmdlOiBqZXN0LmZuKCgpID0+IG9mZnNldFJhbmdlTW9jaykKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2Zmc2V0UmFuZ2VNb2NrID0gewogICAgICAgIGxvYWQ6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksCiAgICAgICAgbWVyZ2U6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksCiAgICAgIH07CiAgICAgIGNvbnN0IHJhbmdlTW9jayA9IHsKICAgICAgICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLAogICAgICAgIGFkZHJlc3M6ICdzaGVldDEhQjExOkUxMicsCiAgICAgICAgZ2V0T2Zmc2V0UmFuZ2U6IGplc3QuZm4oKCkgPT4gb2Zmc2V0UmFuZ2VNb2NrKQogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY29sLTEyIGNvbC1tZC01IHRleHQtbGVmdCBtYi00IG1iLW1kLTAiPgo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2Zmc2V0UmFuZ2VNb2NrID0gewogICAgICAgIGxvYWQ6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksCiAgICAgICAgbWVyZ2U6IGplc3QuZm4oKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCksCiAgICAgIH07CiAgICAgIGNvbnN0IHJhbmdlTW9jayA9IHsKICAgICAgICBsb2FkOiBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgpLAogICAgICAgIGFkZHJlc3M6ICdzaGVldDEhQjExOkUxMicsCiAgICAgICAgZ2V0T2Zmc2V0UmFuZ2U6IGplc3QuZm4oKCkgPT4gb2Zmc2V0UmFuZ2VNb2NrKQogICAgICB9Owo=</text>
+        <text encoding="base64">ICAic2hvcnRfbmFtZSI6ICJSZWFjdCBBcHAiLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
