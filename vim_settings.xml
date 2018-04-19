@@ -31,9 +31,6 @@
         <mark key="^" line="40" column="1" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1524163033433">
-        <mark key="^" line="48" column="1" />
-      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/Alert.test.js" timestamp="1522967246152">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -83,11 +80,11 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_new_relic_insights/lib/property_new_relic_insights/event_store.rb" timestamp="1524073732214" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/data_requests_controller_test.rb" timestamp="1524094183401">
-        <mark key="[" line="68" column="101" />
-        <mark key="]" line="68" column="121" />
-        <mark key="^" line="64" column="1" />
-        <mark key="." line="68" column="101" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/data_requests_controller_test.rb" timestamp="1524178653925">
+        <mark key="[" line="77" column="86" />
+        <mark key="]" line="77" column="87" />
+        <mark key="^" line="77" column="87" />
+        <mark key="." line="77" column="87" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/InsertionValidationService.test.js" timestamp="1523569372224">
         <mark key="'" line="65" column="12" />
@@ -108,11 +105,11 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="71" column="4" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/forms/data_requests/create_form_test.rb" timestamp="1524177343839">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/forms/data_requests/create_form_test.rb" timestamp="1524179170732">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/data_requests_controller.rb" timestamp="1524177883080">
         <mark key="[" line="25" column="0" />
@@ -190,12 +187,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/forms/data_requests/create_form.rb" timestamp="1524177407421">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/forms/data_requests/create_form.rb" timestamp="1524179288465">
         <mark key="'" line="12" column="8" />
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="52" />
-        <mark key="." line="20" column="52" />
-        <mark key="^" line="20" column="52" />
+        <mark key="[" line="23" column="108" />
+        <mark key="]" line="23" column="106" />
+        <mark key="." line="23" column="106" />
+        <mark key="^" line="23" column="106" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/filters_base.rb" timestamp="1524092790205">
         <mark key="'" line="52" column="6" />
@@ -328,6 +325,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/zoology_app/db/seeds.rb" timestamp="1524178873123" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1524073854228">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="25" column="49" />
@@ -499,8 +497,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWQgOm9rCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QG1vZGUgPT0gJ3NlbGVjdF9zcWwnICYmICg=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -527,49 +525,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text encoding="base64">QG1vZGUgPT0gJ3NlbGVjdF9zcWwnICYmICg=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdHRhY2hGb3JtRXJyb3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmb3JtLCA6bW9kZSwgImNhbid0IGJlIGJsYW5rIgo=</text>
+      <register name="0" type="4">
+        <text>@mode == 'select_sql'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWQgOm9rCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjaGVja19jcmVhdGVfcGFyYW1zLCBvbmx5OiA6Y3JlYXRlCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnT25lIG9yIG1vcmUgZmllbGRzIGFyZSBtaXNzaW5nLicsIEpTT04ucGFyc2UocmVzcG9uc2UuYm9keSlbJ2Vycm9ycyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnT25lIG9yIG1vcmUgZmllbGRzIGFyZSBtaXNzaW5nLicsIEpTT04ucGFyc2UocmVzcG9uc2UuYm9keSlbJ2Vycm9ycyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgY2hlY2tfY3JlYXRlX3BhcmFtcwogIGVuZAo=</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3Jlc3BvbnNlIDp1bnByb2Nlc3NhYmxlX2VudGl0eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhdGFSZXF1ZXN0czo6RGF0YVJlcXVlc3RzTWFpbGVyLmRhdGFfcmVxdWVzdF9lbWFpbCgKICAgICAgcGFyYW1zOiBkYXRhX3JlcXVlc3RfcGFyYW1zLAogICAgICB1c2VyOiBBdXRob3JpemF0aW9uLmN1cnJlbnRfdXNlcgogICAgKS5kZWxpdmVyX2xhdGVyCgo=</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3Jlc3BvbnNlIDp1bnByb2Nlc3NhYmxlX2VudGl0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBmb3JtID0gRGF0YVJlcXVlc3RzOjpDcmVhdGVGb3JtLm5ldyhkYXRhX3JlcXVlc3RfcGFyYW1zKQogICAgaWYgQGZvcm0udmFsaWQ/CiAgICAgIGhlYWQgOm9rCiAgICBlbHNlCiAgICAgIHJlbmRlciBqc29uOiB7IGVycm9yczogQGZvcm0uZXJyb3JzIH0sIHN0YXR1czogOnVucHJvY2Vzc2FibGVfZW50aXR5CiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9yZXNwb25zZSA6dW5wcm9jZXNzYWJsZV9lbnRpdHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFsZXJ0IGZyb20gJ2dlYXJzL3VpL2FsZXJ0L2NvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgIGhlYWQgOm9rCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVfYWN0aW9uIDpjaGVja19jcmVhdGVfcGFyYW1zLCBvbmx5OiA6Y3JlYXRlCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGtleSkKICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yc1trZXldKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
