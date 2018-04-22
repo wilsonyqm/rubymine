@@ -29,10 +29,11 @@
         <mark key="^" line="16" column="158" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/ckeditor/image_upload_controller.rb" timestamp="1524281190873">
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/ckeditor/image_upload_controller.rb" timestamp="1524422315794">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="49" />
+        <mark key="^" line="1" column="49" />
+        <mark key="." line="1" column="49" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/ckeditor_image_test.rb" timestamp="1524267439490">
         <mark key="[" line="3" column="0" />
@@ -76,17 +77,18 @@
         <mark key="." line="178" column="40" />
         <mark key="^" line="178" column="40" />
       </file>
+      <file name="/image_upload_controller_test.rb" timestamp="1524422253915" />
       <file name="$USER_HOME$/src/my-addin/src/lib/authenticator.js" timestamp="1521263654833">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20170926190206_add_permission_for_user_roles_report.rb" timestamp="1524181342123" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/ckeditor/image_upload_controller_test.rb" timestamp="1524274588388">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="63" />
-        <mark key="^" line="16" column="63" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/ckeditor/image_upload_controller_test.rb" timestamp="1524422261955">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="$USER_HOME$/src/oauth_app/app/view/layouts/application.html.erb" timestamp="1520977546026">
         <mark key="[" line="16" column="0" />
@@ -671,8 +673,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDptZXJnZV9maWVsZHMsIHRvOiBbOnNob3ddCg==</text>
+      <register name="&quot;" type="4">
+        <text>ApplicationController</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -699,7 +701,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>ApplicationController</text>
       </register>
       <register name="/" type="4">
         <text>letter__write</text>
@@ -708,28 +710,28 @@
         <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDptZXJnZV9maWVsZHMsIHRvOiBbOnNob3ddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDptZXJnZV9maWVsZHMsIHRvOiBbOnNob3ddCg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X2VxdWFsICd1cmwgZHVtcCcsIENrZWRpdG9ySW1hZ2UubGFzdC51cmwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLmhlYWRlcnNbJ0NhY2hlLUNvbnRyb2wnXSA9ICdwdWJsaWMsIG1heC1hZ2U9MjYzMDAwMCcK</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDptZXJnZV9maWVsZHMsIHRvOiBbOnNob3ddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlX3NyY19pZl9kb2N1bWVudF90ZW1wbGF0ZV9ib2R5X2hhc19waG90b3MoQGRvY3VtZW50X3RlbXBsYXRlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdISUhJJykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHJlc3BvbnNlLmhlYWRlcnNbJ0NhY2hlLUNvbnRyb2wnXSA9ICdwdWJsaWMsIG1heC1hZ2U9MjYzMDAwMCcK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdXBkYXRlX3NyY19pZl9kb2N1bWVudF90ZW1wbGF0ZV9ib2R5X2hhc19waG90b3MoQGRvY3VtZW50X3RlbXBsYXRlKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdISUhJJykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghdXJsIHx8ICFwaG90b0lkKSB7CiAgICAgICAgICAgIHJlcy5zdG9wKCk7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLmhlYWRlcnNbJ0NhY2hlLUNvbnRyb2wnXSA9ICdwdWJsaWMsIG1heC1hZ2U9MjYzMDAwMCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRXhpc3RzISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghdXJsIHx8ICFwaG90b0lkKSB7CiAgICAgICAgICAgIHJlcy5zdG9wKCk7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
@@ -741,7 +743,7 @@
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRXhpc3RzISIpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
