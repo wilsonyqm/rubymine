@@ -169,12 +169,12 @@
         <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/document_template.rb" timestamp="1524196312979" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1524450225346">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1524522446770">
         <mark key="'" line="15" column="39" />
-        <mark key="[" line="98" column="3" />
-        <mark key="]" line="99" column="1" />
-        <mark key="^" line="99" column="1" />
-        <mark key="." line="99" column="1" />
+        <mark key="[" line="82" column="31" />
+        <mark key="]" line="82" column="36" />
+        <mark key="^" line="82" column="36" />
+        <mark key="." line="82" column="36" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/letter_writing/tenant_letters_pdf_methods.rb" timestamp="1524196859427" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1524295607220">
@@ -616,8 +616,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAod2luZG93Ll9yYWlsc1Rlc3RFbnYgIT09ICd0cnVlJykgewogICAgLy9TcGVsbENoZWNrIHVzaW5nIFNDQVlUIGluIENrZWRpdG9yIHBhaWQgJDI1MC95ZWFyCiAgICBjb25maWcuc2NheXRfYXV0b1N0YXJ0dXAgPSB0cnVlOwoKICAgIC8vaW1hZ2UvZmlsZSB1cGxvYWQKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gInVwbG9hZHdpZGdldCwiOwogICAgY29uZmlnLmV4dHJhUGx1Z2lucyArPSAidXBsb2FkaW1hZ2UsIjsKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gImltYWdlMiwiOwogICAgY29uZmlnLmV4dHJhUGx1Z2lucyArPSAiZmlsZXRvb2xzLCI7CiAgICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJub3RpZmljYXRpb24sIjsKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gIm5vdGlmaWNhdGlvbmFnZ3JlZ2F0b3IsIjsKICAgIGNvbmZpZy51cGxvYWRVcmwgPSAnL2NrZWRpdG9yL2ltYWdlX3VwbG9hZC91cGxvYWQnOwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>tools</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -644,13 +644,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>500px</text>
+        <text>tools</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9wZGZfY29tbW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25maWcuaGVpZ2h0ID0gJzUwMHB4JzsK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJ0YWJsZXRvb2xzLCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZiAod2luZG93Ll9yYWlsc1Rlc3RFbnYgIT09ICd0cnVlJykgewogICAgLy9TcGVsbENoZWNrIHVzaW5nIFNDQVlUIGluIENrZWRpdG9yIHBhaWQgJDI1MC95ZWFyCiAgICBjb25maWcuc2NheXRfYXV0b1N0YXJ0dXAgPSB0cnVlOwoKICAgIC8vaW1hZ2UvZmlsZSB1cGxvYWQKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gInVwbG9hZHdpZGdldCwiOwogICAgY29uZmlnLmV4dHJhUGx1Z2lucyArPSAidXBsb2FkaW1hZ2UsIjsKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gImltYWdlMiwiOwogICAgY29uZmlnLmV4dHJhUGx1Z2lucyArPSAiZmlsZXRvb2xzLCI7CiAgICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJub3RpZmljYXRpb24sIjsKICAgIGNvbmZpZy5leHRyYVBsdWdpbnMgKz0gIm5vdGlmaWNhdGlvbmFnZ3JlZ2F0b3IsIjsKICAgIGNvbmZpZy51cGxvYWRVcmwgPSAnL2NrZWRpdG9yL2ltYWdlX3VwbG9hZC91cGxvYWQnOwogIH0K</text>
