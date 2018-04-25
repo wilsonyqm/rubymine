@@ -3182,6 +3182,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundle-11.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_bundle (v12.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundle-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundle-12.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_bundle (v8.2.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_bundle-8.2.0/lib" />
@@ -4096,6 +4104,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.7.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.7.1/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-8.7.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_devise (v9.1.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-9.1.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_disk_cache (v0.3.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -5334,6 +5358,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.4.0/tmp" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_hijack (v3.5.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_job (v15.20.0, RVM: ruby-2.2.3) [gem]">
@@ -21940,6 +21974,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.2.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="inheritable_fixtures (v0.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/inheritable_fixtures-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.3, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.3/lib/ruby/2.2.0/io" />
@@ -25100,6 +25146,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mixlib-log-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="mixlib-log (v2.0.4, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mixlib-log-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/mixlib-log-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="mize (v0.3.3, RVM: ruby-2.3.3) [gem]">
@@ -37730,6 +37784,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/shields_up-0.22.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="shields_up (v0.23.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/shields_up-0.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/shields_up-0.23.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/shields_up-0.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/shields_up-0.23.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="signable (v4.4.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/signable-4.4.0/db" />
@@ -43008,6 +43072,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/zookeeper-1.4.11/scripts" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/zookeeper-1.4.11/.dotfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.4/gems/zookeeper-1.4.11/zoomonkey" />
+      </SOURCES>
+    </library>
+    <library name="zxcvbn-js (v4.4.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zxcvbn-js-4.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zxcvbn-js-4.4.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zxcvbn-js-4.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zxcvbn-js-4.4.2/data" />
       </SOURCES>
     </library>
   </component>
