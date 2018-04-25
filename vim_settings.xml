@@ -147,8 +147,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" timestamp="1524688237694">
-        <mark key="'" line="380" column="8" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" timestamp="1524689748961">
+        <mark key="'" line="560" column="125" />
         <mark key="[" line="776" column="27" />
         <mark key="]" line="776" column="28" />
         <mark key="." line="776" column="28" />
@@ -720,16 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="26" filename="$USER_HOME$/src/my-addin/src/components/ProgressBar.js" />
-      <jump line="139" column="20" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="212" column="21" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="112" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="125" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="86" column="8" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="100" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="210" column="33" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="211" column="21" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="216" column="36" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="20" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="136" column="20" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
@@ -820,6 +810,16 @@
       <jump line="40" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
       <jump line="42" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
       <jump line="129" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
+      <jump line="382" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="384" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="385" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="388" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="389" column="112" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="437" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="439" column="128" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="449" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="451" column="135" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
+      <jump line="560" column="125" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/base.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -856,7 +856,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9wZXJ0eUlkXD4=</text>
+        <text>id</text>
       </register>
       <register name="0" type="4">
         <text>report_class.new.columns.viewable_ids.names</text>
@@ -908,9 +908,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9wZXJ0eUlkXD4=</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9wZXJ0eUlkXD4=</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -918,7 +918,6 @@
     </search>
     <history>
       <history-search>
-        <entry>refresh all</entry>
         <entry encoding="base64">XDxleGNlbFJlZnJlc2hTZXJ2aWNlU3B5XD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoVGFibGVzSW5TaGVldFw+</entry>
         <entry encoding="base64">XDxmbGFzaE1lc3NhZ2VTcHlcPg==</entry>
@@ -938,6 +937,7 @@
         <entry encoding="base64">XDx2aXNpYmxlX2NvbHVtbl9kZXNjcmlwdG9yc1w+</entry>
         <entry>:never</entry>
         <entry encoding="base64">XDxQcm9wZXJ0eUlkXD4=</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
