@@ -182,12 +182,11 @@
         <mark key="." line="23" column="106" />
         <mark key="^" line="23" column="106" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" timestamp="1524680055554">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="225" column="12" />
-        <mark key="." line="225" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" timestamp="1524682686298">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_base.rb" timestamp="1524677562787" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/models/letter_composition/letter_pdf_template.rb" timestamp="1524273326724" />
@@ -198,7 +197,12 @@
         <mark key="^" line="43" column="21" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/property.rb" timestamp="1524678066006" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/property.rb" timestamp="1524682259990">
+        <mark key="[" line="32" column="97" />
+        <mark key="]" line="32" column="98" />
+        <mark key="." line="32" column="98" />
+        <mark key="^" line="32" column="98" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/accounting/bank_adjustments_controller.rb" timestamp="1524432412475">
         <mark key="'" line="72" column="29" />
       </file>
@@ -367,12 +371,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/base_test.rb" timestamp="1524680279478">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/base_test.rb" timestamp="1524683046994">
         <mark key="'" line="37" column="28" />
-        <mark key="[" line="121" column="62" />
-        <mark key="]" line="121" column="62" />
-        <mark key="." line="121" column="62" />
-        <mark key="^" line="121" column="62" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/api/oauth/excel_integrations_controller_test.rb" timestamp="1524074365648">
         <mark key="'" line="49" column="10" />
@@ -657,16 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="33" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="41" column="9" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
-      <jump line="312" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="317" column="6" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="325" column="13" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="333" column="12" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="364" column="8" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="307" column="8" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="324" column="13" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
-      <jump line="41" column="4" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
       <jump line="42" column="4" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
       <jump line="56" column="8" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
       <jump line="75" column="15" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
@@ -757,13 +747,23 @@
       <jump line="229" column="85" filename="$USER_HOME$/src/apm_bundle/apps/property/test/presenters/report_column_presenter_test.rb" />
       <jump line="246" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/presenters/report_column_presenter_test.rb" />
       <jump line="252" column="92" filename="$USER_HOME$/src/apm_bundle/apps/property/test/presenters/report_column_presenter_test.rb" />
+      <jump line="40" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="165" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="14" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="188" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="190" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="153" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="43" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="168" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="9" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
+      <jump line="47" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/columns/base.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -790,49 +790,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>visi</text>
+        <text encoding="base64">XDxpbml0aWFsaXplX2Rlc2NyaXB0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBjb2x1bW5fY2xhc3MuYWRkICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
+      <register name="0" type="4">
+        <text>stubs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
+        <text encoding="base64">ICAgIGNvbHVtbnMgPSBAY29sdW1uX2NsYXNzLm5ldyh7IGNvbHVtbnM6IHsgb3JkZXI6IFsnY29sX2lkJ10gfX0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjb2x1bW5fY2xhc3MuYWRkICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
+        <text encoding="base64">CiAgICAgICAgICBpZiBjb2x1bW5fZGVzY3JpcHRvciAmJiAhQ29tcGFueS5zZXR0aW5ncy5wbHVzX3VzZXI/ICYmIGNvbHVtbl9kZXNjcmlwdG9yWzp2aXNpYmxlXSA9PSA6aWQKICAgICAgICAgICAgY29sdW1uX2Rlc2NyaXB0b3JbOnZpc2libGVdID0gOm5ldmVyCiAgICAgICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMgPSBAY29sdW1uX2NsYXNzLm5ldyh7fSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICFDb21wYW55LnNldHRpbmdzLnBsdXNfdXNlcj8gJiYgZGVzY3JpcHRvcls6dmlzaWJsZV0gPT0gOmlkCiAgICAgICAgICAgIGRlc2NyaXB0b3JbOnZpc2libGVdID0gOm5ldmVyCiAgICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBjb2x1bW5fY2xhc3MuYWRkICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
+        <text encoding="base64">CiAgICAgICAgICBpZiBjb2x1bW5fZGVzY3JpcHRvciAmJiAhQ29tcGFueS5zZXR0aW5ncy5wbHVzX3VzZXI/ICYmIGNvbHVtbl9kZXNjcmlwdG9yWzp2aXNpYmxlXSA9PSA6aWQKICAgICAgICAgICAgY29sdW1uX2Rlc2NyaXB0b3JbOnZpc2libGVdID0gOm5ldmVyCiAgICAgICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHBwIGNvbHVtbl9kZXNjcmlwdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfNCcsIDp2aXNpYmxlID0+IDppZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfNCcsIDp2aXNpYmxlID0+IDppZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIGNvbHVtbl9kZXNjcmlwdG9yICYmICFDb21wYW55LnNldHRpbmdzLnBsdXNfdXNlcj8gJiYgY29sdW1uX2Rlc2NyaXB0b3JbOnZpc2libGVdID09IDppZAogICAgICAgICAgICBjb2x1bW5fZGVzY3JpcHRvcls6dmlzaWJsZV0gPSA6bmV2ZXIKICAgICAgICAgIGVuZAoK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfNCcsIDp2aXNpYmxlID0+IDppZAo=</text>
+        <text encoding="base64">ICAgIGNvbHVtbnMubW9kaWZ5ICdjb2xfaWQnLCA6dmlzaWJsZSA9PiA6aWQK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -845,9 +845,9 @@
       </register>
     </registers>
     <search>
-      <last-search>visi</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsaXplX2Rlc2NyaXB0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>visi</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsaXplX2Rlc2NyaXB0b3JcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -855,8 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spinner</entry>
-        <entry encoding="base64">XDxwZXJjZW50YWdlXD4=</entry>
         <entry>Spinner</entry>
         <entry encoding="base64">XDxwcm9jZXNzaW5nTGFiZWxcPg==</entry>
         <entry encoding="base64">XDxyZWZyZXNoQWxsUGVyY2VudGFnZVw+</entry>
@@ -875,6 +873,8 @@
         <entry>def add</entry>
         <entry encoding="base64">XDxjb2x1bW5fb3B0aW9uc1w+</entry>
         <entry>visi</entry>
+        <entry>pp</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplX2Rlc2NyaXB0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
