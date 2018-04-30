@@ -46,7 +46,7 @@
         <mark key="^" line="44" column="104" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_notification_service.rb" timestamp="1525114344365" />
-      <file name="/Dummy.txt" timestamp="1525115019338">
+      <file name="/Dummy.txt" timestamp="1525120504727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1524809382686">
@@ -55,12 +55,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_tenant_debt_collections_status.rb" timestamp="1525110421824" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/letter_photo_src_updater.rb" timestamp="1525115048427">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/letter_photo_src_updater.rb" timestamp="1525120670192">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/document_templates_controller_test.rb" timestamp="1524858002944">
         <mark key="[" line="152" column="0" />
@@ -101,12 +101,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" timestamp="1525114080818">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" timestamp="1525120924174">
         <mark key="'" line="13" column="60" />
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="72" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="37" column="72" />
+        <mark key="[" line="9" column="167" />
+        <mark key="]" line="9" column="168" />
+        <mark key="." line="9" column="168" />
+        <mark key="^" line="9" column="168" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_service_test.rb" timestamp="1524857968099">
         <mark key="[" line="0" column="0" />
@@ -114,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
       <jump line="43" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
       <jump line="165" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
       <jump line="166" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/property_test.rb" />
@@ -214,13 +213,14 @@
       <jump line="47" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
       <jump line="8" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
       <jump line="13" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
+      <jump line="18" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/letter_photo_src_updater.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -247,72 +247,71 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNfdXJsXD4=</text>
+        <text>html</text>
       </register>
-      <register name="0" type="4">
-        <text>js-img-upload-ckeditor</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgUGhvdG8uYW55X2luc3RhbmNlLmV4cGVjdHMoOnB1YmxpY191cmwpLndpdGgoOm9yaWdpbmFsKS5yZXR1cm5zKCdOZXdJbWFnZVVybCcpLm5ldmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0icGhvdG8je3Bob3RvMi51aWR9IiBzcmM9InFpYW9tdSIvPgo=</text>
+        <text encoding="base64">ICAgICAgPGh0bWw+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGhvdG8uYW55X2luc3RhbmNlLmV4cGVjdHMoOnB1YmxpY191cmwpLndpdGgoOm9yaWdpbmFsKS5yZXR1cm5zKCdOZXdJbWFnZVVybCcpCg==</text>
+        <text encoding="base64">ICAgICAgPC9odG1sPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0icGhvdG8je3Bob3RvLnVpZH0iIHNyYz0iI3twaG90by5wdWJsaWNfdXJsfSI+IGFsdD0icGhvdG85OTk5OTkiIHNyYz0ib2xkVXJsIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgUGhvdG8uYW55X2luc3RhbmNlLmV4cGVjdHMoOnB1YmxpY191cmwpLndpdGgoOm9yaWdpbmFsKS5yZXR1cm5zKCdOZXdJbWFnZVVybCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9keTIgPSA8PC1IVE1MCiAgICAgICAgPGltZyBhbHQ9InBob3RvI3twaG90by51aWR9IiBzcmM9IiN7cGhvdG8ucHVibGljX3VybH0iPiBhbHQ9InBob3RvOTk5OTk5IiBzcmM9Im9sZFVybCIvPgogICAgICBIVE1MCg==</text>
+        <text encoding="base64">ICAgICAgTm9rb2dpcmk6OkhUTUwoJzxkaXYgY2xhc3M9ImhpaGkiIGFsdD0id3RmIj4gPHNwYW4gY2xhc3M9ImhpaGkiIGFsdD0iYWEiPicpLmNzcygnLmhpaGknKS5lYWNoIHt8YXwgcHAgYS5hdHRyaWJ1dGVzWydhbHQnXS52YWx1ZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZG9jdW1lbnRfdGVtcGxhdGUuYm9keSA9IEBkb2N1bWVudF90ZW1wbGF0ZS5ib2R5LmdzdWIoL2FsdD0icGhvdG8je2lkWzBdfSIgc3JjPSJcUysiLywgJ2FsdD0icGhvdG8nICsgaWRbMF0gKyAnIiBzcmM9IicgKyBwdWJsaWNfdXJsICsgJyInKQogICAgICAgIEBkb2N1bWVudF90ZW1wbGF0ZS5zYXZlIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2FsdD0icGhvdG8nICsgIiN7cGhvdG8udWlkfSIgKyAiXCIgc3JjPVwiI3t9XCIiICsgJyAgYWx0PSJwaG90bzk5OTk5OSIgc3JjPSJvbGRVcmwiJwo=</text>
+        <text encoding="base64">ICAgICAgTm9rb2dpcmk6OkhUTUwoJzxkaXYgY2xhc3M9ImhpaGkiIGFsdD0id3RmIj4gPHNwYW4gY2xhc3M9ImhpaGkiIGFsdD0iYWEiPicpLmNzcygnLmhpaGknKS5lYWNoIHt8YXwgcHAgYS5hdHRyaWJ1dGVzWydhbHQnXS52YWx1ZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgR3VpZC5leHBlY3RzKDpmaW5kX2J5KS53aXRoKHVpZDogcGhvdG8udWlkLnRvX3MpLnJldHVybnMobW9jayhwYXJlbnQ6IHBob3RvKSkKICAgICAgR3VpZC5leHBlY3RzKDpmaW5kX2J5KS53aXRoKHVpZDogJzk5OTk5OScpLnJldHVybnMobW9jayhwYXJlbnQ6IHBob3RvMikpCiAgICAgIHBob3RvLmV4cGVjdHMoOnR5cGUpLnJldHVybnMoJ1Bob3RvJykKICAgICAgcGhvdG8yLmV4cGVjdHMoOnR5cGUpLnJldHVybnMoJ1Bob3RvJykKICAgICAgcGhvdG8uZXhwZWN0cyg6cHVibGljX3VybCkud2l0aCg6b3JpZ2luYWwpLnJldHVybnMoJ05ld0ltYWdlVXJsJykKICAgICAgcGhvdG8yLmV4cGVjdHMoOnB1YmxpY191cmwpLndpdGgoOm9yaWdpbmFsKS5yZXR1cm5zKCdPdGhlclVybDInKQo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0icGhvdG8je3Bob3RvMi51aWR9IiBzcmM9InFpYW9tdSIvPgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGhvdG8gPSBQaG90by5jcmVhdGVfZXhlbXBsYXIhCg==</text>
+        <text encoding="base64">ICAgICAgUGhvdG8uYW55X2luc3RhbmNlLmV4cGVjdHMoOnB1YmxpY191cmwpLndpdGgoOm9yaWdpbmFsKS5yZXR1cm5zKCdOZXdJbWFnZVVybCcpCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGhvdG8uZXhwZWN0cyg6cHVibGljX3VybCkud2l0aCg6b3JpZ2luYWwpLnJldHVybnMoJ05ld0ltYWdlVXJsJykubmV2ZXIK</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGFsdD0icGhvdG8je3Bob3RvLnVpZH0iIHNyYz0iI3twaG90by5wdWJsaWNfdXJsfSI+IGFsdD0icGhvdG85OTk5OTkiIHNyYz0ib2xkVXJsIi8+Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2h0bWwveG1sL2c=</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNfdXJsXD4=</last-search>
+      <last-search>html</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNfdXJsXD4=</last-pattern>
-      <last-replace>@document_template</last-replace>
-      <last-substitute>document_template</last-substitute>
+      <last-pattern>html</last-pattern>
+      <last-replace>xml</last-replace>
+      <last-substitute>html</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTl9HVUVTVF9DQVJEX0lEXD4=</entry>
         <entry encoding="base64">XDxDTl9BU1NJR05FRF9VU0VSX0lEXD4=</entry>
         <entry>ID</entry>
         <entry encoding="base64">XDxnbFw+</entry>
@@ -332,9 +331,9 @@
         <entry>document_template</entry>
         <entry>.id</entry>
         <entry encoding="base64">XDxwdWJsaWNfdXJsXD4=</entry>
+        <entry>html</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Rpc3Bvc2l0aW9uL29mZmVuc2U=</entry>
         <entry encoding="base64">JzwsJz5zL0Rpc3Bvc2l0aW9uL09mZmVuc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzMwMDAvODA4MC9n</entry>
         <entry encoding="base64">JzwsJz5zL2xhdGVfZmVlX2RhaWwvYWdlbnRfb2ZfcmVjb3JkL2c=</entry>
@@ -354,6 +353,7 @@
         <entry encoding="base64">JzwsJz5zL2FkZC9jb2x1bW5zLmFkZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvY3VtZW50X3RlbXBsYXRlL0Bkb2N1bWVudF90ZW1wbGF0ZS9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2h0bWwveG1sL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
