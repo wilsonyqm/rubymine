@@ -166,7 +166,7 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1525286255667">
+      <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1525287472533">
         <mark key="'" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/letter_photo_src_updater.rb" timestamp="1525121944332">
@@ -176,6 +176,9 @@
         <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/lib/authorization.js" timestamp="1525286330490" />
+      <file name="$USER_HOME$/src/passport-frontend/src/lib/auth.js" timestamp="1525288013504">
+        <mark key="'" line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_resident_financial_activity_test.rb" timestamp="1525124863283">
         <mark key="[" line="29" column="40" />
         <mark key="]" line="29" column="43" />
@@ -243,6 +246,12 @@
         <mark key="." line="45" column="15" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_tenant_debt_collections_status.rb" timestamp="1525110421824" />
+      <file name="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" timestamp="1525287998300">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_owner1099_detail_test.rb" timestamp="1525198578483">
         <mark key="'" line="65" column="19" />
         <mark key="[" line="65" column="0" />
@@ -352,9 +361,10 @@
         <mark key="." line="25" column="65" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_notification_service.rb" timestamp="1525114344365" />
-      <file name="/Dummy.txt" timestamp="1525286416623">
+      <file name="/Dummy.txt" timestamp="1525287776757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" timestamp="1525287495832" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_variances_test.rb" timestamp="1525125090842">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="37" />
@@ -411,13 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_occupancy_summary.rb" />
-      <jump line="72" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_occupancy_summary.rb" />
-      <jump line="212" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_general_ledger.rb" />
-      <jump line="252" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_general_ledger.rb" />
-      <jump line="279" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_general_ledger.rb" />
-      <jump line="253" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_general_ledger.rb" />
-      <jump line="13" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_aged_receivables_detail.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="285" column="53" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="63" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
@@ -511,13 +514,20 @@
       <jump line="6" column="33" filename="$USER_HOME$/src/passport-frontend/src/components/App.jsx" />
       <jump line="32" column="8" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
       <jump line="46" column="28" filename="$USER_HOME$/src/passport-frontend/src/components/AuthorizationPage.jsx" />
+      <jump line="48" column="8" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="63" column="8" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="111" column="35" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="24" column="32" filename="$USER_HOME$/src/passport-frontend/src/components/LoginPage.jsx" />
+      <jump line="7" column="11" filename="$USER_HOME$/src/passport-frontend/src/lib/auth.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/src/passport-frontend/src/lib/auth.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/src/passport-frontend/src/lib/auth.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U2VsZWN0ZWQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaGlzdG9yeS5wdXNoKHsgcGF0aG5hbWU6IGAke21hdGNoLnVybH0vYWNjb3VudHNgLCBzZWFyY2g6IGxvY2F0aW9uLnNlYXJjaCB9KTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -547,13 +557,13 @@
         <text encoding="base64">U2VsZWN0ZWQg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</text>
+        <text encoding="base64">XDxzZXRUb2tlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5zLmFkZCBDTl9QUk9QRVJUWV9OQU1FLCBuYW1lOiAnUHJvcGVydHknLCB0eXBlOiA6c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBoaXN0b3J5LnB1c2goeyBwYXRobmFtZTogYCR7bWF0Y2gudXJsfS9hY2NvdW50c2AsIHNlYXJjaDogbG9jYXRpb24uc2VhcmNoIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiVW5pdCBJRCIsCg==</text>
+        <text encoding="base64">ICAgICAgaGlzdG9yeS5wdXNoKHsgcGF0aG5hbWU6IGAke21hdGNoLnVybH0vYWNjb3VudHNgLCBzZWFyY2g6IGxvY2F0aW9uLnNlYXJjaCB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -562,25 +572,25 @@
         <text encoding="base64">ICAgICAgICAiVW5pdCBJRCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIlVuaXQgSUQiLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAiVW5pdCBJRCIsCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIlVuaXQgSUQiLAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0b3JzW0NOX1BST1BFUlRZX05BTUVdID0gbmlsCg==</text>
+        <text encoding="base64">ICAgICAgICAiVW5pdCBJRCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnVW5pdCBJRCcsCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3JzW0NOX1BST1BFUlRZX05BTUVdID0gbmlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnUHJvcGVydHkgSUQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAnVW5pdCBJRCcsCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0b3JzW0NOX1BST1BFUlRZX0lEXSA9ICdwLmlkJwo=</text>
+        <text encoding="base64">ICAgICAgICAnUHJvcGVydHkgSUQnLAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
@@ -599,9 +609,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRUb2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRUb2tlblw+</last-pattern>
       <last-replace>xml</last-replace>
       <last-substitute>html</last-substitute>
       <last-dir>1</last-dir>
@@ -609,10 +619,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTl9QQVJFTlRfT0JKRUNUX0lEXD4=</entry>
-        <entry>Property Owner</entry>
-        <entry encoding="base64">XDxBY2NvdW50SWRcPg==</entry>
-        <entry>CN_PROPERTY</entry>
         <entry encoding="base64">XDxDTl9PV05FUl9JRFw+</entry>
         <entry encoding="base64">XDxDTl9QUk9QRVJUWV9JRFw+</entry>
         <entry>p.</entry>
@@ -629,6 +635,10 @@
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uRm9ybVw+</entry>
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uUGFnZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
+        <entry encoding="base64">XDxzdWJtaXRUd29GYWN0b3JcPg==</entry>
+        <entry>authori</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry encoding="base64">XDxzZXRUb2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Rpc3Bvc2l0aW9uL09mZmVuc2UvZw==</entry>
