@@ -71,11 +71,12 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1525380818215">
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="43" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="45" column="43" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1525382059465">
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="47" column="47" />
+        <mark key="." line="41" column="22" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/App.jsx" timestamp="1525287472533">
         <mark key="'" line="6" column="33" />
@@ -144,11 +145,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/excel_integration/saved_report_data_service_test.rb" timestamp="1525380275650">
-        <mark key="[" line="71" column="36" />
-        <mark key="]" line="71" column="36" />
-        <mark key="^" line="71" column="36" />
-        <mark key="." line="71" column="36" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/excel_integration/saved_report_data_service_test.rb" timestamp="1525382431866">
+        <mark key="[" line="97" column="68" />
+        <mark key="]" line="97" column="80" />
+        <mark key="^" line="97" column="80" />
+        <mark key="." line="97" column="80" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_bill_detail.rb" timestamp="1525122836292">
         <mark key="'" line="15" column="4" />
@@ -184,10 +185,11 @@
       <file name="/Dummy.txt" timestamp="1525380314791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1525370075855">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="82" />
-        <mark key="." line="42" column="27" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1525381446400">
+        <mark key="[" line="67" column="69" />
+        <mark key="]" line="67" column="81" />
+        <mark key="." line="67" column="81" />
+        <mark key="^" line="67" column="81" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/src/components/ProtectedRoute.jsx" timestamp="1525299317884">
         <mark key="[" line="21" column="0" />
@@ -213,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
       <jump line="33" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
       <jump line="55" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
       <jump line="102" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
@@ -313,13 +314,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
       <jump line="44" column="45" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
+      <jump line="48" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>next_</text>
+        <text>42</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
@@ -346,49 +348,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>next_</text>
+        <text>42</text>
       </register>
       <register name="/" type="4">
         <text>limit</text>
       </register>
-      <register name="0" type="4">
-        <text>ExcelIntegration::SavedReportDataService.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X25leHRfcmVwb3J0X2RhdGFfY2h1bmtfdXJsX19ub19tb3JlX25leHRfY2h1bmsKICAgICAgcmVwb3J0X3BhcmFtcyA9IHtsaW1pdDogMTAsIG9mZnNldDogMTAgfQogICAgICBzYXZlZF9yZXBvcnQgPSBSZXBvcnRzOjpNZW1vcml6ZWRSZXBvcnQuY3JlYXRlX2V4ZW1wbGFyIShyZXBvcnRfaWQ6ICdidWZmZXJlZF9nZW5lcmFsX2xlZGdlcicpCiAgICAgIG1ldGFkYXRhID0gUmVwb3J0czo6QnVmZmVyZWRNZXRhZGF0YS5jcmVhdGUhKAogICAgICAgIHJlcG9ydF9pZDogJ2J1ZmZlcmVkX2dlbmVyYWxfbGVkZ2VyJywKICAgICAgICBmaWx0ZXJzOiB7fSwKICAgICAgKQogICAgICBtZXRhZGF0YS5leHBlY3RzKDp0b3RhbF9yZXN1bHRzKS5yZXR1cm5zKDIwKQogICAgICBhc3NlcnRfbmlsIEV4Y2VsSW50ZWdyYXRpb246OlNhdmVkUmVwb3J0RGF0YVNlcnZpY2UubmV4dF9yZXBvcnRfZGF0YV9jaHVua191cmwocmVwb3J0X3BhcmFtcywgc2F2ZWRfcmVwb3J0LCBtZXRhZGF0YSkKICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBxdWVyeV9wYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgcXVlcnlfcGFyYW1zID0gewogICAgICAgIG1lbW9yaXplZF9yZXBvcnQ6IHsKICAgICAgICAgIGlkOiBzYXZlZF9yZXBvcnQuaWQsCiAgICAgICAgICBtZXRhZGF0YV9pZDogbWV0YWRhdGEuaWQsCiAgICAgICAgICBsaW1pdDogNSwKICAgICAgICAgIG9mZnNldDogMjAKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cDoge30sCg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnlfcGFyYW1zID0gewogICAgICAgIG1lbW9yaXplZF9yZXBvcnQ6IHsKICAgICAgICAgIGlkOiBzYXZlZF9yZXBvcnQuaWQsCiAgICAgICAgICBtZXRhZGF0YV9pZDogbWV0YWRhdGEuaWQsCiAgICAgICAgICBsaW1pdDogNSwKICAgICAgICAgIG9mZnNldDogMjAKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cDoge30sCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X29mZnNldCA9IGxpbWl0ICsgb2Zmc2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0OiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0X2xpbWl0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0OiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICBwcCBxdWVyeV9wYXJhbXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9yZXN1bHRzOiAxNSwK</text>
+        <text encoding="base64">ICAgICAgICBncm91cDoge30sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRfZGlzcGxheV9uYW1lOiBzYXZlZF9yZXBvcnQubmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBncm91cDoge30sCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQ6IHNhdmVkX3JlcG9ydCwK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0OiB7fSwK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRfZGlzcGxheV9uYW1lOiBzYXZlZF9yZXBvcnQubmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBzb3J0OiB7fSwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
