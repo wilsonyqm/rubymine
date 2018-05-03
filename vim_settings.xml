@@ -31,11 +31,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataImporterService.test.js" timestamp="1525386688079">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="21" column="66" />
-        <mark key="." line="21" column="66" />
-        <mark key="^" line="21" column="66" />
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataImporterService.test.js" timestamp="1525389048646">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="55" column="59" />
+        <mark key="]" line="55" column="59" />
+        <mark key="." line="55" column="59" />
+        <mark key="^" line="55" column="59" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_deposit_register.rb" timestamp="1525200095522">
         <mark key="'" line="10" column="4" />
@@ -62,9 +63,13 @@
         <mark key="." line="80" column="60" />
         <mark key="^" line="80" column="60" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataImporterService.js" timestamp="1525386591790">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="32" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/excel/table_helper.js" timestamp="1525387436072">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataImporterService.js" timestamp="1525388549842">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_lro_pricing_test.rb" timestamp="1525123724917">
         <mark key="[" line="88" column="42" />
@@ -77,6 +82,9 @@
         <mark key="'" line="109" column="41" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/test/components/LoginPage.spec.js" timestamp="1525299818293" />
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" timestamp="1525387449642">
+        <mark key="'" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_attachment_data_test.rb" timestamp="1525122551398">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="15" />
@@ -103,11 +111,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" timestamp="1525379972673">
         <mark key="'" line="44" column="45" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1525386441387">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="31" />
+      <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1525387045179">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_homeowner_directory_test.rb" timestamp="1525123385169">
         <mark key="[" line="79" column="20" />
@@ -200,7 +208,7 @@
         <mark key="'" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_notification_service.rb" timestamp="1525114344365" />
-      <file name="/Dummy.txt" timestamp="1525380314791">
+      <file name="/Dummy.txt" timestamp="1525388238661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1525381446400">
@@ -233,11 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
-      <jump line="55" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
-      <jump line="102" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/pagebreak/plugin.js" />
-      <jump line="50" column="72" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
-      <jump line="84" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="123" column="64" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="160" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="10" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
@@ -333,16 +336,21 @@
       <jump line="44" column="45" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/buffered_metadata.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/models/reports/memorized_report.rb" />
       <jump line="48" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" />
+      <jump line="105" column="0" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
+      <jump line="86" column="42" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
+      <jump line="50" column="42" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" />
+      <jump line="47" column="40" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataImporterService.test.js" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmbGFzaE1lc3NhZ2VTcHkgPSBqZXN0LnNweU9uKGZsYXNoTWVzc2FnZSwgJ2Rpc3BsYXknKS5tb2NrSW1wbGVtZW50YXRpb25PbmNlKCgpID0+ICdzb21lTWVzc2FnZScpOwo=</text>
+      <register name="a" type="4">
+        <text>generateTableNameSpy</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">KCkgPT4gJ3RhYmxlMSc=</text>
       </register>
-      <register name="b" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoZmxhc2hNZXNzYWdlU3B5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZXJyb3I6ICdzb21lIGVycm9yJywgY29udGVudDogIkFuIGVycm9yIG9jY3VycmVkIGR1cmluZyBpbXBvcnQuIiwgYWxlcnRUeXBlOiAnZXJyb3InfSk7Cg==</text>
+      <register name="b" type="4">
+        <text>importReportDataAtRangeSpy</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgIGZlbG9uaWVzX2NoZWNrYm94OiAnMScsCiAgICAgICAgICBtaXNkZW1lYW5vcnNfY2hlY2tib3g6ICcxJwo=</text>
@@ -366,49 +374,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">KCkgPT4gJ3RhYmxlMSc=</text>
       </register>
       <register name="/" type="4">
-        <text>limit</text>
+        <text encoding="base64">XDxQcm9wZXJ0eVJlcXVlc3Rlclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Lm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKCkgPT4gdGFibGVNb2NrKQ==</text>
+        <text encoding="base64">Lm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiAndGFibGUxJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW5lcmF0ZU1vY2tUYWJsZXMK</text>
+        <text encoding="base64">CiAgYWZ0ZXJFYWNoKCgpID0+IHsKICAgIGNvbnRleHRNb2NrLnN5bmMubW9ja0NsZWFyKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRhYmxlc01vY2sgPSBnZW5lcmF0ZU1vY2tUYWJsZXMoKTsKICAgICAgY29udGV4dE1vY2sud29ya2Jvb2sudGFibGVzLm1vY2tJbXBsZW1lbnRhdGlvbk9uY2UoKCkgPT4gdGFibGVzTW9jayk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGFyc2VkID0gewogICAgICAgIGZpbHRlckluZm86ICdmaWx0ZXJfaW5mbycsCiAgICAgICAgaGVhZGVyczogJ2hlYWRlcnMnLAogICAgICAgIGRhdGE6ICdkYXRhSGVhcCcKICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgUHJvcGVydHlSZXF1ZXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGFibGVNb2NrID0geyBkZWxldGU6IGplc3QuZm4oKSB9Owo=</text>
+        <text encoding="base64">ICAgICAgbGV0IHJhbmdlTG9hZE1vY2sgPSBqZXN0LmZuKCk7CiAgICAgIGxldCBzaGVldExvYWRNb2NrID0gamVzdC5mbigpOwogICAgICBjb250ZXh0TW9jay53b3JrYm9vay5nZXRTZWxlY3RlZFJhbmdlID0gamVzdC5mbigoKSA9PiAoeyBsb2FkOiByYW5nZUxvYWRNb2NrLCBhZGRyZXNzOiAnTmljZSBhZGRyZXNzJyB9KSk7CiAgICAgIGNvbnRleHRNb2NrLndvcmtib29rLndvcmtzaGVldHMuZ2V0QWN0aXZlV29ya3NoZWV0ID0gamVzdC5mbigoKSA9PiAoeyBsb2FkOiBzaGVldExvYWRNb2NrLCBuYW1lOiAnU2hlZXROYW1lcycgfSkpOwogICAgICBsZXQgZ2VuZXJhdGVUYWJsZU5hbWVTcHkgPSBqZXN0LnNweU9uKFRhYmxlSGVscGVyLCAnZ2VuZXJhdGVUYWJsZU5hbWUnKS5tb2NrSW1wbGVtZW50YXRpb24oKCkgPT4gJ3RhYmxlMScpOwogICAgICBsZXQgaW1wb3J0UmVwb3J0RGF0YUF0UmFuZ2VTcHkgPSBqZXN0LnNweU9uKERhdGFJbXBvcnRlclNlcnZpY2UsICdpbXBvcnRSZXBvcnREYXRhQXRSYW5nZScpOwoKICAgICAgY29uc3QgcGFyYW1zID0ge2lkOiAxMDB9OwogICAgICBhd2FpdCBEYXRhSW1wb3J0ZXJTZXJ2aWNlLmltcG9ydFJlcG9ydERhdGFBdEN1cnNvcihwYXJhbXMpOwoKICAgICAgZXhwZWN0KHJhbmdlTG9hZE1vY2spLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdhZGRyZXNzJyk7CiAgICAgIGV4cGVjdChzaGVldExvYWRNb2NrKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgnbmFtZScpOwogICAgICBleHBlY3QoZ2VuZXJhdGVUYWJsZU5hbWVTcHkpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdTaGVldE5hbWVzJywgeyBpZDogMTAwIH0pOwogICAgICBleHBlY3QoaW1wb3J0UmVwb3J0RGF0YUF0UmFuZ2VTcHkpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKHBhcmFtcywgJ1NoZWV0TmFtZXMnLCAnTmljZSBhZGRyZXNzJywgJ3RhYmxlMScpOwogICAgICBleHBlY3QoY29udGV4dE1vY2suc3luYykudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwoKICAgICAgZ2VuZXJhdGVUYWJsZU5hbWVTcHkubW9ja1Jlc3RvcmUoKTsKICAgICAgaW1wb3J0UmVwb3J0RGF0YUF0UmFuZ2VTcHkubW9ja1Jlc3RvcmUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0SXRlbTogamVzdC5mbigoKSA9PiBbXSksCiAgICAgIGdldFJhbmdlOiBqZXN0LmZuKGdlbmVyYXRlTW9ja1JhbmdlKSwKICAgICAgaXRlbXM6IFtdLAogICAgICBsb2FkOiBqZXN0LmZuKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbnRleHRNb2NrLnN5bmMpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldFJhbmdlOiBqZXN0LmZuKGdlbmVyYXRlTW9ja1JhbmdlKSwKICAgIGxvYWQ6IGplc3QuZm4oKSwKICAgIHRhYmxlczogewogICAgICBnZXRJdGVtOiBqZXN0LmZuKCgpID0+IFtdKSwKICAgICAgZ2V0UmFuZ2U6IGplc3QuZm4oZ2VuZXJhdGVNb2NrUmFuZ2UpLAogICAgICBpdGVtczogW10sCiAgICAgIGxvYWQ6IGplc3QuZm4oKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbnRleHRNb2NrKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdvcmtTaGVldE1vY2sgPSBnZW5lcmF0ZU1vY2tXb3Jrc2hlZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbnRleHRNb2NrLndvcmtib29rLnRhYmxlcy5nZXRJdGVtKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgnTXlOYW1lJyk7CiAgICAgIGV4cGVjdCh0YWJsZU1vY2suZGVsZXRlKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgd2luZG93RXhjZWxSdW5TcHk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2sudGFibGVzLmdldEl0ZW0gPSBqZXN0LmZuKCkubW9ja0ltcGxlbWVudGF0aW9uT25jZSgoKSA9PiB0YWJsZU1vY2spOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvd0V4Y2VsUnVuU3B5Lm1vY2tDbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9hZDogamVzdC5mbigpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -421,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>limit</last-search>
+      <last-search encoding="base64">XDxQcm9wZXJ0eVJlcXVlc3Rlclw+</last-search>
       <last-offset />
-      <last-pattern>limit</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9wZXJ0eVJlcXVlc3Rlclw+</last-pattern>
       <last-replace>xml</last-replace>
       <last-substitute>html</last-substitute>
       <last-dir>1</last-dir>
@@ -431,9 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTl9QUk9QRVJUWV9OQU1FXD4=</entry>
-        <entry encoding="base64">XDxDTl9TRUxFQ1RFRF9URU5BTlRfSURcPg==</entry>
-        <entry encoding="base64">XDxBdXRob3JpemF0aW9uRm9ybVw+</entry>
         <entry encoding="base64">XDxBdXRob3JpemF0aW9uUGFnZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxzdWJtaXRUd29GYWN0b3JcPg==</entry>
@@ -451,6 +456,9 @@
         <entry encoding="base64">XDxyZXBvcnRfZGlzcGxheV9uYW1lXD4=</entry>
         <entry>total_result</entry>
         <entry>limit</entry>
+        <entry>spy</entry>
+        <entry encoding="base64">XDx0YWJsZUhlbHBlclw+</entry>
+        <entry encoding="base64">XDxQcm9wZXJ0eVJlcXVlc3Rlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Rpc3Bvc2l0aW9uL09mZmVuc2UvZw==</entry>
