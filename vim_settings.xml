@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_keys_detail.rb" timestamp="1525198075069">
@@ -174,12 +174,12 @@
         <mark key="'" line="109" column="41" />
       </file>
       <file name="$USER_HOME$/src/passport-frontend/test/components/LoginPage.spec.js" timestamp="1525299818293" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" timestamp="1525457963133">
-        <mark key="'" line="92" column="1550" />
-        <mark key="[" line="48" column="1716" />
-        <mark key="]" line="48" column="1716" />
-        <mark key="^" line="48" column="1700" />
-        <mark key="." line="48" column="1716" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" timestamp="1525460340119">
+        <mark key="'" line="81" column="2" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="80" column="1" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/RefreshService.test.js" timestamp="1525387449642">
         <mark key="'" line="5" column="12" />
@@ -547,55 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
-      <jump line="47" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
-      <jump line="8" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
-      <jump line="13" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" />
-      <jump line="18" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/letter_photo_src_updater.rb" />
-      <jump line="16" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_bill_detail.rb" />
-      <jump line="15" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_bill_detail.rb" />
-      <jump line="10" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_import_variances.rb" />
-      <jump line="54" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_owner1099_detail_test.rb" />
-      <jump line="58" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_owner1099_detail_test.rb" />
-      <jump line="46" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/unit/reports/columns/gl_account_test.rb" />
-      <jump line="131" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="152" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="132" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="103" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="15" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/shared_column_constants.rb" />
-      <jump line="9" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="50" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="113" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="20" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="26" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/shared_column_constants.rb" />
-      <jump line="24" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/shared_column_constants.rb" />
-      <jump line="133" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="153" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="59" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="104" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="35" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_check_register_detail.rb" />
-      <jump line="103" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_check_register_detail.rb" />
-      <jump line="109" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_check_register_detail.rb" />
-      <jump line="76" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_rent_bureau_tenants.rb" />
-      <jump line="181" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="99" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="216" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099.rb" />
-      <jump line="185" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099.rb" />
-      <jump line="141" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099.rb" />
-      <jump line="98" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="161" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="105" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="69" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="108" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="31" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="163" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="30" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="70" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="100" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="107" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="51" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="19" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
-      <jump line="102" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
       <jump line="109" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
       <jump line="165" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
       <jump line="32" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_owner1099_detail.rb" />
@@ -647,13 +598,62 @@
       <jump line="109" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/presenters/letter_composition/lease_template_models/merge_field.rb" />
       <jump line="102" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
       <jump line="92" column="1550" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="144" column="161" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="145" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="146" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="147" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="148" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="149" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="150" column="90" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="159" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="160" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="161" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="162" column="251" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="163" column="107" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="164" column="210" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="165" column="160" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="166" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="167" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="168" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="169" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="30" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="48" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="49" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="50" column="773" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="51" column="603" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="52" column="249" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="53" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="54" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="55" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="56" column="143" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="57" column="348" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="58" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="59" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="60" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="61" column="484" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="62" column="301" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="63" column="58" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="64" column="130" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="65" column="151" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="66" column="140" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="67" column="101" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="68" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="69" column="484" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="70" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="71" column="100" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="72" column="501" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="73" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="74" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="75" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="76" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
+      <jump line="81" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>generateTableNameSpy</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImFwcGZvbGlvX21lcmdlX2ZpZWxkIHVuaXRfX2FkZHJlc3NfX3N0YXRlIj5Vbml0IFN0YXRlPC9zcGFuPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -680,22 +680,22 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImFwcGZvbGlvX21lcmdlX2ZpZWxkIHVuaXRfX2FkZHJlc3NfX3N0YXRlIj5Vbml0IFN0YXRlPC9zcGFuPg==</text>
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImFwcGZvbGlvX21lcmdlX2ZpZWxkIGNvbXBhbnlfX25hbWUiPkNvbXBhbnkgTmFtZTwvc3Bhbj4=</text>
       </register>
       <register name="/" type="4">
-        <text>appfolio_merge_field</text>
+        <text>Regards</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0aW55bWNlOiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aW55bWNlOiAwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aW55bWNlOiAxCg==</text>
+        <text encoding="base64">ICB0aW55bWNlOiAwCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICB0aW55bWNlOiAxCg==</text>
@@ -704,25 +704,25 @@
         <text encoding="base64">ICB0aW55bWNlOiAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtX19yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybV9fcm93X19sYWJlbCI+CiAgICAgIDwlPSBmLmxhYmVsICdJbmNsdWRlIENvbXBhbnkgTG9nbycgJT4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0iZm9ybV9fcm93X19ib2R5Ij4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICB0aW55bWNlOiAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGYuaW5wdXQgOmluY2x1ZGVfbG9nbyAlPgo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmb3JtX19yb3ciPgogICAgPGRpdiBjbGFzcz0iZm9ybV9fcm93X19sYWJlbCI+CiAgICAgIDwlPSBmLmxhYmVsICdJbmNsdWRlIENvbXBhbnkgTG9nbycgJT4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0iZm9ybV9fcm93X19ib2R5Ij4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGYuY2hlY2tfYm94IDppbmNsdWRlX2xvZ28gJT4K</text>
+        <text encoding="base64">ICAgICAgPCU9IGYuaW5wdXQgOmluY2x1ZGVfbG9nbyAlPgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCU9IGYubGFiZWwgJ0luY2x1ZGUgQ29tcGFueSBMb2dvJyAlPgo=</text>
+        <text encoding="base64">ICAgICAgPCU9IGYuY2hlY2tfYm94IDppbmNsdWRlX2xvZ28gJT4K</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm1fX3Jvd19fbGFiZWwiPgogICAgICA8JT0gZi5jaGVja19ib3ggOmluY2x1ZGVfbG9nbyAlPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPCU9IGYubGFiZWwgJ0luY2x1ZGUgQ29tcGFueSBMb2dvJyAlPgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -735,9 +735,9 @@
       </register>
     </registers>
     <search>
-      <last-search>appfolio_merge_field</last-search>
+      <last-search>Regards</last-search>
       <last-offset />
-      <last-pattern>appfolio_merge_field</last-pattern>
+      <last-pattern>Regards</last-pattern>
       <last-replace>xml</last-replace>
       <last-substitute>html</last-substitute>
       <last-dir>1</last-dir>
@@ -745,8 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry>authori</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxzZXRUb2tlblw+</entry>
         <entry encoding="base64">XDxtYWtlX3JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxzZXRfdXNlcl9hdHRyaWJ1dGVzXD4=</entry>
@@ -765,6 +763,8 @@
         <entry encoding="base64">XDxsb2dvXD4=</entry>
         <entry encoding="base64">XDxtZXJnZV9maWVsZF9hc19odG1sXD4=</entry>
         <entry>appfolio_merge_field</entry>
+        <entry encoding="base64">PHA=</entry>
+        <entry>Regards</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0Rpc3Bvc2l0aW9uL09mZmVuc2UvZw==</entry>
