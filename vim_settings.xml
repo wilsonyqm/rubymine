@@ -97,9 +97,9 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/move_outs_disposition_pdf_test.rb" timestamp="1525475178043">
         <mark key="'" line="135" column="6" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="205" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="205" />
+        <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="199" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1525392367676">
@@ -342,11 +342,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/whats_news/20180504220250_ckeditor_upload_image.yml" timestamp="1525472654490">
-        <mark key="[" line="3" column="361" />
-        <mark key="]" line="3" column="366" />
-        <mark key="." line="3" column="366" />
-        <mark key="^" line="3" column="366" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/whats_news/20180504220250_ckeditor_upload_image.yml" timestamp="1525478668775">
+        <mark key="[" line="3" column="378" />
+        <mark key="]" line="3" column="378" />
+        <mark key="." line="3" column="378" />
+        <mark key="^" line="3" column="454" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1525393882392">
         <mark key="'" line="48" column="6" />
@@ -637,8 +637,8 @@
       <register name="a" type="4">
         <text>generateTableNameSpy</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldHRlci5ib2R5ID0gbGV0dGVyLmJvZHkuZ3N1YigvPHNwYW4gY2xhc3M9ImFwcGZvbGlvX21lcmdlX2ZpZWxkIGNvbXBhbnlfX3RvZGF5Ij5EYXRlPFwvc3Bhbj4vLCAnJykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -665,7 +665,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR1cF9tb3Zlb3V0X2RhdGVfc2VjdGlvblw+</text>
