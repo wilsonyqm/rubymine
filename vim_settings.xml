@@ -229,6 +229,7 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/stylesheets/saffron/components/hmf/_variables.scss" timestamp="1525811994878" />
       <file name="/edit_merge_fields.html.erb" timestamp="1525802654282" />
       <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1525387045179">
         <mark key="[" line="10" column="36" />
@@ -281,6 +282,11 @@
         <mark key="^" line="20" column="92" />
       </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_has_many_fields_for-4.9.3/lib/af_has_many_fields_for/helpers/has_many_fields_helper.rb" timestamp="1525737611143" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180507225753_add_lease_customize_merge_fields.leases.rb" timestamp="1525816192648">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_insurance_usage_test.rb" timestamp="1525198853797">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -293,11 +299,11 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit_merge_fields.html.erb" timestamp="1525806541160">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit_merge_fields.html.erb" timestamp="1525814388218">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_leasing_agent_performance_test.rb" timestamp="1525123690624">
         <mark key="[" line="45" column="13" />
@@ -311,11 +317,11 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_customize_merge_fields_controller.rb" timestamp="1525804824606">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="15" column="6" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_customize_merge_fields_controller.rb" timestamp="1525816716779">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/cam/app/views/cam/gl_account_groups/_gl_account_group_block_edit.html.erb" timestamp="1525800033333" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_document.rb" timestamp="1525733936274">
@@ -395,6 +401,10 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/accounting/bank_account_association_sorter.rb" timestamp="1525738921530" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/app/views/saffron/shared/_hmf_row.html.erb" timestamp="1525799902180" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/assets/javascripts/violations_tracking/select2-violation-type-combobox/component.es6" timestamp="1525814643747">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="25" column="39" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_fund_balance_sheet_test.rb" timestamp="1525123145596">
         <mark key="[" line="38" column="186" />
         <mark key="]" line="38" column="188" />
@@ -412,6 +422,12 @@
         <mark key="]" line="1" column="72" />
         <mark key="." line="1" column="72" />
         <mark key="^" line="1" column="72" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/lease_customize_merge_fields/edit_merge_fields.scss" timestamp="1525813254324">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_receivables_activity_test.rb" timestamp="1525200461506">
         <mark key="[" line="40" column="9" />
@@ -435,11 +451,11 @@
         <mark key="." line="63" column="21" />
         <mark key="^" line="63" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180507224805_add_lease_customize_merge_fields.rb" timestamp="1525733730589">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180507224805_add_lease_customize_merge_fields.rb" timestamp="1525816187862">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_online_payables_payment_detail_report_test.rb" timestamp="1525123761898">
         <mark key="[" line="41" column="12" />
@@ -470,13 +486,13 @@
         <mark key="^" line="25" column="65" />
         <mark key="." line="25" column="65" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/component.es6" timestamp="1525806556126">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/component.es6" timestamp="1525816485347">
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525806413421">
+      <file name="/Dummy.txt" timestamp="1525815900360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controller_test_helper.rb" timestamp="1525732279863" />
@@ -551,11 +567,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/config/routes.rb" timestamp="1525735085753">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="30" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/config/routes.rb" timestamp="1525814784146">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_templates/editor/component.es6" timestamp="1525804556197">
         <mark key="[" line="0" column="0" />
@@ -679,7 +695,7 @@
         <text>generateTableNameSpy</text>
       </register>
       <register name="&quot;" type="4">
-        <text>form__row</text>
+        <text>present.</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -706,49 +722,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>present.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb3dfaHRtbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>form__row</text>
+        <text>LeaseCustomizeMergeField</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQoZXZ0LnRhcmdldCkK</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWFzZUN1c3RvbWl6ZU1lcmdlRmllbGQuZGVzdHJveV9hbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQGxlYXNlX2N1c3RvbWl6ZV9tZXJnZV9maWVsZHNfZm9ybSA9IExlYXNlczo6TGVhc2VDdXN0b21pemVNZXJnZUZpZWxkc0Zvcm0ubmV3KGxlYXNlX2N1c3RvbWl6ZV9tZXJnZV9maWVsZHMpCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGVhc2VUZW1wbGF0ZUluaXRpYWxpemVyID0gb25saW5lTGVhc2VzLmxlYXNlVGVtcGxhdGVJbml0aWFsaXplcjsKICAgIHRoaXMuc2F2ZVN0YXR1cyA9IG9ubGluZUxlYXNlcy5zYXZlU3RhdHVzOwogICAgdGhpcy50ZW1wbGF0ZVNhdmVyID0gb25saW5lTGVhc2VzLnRlbXBsYXRlU2F2ZXI7CiAgICB0aGlzLm5hdmlnYXRvciA9IG9ubGluZUxlYXNlcy5uYXZpZ2F0b3I7CgogICAgdGhpcy50ZW1wbGF0ZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBhY2UgZnJvbSAncGFjZSc7CmltcG9ydCBMZWFzZVRlbXBsYXRlc1RvdXIgZnJvbSAnbGVhc2VzL2xlYXNlX3RlbXBsYXRlcy9lZGl0b3JfZ3VpZGVkX3RvdXIvY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgcHJvcGVydHlfbmV3X3JlbGljX2luc2lnaHRzCgovLz0gcmVxdWlyZSAuL25ld19sZWFzZV9hdHRhY2htZW50X2xpbmsvbW9kYWxzL3VwbG9hZF9zdGF0aWNfbGVhc2VfYWRkZW5kdW1fbW9kYWwKLy89IHJlcXVpcmUgLi9uZXdfbGVhc2VfYXR0YWNobWVudF9saW5rL2NvbXBvbmVudAoK</text>
+        <text encoding="base64">ICAgICAgaWYgbmFtZXMuZW1wdHk/IAogICAgICAgIGhlYWQgOnVucHJvY2Vzc2FibGVfZW50aXR5Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3M9ImpzLWN1c3RvbWl6ZS1tZXJnZS1maWVsZHMtZGVsZXRlIGhtZi1yb3dfX3JlbW92ZSI+CiAgICAgICAgPHNwYW4gYw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgaWRzID0gcGFyYW1zWydpZHMnXQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0IG5hbWU9Im5hbWUiPgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lczogbmFtZXMsCiAgICAgICAgaWRzOiBpZHMK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
