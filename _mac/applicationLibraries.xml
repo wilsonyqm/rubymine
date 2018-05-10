@@ -2070,6 +2070,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_page_objects-3.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="ae_page_objects (v4.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_page_objects-4.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_page_objects-4.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aes_key_wrap (v1.0.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aes_key_wrap-1.0.1/bin" />
@@ -10686,6 +10694,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-18.4.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_selenium (v19.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-19.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-19.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-19.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_selenium-19.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_send_and_delete_file (v1.0.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_send_and_delete_file-1.0.0/lib" />
@@ -14976,6 +14994,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.0.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-3.0.3/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-3.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-3.0.3/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara-email (v2.3.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/capybara-email-2.3.0/lib" />
@@ -15006,6 +15034,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capybara-email (v3.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/capybara-email-3.0.1/lib" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v2.2.8, RVM: ruby-2.2.3 [global]) [gem]">
@@ -15176,6 +15212,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/childprocess-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/childprocess-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ckeditor (v4.2.0, RVM: ruby-2.2.3) [gem]">
@@ -43188,6 +43232,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/xpath-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="yard (v0.8.7.6, RVM: ruby-2.2.3) [gem]">
