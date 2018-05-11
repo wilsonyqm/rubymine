@@ -3,16 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/index/component.es6" timestamp="1525977740243">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/index/component.es6" timestamp="1526063299159">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/helpers/leases/lease_customize_merge_fields_helper.rb" timestamp="1525974674417">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="40" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/engine.rb" timestamp="1525978028269">
         <mark key="[" line="21" column="45" />
@@ -20,15 +15,23 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1526061448071">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="40" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/layouts/leases/lease_template_editor.html.erb" timestamp="1526065243162">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="104" column="15" />
+        <mark key="]" line="104" column="28" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/move_outs_helper.rb" timestamp="1525974670457">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="37" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1526065246913">
+        <mark key="'" line="5" column="15" />
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="47" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/lease_customize_merge_fields/edit_merge_fields.scss" timestamp="1526062940498">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit_merge_fields.html.erb" timestamp="1525986029461">
         <mark key="[" line="18" column="35" />
@@ -36,28 +39,36 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" timestamp="1525972536305">
-        <mark key="[" line="101" column="20" />
-        <mark key="]" line="101" column="100" />
-        <mark key="." line="101" column="20" />
-        <mark key="^" line="101" column="19" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" timestamp="1526063155673">
+        <mark key="'" line="86" column="11" />
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="43" column="65" />
+        <mark key="." line="43" column="65" />
+        <mark key="^" line="94" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/lease_customize_merge_field_test.rb" timestamp="1525972509492">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="121" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="41" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/lease_customize_merge_field_test.rb" timestamp="1526063058559">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_customize_merge_field.rb" timestamp="1525972487212">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="111" />
-        <mark key="." line="30" column="112" />
-        <mark key="^" line="30" column="112" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/stylesheets/_ckeditor.scss" timestamp="1526065137983">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" timestamp="1525987902944">
-        <mark key="'" line="204" column="177" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="24" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_customize_merge_field.rb" timestamp="1526063083273">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="6" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_customize_merge_fields_controller.rb" timestamp="1526062970444">
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/index.html.erb" timestamp="1525986279680">
         <mark key="[" line="26" column="22" />
@@ -65,24 +76,25 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1525974340219">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1526063926614">
         <mark key="'" line="27" column="51" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="74" column="8" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/component.es6" timestamp="1525974425269">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="85" column="30" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="18" column="24" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/component.es6" timestamp="1526063308218">
+        <mark key="'" line="58" column="11" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526059717706">
+      <file name="/Dummy.txt" timestamp="1526064931894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/helpers/leases/lease_documents_helper.rb" timestamp="1525974639913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="28" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/config.js" timestamp="1526064810189">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="51" column="1" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/whats_news/20180504220250_ckeditor_upload_image.yml" timestamp="1525972419674">
         <mark key="[" line="3" column="378" />
@@ -90,49 +102,19 @@
         <mark key="." line="3" column="378" />
         <mark key="^" line="3" column="454" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_online_payments.html.erb" timestamp="1525975351911">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="181" column="9" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/owner_vendor_ach/app/views/owner_vendor_ach/owner_ach_setups/index.html.erb" timestamp="1525974293610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="5" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/merge-field-dropdown/plugin.js" timestamp="1526059878051" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/lease_customize_merge_fields/index.scss" timestamp="1525976326372">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements/components/_merge_field_dropdown.scss" timestamp="1526064940758">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/owner_vendor_ach/app/assets/javascripts/owner_vendor_ach/views/owner_ach_setups/index/component.es6" timestamp="1525974282933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/index/index.js" timestamp="1525977564693">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1526063987183">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="161" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="145" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="146" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="147" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="148" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="149" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="150" column="90" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="159" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="160" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="161" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="162" column="251" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="163" column="107" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="164" column="210" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="165" column="160" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="166" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="167" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="168" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="169" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
       <jump line="30" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
       <jump line="48" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
       <jump line="49" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
@@ -215,13 +197,31 @@
       <jump line="191" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
       <jump line="199" column="87" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
       <jump line="204" column="177" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
+      <jump line="72" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="115" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="2" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="26" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="50" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="49" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="94" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="44" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="71" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="74" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="84" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="86" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
+      <jump line="33" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
+      <jump line="105" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/layouts/leases/lease_template_editor.html.erb" />
+      <jump line="20" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
+      <jump line="22" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
+      <jump line="23" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
+      <jump line="5" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>generateTableNameSpy</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">TWFudWFsIA==</text>
+        <text>menuData</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -248,79 +248,71 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>menuData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWFzZV9kb2N1bWVudFw+</text>
+        <text>menu</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TWFudWFsIA==</text>
+        <text>manualMenuData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc2Vjb25kYXJ5IHUtc3BhY2UtYnMiIGRhdGEtaHJlZj0iPCU9IGVkaXRfbWVyZ2VfZmllbGRzX2xlYXNlX2N1c3RvbWl6ZV9tZXJnZV9maWVsZHNfcGF0aCAlPiI+RWRpdDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Ci5ja2VfY29tYm9wYW5lbF9fbWFudWFsLW1lcmdlLWZpZWxkLWRyb3Bkb3duIHsKICB3aWR0aDogNDAwcHggIWltcG9ydGFudDsKICBoZWlnaHQ6IDYwMHB4ICFpbXBvcnRhbnQ7Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci5tYW51YWwtbWVyZ2UtZmllbGQtZHJvcGRvd24gewogIHdpZHRoOiAyNDAgIWltcG9ydGFudDsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnLycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2PlRoZSBmaWVsZHMgeW91IGNyZWF0ZSBvbiB0aGlzIHBhZ2Ugd2lsbCBhcHBlYXIgYXMgb3B0aW9uYWwgbWFudWFsIG1lcmdlIGZpZWxkcyBpbiB5b3VyIGxlYXNlIHRlbXBsYXRlcy48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICcvJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcvJywKICAgICcvJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUganF1ZXJ5Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0dXBGZWVkYmFjayA9IHRoaXMuc2V0dXBGZWVkYmFjay5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICQgZnJvbSAnanF1ZXJ5JzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0dXBGZWVkYmFjayA9IHRoaXMuc2V0dXBGZWVkYmFjay5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICduZXdGaWVsZHMnID0+ICV3J05ld05hbWUgTmFtZTInCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBvbkFkZEZpZWxkKCkgewogICAgY29uc3QgbmV3RmllbGQgPQogICAgICBgPGRpdiBjbGFzcz0iaG1mLXJvdyBmb3JtX19yb3ciPgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm1fX3Jvd19fYm9keSI+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImpzLWN1c3RvbWl6ZS1tZXJnZS1maWVsZHMtaW5wdXQtaWQiIG5hbWU9ImlkIiB2YWx1ZT0iLTEiIGhpZGRlbj0iaGlkZGVuIj4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0ibXVsdGlwbGUtbWVyZ2UtZmllbGRzLWdyaWQgZm9ybV9fcm93X19ib2R5IGpzLWN1c3RvbWl6ZS1tZXJnZS1maWVsZHMtaW5wdXQtbmFtZSIgdHlwZT0idGV4dCIgbmFtZT0ibmFtZSI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJqcy1jdXN0b21pemUtbWVyZ2UtZmllbGRzLWRlbGV0ZSBjdXN0b21pemUtbWVyZ2UtZmllbGRzLWRlbGV0ZSI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uIGljb24tLWJpZyBpY29uLXRpbWVzLWNpcmNsZS1vIj48L2k+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+YDsKCiAgICAkKG1lcmdlRmllbGRzU2VsZWN0b3IpLmFwcGVuZChuZXdGaWVsZCk7CiAgfQoKICBvbkRlbGV0ZUZpZWxkKGV2dCkgewogICAgJChldnQudGFyZ2V0KS5jbG9zZXN0KCcuZm9ybV9fcm93JykucmVtb3ZlKCk7CiAgfQoKICBvblNhdmUoKSB7CiAgICBsZXQgbmFtZXMgPSBbXTsKICAgIGxldCBtYXAgPSB7fTsKICAgIGxldCBuZXdEYXRhTWFwID0gW107CiAgICAkKGlucHV0TmFtZVNlbGVjdG9yKS5lYWNoKChfLCBpbnB1dCkgPT4gewogICAgICBuYW1lcy5wdXNoKCQoaW5wdXQpLnZhbCgpKTsKICAgIH0pOwogICAgJChpbnB1dElkU2VsZWN0b3IpLmVhY2goKGksIGlkKSA9PiB7CiAgICAgIGNvbnN0IGlkVmFsID0gJChpZCkudmFsKCk7CiAgICAgIGlmIChpZFZhbCA9PSAtMSkgewogICAgICAgIG5ld0RhdGFNYXAucHVzaChuYW1lc1tpXSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgbWFwW2lkVmFsXSA9IG5hbWVzW2ldOwogICAgICB9CiAgICB9KTsKICAgIGNvbnN0IHVybCA9ICQoZm9ybVNlbGVjdG9yKS5hdHRyKCdhY3Rpb24nKTsKICAgICQuYWpheCh7CiAgICAgIHVybDogdXJsLAogICAgICB0eXBlOiAnUE9TVCcsCiAgICAgIGRhdGE6IHsKICAgICAgICBmaWVsZHNNYXA6IG1hcCwKICAgICAgICBuZXdGaWVsZHM6IG5ld0RhdGFNYXAKICAgICAgfQogICAgfSkuZG9uZSgoZGF0YSkgPT4gewogICAgICB0aGlzLmFsZXJ0TWVzc2FnZShmYWxzZSwgZGF0YS5tZXNzYWdlKTsKICAgIH0pLmZhaWwoKGRhdGEpID0+IHsKICAgICAgdGhpcy5hbGVydE1lc3NhZ2UodHJ1ZSwgZGF0YS5yZXNwb25zZUpTT04ubWVzc2FnZSk7CiAgICB9KTsKICB9CgogIGFsZXJ0TWVzc2FnZShpc0Vycm9yLCBtZXNzYWdlKSB7CiAgICAkKCIjZmxhc2hfbWVzc2FnZXMiKS5odG1sKCIiKTsKICAgIGxldCBhbGVydCA9IG5ldyBBbGVydCh7CiAgICAgIHR5cGU6IGlzRXJyb3IgPyAnZXJyb3InIDogJ3N1Y2Nlc3MnLAogICAgICBib2R5OiBtZXNzYWdlLAogICAgICBpY29uOiB0cnVlLAogICAgICBoaWRlYWJsZTogdHJ1ZQogICAgfSk7CgogICAgYWxlcnQuJGVsLmFwcGVuZFRvKCIjZmxhc2hfbWVzc2FnZXMiKTsKICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZSYucmVjb3JkJi5lcnJvcnNbOm5hbWVdJi5tYXAoJjpodW1hbml6ZSkmLmpvaW4oJyAnKSB8fAogICAgICAgICAgICAgICAgICAgJ09uZSBvZiB0aGUgcmVjb3JkIGhhcyBhbHJlYWR5IGJlZW4gZGVsZXRlZC4n</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xdL1x9L2c=</text>
+        <text encoding="base64">JzwsJz5zL21lbnVEYXRhL21hbnVhbE1lbnVEYXRhL2c=</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWFzZV9kb2N1bWVudFw+</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWFzZV9kb2N1bWVudFw+</last-pattern>
-      <last-replace>\}</last-replace>
-      <last-substitute>\]</last-substitute>
+      <last-pattern>menu</last-pattern>
+      <last-replace>manualMenuData</last-replace>
+      <last-substitute>menuData</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXRlcm1pbmVfaHRtbF90aXRsZVw+</entry>
-        <entry>lease_templ</entry>
-        <entry encoding="base64">XDxyb3dfaHRtbFw+</entry>
-        <entry encoding="base64">XDxBbGVydFw+</entry>
-        <entry>[/{/g</entry>
-        <entry>\[</entry>
-        <entry>\]</entry>
-        <entry encoding="base64">XDxzaW5vblw+</entry>
         <entry>body</entry>
         <entry encoding="base64">XDxSZW50QW1vdW50RmllbGRzSGFuZGxlckluaXRXaXRoU3R1Ylw+</entry>
         <entry encoding="base64">XDxvbkFkZEZpZWxkXD4=</entry>
@@ -333,9 +325,16 @@
         <entry encoding="base64">XDxiZWZvcmVfdXBkYXRpbmdfc2VjdGlvblw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfc2VjdGlvblw+</entry>
         <entry encoding="base64">XDxsZWFzZV9kb2N1bWVudFw+</entry>
+        <entry>assi</entry>
+        <entry>cont</entry>
+        <entry encoding="base64">XDxuZXdGaWVsZHNcPg==</entry>
+        <entry>2</entry>
+        <entry encoding="base64">ICAy</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry>menuData</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz50ZW5hbnQvcHJvcGVydHk=</entry>
         <entry encoding="base64">JzwsJz5zL3RlbmFudC9wcm9wZXJ0eQ==</entry>
         <entry encoding="base64">JzwsJz5zL0JBU0UvUFJPUEVSVFkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Zjc3YvYnVmZmVyL2c=</entry>
@@ -355,6 +354,7 @@
         <entry encoding="base64">JzwsJz5zL1svey9n</entry>
         <entry encoding="base64">JzwsJz5zL1xbL1x7L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xdL1x9L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL21lbnVEYXRhL21hbnVhbE1lbnVEYXRhL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
