@@ -81,12 +81,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" timestamp="1526504780138">
-        <mark key="'" line="871" column="6" />
-        <mark key="[" line="5542" column="38" />
-        <mark key="]" line="5542" column="38" />
-        <mark key="^" line="5542" column="38" />
-        <mark key="." line="5542" column="38" />
+      <file name="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" timestamp="1526511099449">
+        <mark key="'" line="1369" column="0" />
+        <mark key="[" line="4826" column="35" />
+        <mark key="]" line="4826" column="55" />
+        <mark key="^" line="5545" column="20" />
+        <mark key="." line="4826" column="35" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/import/db_merge/runner_test.rb" timestamp="1526493483022" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/cam/app/controllers/cam/gl_account_groups_controller.rb" timestamp="1526406066150" />
@@ -101,6 +101,10 @@
         <mark key="[" line="0" column="101" />
         <mark key="]" line="0" column="101" />
         <mark key="." line="0" column="101" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/db/migrate/20180228222335_rename_statement_settings.rb" timestamp="1526509699799">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="91" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/violations_tracking.rb" timestamp="1526407951989">
         <mark key="[" line="0" column="40" />
@@ -181,6 +185,11 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/views/maintenance_web/purchase_orders/purchase_orders/_form.html.erb" timestamp="1526342046956" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/amenities/index.es6" timestamp="1526333706876" />
+      <file name="$USER_HOME$/src/zoology_app/.rubocop.yml" timestamp="1526512249795">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514215711_add_company_setting_id_in_lease_customize_merge_field.rb" timestamp="1526335369650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="2" />
@@ -227,12 +236,6 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180507225753_add_lease_customize_merge_fields.leases.rb" timestamp="1526335081970" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/merge_field_writer_test.rb" timestamp="1526320774149">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/javascripts/mocks/web_common/feedback_modal_handler/component.es6" timestamp="1526333527064">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="41" />
@@ -250,10 +253,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180514232800_add_lease_setting_id_in_lease_customize_merge_field.rb" timestamp="1526493332825">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="10" column="16" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180514232800_add_lease_setting_id_in_lease_customize_merge_field.rb" timestamp="1526509871949">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="117" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/lib/violations_tracking.rb" timestamp="1526407851006">
@@ -266,6 +269,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_document.rb" timestamp="1526338923006">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/index.html.erb" timestamp="1526409732639">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/show.js.erb" timestamp="1526421848456">
         <mark key="[" line="1" column="79" />
@@ -284,10 +292,10 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514232909_add_lease_setting_id_in_lease_customize_merge_field.leases.rb" timestamp="1526493256150">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514232909_add_lease_setting_id_in_lease_customize_merge_field.leases.rb" timestamp="1526509865777">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="116" />
+        <mark key="." line="11" column="68" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/_merge_fields_edit.html.erb" timestamp="1526422324236">
         <mark key="[" line="11" column="28" />
@@ -301,16 +309,21 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1526505333744">
-        <mark key="'" line="57" column="57" />
-        <mark key="[" line="70" column="70" />
-        <mark key="]" line="70" column="70" />
-        <mark key="^" line="69" column="58" />
-        <mark key="." line="70" column="70" />
+      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1526511113274">
+        <mark key="'" line="72" column="36" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="." line="62" column="6" />
+        <mark key="^" line="62" column="58" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/edit.js.erb" timestamp="1526409934169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="146" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/lease_templates/index.scss" timestamp="1526078072848">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/properties/_show.html.erb" timestamp="1526419023950" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/transfer.rb" timestamp="1526340345685">
@@ -324,11 +337,11 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" timestamp="1526505453452">
-        <mark key="'" line="95" column="29" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="30" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" timestamp="1526511784276">
+        <mark key="[" line="240" column="18" />
+        <mark key="]" line="240" column="18" />
+        <mark key="." line="240" column="18" />
+        <mark key="^" line="215" column="18" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1526341296050">
         <mark key="[" line="200" column="0" />
@@ -345,7 +358,12 @@
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526504324136">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/component.es6" timestamp="1526341680908">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526509866202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/javascripts/lease_customize_merge_fields/edit_merge_fields_spec.js" timestamp="1526333466043">
@@ -356,6 +374,11 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/helpers/violations_tracking/violation_types_helper.rb" timestamp="1526341479885" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/move_in_flow/lease_details/edit.html.erb" timestamp="1526340989543" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/edit_merge_fields/index.js" timestamp="1526341686229">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/config/routes.rb" timestamp="1526417815021">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="30" />
@@ -370,20 +393,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/block_edit_methods.rb" timestamp="1526421944402" />
     </filemarks>
     <jumps>
-      <jump line="189" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
-      <jump line="190" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
-      <jump line="191" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
-      <jump line="199" column="87" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
-      <jump line="204" column="177" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
-      <jump line="72" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="115" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="2" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="26" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="50" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="49" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="94" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="44" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
-      <jump line="71" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
       <jump line="74" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
       <jump line="84" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
       <jump line="86" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_customize_merge_fields_controller_test.rb" />
@@ -470,13 +479,27 @@
       <jump line="102" column="18" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
       <jump line="57" column="57" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
       <jump line="94" column="29" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
+      <jump line="70" column="10" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
+      <jump line="72" column="36" filename="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" />
+      <jump line="218" column="60" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
+      <jump line="5544" column="47" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1373" column="0" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1494" column="45" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1568" column="39" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="2843" column="46" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="4457" column="31" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="4826" column="54" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1306" column="16" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1308" column="10" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1334" column="0" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
+      <jump line="1369" column="0" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>generateTableNameSpy</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CkxheW91dC9FbmRPZkxpbmU6CiAgRW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -503,49 +526,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>MARIJ</text>
+        <text>MANSLAUGHTER</text>
       </register>
-      <register name="0" type="4">
-        <text>drug_possession_rule</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBFbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">CkxheW91dC9FbmRPZkxpbmU6CiAgRW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnZHJpdmluZ191bmRlcl9pbmZsdWVuY2VfcnVsZScsIG1hdGNoZXIuZmluZCgnRFVJOiBDT05UUk9MTEVEIFNVQlNUQU5DRScpCg==</text>
+        <text encoding="base64">ICAgIC0gJ3Rlc3Qvc2VydmljZXMvY3JpbWluYWxfb2ZmZW5zZV9mdXp6eV9tYXRjaF9zZXJ2aWNlX3Rlc3QucmInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIC0gJ3Rlc3Qvc2VydmljZXMvY3JpbWluYWxfb2ZmZW5zZV9mdXp6eV9tYXRjaF9zZXJ2aWNlX3Rlc3QucmInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgL1xiUE9STnxcYlJBUEV8XGJTRVhVQUwvaSwK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9wZXJzb25zX3J1bGUnLCBtYXRjaGVyLmZpbmQoJ01BTlNMQVVHSFRFUiBTRUNPTkQgREVHUkVFJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgL1xiUE9STnxcYlJBUEV8XGJTRVhVQUwvaSwK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnY3JpbWVfYWdhaW5zdF9wcm9wZXJ0eV9ydWxlJywgbWF0Y2hlci5maW5kKCdQUklOQ0lQQUwgLSBCVVJHVU5PQ0NTVFJVQy9DViBPUiBBVFQuJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgL1xiUE9STnxcYlJBUEV8XGJTRVhVQUwvaSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgY2hhbmdlCiAgICBhZGRfY29sdW1uIDpsZWFzZXNfbGVhc2VfY3VzdG9taXplX21lcmdlX2ZpZWxkcywgOmxlYXNlX3NldHRpbmdfaWQsIDppbnRlZ2VyLCBudWxsOiBmYWxzZSwgZGVmYXVsdDogMQogICAgYWRkX2ZvcmVpZ25fa2V5IDpsZWFzZXNfbGVhc2VfY3VzdG9taXplX21lcmdlX2ZpZWxkcywKICAgICAgICAgICAgICAgICAgICA6bGVhc2Vfc2V0dGluZ3MsCiAgICAgICAgICAgICAgICAgICAgY29sdW1uOiA6bGVhc2Vfc2V0dGluZ19pZCwKICAgICAgICAgICAgICAgICAgICBuYW1lOiAnZmtfbGVhc2Vfc2V0dGluZ19vbl9sZWFzZV9jdXN0b21pemVfbWVyZ2VfZmllbGRzJwogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -558,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MARIJ</last-search>
+      <last-search>MANSLAUGHTER</last-search>
       <last-offset />
-      <last-pattern>MARIJ</last-pattern>
+      <last-pattern>MANSLAUGHTER</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -568,9 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
-        <entry encoding="base64">XDxyZXNwb25kX3RvX2pzX3dpdGhfYmxvY2tfbmFtZV9hbmRfcmVkaXJlY3RfdG9fc2hvd19mb3JfaHRtbFw+</entry>
-        <entry>pets</entry>
         <entry encoding="base64">XDxvY2N1cGFuY3lfcGV0c1w+</entry>
         <entry>def update</entry>
         <entry>pet</entry>
@@ -588,6 +608,9 @@
         <entry>other</entry>
         <entry>&quot;</entry>
         <entry>MARIJ</entry>
+        <entry>MAN</entry>
+        <entry>sex</entry>
+        <entry>MANSLAUGHTER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2V4Y2VsLnFhLmFwcGYuaW8vbG9jYWxob3N0OjUwODAvZw==</entry>
