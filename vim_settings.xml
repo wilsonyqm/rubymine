@@ -3,12 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/letter_composition.rb" timestamp="1526669794000" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/gl_account_group.rb" timestamp="1526341342086">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="14" column="87" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/gems/property_page_objects/lib/property_page_objects/move_in_flow/generate_lease_page.rb" timestamp="1526602003376">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/lease_customize_merge_fields_access_test.rb" timestamp="1526417878189">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/engine.rb" timestamp="1526422481411">
         <mark key="[" line="20" column="63" />
@@ -29,6 +38,12 @@
         <mark key="." line="8" column="18" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/javascripts/nodePaths.json" timestamp="1526333963007">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" timestamp="1526596587356">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="34" />
@@ -41,6 +56,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit_merge_fields.html.erb" timestamp="1526409014326">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/test/dummy/lib/violations_tracking/dummy_block_edit_methods_interface.rb" timestamp="1526408038059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="2" />
@@ -52,13 +73,47 @@
         <mark key="^" line="111" column="103" />
         <mark key="." line="111" column="103" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180514232800_add_lease_setting_id_in_lease_customize_merge_field.rb" timestamp="1526509871949">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="117" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/future_tenant_lease_manual_merge_field_value.rb" timestamp="1526598746663">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="45" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violation_actions/_violation_actions_form.html.erb" timestamp="1526404077783">
         <mark key="[" line="10" column="48" />
         <mark key="]" line="10" column="105" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_customize_merge_field.rb" timestamp="1526578145886">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/lib/violations_tracking.rb" timestamp="1526407851006">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
+        <mark key="[" line="7" column="66" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/_details_edit.html.erb" timestamp="1526409684567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_document.rb" timestamp="1526338923006">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/lease_template_composer_test.rb" timestamp="1526598421227">
+        <mark key="'" line="45" column="28" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" timestamp="1526595540119">
         <mark key="'" line="9" column="19" />
@@ -67,17 +122,64 @@
         <mark key="^" line="225" column="39" />
         <mark key="." line="225" column="52" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" timestamp="1526601447261">
+        <mark key="'" line="153" column="52" />
+        <mark key="[" line="61" column="112" />
+        <mark key="]" line="61" column="139" />
+        <mark key="^" line="61" column="139" />
+        <mark key="." line="61" column="139" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/lease_setting_test.rb" timestamp="1526421232453">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/show.js.erb" timestamp="1526421848456">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="79" />
+        <mark key="." line="1" column="79" />
+        <mark key="^" line="1" column="78" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/config.js" timestamp="1526675569429">
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1526671994330">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="109" />
+        <mark key="^" line="24" column="89" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/helpers/violations_tracking/violations_helper.rb" timestamp="1526409188541">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/_merge_fields_show.html.erb" timestamp="1526422345312">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/owners/_owner_packet_form.html.erb" timestamp="1526339864368">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" timestamp="1526602900750">
+        <mark key="'" line="1453" column="26" />
+        <mark key="[" line="1400" column="0" />
+        <mark key="]" line="1400" column="0" />
+        <mark key="^" line="1399" column="75" />
+        <mark key="." line="1400" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1526671694911">
+        <mark key="'" line="310" column="8" />
+        <mark key="[" line="225" column="6" />
+        <mark key="]" line="225" column="8" />
+        <mark key="." line="225" column="8" />
+        <mark key="^" line="225" column="8" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/config/initializers/leases_defaults.rb" timestamp="1526410216073">
         <mark key="[" line="2" column="33" />
@@ -92,6 +194,12 @@
         <mark key="^" line="5545" column="20" />
         <mark key="." line="4826" column="35" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/_merge_fields_edit.html.erb" timestamp="1526422324236">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1526671156516">
         <mark key="'" line="36" column="35" />
         <mark key="[" line="53" column="0" />
@@ -99,11 +207,37 @@
         <mark key="^" line="53" column="18" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/image2/plugin.js" timestamp="1526675281668">
+        <mark key="'" line="271" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/injections/dummy_block_edit_methods_interface.rb" timestamp="1526410202336">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1526511113274">
+        <mark key="'" line="72" column="36" />
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="62" column="6" />
+        <mark key="." line="62" column="6" />
+        <mark key="^" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/edit.js.erb" timestamp="1526409934169">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="146" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/merge_field_writer.rb" timestamp="1526320557332">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="9" column="50" />
         <mark key="." line="9" column="50" />
         <mark key="^" line="32" column="91" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1526676747151">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/db/migrate/20180228222335_rename_statement_settings.rb" timestamp="1526509699799">
         <mark key="[" line="5" column="0" />
@@ -119,6 +253,10 @@
         <mark key="^" line="14" column="124" />
         <mark key="." line="14" column="124" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/transfer.rb" timestamp="1526340345685">
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="78" />
+      </file>
       <file name="/edit.js.erb" timestamp="1526408825453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="146" />
@@ -126,6 +264,22 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/show.js.erb" timestamp="1526409830167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/show/component.es6" timestamp="1526422479056">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" timestamp="1526511784276">
+        <mark key="[" line="240" column="18" />
+        <mark key="]" line="240" column="18" />
+        <mark key="." line="240" column="18" />
+        <mark key="^" line="215" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1526341296050">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="202" column="126" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/show.html.erb" timestamp="1526409419918">
         <mark key="[" line="26" column="0" />
@@ -170,6 +324,16 @@
         <mark key="." line="123" column="41" />
         <mark key="^" line="123" column="41" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/shared/_applicant_additional_incomes_form.html.erb" timestamp="1526341559898">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_loader.rb" timestamp="1526676880608">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="75" />
+        <mark key="^" line="10" column="75" />
+        <mark key="." line="10" column="75" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514220344_add_lease_settings_table.rb" timestamp="1526493246406">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="39" />
@@ -182,193 +346,6 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/gems/property_page_objects/lib/property_page_objects/maintenance/recurring_work_orders_page.rb" timestamp="1526601024213">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="99" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/dummy/test/selenium/lease_extensions_test.rb" timestamp="1526598327230">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="225" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514215711_add_company_setting_id_in_lease_customize_merge_field.rb" timestamp="1526335369650">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="2" column="94" />
-        <mark key="." line="2" column="94" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/_details_show.html.erb" timestamp="1526409592201">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1526417861160">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="134" column="86" />
-        <mark key="]" line="134" column="98" />
-        <mark key="." line="134" column="98" />
-        <mark key="^" line="134" column="98" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_setting.rb" timestamp="1526418799302">
-        <mark key="[" line="2" column="152" />
-        <mark key="]" line="2" column="151" />
-        <mark key="^" line="2" column="151" />
-        <mark key="." line="2" column="151" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20170410213301_create_user_bank_rec_settings.property_models_engine.rb" timestamp="1526491832459">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/gl_account_group.rb" timestamp="1526341342086">
-        <mark key="[" line="14" column="67" />
-        <mark key="]" line="14" column="87" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/lease_customize_merge_fields_access_test.rb" timestamp="1526417878189">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/javascripts/nodePaths.json" timestamp="1526333963007">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit_merge_fields.html.erb" timestamp="1526409014326">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="30" column="8" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/db/migrate/20180514232800_add_lease_setting_id_in_lease_customize_merge_field.rb" timestamp="1526509871949">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="117" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/future_tenant_lease_manual_merge_field_value.rb" timestamp="1526598746663">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="45" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_customize_merge_field.rb" timestamp="1526578145886">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/lib/violations_tracking.rb" timestamp="1526407851006">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
-        <mark key="[" line="7" column="66" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_document.rb" timestamp="1526338923006">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="41" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/lease_template_composer_test.rb" timestamp="1526598421227">
-        <mark key="'" line="45" column="28" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="47" column="9" />
-        <mark key="^" line="42" column="39" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/models/letter_composition/letter_pdf_template.rb" timestamp="1526669883161" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" timestamp="1526601447261">
-        <mark key="'" line="153" column="52" />
-        <mark key="[" line="61" column="112" />
-        <mark key="]" line="61" column="139" />
-        <mark key="^" line="61" column="139" />
-        <mark key="." line="61" column="139" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/show.js.erb" timestamp="1526421848456">
-        <mark key="[" line="1" column="79" />
-        <mark key="]" line="1" column="79" />
-        <mark key="." line="1" column="79" />
-        <mark key="^" line="1" column="78" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/letter_writing.js" timestamp="1526671994330">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="109" />
-        <mark key="^" line="24" column="89" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/helpers/violations_tracking/violations_helper.rb" timestamp="1526409188541">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/owners/_owner_packet_form.html.erb" timestamp="1526339864368">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="32" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" timestamp="1526602900750">
-        <mark key="'" line="1453" column="26" />
-        <mark key="[" line="1400" column="0" />
-        <mark key="]" line="1400" column="0" />
-        <mark key="^" line="1399" column="75" />
-        <mark key="." line="1400" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1526671694911">
-        <mark key="'" line="310" column="8" />
-        <mark key="[" line="225" column="6" />
-        <mark key="]" line="225" column="8" />
-        <mark key="." line="225" column="8" />
-        <mark key="^" line="225" column="8" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/_merge_fields_edit.html.erb" timestamp="1526422324236">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="47" />
-        <mark key="^" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/injections/dummy_block_edit_methods_interface.rb" timestamp="1526410202336">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/zoology_app/app/services/criminal_offense_fuzzy_match_service.rb" timestamp="1526511113274">
-        <mark key="'" line="72" column="36" />
-        <mark key="[" line="62" column="6" />
-        <mark key="]" line="62" column="6" />
-        <mark key="." line="62" column="6" />
-        <mark key="^" line="62" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/edit.js.erb" timestamp="1526409934169">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="146" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1526673391289">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/views/letter_composition/document_templates/documents_pdf.pdf.erb" timestamp="1526669509400" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/transfer.rb" timestamp="1526340345685">
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="78" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/lease_customize_merge_fields/show/component.es6" timestamp="1526422479056">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" timestamp="1526511784276">
-        <mark key="[" line="240" column="18" />
-        <mark key="]" line="240" column="18" />
-        <mark key="." line="240" column="18" />
-        <mark key="^" line="215" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1526341296050">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="202" column="126" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/shared/_applicant_additional_incomes_form.html.erb" timestamp="1526341559898">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="54" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_application_customizations/edit.erb" timestamp="1526342198875">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="53" />
@@ -377,13 +354,18 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="34" column="153" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1526673552633">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1526676696721">
         <mark key="'" line="111" column="34" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="109" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="103" column="7" />
+        <mark key="]" line="103" column="32" />
+        <mark key="." line="103" column="32" />
+        <mark key="^" line="103" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526673525464">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/gems/property_page_objects/lib/property_page_objects/maintenance/recurring_work_orders_page.rb" timestamp="1526601024213">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="99" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526922760912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1526596576198">
@@ -399,6 +381,20 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="7" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/dummy/test/selenium/lease_extensions_test.rb" timestamp="1526598327230">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="225" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180514215711_add_company_setting_id_in_lease_customize_merge_field.rb" timestamp="1526335369650">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="2" column="94" />
+        <mark key="." line="2" column="94" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/views/violations_tracking/violations/_details_show.html.erb" timestamp="1526409592201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/lease_template_composer.rb" timestamp="1526597113536">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="15" />
@@ -411,6 +407,19 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1526417861160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="134" column="86" />
+        <mark key="]" line="134" column="98" />
+        <mark key="." line="134" column="98" />
+        <mark key="^" line="134" column="98" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_setting.rb" timestamp="1526418799302">
+        <mark key="[" line="2" column="152" />
+        <mark key="]" line="2" column="151" />
+        <mark key="^" line="2" column="151" />
+        <mark key="." line="2" column="151" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/accounting/other_receipts/_new_form.html.erb" timestamp="1526340014361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
@@ -419,9 +428,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="122" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20170410213301_create_user_bank_rec_settings.property_models_engine.rb" timestamp="1526491832459">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/properties_controller.rb" />
       <jump line="35" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/properties_controller.rb" />
       <jump line="42" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/properties_controller.rb" />
       <jump line="137" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/controllers/violations_tracking/violations_controller.rb" />
@@ -521,13 +533,14 @@
       <jump line="192" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="311" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="111" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
+      <jump line="271" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/plugins/image2/plugin.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -554,49 +567,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>sani</text>
+        <text encoding="base64">XDxnZXRXaWRnZXRBbGxvd2VkQ29udGVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
+        <text encoding="base64">ICAgIDwlPSB0ZXh0X2FyZWFfdGFnICdkb2N1bWVudF90ZW1wbGF0ZV9ib2R5JywgQGRvY3VtZW50X3RlbXBsYXRlLmJvZHksIG5hbWU6ICdkb2N1bWVudF90ZW1wbGF0ZVtib2R5XScsIGNsYXNzOiAnZm9ybS0tc3RhY2tlZCcgJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdwIHRkIHRyIHRhYmxlIGltZ1t3aWR0aCwgaGVpZ2h0XSc7Cg==</text>
+        <text encoding="base64">ICBjb25maWcuYWxsb3dlZENvbnRlbnQgPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25maWcuZGlzYWxsb3dlZENvbnRlbnQgPSAnaW1ne3dpZHRoLGhlaWdodH0nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHAgbG9nbyhwYXJ0eSkK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdwIHRkIHRyIHRhYmxlIGltZyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0X3ByZWRpY2F0ZSBsZWFzZV9zaG93X3BhZ2Uubm9kZS5maW5kKCcuanMtc2VuZC1sZWFzZS1idXR0b24nKSwgOnZpc2libGU/Cg==</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdwIHRkIHRyIHRhYmxlIGltZ1t3aWR0aCwgaGVpZ2h0XSc7CiAgY29uZmlnLmRpc2FsbG93ZWRDb250ZW50ID0gJ2ltZ3t3aWR0aCxoZWlnaHR9JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdpbWdbd2lkaHQsaGVpZ2h0XSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGVfbGVhc2VfcGFnZS5hZGRlbmRhX3NlbGVjdG9yLmFkZGVuZGEuYWRkKCJJJ20gQWZyYWlkIEkgQ2FuJ3QgRG8gdGhhdCwgRGF2ZSBBZGRlbmR1bSIpCiAgICAgIGFzc2VydF9ldmVudHVhbGx5X2VxdWFsKCduZXdkYXRhXG50Y2hhbGxhc2FpZCcpIHsgZ2VuZXJhdGVfbGVhc2VfcGFnZS5ub2RlLmZpbmQoJyNtYW51YWxfbWVyZ2VfZmllbGRfY29udGFpbmVyJykudGV4dCB9CiAgICAgIGdlbmVyYXRlX2xlYXNlX3BhZ2UuYWRkZW5kYV9zZWxlY3Rvci5hZGRlbmRhLnJlbW92ZSgiSSdtIEFmcmFpZCBJIENhbid0IERvIHRoYXQsIERhdmUgQWRkZW5kdW0iKQoK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFBbGxvd2VkQ29udGVudCA9ICdwIHRkIHRyIHRhYmxlIGltZ1t3aWR0aCwgaGVpZ2h0XSc7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGVfbGVhc2VfcGFnZS5hZGRlbmRhX3NlbGVjdG9yLmFkZGVuZGEuYWRkKCJJJ20gQWZyYWlkIEkgQ2FuJ3QgRG8gdGhhdCwgRGF2ZSBBZGRlbmR1bSIpCiAgICAgIGFzc2VydF9ldmVudHVhbGx5X2VxdWFsKCd0Y2hhbGxhc2FpZCcpIHsgZ2VuZXJhdGVfbGVhc2VfcGFnZS5ub2RlLmZpbmQoJyNtYW51YWxfbWVyZ2VfZmllbGRfY29udGFpbmVyJykudGV4dCB9CiAgICAgIGdlbmVyYXRlX2xlYXNlX3BhZ2UuYWRkZW5kYV9zZWxlY3Rvci5hZGRlbmRhLnJlbW92ZSgiSSdtIEFmcmFpZCBJIENhbid0IERvIHRoYXQsIERhdmUgQWRkZW5kdW0iKQo=</text>
+        <text encoding="base64">ICAgICAgcHAgbG9nbyhwYXJ0eSkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -609,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sani</last-search>
+      <last-search encoding="base64">XDxnZXRXaWRnZXRBbGxvd2VkQ29udGVudFw+</last-search>
       <last-offset />
-      <last-pattern>sani</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRXaWRnZXRBbGxvd2VkQ29udGVudFw+</last-pattern>
       <last-replace>original</last-replace>
       <last-substitute>newdata</last-substitute>
       <last-dir>1</last-dir>
@@ -619,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYW51YWxfbWVyZ2VfZmllbGRzXD4=</entry>
         <entry>section</entry>
         <entry>123faesfew</entry>
         <entry>newdata</entry>
@@ -639,6 +651,7 @@
         <entry>def preview</entry>
         <entry>Preview</entry>
         <entry>sani</entry>
+        <entry encoding="base64">XDxnZXRXaWRnZXRBbGxvd2VkQ29udGVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
