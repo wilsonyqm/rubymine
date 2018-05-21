@@ -3,12 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/lease_setting_test.rb" timestamp="1526945115714">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="34" column="28" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/attachments_table_view/non_bulk_actions_attachments_table_view.rb" timestamp="1526946025775" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1526930737972">
         <mark key="'" line="126" column="12" />
       </file>
@@ -34,12 +29,15 @@
         <mark key="^" line="80" column="16" />
         <mark key="." line="80" column="16" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_setting.rb" timestamp="1526942708208">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="108" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/attachments_table_view/attachments_table_view_factory.rb" timestamp="1526946424918">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="16" column="55" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/director_board.rb" timestamp="1526940089175" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/accounting/payable_invoices/show.html.erb" timestamp="1526946372077">
+        <mark key="'" line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/cam/lib/cam/presenters/occupancies/monthly_charges_view.rb" timestamp="1526930576954" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/contact_center/issue_setting.rb" timestamp="1526937372848">
         <mark key="[" line="27" column="0" />
@@ -83,19 +81,18 @@
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/attachments_table_view/occupancy_attachments_table_view.rb" timestamp="1526946263629" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/web_common/lib/web_common/helpers/form_errors_helper.rb" timestamp="1526942210144" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_customize_merge_fields/edit.js.erb" timestamp="1526930096719">
-        <mark key="]" line="0" column="1" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/views/attachments_paginated_view.rb" timestamp="1526946310497" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/cam/app/views/cam/shared/occupancies/_occupancy_monthly_charges_edit.html.erb" timestamp="1526930325969">
         <mark key="'" line="1" column="201" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526944983434">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/attachments_web_injections/bulk_actions_control.rb" timestamp="1526946097622" />
+      <file name="/Dummy.txt" timestamp="1526946277238">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="32" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
       <jump line="103" column="32" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
       <jump line="871" column="6" filename="$USER_HOME$/src/zoology_app/lib/felony_criminal_type_to_rule_name.yml" />
       <jump line="102" column="18" filename="$USER_HOME$/src/zoology_app/test/services/criminal_offense_fuzzy_match_service_test.rb" />
@@ -195,13 +192,14 @@
       <jump line="398" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/occupancies_controller_test.rb" />
       <jump line="742" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/occupancies_controller_test.rb" />
       <jump line="860" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/occupancies_controller_test.rb" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/accounting/payable_invoices/show.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnMycgPT4ge25hbWU6ICcnfSwKICAgICAgICAnNCcgPT4ge25hbWU6ICcnfSwK</text>
+        <text encoding="base64">ICAgICAgICBlbHNpZiAhYnVsa19hY3Rpb25zX29wdGlvbnMoYXR0YWNoYWJsZSlbOmFsbG93XQogICAgICAgICAgQXR0YWNobWVudHNUYWJsZVZpZXc6Ok5vbkJ1bGtBY3Rpb25zQXR0YWNobWVudHNUYWJsZVZpZXcK</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -231,10 +229,10 @@
         <text>pp</text>
       </register>
       <register name="/" type="4">
-        <text>xhr</text>
+        <text>power</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UgPSBAcmVzcG9uc2UuYm9keQogICAgICBhc3NlcnRfaW5jbHVkZSByZXNwb25zZSwgJ0FkZCBBbm90aGVyIEZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNpZiAhYnVsa19hY3Rpb25zX29wdGlvbnMoYXR0YWNoYWJsZSlbOmFsbG93XQogICAgICAgICAgQXR0YWNobWVudHNUYWJsZVZpZXc6Ok5vbkJ1bGtBY3Rpb25zQXR0YWNobWVudHNUYWJsZVZpZXcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnMycgPT4ge25hbWU6ICcnfSwKICAgICAgICAnNCcgPT4ge25hbWU6ICcnfSwK</text>
@@ -283,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xhr</last-search>
+      <last-search>power</last-search>
       <last-offset />
-      <last-pattern>xhr</last-pattern>
+      <last-pattern>power</last-pattern>
       <last-replace>original</last-replace>
       <last-substitute>newdata</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlX21hbnVhbF9tZXJnZV9maWVsZF92YWx1ZXNcPg==</entry>
         <entry>pry</entry>
         <entry encoding="base64">XDxhc3NlcnRfZXF1YWxcPg==</entry>
         <entry>assert_event</entry>
@@ -313,6 +310,7 @@
         <entry>hide</entry>
         <entry>assert_select</entry>
         <entry>xhr</entry>
+        <entry>power</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
