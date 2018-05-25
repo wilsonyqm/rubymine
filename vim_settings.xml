@@ -124,7 +124,7 @@
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1526671156516">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1527275477067">
         <mark key="'" line="36" column="35" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -144,7 +144,13 @@
         <mark key="." line="75" column="93" />
         <mark key="^" line="75" column="93" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" timestamp="1527274040281" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" timestamp="1527275973274">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/presenters/leases/lease_extensions/merge_url_helper.rb" timestamp="1527203078755">
         <mark key="[" line="14" column="91" />
         <mark key="]" line="14" column="93" />
@@ -175,7 +181,12 @@
         <mark key="." line="0" column="145" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/letter_writing/tenant_letters_pdf_methods.rb" timestamp="1527273840469" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_letter_emails_job.rb" timestamp="1527273938815" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_letter_emails_job.rb" timestamp="1527275848960">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_rent_roll.rb" timestamp="1527102247304">
         <mark key="[" line="167" column="73" />
         <mark key="]" line="167" column="73" />
@@ -189,6 +200,7 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/tenant_base_document_template.rb" timestamp="1527274884806" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/bank_account_associations_settings_helper.rb" timestamp="1526929391399">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="45" />
@@ -249,7 +261,7 @@
         <mark key="." line="103" column="32" />
         <mark key="^" line="103" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527274040624">
+      <file name="/Dummy.txt" timestamp="1527275477954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1527272147262">
@@ -330,10 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
-      <jump line="12" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
-      <jump line="67" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
-      <jump line="68" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
       <jump line="90" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
       <jump line="37" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
       <jump line="249" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_documents_controller.rb" />
@@ -430,13 +438,17 @@
       <jump line="95" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_letters_controller.rb" />
       <jump line="28" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_letters_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/document_template.rb" />
+      <jump line="68" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
+      <jump line="34" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
+      <jump line="35" column="94" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
+      <jump line="78" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J01hbnVhbCBGaWVsZHMnID0+ICcnLCAnTmFtZScgPT4gJ1ZhbHVlJywgJ0hlbG8nID0+IG5pbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5ncHJ5Cg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -463,49 +475,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J01hbnVhbCBGaWVsZHMnID0+ICcnLCAnTmFtZScgPT4gJ1ZhbHVlJywgJ0hlbG8nID0+IG5pbA==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAcGFyYW1zWzptYW51YWxfbWVyZ2VfZmllbGRzXSA9IHsnTWFudWFsIEZpZWxkcycgPT4gJycsICdOYW1lJyA9PiAnVmFsdWUnLCAnSGVsbycgPT4gbmlsfQo=</text>
+      <register name="0" type="4">
+        <text>pdf_template_service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAcGFyYW1zWzptYW51YWxfbWVyZ2VfZmllbGRzXSA9IHsnTWFudWFsIEZpZWxkcycgPT4gJycsICdOYW1lJyA9PiAnVmFsdWUnLCAnSGVsbycgPT4gbmlsfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5ncHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgJycsIGdlbmVyYXRvci5pbnZhbGlkX21hbnVhbF9tZXJnZV9maWVsZHNbJ01hbnVhbCBGaWVsZHMnXQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcGRmX3RlbXBsYXRlX3NlcnZpY2UgPSBMZXR0ZXJDb21wb3NpdGlvbjo6RG9jdW1lbnRUZW1wbGF0ZUNvbXBvc2VyLm5ldyhAZG9jdW1lbnRfdGVtcGxhdGUpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgcGRmX3RlbXBsYXRlX3NlcnZpY2UuZ2VuZXJhdGUoIEBzZWxlY3RlZF9yZXN1bHQsIFsgQHByb3BlcnR5LCBAdW5pdCBdICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGVfbGVhc2VfcGFnZS5ub2RlLmZpbmQoJyNtYW51YWxfbWVyZ2VfZmllbGRfY29udGFpbmVyJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGxlYXNlX3Nob3dfcGFnZSA9IGdlbmVyYXRlX2xlYXNlX3BhZ2UucHJldmlld19hbmRfc2VuZF9sZWFzZQo=</text>
+        <text encoding="base64">ICAgICAgQGRvY3VtZW50X3RlbXBsYXRlLmdlbmVyYXRlKEBzZWxlY3RlZF9yZXN1bHQsIFtAc2VsZWN0ZWRfcmVzdWx0LnByb3BlcnR5LCBAc2VsZWN0ZWRfcmVzdWx0LnVuaXRdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGVhc2VEb2N1bWVudEdlbmVyYXRvcgogICAgICAgIC5hbnlfaW5zdGFuY2UuZXhwZWN0cyg6aW52YWxpZF9tYW51YWxfbWVyZ2VfZmllbGRzKQogICAgICAgIC5yZXR1cm5zKFtdKQogICAgICAK</text>
+        <text encoding="base64">ICAgICAgQGRvY3VtZW50X3RlbXBsYXRlLmdlbmVyYXRlKEBzZWxlY3RlZF9yZXN1bHQsIFtAc2VsZWN0ZWRfcmVzdWx0LnByb3BlcnR5LCBAc2VsZWN0ZWRfcmVzdWx0LnVuaXRdKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTGVhc2VEb2N1bWVudEdlbmVyYXRvcgogICAgICAgIC5hbnlfaW5zdGFuY2UuZXhwZWN0cyg6aW52YWxpZF9tYW51YWxfbWVyZ2VfZmllbGRzKQogICAgICAgIC5yZXR1cm5zKFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICBAcGFyYW1zWzptYW51YWxfbWVyZ2VfZmllbGRzXSA9IHsnTWFudWFsIEZpZWxkcycgPT4gJycsICdOYW1lJyA9PiAnVmFsdWUnLCAnSGVsbycgPT4gbmlsfQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgTGVhc2VEb2N1bWVudEdlbmVyYXRvcgogICAgICAgIC5hbnlfaW5zdGFuY2UuZXhwZWN0cyg6aW52YWxpZF9tYW51YWxfbWVyZ2VfZmllbGRzKQogICAgICAgIC5yZXR1cm5zKFtdKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgJycsIGdlbmVyYXRvci5pbnZhbGlkX21hbnVhbF9tZXJnZV9maWVsZHNbJ01hbnVhbCBGaWVsZHMnXQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -518,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</last-pattern>
       <last-replace>\\n</last-replace>
       <last-substitute>\\r</last-substitute>
       <last-dir>1</last-dir>
@@ -528,8 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCbGFua01lcmdlRmllbGRzTW9kYWxcPg==</entry>
-        <entry encoding="base64">XDxtYW51YWxfbWVyZ2VfZmllbGRfY29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxoaWdobGlnaHRNYW51YWxNZXJnZUZpZWxkXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJNb2RhbFw+</entry>
         <entry>modal</entry>
@@ -548,6 +558,8 @@
         <entry encoding="base64">XDxzZWxlY3RlZF9yZXN1bHRzXD4=</entry>
         <entry encoding="base64">XDxqb2JfY2xhc3NcPg==</entry>
         <entry>email</entry>
+        <entry>generate</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1svey9n</entry>
