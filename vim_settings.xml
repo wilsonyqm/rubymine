@@ -129,10 +129,10 @@
         <mark key="^" line="134" column="98" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/models/leases/lease_setting.rb" timestamp="1527633881782">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="93" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="4" column="76" />
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="93" />
+        <mark key="." line="35" column="28" />
+        <mark key="^" line="15" column="76" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/move_in_flow/generate_lease_controller.rb" timestamp="1527631847721" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/javascripts/leases/manual_merge_fields_form/manual_merge_fields_form.spec.js" timestamp="1527633259467">
@@ -166,6 +166,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
         <mark key="[" line="7" column="66" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_content.rb" timestamp="1527635253233" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/lease_template_composer_test.rb" timestamp="1527633493746">
         <mark key="'" line="46" column="117" />
         <mark key="[" line="57" column="44" />
@@ -243,7 +244,7 @@
         <mark key="." line="86" column="72" />
         <mark key="^" line="86" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527634010652">
+      <file name="/Dummy.txt" timestamp="1527635186654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1527633682979">
@@ -253,6 +254,9 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="70" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" timestamp="1527635185774">
+        <mark key="'" line="47" column="6" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_rent_roll_test.rb" timestamp="1527109059589">
         <mark key="'" line="216" column="41" />
         <mark key="[" line="120" column="0" />
@@ -261,11 +265,11 @@
         <mark key="^" line="113" column="3" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template.rb" timestamp="1527618824452" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/lease_template_composer.rb" timestamp="1527632448309">
-        <mark key="[" line="8" column="85" />
-        <mark key="]" line="8" column="86" />
-        <mark key="." line="8" column="86" />
-        <mark key="^" line="8" column="86" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/lease_template_composer.rb" timestamp="1527635168336">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/future_tenant_lease_manual_merge_field_value_test.rb" timestamp="1527633777076">
         <mark key="'" line="40" column="66" />
@@ -275,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1338" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
       <jump line="1413" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
       <jump line="1400" column="102" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
       <jump line="1801" column="78" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
@@ -375,13 +378,14 @@
       <jump line="11" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/future_tenant_lease_manual_merge_field_value_test.rb" />
       <jump line="13" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/future_tenant_lease_manual_merge_field_value_test.rb" />
       <jump line="40" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/future_tenant_lease_manual_merge_field_value_test.rb" />
+      <jump line="47" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudCA9IE5va29naXJpOjpIVE1MOjpEb2N1bWVudEZyYWdtZW50LnBhcnNlKGdlbmVyYXRlZCkKICAgICAgICBmcmFnbWVudC5jc3MoJy5hcHBmb2xpby1tZXJnZS1maWVsZC0tbWFudWFsJykubWFwIGRvIHxub2RlfAogICAgICAgICAga2V5ID0gbm9kZS5hdHRyKCdkYXRhLW1lcmdlLWtleScpCiAgICAgICAgICBub2RlLnJlcGxhY2Uod3JhcF9zdHlsZXNfZm9yX2N1c3RvbV9tZXJnZV9maWVsZChtYW51YWxfbWVyZ2VfZmllbGRzW2tleV0pKSBpZiBtYW51YWxfbWVyZ2VfZmllbGRzW2tleV0ucHJlc2VudD8KICAgICAgICBlbmQKICAgICAgICBnZW5lcmF0ZWQgPSBmcmFnbWVudC50b19zCg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -411,10 +415,10 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>merge</text>
+        <text encoding="base64">XDxodG1sX3RlbXBsYXRlX3N0cmluZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>I18n.t('activerecord.errors.messages.unique_manual_merge_fields')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFnbWVudCA9IE5va29naXJpOjpIVE1MOjpEb2N1bWVudEZyYWdtZW50LnBhcnNlKGdlbmVyYXRlZCkKICAgICAgICBmcmFnbWVudC5jc3MoJy5hcHBmb2xpby1tZXJnZS1maWVsZC0tbWFudWFsJykubWFwIGRvIHxub2RlfAogICAgICAgICAga2V5ID0gbm9kZS5hdHRyKCdkYXRhLW1lcmdlLWtleScpCiAgICAgICAgICBub2RlLnJlcGxhY2Uod3JhcF9zdHlsZXNfZm9yX2N1c3RvbV9tZXJnZV9maWVsZChtYW51YWxfbWVyZ2VfZmllbGRzW2tleV0pKSBpZiBtYW51YWxfbWVyZ2VfZmllbGRzW2tleV0ucHJlc2VudD8KICAgICAgICBlbmQKICAgICAgICBnZW5lcmF0ZWQgPSBmcmFnbWVudC50b19zCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuICcnIHVubGVzcyB0ZXh0LnByZXNlbnQ/Cg==</text>
@@ -463,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>merge</last-search>
+      <last-search encoding="base64">XDxodG1sX3RlbXBsYXRlX3N0cmluZ1w+</last-search>
       <last-offset />
-      <last-pattern>merge</last-pattern>
+      <last-pattern encoding="base64">XDxodG1sX3RlbXBsYXRlX3N0cmluZ1w+</last-pattern>
       <last-replace>field_ids</last-replace>
       <last-substitute>fields</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</entry>
         <entry encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</entry>
         <entry>[]</entry>
         <entry>{}</entry>
@@ -493,6 +496,7 @@
         <entry>svg</entry>
         <entry>mereg</entry>
         <entry>merge</entry>
+        <entry encoding="base64">XDxodG1sX3RlbXBsYXRlX3N0cmluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xdL1x9L2c=</entry>
