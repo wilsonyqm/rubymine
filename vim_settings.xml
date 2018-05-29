@@ -35,12 +35,12 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" timestamp="1527272287150">
-        <mark key="'" line="272" column="27" />
-        <mark key="[" line="263" column="41" />
-        <mark key="]" line="263" column="40" />
-        <mark key="." line="263" column="40" />
-        <mark key="^" line="263" column="40" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" timestamp="1527616599278">
+        <mark key="'" line="263" column="40" />
+        <mark key="[" line="265" column="20" />
+        <mark key="]" line="265" column="20" />
+        <mark key="." line="265" column="20" />
+        <mark key="^" line="265" column="63" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" timestamp="1527206937727">
         <mark key="'" line="43" column="51" />
@@ -256,7 +256,7 @@
         <mark key="." line="86" column="72" />
         <mark key="^" line="86" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527615635822">
+      <file name="/Dummy.txt" timestamp="1527616604922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1527288655413">
@@ -335,10 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_extensions_controller_test.rb" />
-      <jump line="52" column="45" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/controllers/leases/lease_extensions_controller.rb" />
-      <jump line="709" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
-      <jump line="150" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
       <jump line="232" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
       <jump line="156" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
       <jump line="62" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" />
@@ -435,13 +431,17 @@
       <jump line="196" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/move_in_flow/generate_lease.js" />
       <jump line="133" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/views/lease_extensions/new/component.js" />
       <jump line="247" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/views/lease_extensions/new/component.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" />
+      <jump line="185" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" />
+      <jump line="219" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" />
+      <jump line="263" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/leases/lease_documents/lease_document_generator_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Form</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -468,10 +468,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>Form</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</text>
+        <text>{}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ2xlYXNlcy9tYW51YWxfbWVyZ2VfZmllbGRzX2Zvcm0vY29tcG9uZW50JyA9PiAnTGVhc2VzLk1hbnVhbE1lcmdlRmllbGRzRm9ybScsCg==</text>
@@ -523,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</last-search>
+      <last-search>{}</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</last-pattern>
+      <last-pattern>{}</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -533,8 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
-        <entry encoding="base64">XDxpbnZhbGlkX21lcmdlX2ZpZWxkc1w+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9yZXN1bHRzXD4=</entry>
         <entry encoding="base64">XDxqb2JfY2xhc3NcPg==</entry>
         <entry>generate</entry>
@@ -553,6 +551,8 @@
         <entry encoding="base64">XDxtYW51YWxNZXJnZUZpZWxkc0Zvcm1cPg==</entry>
         <entry encoding="base64">XDxtYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</entry>
         <entry encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkc01vZGFsXD4=</entry>
+        <entry>[]</entry>
+        <entry>{}</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xbL1x7L2c=</entry>
