@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_activations_controller.rb" timestamp="1527284709364">
         <mark key="'" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527713307228">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527715747269">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="39" column="11" />
+        <mark key="." line="39" column="11" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/test_helpers/appfolio_letter_writing_test_helpers.rb" timestamp="1527289832460">
         <mark key="[" line="50" column="0" />
@@ -181,6 +181,7 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="196" column="57" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/font/plugin.js" timestamp="1527714543945" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/move_in_flows/generate_lease/manual_merge_field_values_resolver_service_test.rb" timestamp="1527632980642">
         <mark key="'" line="12" column="40" />
         <mark key="[" line="58" column="92" />
@@ -224,7 +225,7 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="44" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527705082073">
+      <file name="/Dummy.txt" timestamp="1527715278634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1527633682979">
@@ -363,7 +364,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0cmE6IGNvbnRlbnRfdGFnKCdzcGFuJywgJ05ldycsIGNsYXNzOiAnZmxhZyBmbGFnLS1uZXcgdS1zcGFjZS1scycpIA==</text>
+        <text>Show</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -390,49 +391,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0cmE6IGNvbnRlbnRfdGFnKCdzcGFuJywgJ05ldycsIGNsYXNzOiAnZmxhZyBmbGFnLS1uZXcgdS1zcGFjZS1scycpIA==</text>
+        <text>Show</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNsaWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgbGVhc2VzL21hbnVhbF9tZXJnZV9maWVsZHNfZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgb25DbGljazogZnVuY3Rpb24odmFsdWUpCiAgICAgIHsKICAgICAgICBNYW51YWxNZXJnZUZpZWxkLm1hbmFnZXIuaW5zZXJ0KHZhbHVlLCBlZGl0b3IpOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXV0b2xvYWQgOkJvZHlQcmVzZW50ZXIK</text>
+        <text encoding="base64">ICAgICAgICBNYW51YWxNZXJnZUZpZWxkLm1hbmFnZXIuaW5zZXJ0KHZhbHVlLCBlZGl0b3IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF91bmlxdWVuZXNzX19tZXJnZV9maWVsZF9kYXRhX19hcHBlbmRzX2Vycm9yX21lc3NhZ2VfZm9yX25hbWVfaWZfZXhpc3RzCiAgICAgIExlYXNlQ3VzdG9taXplTWVyZ2VGaWVsZC5jcmVhdGUobmFtZTogJzEyMycpCiAgICAgIGZpZWxkID0gTGVhc2VDdXN0b21pemVNZXJnZUZpZWxkLm5ldyhuYW1lOiAnMTIzKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQoKICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmaWVsZCwgOm5hbWUsIFsnTWFudWFsIGZpZWxkcyBtdXN0IGhhdmUgdW5pcXVlIG5hbWVzLCBub3QgY291bnRpbmcgc3BhY2VzIG9yIHNwZWNpYWwgY2hhcmFjdGVycy4nXQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCcuY2tlX2NvbWJvcGFuZWxfX21hbnVhbC1tZXJnZS1maWVsZC1kcm9wZG93bicpLmh0bWwoJzxzcGFuPnRoaXMgaXMgZW1wdHkgZ28gPHNwYW4gaHJlZj0iL2xlYXNlX2N1c3RvbWl6ZV9tZXJnZV9maWVsZHMvMSI+aGVyZTwvc3Bhbj4gdG8gc2V0dXAgbmV3IG1lcmdlIGZpZWxkPC9zcGFuPicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMZWFzZXM6OkxlYXNlU2V0dGluZy5jcmVhdGUhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICQoJy5ja2VfY29tYm9wYW5lbF9fbWFudWFsLW1lcmdlLWZpZWxkLWRyb3Bkb3duJykuaHRtbCgnPHNwYW4+dGhpcyBpcyBlbXB0eSBnbyA8c3BhbiBocmVmPSIvbGVhc2VfY3VzdG9taXplX21lcmdlX2ZpZWxkcy8xIj5oZXJlPC9zcGFuPiB0byBzZXR1cCBuZXcgbWVyZ2UgZmllbGQ8L3NwYW4+Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMZWFzZXM6OkxlYXNlU2V0dGluZy5pbnN0YW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuYWRkKCcnLCAnPHNwYW4+dGhpcyBpcyBlbXB0eSBnbyA8c3BhbiBocmVmPSIvbGVhc2VfY3VzdG9taXplX21lcmdlX2ZpZWxkcy8xIj5oZXJlPC9zcGFuPiB0byBzZXR1cCBuZXcgbWVyZ2UgZmllbGQ8L3NwYW4+JywgJzxzcGFuPnRoaXMgaXMgZW1wdHkgZ28gPHNwYW4gaHJlZj0iL2xlYXNlX2N1c3RvbWl6ZV9tZXJnZV9maWVsZHMvMSI+aGVyZTwvc3Bhbj4gdG8gc2V0dXAgbmV3IG1lcmdlIGZpZWxkPC9zcGFuPicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcCBMZWFzZXM6OkxlYXNlU2V0dGluZy5jb3VudAo=</text>
+        <text encoding="base64">ICAgICAgYXV0b2xvYWQgOkJvZHlQcmVzZW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb3Nlci5ib2R5ID0gY29udGVudAo=</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF91bmlxdWVuZXNzX19tZXJnZV9maWVsZF9kYXRhX19hcHBlbmRzX2Vycm9yX21lc3NhZ2VfZm9yX25hbWVfaWZfZXhpc3RzCiAgICAgIExlYXNlQ3VzdG9taXplTWVyZ2VGaWVsZC5jcmVhdGUobmFtZTogJzEyMycpCiAgICAgIGZpZWxkID0gTGVhc2VDdXN0b21pemVNZXJnZUZpZWxkLm5ldyhuYW1lOiAnMTIzKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKQoKICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmaWVsZCwgOm5hbWUsIFsnTWFudWFsIGZpZWxkcyBtdXN0IGhhdmUgdW5pcXVlIG5hbWVzLCBub3QgY291bnRpbmcgc3BhY2VzIG9yIHNwZWNpYWwgY2hhcmFjdGVycy4nXQogICAgZW5kCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb3NlciA9IExlYXNlVGVtcGxhdGVTZWN0aW9uQ29tcG9zZXIubmV3IDpuYW1lID0+ICdjb21wb3NlciBuYW1lJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWFzZXM6OkxlYXNlU2V0dGluZy5jcmVhdGUhCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
