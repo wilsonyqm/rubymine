@@ -111,12 +111,12 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_activations_controller.rb" timestamp="1527284709364">
         <mark key="'" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527721296689">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527722147555">
         <mark key="'" line="35" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+        <mark key="[" line="34" column="143" />
+        <mark key="]" line="34" column="143" />
         <mark key="^" line="38" column="11" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="34" column="143" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/lease_customize_merge_fields/manual_merge_fields.scss" timestamp="1527717776514">
         <mark key="[" line="16" column="0" />
@@ -496,8 +496,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -524,7 +524,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkXD4=</text>
