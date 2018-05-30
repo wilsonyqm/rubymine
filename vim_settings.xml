@@ -71,6 +71,9 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_activations_controller.rb" timestamp="1527284709364">
         <mark key="'" line="37" column="6" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527706518488">
+        <mark key="'" line="33" column="6" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/test_helpers/appfolio_letter_writing_test_helpers.rb" timestamp="1527289832460">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -250,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
       <jump line="192" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/move_in_flow_tests/steps_test.rb" />
       <jump line="105" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
       <jump line="127" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
@@ -350,6 +352,7 @@
       <jump line="47" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section_composer.rb" />
       <jump line="42" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/lease_template_section_composer_test.rb" />
       <jump line="31" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases.rb" />
+      <jump line="33" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -386,7 +389,7 @@
         <text encoding="base64">ZXh0cmE6IGNvbnRlbnRfdGFnKCdzcGFuJywgJ05ldycsIGNsYXNzOiAnZmxhZyBmbGFnLS1uZXcgdS1zcGFjZS1scycpIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb2R5UHJlc2VudGVyXD4=</text>
+        <text encoding="base64">XDxvbkNsaWNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly89IHJlcXVpcmUgbGVhc2VzL21hbnVhbF9tZXJnZV9maWVsZHNfZm9ybQo=</text>
@@ -438,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb2R5UHJlc2VudGVyXD4=</last-search>
+      <last-search encoding="base64">XDxvbkNsaWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb2R5UHJlc2VudGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNsaWNrXD4=</last-pattern>
       <last-replace>display_name2</last-replace>
       <last-substitute>display_name</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +451,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYW51YWxfbWVyZ2VfZmllbGRfaW1hZ2Vfc3RyaW5nX2Zvclw+</entry>
         <entry>fields</entry>
         <entry>serial</entry>
         <entry encoding="base64">XDxsZWFzZV9kb2N1bWVudF9wYXJhbXNcPg==</entry>
@@ -468,6 +470,7 @@
         <entry encoding="base64">XDxtZXJnZV9maWVsZF9hc19odG1sXD4=</entry>
         <entry>display_name</entry>
         <entry encoding="base64">XDxCb2R5UHJlc2VudGVyXD4=</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lbnVEYXRhL21hbnVhbE1lbnVEYXRhL2c=</entry>
