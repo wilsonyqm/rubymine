@@ -62,11 +62,21 @@
         <mark key="." line="26" column="65" />
         <mark key="^" line="26" column="65" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/views/leases/lease_templates/_sidebar.html.erb" timestamp="1527704162736">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="53" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_section.rb" timestamp="1527637172218">
         <mark key="'" line="31" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_activations_controller.rb" timestamp="1527284709364">
         <mark key="'" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/test_helpers/appfolio_letter_writing_test_helpers.rb" timestamp="1527289832460">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/models/leases/lease_customize_merge_field_test.rb" timestamp="1527701547815">
         <mark key="'" line="0" column="0" />
@@ -174,11 +184,21 @@
         <mark key="^" line="58" column="104" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/lease_template_page.rb" timestamp="1527629248610" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/app/models/letters_web/forms/tenant_email_only_letter.rb" timestamp="1527285040362">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/presenters/leases/lease_extensions/merge_url_helper.rb" timestamp="1527637722543">
-        <mark key="[" line="18" column="91" />
-        <mark key="]" line="18" column="93" />
-        <mark key="." line="18" column="93" />
-        <mark key="^" line="18" column="93" />
+        <mark key="[" line="14" column="91" />
+        <mark key="]" line="14" column="93" />
+        <mark key="." line="14" column="93" />
+        <mark key="^" line="14" column="93" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/lease_documents_test.rb" timestamp="1527287665202">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/views/lease_extensions/new/index.js" timestamp="1527700333845">
         <mark key="[" line="12" column="43" />
@@ -221,6 +241,11 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/app/services/letters_web/document_template_search_filters_factory.rb" timestamp="1527284807686">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/presenters/reports/column_presenter.rb" timestamp="1527098501626">
         <mark key="'" line="124" column="8" />
@@ -332,8 +357,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYXV0b2xvYWQgOkJvZHlQcmVzZW50ZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXh0cmE6IGNvbnRlbnRfdGFnKCdzcGFuJywgJ05ldycsIGNsYXNzOiAnZmxhZyBmbGFnLS1uZXcgdS1zcGFjZS1scycpIA==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -360,7 +385,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZXh0cmE6IGNvbnRlbnRfdGFnKCdzcGFuJywgJ05ldycsIGNsYXNzOiAnZmxhZyBmbGFnLS1uZXcgdS1zcGFjZS1scycpIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb2R5UHJlc2VudGVyXD4=</text>
