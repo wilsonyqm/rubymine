@@ -111,6 +111,9 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_activations_controller.rb" timestamp="1527284709364">
         <mark key="'" line="37" column="6" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" timestamp="1527803214829">
+        <mark key="'" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" timestamp="1527722147555">
         <mark key="'" line="35" column="8" />
         <mark key="[" line="34" column="143" />
@@ -151,6 +154,7 @@
         <mark key="." line="44" column="143" />
         <mark key="^" line="44" column="143" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/forms/accounting/receivable_invoices/charge.rb" timestamp="1527803108824" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_loader.rb" timestamp="1527637781672">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="46" />
@@ -235,6 +239,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" timestamp="1527803385421" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
         <mark key="[" line="7" column="66" />
       </file>
@@ -341,7 +346,7 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="44" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527801976650">
+      <file name="/Dummy.txt" timestamp="1527803386320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/lease_documents/lease_document_generator.rb" timestamp="1527633682979">
@@ -392,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/test/controllers/leases/lease_documents_controller_test.rb" />
-      <jump line="41" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_letters_controller.rb" />
-      <jump line="95" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_letters_controller.rb" />
       <jump line="28" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/tenant_letters_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/document_template.rb" />
       <jump line="68" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
@@ -492,6 +494,9 @@
       <jump line="22" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
       <jump line="23" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
       <jump line="35" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
+      <jump line="12" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
+      <jump line="37" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
+      <jump line="4" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -528,7 +533,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkXD4=</text>
+        <text encoding="base64">XDxidWlsZF9jaGFyZ2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>js-manual-merge-field--empty-message</text>
@@ -580,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkXD4=</last-search>
+      <last-search encoding="base64">XDxidWlsZF9jaGFyZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZF9jaGFyZ2VcPg==</last-pattern>
       <last-replace>display_name2</last-replace>
       <last-substitute>display_name</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZWFzZV9kb2N1bWVudF9wYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxtYW51YWxfbWVyZ2VfZmllbGRzXD4=</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxtZXJnZV9maWVsZF9kYXRhXD4=</entry>
         <entry>data1</entry>
@@ -610,6 +613,8 @@
         <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxncm91cFw+</entry>
         <entry encoding="base64">XDxNYW51YWxNZXJnZUZpZWxkXD4=</entry>
+        <entry encoding="base64">XDxidWlsZF9mb3JfcmVjZWl2YWJsZV9pbnZvaWNlXD4=</entry>
+        <entry encoding="base64">XDxidWlsZF9jaGFyZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lbnVEYXRhL21hbnVhbE1lbnVEYXRhL2c=</entry>
