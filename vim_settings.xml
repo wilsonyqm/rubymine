@@ -70,11 +70,10 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528153007159">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="53" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528155731920">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/check_signature_saver.rb" timestamp="1528146169614" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/manual_merge_fields_form/component.es6" timestamp="1527632072826">
@@ -121,7 +120,7 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" timestamp="1528153167989">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" timestamp="1528154405523">
         <mark key="'" line="289" column="4" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
@@ -233,11 +232,11 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528151101329">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="64" />
-        <mark key="^" line="10" column="62" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528155839250">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
         <mark key="[" line="7" column="66" />
@@ -325,8 +324,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528152656326">
+      <file name="/Dummy.txt" timestamp="1528154547561">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_finder_test.rb" timestamp="1528155871960">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/validations_test.rb" timestamp="1527195078673">
         <mark key="[" line="128" column="69" />
@@ -466,8 +471,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFtb3VudCA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>fee.amount</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -494,49 +499,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>fee.amount</text>
       </register>
       <register name="/" type="4">
         <text>message</text>
       </register>
-      <register name="0" type="4">
-        <text>is_valid(occupancy_decorator, amount)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0X2VxdWFsIGZlZS5pZCwgQXV0b05zZkZpbmRlci5nZXRfbnNmKG9jY3VwYW5jeSkuaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFtb3VudCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIEFjY291bnRpbmdEb21haW46OkF1dG9Oc2ZVcGRhdGVyLmlzX3ZhbGlkKEBvY2N1cGFuY3lfZGVjb3JhdG9yLCBhbW91bnQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV9uc2ZfY3JlYXRlX25ldwogICAgICBFeHBlcmltZW50cy5zdHVicyg6b24/KS53aXRoKDphdXRvX25zZl9mZWVzKS5yZXR1cm5zKHRydWUpCiAgICAgIG9jY3VwYW5jeSA9IE9jY3VwYW5jeS5jcmVhdGVfZXhlbXBsYXIhCiAgICAgIG9jY3VwYW5jeV9kZWNvcmF0b3IgPSBPY2N1cGFuY3lEZWNvcmF0b3IubmV3KG9jY3VwYW5jeSkKICAgICAgQXV0b05zZlVwZGF0ZXIudXBkYXRlX25zZihvY2N1cGFuY3lfZGVjb3JhdG9yLCAxLjIpCiAgICAgIGFzc2VydF9lcXVhbCAxLjIsIEFjY291bnRpbmdEb21haW46OkF1dG9Oc2ZGZWUubGFzdC5hbW91bnQKICAgIGVuZAoKICAgIGRlZiB0ZXN0X3VwZGF0ZV9uc2ZfdXBkYXRlCiAgICAgIEV4cGVyaW1lbnRzLnN0dWJzKDpvbj8pLndpdGgoOmF1dG9fbnNmX2ZlZXMpLnJldHVybnModHJ1ZSkKICAgICAgb2NjdXBhbmN5ID0gT2NjdXBhbmN5LmNyZWF0ZV9leGVtcGxhciEKICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IE9jY3VwYW5jeURlY29yYXRvci5uZXcob2NjdXBhbmN5KQogICAgICBmZWUgPSBBY2NvdW50aW5nRG9tYWluOjpBdXRvTnNmRmVlLmNyZWF0ZSEob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogMS4zKQoKICAgICAgQXV0b05zZlVwZGF0ZXIudXBkYXRlX25zZihvY2N1cGFuY3lfZGVjb3JhdG9yLCAxLjIpCiAgICAgIGZlZS5yZWxvYWQKICAgICAgYXNzZXJ0X2VxdWFsIDEuMiwgZmVlLmFtb3VudAogICAgZW5kCgogICAgZGVmIHRlc3RfdXBkYXRlX25zZl9pc192YWxpZAogICAgICBFeHBlcmltZW50cy5zdHVicyg6b24/KS53aXRoKDphdXRvX25zZl9mZWVzKS5yZXR1cm5zKHRydWUpCiAgICAgIG9jY3VwYW5jeSA9IE9jY3VwYW5jeS5jcmVhdGVfZXhlbXBsYXIhCiAgICAgIG9jY3VwYW5jeV9kZWNvcmF0b3IgPSBPY2N1cGFuY3lEZWNvcmF0b3IubmV3KG9jY3VwYW5jeSkKICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykKICAgICAgb2NjdXBhbmN5X2RlY29yYXRvci5lcnJvcnMuZXhwZWN0cyg6YWRkKS53aXRoKDphdXRvX25zZl9mZWUsICdBbW91bnQgbXVzdCBiZSBhIHBvc2l0aXZlIG51bWJlci4nKQoKICAgICAgYXNzZXJ0X3JhaXNlICdBY3RpdmVSZWNvcmQ6OlJlY29yZEludmFsaWQnIGRvCiAgICAgICAgQXV0b05zZlVwZGF0ZXIudXBkYXRlX25zZihvY2N1cGFuY3lfZGVjb3JhdG9yLCAtMS4yKQogICAgICBlbmQKICAgIGVuZAoKICAgIGRlZiB0ZXN0X3VwZGF0ZV9uc2ZfaXNfdmFsaWRfX3dpdGhfbmV3X3JlY29yZAogICAgICBFeHBlcmltZW50cy5zdHVicyg6b24/KS53aXRoKDphdXRvX25zZl9mZWVzKS5yZXR1cm5zKHRydWUpCiAgICAgIG9jY3VwYW5jeSA9IE9jY3VwYW5jeS5jcmVhdGVfZXhlbXBsYXIhCiAgICAgIG9jY3VwYW5jeV9kZWNvcmF0b3IgPSBPY2N1cGFuY3lEZWNvcmF0b3IubmV3KG9jY3VwYW5jeSkKICAgICAgb2NjdXBhbmN5X2RlY29yYXRvci5lcnJvcnMuZXhwZWN0cyg6YWRkKS53aXRoKDphdXRvX25zZl9mZWUsICdBbW91bnQgbXVzdCBiZSBhIHBvc2l0aXZlIG51bWJlci4nKQoKICAgICAgYXNzZXJ0X3JhaXNlICdBY3RpdmVSZWNvcmQ6OlJlY29yZEludmFsaWQnIGRvCiAgICAgICAgQXV0b05zZlVwZGF0ZXIudXBkYXRlX25zZihvY2N1cGFuY3lfZGVjb3JhdG9yLCAtMS4yKQogICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXNfdmFsaWQob2NjdXBhbmN5X2RlY29yYXRvciwgYW1vdW50KQo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXNfdmFsaWQob2NjdXBhbmN5X2RlY29yYXRvciwgYW1vdW50KQo=</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvci5lcnJvcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X2VxdWFsICcnLCBvY2N1cGFuY3lfZGVjb3JhdG9yLmVycm9ycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRvTnNmVXBkYXRlci51cGRhdGVfbnNmKG9jY3VwYW5jeSwgLTEuMikK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIG5leHRfcmVudF9pbmNyZWFzZQogICAgb2NjdXBhbmN5LmVycm9ycy5hZGQoOmF1dG9fbnNmX2ZlZSwgJ0hJSEknKQogICAgb2NjdXBhbmN5Lm5leHRfcmVudF9pbmNyZWFzZQogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdGlhbGl6ZQogICAgc3VwZXIKICAgIG9jY3VwYW5jeS5lcnJvcnMuYWRkKDpuZXh0X3JlbnRfaW5jcmVhc2UsICdISUhJJykKICBlbmQKCg==</text>
+        <text encoding="base64">ICAgICAgZmVlLnJlbG9hZAogICAgICBhc3NlcnRfZXF1YWwgMS4yLCBmZWUuYW1vdW50Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
