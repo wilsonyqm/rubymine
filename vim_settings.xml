@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_financials_show.html.erb" timestamp="1528144862912">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_unit_vacancy.rb" timestamp="1527101289927">
         <mark key="[" line="78" column="69" />
         <mark key="]" line="78" column="78" />
@@ -106,6 +111,12 @@
         <mark key="^" line="0" column="145" />
         <mark key="." line="0" column="145" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/presenters/occupancy_financials_presenter.rb" timestamp="1528145035124">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/test_helpers/appfolio_letter_writing_test_helpers.rb" timestamp="1527289832460">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -141,6 +152,12 @@
         <mark key="]" line="57" column="32" />
         <mark key="^" line="57" column="5" />
         <mark key="." line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_financials_fields.html.erb" timestamp="1528144902179">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_homeowner_directory.rb" timestamp="1527101101464">
         <mark key="[" line="146" column="0" />
@@ -434,8 +451,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>show_auto_nsf_fee_section</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -462,37 +479,37 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>rubs_section</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlc19udW1lcmljYWxpdHlfb2YgOmFtb3VudCwgZ3JlYXRlcl90aGFuX29yX2VxdWFsX3RvOiAwLCBhbGxvd19uaWw6IGZhbHNlLCBtZXNzYWdlOiAnbXVzdCBiZSBhIHBvc2l0aXZlIG51bWJlcicK</text>
+      <register name="0" type="4">
+        <text>show_auto_nsf_fee_section</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPCU9IHJlbmRlciBwYXJ0aWFsOiAnb2NjdXBhbmNpZXMvb2NjdXBhbmN5XycgJT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogMS4xMTExKQogICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIGZlZSwgOmFtb3VudCwgJ211c3QgYmUgYSBwb3NpdGl2ZSBudW1iZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlc19udW1lcmljYWxpdHlfb2YgOmFtb3VudCwgZ3JlYXRlcl90aGFuX29yX2VxdWFsX3RvOiAwLCBhbGxvd19uaWw6IGZhbHNlLCBtZXNzYWdlOiAnbXVzdCBiZSBhIHBvc2l0aXZlIG51bWJlcicK</text>
+        <text encoding="base64">ICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogMS4xMTExKQogICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIGZlZSwgOmFtb3VudCwgJ211c3QgYmUgYSBwb3NpdGl2ZSBudW1iZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0X3ZhbGlkIGZlZQo=</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlc19udW1lcmljYWxpdHlfb2YgOmFtb3VudCwgZ3JlYXRlcl90aGFuX29yX2VxdWFsX3RvOiAwLCBhbGxvd19uaWw6IGZhbHNlLCBtZXNzYWdlOiAnbXVzdCBiZSBhIHBvc2l0aXZlIG51bWJlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X3ZhbGlkIGZlZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb2NjdXBhbmN5ID0gT2NjdXBhbmN5LmNyZWF0ZV9leGVtcGxhciEuY3VycmVudF9leGVtcGxhcgoKICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3kpCiAgICAgIGFzc2VydF9ub3RfdmFsaWRfb24gZmVlLCA6YW1vdW50LCAiY2FuJ3QgYmUgYmxhbmsiCgogICAgICBmZWUgPSBBdXRvTnNmRmVlLm5ldyhvY2N1cGFuY3k6IG9jY3VwYW5jeSwgYW1vdW50OiAtMikKICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmZWUsIDphbW91bnQsICdtdXN0IGJlIGEgcG9zaXRpdmUgbnVtYmVyJwoKICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogMS4xMTExKQogICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIGZlZSwgOmFtb3VudCwgJ211c3QgYmUgYSBwb3NpdGl2ZSBudW1iZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5ID0gT2NjdXBhbmN5LmNyZWF0ZV9leGVtcGxhciEuY3VycmVudF9leGVtcGxhcgoKICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3kpCiAgICAgIGFzc2VydF9ub3RfdmFsaWRfb24gZmVlLCA6YW1vdW50LCAiY2FuJ3QgYmUgYmxhbmsiCgogICAgICBmZWUgPSBBdXRvTnNmRmVlLm5ldyhvY2N1cGFuY3k6IG9jY3VwYW5jeSwgYW1vdW50OiAtMikKICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmZWUsIDphbW91bnQsICdtdXN0IGJlIGEgcG9zaXRpdmUgbnVtYmVyJwoKICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogMS4xMTExKQogICAgICBhc3NlcnRfbm90X3ZhbGlkX29uIGZlZSwgOmFtb3VudCwgJ211c3QgYmUgYSBwb3NpdGl2ZSBudW1iZXInCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
@@ -504,7 +521,7 @@
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhc19hdHRhY2hlZF9pbWFnZSBzdHlsZXM6IHsgcHJpbnQ6ICcxNTB4NTA+JyB9LCBhd3NfcHJvY2VzczogdHJ1ZQoKICAgIHZhbGlkYXRlc19tYXhfYXR0YWNobWVudF9zaXplX2luX21iIHNlbGYuYXR0YWNobWVudF9uYW1lLCBtYXg6IDMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
