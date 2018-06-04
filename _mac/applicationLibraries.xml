@@ -8244,6 +8244,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_payments (v36.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_payments-36.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_phone_number_formatter (v1.2.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_phone_number_formatter-1.2.0/lib" />
@@ -15964,6 +15980,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/colorize-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/colorize-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/colorize-0.8.1/lib" />
       </SOURCES>
     </library>
     <library name="columnize (v0.9.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -40574,6 +40598,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/temple-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ten_years_rails_conf_2018 (v0.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ten_years_rails_conf_2018-0.1.0/lib" />
       </SOURCES>
     </library>
     <library name="term-ansicolor (v1.3.2, RVM: ruby-2.2.3) [gem]">
