@@ -111,11 +111,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528224693617">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528233490102">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/manual_merge_fields_form/component.es6" timestamp="1527632072826">
         <mark key="[" line="57" column="66" />
@@ -467,7 +467,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgYXV0b19uc2ZfZmVlCiAgICAgIGZvcm1hdF9jdXJyZW5jeShBY2NvdW50aW5nRG9tYWluOjpBdXRvTnNmRmluZGVyLmdldF9uc2Yob2NjdXBhbmN5KSYuYW1vdW50KSB8fCAnLS0nCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUKCg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -494,49 +494,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>OccupancyDecorator</text>
+        <text>valid_fee(occupancy_decorator, amount)</text>
       </register>
       <register name="/" type="4">
         <text>valid?</text>
       </register>
       <register name="0" type="4">
-        <text>DummyOccupancyDecorator</text>
+        <text>valid_fee(occupancy_decorator, amount)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgYXV0b19uc2ZfZmVlCiAgICAgIGZvcm1hdF9jdXJyZW5jeShBY2NvdW50aW5nRG9tYWluOjpBdXRvTnNmRmluZGVyLmdldF9uc2Yob2NjdXBhbmN5KSYuYW1vdW50KSB8fCAnLS0nCiAgICBlbmQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2NjdXBhbmN5RmluYW5jaWFsc1ByZXNlbnRlci5uZXcob2NjdXBhbmN5KS5nZXRfYXV0b19uc2ZfZmVlCg==</text>
+        <text encoding="base64">ICAgICAgZmVlLnVwZGF0ZSEoYW1vdW50OiBhbW91bnQpCiAgICAgIEFjY291bnRpbmdEb21haW46OkF1dG9Oc2ZGZWUuY3JlYXRlIShvY2N1cGFuY3k6IG9jY3VwYW5jeSwgYW1vdW50OiBhbW91bnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmVlLnVwZGF0ZSEoYW1vdW50OiBhbW91bnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBPY2N1cGFuY3lEZWNvcmF0b3IgPCBEcmFwZXI6OkRlY29yYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9jY3VwYW5jeQo=</text>
+        <text encoding="base64">ICAgICAgaWYgZmVlLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluc3RhbmNlX3ZhcmlhYmxlX2dldCg6KQo=</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5ID0gb2NjdXBhbmN5X2RlY29yYXRvci5vY2N1cGFuY3kKICAgICAgZmVlID0gQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5maW5kX2J5KG9jY3VwYW5jeTogb2NjdXBhbmN5KQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdHRyX2FjY2Vzc29yIDphdXRvX25zZl9mZWUK</text>
+        <text encoding="base64">CiAgICBkZWYgYXV0b19uc2ZfZmVlCiAgICAgIGZvcm1hdF9jdXJyZW5jeShBY2NvdW50aW5nRG9tYWluOjpBdXRvTnNmRmluZGVyLmdldF9uc2Yob2NjdXBhbmN5KSYuYW1vdW50KSB8fCAnLS0nCiAgICBlbmQK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgT2NjdXBhbmN5RmluYW5jaWFsc1ByZXNlbnRlci5uZXcob2NjdXBhbmN5KS5nZXRfYXV0b19uc2ZfZmVlCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
