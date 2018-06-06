@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_finder_dummy.rb" timestamp="1528239319388">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="18" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_finder_dummy.rb" timestamp="1528318643715">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/leasing_contact_center_setting_dummy.rb" timestamp="1528235054904" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/decorators/occupancy_decorator.rb" timestamp="1528225988538">
@@ -16,7 +16,7 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/move_in_flows/generate_lease/manual_merge_field_values_resolver_service.rb" timestamp="1528311089620" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/move_in_flows/generate_lease/manual_merge_field_values_resolver_service.rb" timestamp="1528318296339" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_finder.rb" timestamp="1528234469292">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="22" />
@@ -132,36 +132,19 @@
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528311072070">
+      <file name="/Dummy.txt" timestamp="1528318693223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" timestamp="1528308965729">
-        <mark key="'" line="7" column="19" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="85" />
-        <mark key="." line="209" column="60" />
-        <mark key="^" line="209" column="60" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" timestamp="1528318692415">
+        <mark key="'" line="304" column="0" />
+        <mark key="[" line="212" column="24" />
+        <mark key="]" line="212" column="24" />
+        <mark key="." line="212" column="24" />
+        <mark key="^" line="212" column="24" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/screening_service_injections/authentication_service.rb" timestamp="1528235027813" />
     </filemarks>
     <jumps>
-      <jump line="33" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="26" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="27" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="24" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="22" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="23" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="35" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/assets/javascripts/ckeditor/plugins/manual-merge-field-dropdown/plugin.js" />
-      <jump line="12" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
-      <jump line="37" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
-      <jump line="4" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/charge_service.rb" />
-      <jump line="288" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="21" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="287" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="199" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="28" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
-      <jump line="234" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/r_code.rb" />
       <jump line="68" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/base.rb" />
       <jump line="35" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/base.rb" />
       <jump line="72" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/services/online_payments/asynchronous_failure/base.rb" />
@@ -245,13 +228,30 @@
       <jump line="149" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
       <jump line="196" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
       <jump line="7" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="138" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="220" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="239" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="250" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="257" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="270" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="35" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="141" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="165" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="4" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="34" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="161" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="187" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="326" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="188" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="198" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
+      <jump line="304" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -278,13 +278,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>reverse invoice would create one receivable invoice, but not auto nsf fee</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwzMDBcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVfYXR0cmlidXRlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIyBxeSAtIHJldmVyc2UgaW52b2ljZSB3b3VsZCBjcmVhdGUgb25lIHJlY2VpdmFibGUgaW52b2ljZSwgYnV0IG5vdCBhdXRvIG5zZiBmZWUK</text>
+        <text encoding="base64">ICAgICAgaW52b2ljZSA9IGNyZWF0ZV9yZWNlaXZhYmxlX2ludm9pY2UoeyBwYXJ0eTogQG9jY3VwYW5jeSwgYW1vdW50OiAxMDAuMDAgfSwgeyBhbW91bnQ6IDEwMC4wMCB9KQogICAgICByZWNlaXB0ID0gY3JlYXRlX3JlY2VpdmFibGVfcGF5bWVudCh7IHBhcnR5OiBAb2NjdXBhbmN5LCBhbW91bnQ6IDEwMC4wMCB9LCB7IGFtb3VudDogMTAwLjAwLCBpbnZvaWNlX2RldGFpbDogaW52b2ljZS5kZXRhaWxzLmZpcnN0IH0pCiAgICAgIGNyZWF0ZV9iYW5rX2RlcG9zaXQoeyBiYW5rX2FjY291bnQ6IEBvY2N1cGFuY3kudW5pdC5wcm9wZXJ0eS5vcGVyYXRpbmdfY2FzaF9iYW5rX2FjY291bnQsIGFtb3VudDogMTAwIH0sIHsgcGF5bWVudDogcmVjZWlwdCB9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -333,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwzMDBcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfYXR0cmlidXRlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwzMDBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfYXR0cmlidXRlc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -343,8 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>occupancy</entry>
-        <entry>occupan</entry>
         <entry>Auth</entry>
         <entry>Author</entry>
         <entry>Screen</entry>
@@ -363,6 +361,8 @@
         <entry encoding="base64">XDxhY2hfcmVjZWl2YWJsZV9wYXltZW50XD4=</entry>
         <entry encoding="base64">XDxSZWNlaXB0TnNmU2VydmljZVw+</entry>
         <entry encoding="base64">XDwzMDBcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVfcmVjZWl2YWJsZV9pbnZvaWNlXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVfYXR0cmlidXRlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21lbnVEYXRhL21hbnVhbE1lbnVEYXRhL2c=</entry>
