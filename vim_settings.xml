@@ -60,8 +60,8 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1528750490576">
-        <mark key="'" line="271" column="2" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1528758232287">
+        <mark key="'" line="496" column="21" />
         <mark key="[" line="497" column="79" />
         <mark key="]" line="497" column="93" />
         <mark key="." line="271" column="13" />
@@ -424,9 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="193" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
-      <jump line="37" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
       <jump line="50" column="125" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
       <jump line="60" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
       <jump line="72" column="116" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
@@ -453,7 +450,6 @@
       <jump line="497" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="718" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="113" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
-      <jump line="271" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="474" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="1610" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
@@ -524,6 +520,10 @@
       <jump line="90" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="88" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="85" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="37" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
+      <jump line="62" column="100" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
+      <jump line="271" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
+      <jump line="496" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
