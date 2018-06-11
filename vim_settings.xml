@@ -73,11 +73,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528750037152">
-        <mark key="[" line="20" column="88" />
-        <mark key="]" line="20" column="120" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="20" column="88" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528751424368">
+        <mark key="[" line="7" column="85" />
+        <mark key="]" line="7" column="89" />
+        <mark key="^" line="7" column="89" />
+        <mark key="." line="7" column="89" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/manual_merge_fields_form/component.es6" timestamp="1527632072826">
         <mark key="[" line="57" column="66" />
@@ -197,11 +197,11 @@
         <mark key="^" line="146" column="100" />
         <mark key="." line="146" column="100" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" timestamp="1528740199195">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" timestamp="1528751400018">
         <mark key="'" line="125" column="29" />
-        <mark key="[" line="128" column="118" />
-        <mark key="]" line="128" column="118" />
-        <mark key="." line="128" column="118" />
+        <mark key="[" line="128" column="81" />
+        <mark key="]" line="128" column="81" />
+        <mark key="." line="128" column="81" />
         <mark key="^" line="128" column="118" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_charge_detail.rb" timestamp="1527100979510">
@@ -323,11 +323,11 @@
         <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/profiles_controller_methods.rb" timestamp="1528741484951" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_updater_dummy.rb" timestamp="1528743272239">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_updater_dummy.rb" timestamp="1528751356180">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_letter_emails_job.rb" timestamp="1527275848960">
         <mark key="[" line="9" column="0" />
@@ -377,7 +377,7 @@
         <mark key="." line="3608" column="71" />
         <mark key="^" line="3608" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528750591163">
+      <file name="/Dummy.txt" timestamp="1528751408993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_finder_test.rb" timestamp="1528156810295">
@@ -530,7 +530,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>( tenant_overrides )</text>
+        <text>present</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -557,7 +557,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>( tenant_overrides )</text>
+        <text>present</text>
       </register>
       <register name="/" type="4">
         <text>nsf</text>
@@ -566,40 +566,40 @@
         <text>[Tenant.exemplar( tenant_overrides )]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbXBhbnkuaW5zdGFuY2Uuc2V0dGluZ3MudXAK</text>
+        <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9jYyA9IE9jY3VwYW5jeS5uZXcodW5pdDogVW5pdC5jcmVhdGVfZXhlbXBsYXIhKHByb3BlcnR5OiBQcm9wZXJ0eS5jcmVhdGVfZXhlbXBsYXIhLmhvYV9leGVtcGxhcikpCg==</text>
+        <text encoding="base64">InhwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvY2MuZXZpY3Rpbmdfb3JfZm9yZWNsb3N1cmUK</text>
+        <text encoding="base64">ICAgIENvbXBhbnkuaW5zdGFuY2Uuc2V0dGluZ3MudXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsICkK</text>
+        <text encoding="base64">ICAgIG9jYyA9IE9jY3VwYW5jeS5uZXcodW5pdDogVW5pdC5jcmVhdGVfZXhlbXBsYXIhKHByb3BlcnR5OiBQcm9wZXJ0eS5jcmVhdGVfZXhlbXBsYXIhLmhvYV9leGVtcGxhcikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9jYy5leHBlY3RzKDpmb3JlY2xvc3VyZT8pLm9uY2UK</text>
+        <text encoding="base64">CiAgICBvY2MuZXZpY3Rpbmdfb3JfZm9yZWNsb3N1cmUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IER1bW15T2NjdXBhbmN5RGVjb3JhdG9yLm5ldyhvY2N1cGFuY3kpCg==</text>
+        <text encoding="base64">ICAgIG9jYy5leHBlY3RzKDpmb3JlY2xvc3VyZT8pLm9uY2UK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IER1bW15T2NjdXBhbmN5RGVjb3JhdG9yLm5ldyhvY2N1cGFuY3kpCg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsICkK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IER1bW15T2NjdXBhbmN5RGVjb3JhdG9yLm5ldyhvY2N1cGFuY3kpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
