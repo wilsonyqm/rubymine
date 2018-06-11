@@ -1452,6 +1452,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/acts-as-taggable-on-3.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="acts-as-taggable-on (v4.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/acts-as-taggable-on-4.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="acts_as_list (v0.6.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/acts_as_list-0.6.0/lib" />
@@ -2534,6 +2546,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_acts_as_taggable_on-4.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_acts_as_taggable_on (v5.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_acts_as_taggable_on-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_acts_as_taggable_on-5.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_acts_as_taggable_on-5.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_acts_as_taggable_on-5.0.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_app_integration_testing (v1.0.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_app_integration_testing-1.0.0/app" />
@@ -2972,6 +2994,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-5.0.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-5.0.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-5.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_billable (v6.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_billable-6.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_bundle (v10.0.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -4392,6 +4430,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_email_validator-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_email_validator (v1.1.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_email_validator-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_email_validator-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="af_encrypted_attr (v4.3.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_encrypted_attr-4.3.0/lib" />
@@ -4704,6 +4750,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_exemplar (v1.5.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_exemplar-1.5.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_extjs (v4.4.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_extjs-4.4.0/app" />
@@ -4904,6 +4962,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_geography (v1.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_geography-1.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_global_store (v0.2.10, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_global_store-0.2.10/bin" />
@@ -5046,6 +5116,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.1.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_guid (v4.2.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_guid-4.2.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_has_many_fields_for (v4.4.0, RVM: ruby-2.2.3) [gem]">
@@ -7188,6 +7272,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_paperclip (v14.7.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.7.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_paperclip-14.7.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_paperclip (v3.6.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_paperclip-3.6.0/lib" />
@@ -8946,6 +9040,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_rails (v29.3.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-29.3.3/lib" />
       </SOURCES>
     </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
@@ -10790,6 +10892,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-1.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_send_and_delete_file (v2.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-2.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_send_and_delete_file-2.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_settings (v1.0.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -13630,6 +13742,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.7, RVM: ruby-2.2.3 [global]) [gem]">
@@ -16492,6 +16616,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.6.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.6.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="contacts (v17.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/contacts-17.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="countries (v0.11.3, RVM: ruby-2.2.3 [global]) [gem]">
