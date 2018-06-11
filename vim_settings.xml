@@ -25,6 +25,10 @@
         <mark key="^" line="78" column="78" />
         <mark key="." line="78" column="78" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/test/exemplars/occupancy_exemplars.rb" timestamp="1528750631446">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="56" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/lib/leases/engine.rb" timestamp="1527615631034">
         <mark key="[" line="47" column="79" />
         <mark key="]" line="47" column="83" />
@@ -56,10 +60,10 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1528744379581">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" timestamp="1528750490576">
         <mark key="'" line="271" column="2" />
-        <mark key="[" line="271" column="8" />
-        <mark key="]" line="271" column="13" />
+        <mark key="[" line="497" column="79" />
+        <mark key="]" line="497" column="93" />
         <mark key="." line="271" column="13" />
         <mark key="^" line="271" column="13" />
       </file>
@@ -69,11 +73,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528744513852">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528750037152">
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="120" />
+        <mark key="^" line="4" column="55" />
+        <mark key="." line="20" column="88" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/javascripts/leases/manual_merge_fields_form/component.es6" timestamp="1527632072826">
         <mark key="[" line="57" column="66" />
@@ -233,6 +237,10 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/view_models/letter_writing/tenant_activations/preview_email/activation_feature_options_view_model_test.rb" timestamp="1528750483303">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="68" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/accounting_domain_injections/auto_nsf_service_dummy.rb" timestamp="1528235198733">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="22" />
@@ -257,11 +265,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528742006197">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="56" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528749864276">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="41" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="46" column="41" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" timestamp="1528741423693">
         <mark key="'" line="76" column="11" />
@@ -362,7 +370,14 @@
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528743788643">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" timestamp="1528750699188">
+        <mark key="'" line="85" column="24" />
+        <mark key="[" line="3608" column="78" />
+        <mark key="]" line="3608" column="71" />
+        <mark key="." line="3608" column="71" />
+        <mark key="^" line="3608" column="71" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528750591163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_finder_test.rb" timestamp="1528156810295">
@@ -409,76 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/key_account.rb" />
-      <jump line="39" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/receipt_nsf_service.rb" />
-      <jump line="24" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/presenters/occupancy_financials_presenter_test.rb" />
-      <jump line="158" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="193" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="6" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="11" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="12" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="15" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="20" column="78" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="167" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="137" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="40" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="264" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="248" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="225" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="206" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="194" column="72" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="26" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="24" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="23" column="72" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="14" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="205" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="170" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="149" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="196" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="7" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="138" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="220" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="239" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="250" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="257" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="270" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="35" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="141" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="165" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="4" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="34" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="161" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="187" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="326" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="188" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="198" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="304" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/services/receipt_nsf_service_test.rb" />
-      <jump line="124" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="198" column="115" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="92" column="260" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="203" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="79" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="51" column="95" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="2547" column="15822" filename="$USER_HOME$/src/apm_bundle/apps/property/db/20170131181146.sql" />
-      <jump line="234" column="4202" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="30" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/fixtures/document_templates.yml" />
-      <jump line="32" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
-      <jump line="97" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/accounting_settings_controller.rb" />
-      <jump line="98" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" />
-      <jump line="125" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/company_setting.rb" />
-      <jump line="26" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/company_setting_test.rb" />
-      <jump line="490" column="85" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/company_setting_test.rb" />
-      <jump line="610" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/company_setting_test.rb" />
-      <jump line="100" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/accounting_settings_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="645" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="823" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="824" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="829" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="139" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="140" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
-      <jump line="178" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" />
       <jump line="193" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
       <jump line="37" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" />
@@ -509,13 +454,83 @@
       <jump line="718" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="113" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
       <jump line="271" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/occupancy.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="474" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1610" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1647" column="130" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1650" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1677" column="130" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1680" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1715" column="132" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1716" column="132" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1719" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1751" column="132" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1752" column="132" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1755" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2059" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2063" column="82" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2074" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2076" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2078" column="137" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2082" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2083" column="56" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2084" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2085" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2088" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2092" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2093" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2094" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2095" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2098" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2103" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2104" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2105" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2106" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2109" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2110" column="135" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2116" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2122" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2123" column="135" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="2134" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1549" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1145" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="392" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="376" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="374" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="372" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="185" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1897" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1900" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1903" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1907" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1910" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1913" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1914" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1915" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1916" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1918" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1922" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1928" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1930" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1933" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1934" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1935" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1936" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1938" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="1948" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="3605" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="3606" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="3608" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="90" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="88" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
+      <jump line="85" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>( tenant_overrides )</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -542,49 +557,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>initialize</text>
+        <text>( tenant_overrides )</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZnRlcl9jcmVhdGVcPg==</text>
+        <text>nsf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBtYXR0cl9hY2Nlc3NvciA6YXV0b19uc2ZfZmluZGVyCg==</text>
+      <register name="0" type="4">
+        <text>[Tenant.exemplar( tenant_overrides )]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIENvbXBhbnkuaW5zdGFuY2Uuc2V0dGluZ3MudXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIG9jYyA9IE9jY3VwYW5jeS5uZXcodW5pdDogVW5pdC5jcmVhdGVfZXhlbXBsYXIhKHByb3BlcnR5OiBQcm9wZXJ0eS5jcmVhdGVfZXhlbXBsYXIhLmhvYV9leGVtcGxhcikpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJ1Y3QgPSBTdHJ1Y3QubmV3KDphbW91bnQpCiAgICAgICAgc3RydWN0Lm5ldyg4OCkK</text>
+        <text encoding="base64">CiAgICBvY2MuZXZpY3Rpbmdfb3JfZm9yZWNsb3N1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZlVwZGF0ZXIudXBkYXRlX25zZihAb2NjdXBhbmN5X2RlY29yYXRvciwgcGFyYW1zWydvY2N1cGFuY3knXS5kZWxldGUoJ2F1dG9fbnNmX2ZlZScpKSBpZiBwYXJhbXNbJ29jY3VwYW5jeSddLmtleT8oJ2F1dG9fbnNmX2ZlZScpCg==</text>
+        <text encoding="base64">ICAgIG9jYy5leHBlY3RzKDpmb3JlY2xvc3VyZT8pLm9uY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAyLjIyLCBjb21wYW55LmRlZmF1bHRfbnNmX2ZlZQo=</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IER1bW15T2NjdXBhbmN5RGVjb3JhdG9yLm5ldyhvY2N1cGFuY3kpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgOmRlZmF1bHRfbnNmX2ZlZSwK</text>
+        <text encoding="base64">ICAgICAgb2NjdXBhbmN5X2RlY29yYXRvciA9IER1bW15T2NjdXBhbmN5RGVjb3JhdG9yLm5ldyhvY2N1cGFuY3kpCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlZnV0ZSBjb21wYW55X3NldHRpbmdzLnZhbGlkPwo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -597,9 +612,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZnRlcl9jcmVhdGVcPg==</last-search>
+      <last-search>nsf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZnRlcl9jcmVhdGVcPg==</last-pattern>
+      <last-pattern>nsf</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -607,8 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOVUxMXD4=</entry>
-        <entry>\/</entry>
         <entry>\\</entry>
         <entry encoding="base64">XDxhcHBmb2xpb19tZXJnZV9maWVsZFw+</entry>
         <entry>#</entry>
@@ -616,9 +629,7 @@
         <entry encoding="base64">XDxEaXNwb3NpdGlvbkJhbGFuY2VEb2N1bWVudFRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxjb21wYW55X3NldHRpbmdzX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxkZWZhdWx0X25zZl9mZWVcPg==</entry>
-        <entry>late</entry>
         <entry encoding="base64">XDxhdXRvX2xhdGVfZmVlc19wb3N0aW5nX2hvdXJcPg==</entry>
-        <entry>nsf</entry>
         <entry>def create</entry>
         <entry>Occupancy</entry>
         <entry encoding="base64">XDxmdXR1cmVfdGVuYW50XD4=</entry>
@@ -627,6 +638,10 @@
         <entry encoding="base64">XDxvY2N1cGFuY3lcPg==</entry>
         <entry>after_ini</entry>
         <entry encoding="base64">XDxhZnRlcl9jcmVhdGVcPg==</entry>
+        <entry>late</entry>
+        <entry>late_fee</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry>nsf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL01lcmdlRmllbGRzL01hbnVhbE1lcmdlRmllbGRzL2c=</entry>
