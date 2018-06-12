@@ -47,6 +47,7 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/implementation/app/services/implementation/chart_of_accounts_mapper.rb" timestamp="1528826084189" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/accounting_settings/edit.html.erb" timestamp="1528739159527">
         <mark key="[" line="233" column="46" />
         <mark key="]" line="233" column="46" />
@@ -221,6 +222,7 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/implementation/test/services/implementation/sample_coa_mapping_generator_test.rb" timestamp="1528826625625" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/unit_templates/show.html.erb" timestamp="1528739030964" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_financials_edit.html.erb" timestamp="1528738593811">
         <mark key="'" line="8" column="33" />
@@ -244,9 +246,10 @@
         <mark key="]" line="3604" column="0" />
         <mark key="." line="3604" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528825226769">
+      <file name="/Dummy.txt" timestamp="1528826709774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/implementation/app/services/implementation/gl_account_merge_runner.rb" timestamp="1528826063715" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/db/migrate/20180604181134_add_auto_nsf_fee_table.rb" timestamp="1528136289473">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="61" />
@@ -398,7 +401,7 @@
         <text>, amount: 1.3</text>
       </register>
       <register name="/" type="4">
-        <text>occupancy</text>
+        <text>key</text>
       </register>
       <register name="0" type="4">
         <text>propertyaccountingdomain_tmp_test</text>
@@ -450,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>occupancy</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>occupancy</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -460,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry encoding="base64">XDxEaXNwb3NpdGlvbkJhbGFuY2VEb2N1bWVudFRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxjb21wYW55X3NldHRpbmdzX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxkZWZhdWx0X25zZl9mZWVcPg==</entry>
@@ -480,6 +482,7 @@
         <entry>nsf_</entry>
         <entry encoding="base64">XDxzZXR1cF9zZXJ2aWNlX3JlcXVlc3Rfb2JqZWN0c1w+</entry>
         <entry>occupancy</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL01lcmdlRmllbGRzL01hbnVhbE1lcmdlRmllbGRzL2c=</entry>
