@@ -36,12 +36,7 @@
         <mark key="." line="494" column="0" />
         <mark key="^" line="271" column="13" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528751424368">
-        <mark key="[" line="7" column="85" />
-        <mark key="]" line="7" column="89" />
-        <mark key="^" line="7" column="89" />
-        <mark key="." line="7" column="89" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/services/accounting_domain/auto_nsf_updater.rb" timestamp="1528825136901" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/models/accounting_domain/create_default_nsf_fee_test.rb" timestamp="1528760345926">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -60,8 +55,6 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/dummy/config/database.yml" timestamp="1528761108412">
         <mark key="[" line="46" column="1" />
-        <mark key="]" line="38" column="1" />
-        <mark key="^" line="38" column="1" />
         <mark key="." line="46" column="1" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/accounting_domain_injections/auto_nsf_service.rb" timestamp="1528234785147">
@@ -162,10 +155,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models.rb" timestamp="1528759828347">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models.rb" timestamp="1528825233897">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/app/models/accounting_domain/auto_nsf_fee.rb" timestamp="1528759399038">
         <mark key="[" line="0" column="0" />
@@ -173,11 +166,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528749864276">
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="41" />
-        <mark key="^" line="41" column="45" />
-        <mark key="." line="46" column="41" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_updater_test.rb" timestamp="1528825660683">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/finish_move_in_controller_methods.rb" timestamp="1528741423693">
         <mark key="'" line="76" column="11" />
@@ -222,7 +215,7 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_updater_dummy.rb" timestamp="1528751356180">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_updater_dummy.rb" timestamp="1528825226413">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
         <mark key="." line="5" column="47" />
@@ -251,7 +244,7 @@
         <mark key="]" line="3604" column="0" />
         <mark key="." line="3604" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528761742389">
+      <file name="/Dummy.txt" timestamp="1528825226769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/db/migrate/20180604181134_add_auto_nsf_fee_table.rb" timestamp="1528136289473">
@@ -374,8 +367,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnJlcXVpcmUgJ2FmX2pvYi90ZXN0L3F1ZXVlX2hlbHBlcnMnCmNsYXNzIEFjdGl2ZVN1cHBvcnQ6OlRlc3RDYXNlICMgVGVtcG9yYXJ5IGZpeCBmb3IgVW5pdCBhbmQgRnVuY3Rpb25hbCB0ZXN0cyB0byBzdHViIHJ1bm5pbmcgam9icwogIGluY2x1ZGUgQWZKb2I6OlRlc3Q6OlF1ZXVlSGVscGVycwplbmQK</text>
+      <register name="&quot;" type="4">
+        <text>, amount: 1.3</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -402,7 +395,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>--</text>
+        <text>, amount: 1.3</text>
       </register>
       <register name="/" type="4">
         <text>occupancy</text>
@@ -411,40 +404,40 @@
         <text>propertyaccountingdomain_tmp_test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnJlcXVpcmUgJ2FmX2pvYi90ZXN0L3F1ZXVlX2hlbHBlcnMnCmNsYXNzIEFjdGl2ZVN1cHBvcnQ6OlRlc3RDYXNlICMgVGVtcG9yYXJ5IGZpeCBmb3IgVW5pdCBhbmQgRnVuY3Rpb25hbCB0ZXN0cyB0byBzdHViIHJ1bm5pbmcgam9icwogIGluY2x1ZGUgQWZKb2I6OlRlc3Q6OlF1ZXVlSGVscGVycwplbmQK</text>
+        <text encoding="base64">ICAgICAgZmVlLnJlbG9hZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgZmVlID0gQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25maWcuYXV0b19uc2ZfdXBkYXRlciA9IFByb3BlcnR5TW9kZWxzOjpJbmplY3Rpb25zOjpBdXRvTnNmVXBkYXRlckR1bW15Cg==</text>
+        <text encoding="base64">ICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXR0cl9hY2Nlc3NvciA6YXV0b19uc2ZfdXBkYXRlcgo=</text>
+        <text encoding="base64">ICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIGNyZWF0ZV9kZWZhdWx0X25zZl9mZWUKICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIudXBkYXRlX25zZihzZWxmLCBDb21wYW55Lmluc3RhbmNlLnNldHRpbmdzLmRlZmF1bHRfbnNmX2ZlZSkKICBlbmQK</text>
+        <text encoding="base64">ICAgIGF1dG9sb2FkIDpBdXRvTnNmVXBkYXRlckR1bW15Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQWNjb3VudGluZ0RvbWFpbjo6QXV0b05zZkZlZS5jcmVhdGUhKG9jY3VwYW5jeTogb2NjdXBhbmN5LCBhbW91bnQ6IDEuMykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Ftb3VudAogICAgICBvY2N1cGFuY3kgPSBPY2N1cGFuY3kuY3JlYXRlX2V4ZW1wbGFyIS5jdXJyZW50X2V4ZW1wbGFyCgogICAgICBmZWUgPSBBdXRvTnNmRmVlLm5ldyhvY2N1cGFuY3k6IG9jY3VwYW5jeSwgYW1vdW50OiAtMikKICAgICAgYXNzZXJ0X25vdF92YWxpZF9vbiBmZWUsIDphbW91bnQsICdtdXN0IGJlIGEgcG9zaXRpdmUgbnVtYmVyJwoKICAgICAgZmVlID0gQXV0b05zZkZlZS5uZXcob2NjdXBhbmN5OiBvY2N1cGFuY3ksIGFtb3VudDogbmlsKQogICAgICBhc3NlcnRfdmFsaWQgZmVlCgogICAgICBmZWUgPSBBdXRvTnNmRmVlLm5ldyhvY2N1cGFuY3k6IG9jY3VwYW5jeSwgYW1vdW50OiAxLjExKQogICAgICBhc3NlcnRfdmFsaWQgZmVlCiAgICBlbmQK</text>
+        <text encoding="base64">CnJlcXVpcmUgJ2FmX2pvYi90ZXN0L3F1ZXVlX2hlbHBlcnMnCmNsYXNzIEFjdGl2ZVN1cHBvcnQ6OlRlc3RDYXNlICMgVGVtcG9yYXJ5IGZpeCBmb3IgVW5pdCBhbmQgRnVuY3Rpb25hbCB0ZXN0cyB0byBzdHViIHJ1bm5pbmcgam9icwogIGluY2x1ZGUgQWZKb2I6OlRlc3Q6OlF1ZXVlSGVscGVycwplbmQK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgZGVmIHRlc3RfY3JlYXRlX2RlZmF1bHRfbnNmX2ZlZQogICAgQ29tcGFueS5pbnN0YW5jZS5zZXR0aW5ncy51cGRhdGUhKGRlZmF1bHRfbnNmX2ZlZTogMy4zMykKICAgIG9jYyA9IE9jY3VwYW5jeS5uZXcodGVuYW50czogW1RlbmFudC5jcmVhdGVfZXhlbXBsYXJdLCB1bml0OiBVbml0LmNyZWF0ZV9leGVtcGxhciEocHJvcGVydHk6IFByb3BlcnR5LmNyZWF0ZV9leGVtcGxhciEuaG9hX2V4ZW1wbGFyKSkKICAgIFByb3BlcnR5TW9kZWxzLmF1dG9fbnNmX3VwZGF0ZXIuZXhwZWN0cyg6dXBkYXRlX25zZikud2l0aChvY2MsIDMuMzMpCiAgICBvY2Muc2F2ZSEKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWcuYXV0b19uc2ZfdXBkYXRlciA9IFByb3BlcnR5TW9kZWxzOjpJbmplY3Rpb25zOjpBdXRvTnNmVXBkYXRlckR1bW15Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
