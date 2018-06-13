@@ -36,6 +36,7 @@
         <mark key="." line="47" column="83" />
         <mark key="^" line="47" column="83" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/nsf_fee_shared/_no_key_account_modal.html.erb" timestamp="1528910291136" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/company_setting_test.rb" timestamp="1528740062093">
         <mark key="'" line="610" column="59" />
         <mark key="[" line="889" column="60" />
@@ -149,6 +150,13 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180604182933_add_auto_nsf_fee_table.accounting_domain.rb" timestamp="1528738458905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" timestamp="1528910236510">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="829" column="58" />
+        <mark key="]" line="829" column="77" />
+        <mark key="." line="829" column="77" />
+        <mark key="^" line="829" column="77" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/shared/_change_market_rent_modal.erb" timestamp="1528738644645">
         <mark key="[" line="16" column="0" />
@@ -451,7 +459,7 @@
         <mark key="]" line="3604" column="0" />
         <mark key="." line="3604" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528847220790">
+      <file name="/Dummy.txt" timestamp="1528910291444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/accounting_domain/test/services/accounting_domain/auto_nsf_finder_test.rb" timestamp="1528156810295">
@@ -606,8 +614,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9ub3RfaW5jbHVkZXMgbW9kYWxfb3B0aW9uc1snYm9keSddLCAiPGEgaHJlZj1cIiN7ZWRpdF9hY2NvdW50aW5nX3NldHRpbmdzX3BhdGgoaGlnaGxpZ2h0OiAnbnNmX2ZlZXMnKX1cIj5Bc3NpZ24gWW91ciBOU0YgRmVlcyBHTCBBY2NvdW50PC9hPiIK</text>
+      <register name="&quot;" type="4">
+        <text>occupancy_no_nsf_key_account_set</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -634,7 +642,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>nsf_fee</text>
+        <text>occupancy_no_nsf_key_account_set</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
