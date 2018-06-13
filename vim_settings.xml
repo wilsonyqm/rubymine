@@ -209,6 +209,7 @@
         <mark key="^" line="218" column="44" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/controllers/move_in_flow/profiles_controller_methods.rb" timestamp="1528741484951" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1528912555920" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/injections/auto_nsf_updater_dummy.rb" timestamp="1528825226413">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
@@ -232,11 +233,11 @@
         <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/nsf_fee_bulk_settings_controller_test.rb" timestamp="1528847213132">
-        <mark key="'" line="70" column="152" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="165" />
-        <mark key="^" line="70" column="64" />
-        <mark key="." line="70" column="64" />
+        <mark key="'" line="7" column="152" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="165" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
       </file>
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
@@ -247,12 +248,11 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528911195874">
+      <file name="/Dummy.txt" timestamp="1528912558638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/implementation/app/services/implementation/gl_account_merge_runner.rb" timestamp="1528826063715" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/status_methods.rb" timestamp="1528838573469" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/nsf_fee_bulk_settings_controller.rb" timestamp="1528911203763" />
     </filemarks>
     <jumps>
       <jump line="1897" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
@@ -361,7 +361,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PageSearchVerb</text>
+        <text>bulk_settings</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -388,7 +388,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>PageSearchVerb</text>
+        <text>bulk_settings</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
