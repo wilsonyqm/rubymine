@@ -26,6 +26,9 @@
         <mark key="." line="889" column="75" />
         <mark key="^" line="889" column="75" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" timestamp="1529001407721">
+        <mark key="'" line="22" column="6" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/test/test_helper.rb" timestamp="1528760531122">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="22" column="2" />
@@ -142,6 +145,7 @@
         <mark key="]" line="100" column="32" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/receipt_nsf_service.rb" timestamp="1528838077644" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_cash_flow.rb" timestamp="1529001430498" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/db/migrate/20180223192126_add_bulk_update_statement_settings_to_search_verbs.rb" timestamp="1528911519389">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="20" />
@@ -251,6 +255,10 @@
         <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/factories/letter_composition/merge_field_factories/tenant_base_document_factory.rb" timestamp="1528999899845" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/check_register_detail.rb" timestamp="1529001253976">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="85" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/nsf_fee_bulk_settings_controller_test.rb" timestamp="1528847213132">
         <mark key="'" line="7" column="152" />
         <mark key="[" line="7" column="0" />
@@ -267,21 +275,13 @@
         <mark key="." line="5" column="40" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528999900915">
+      <file name="/Dummy.txt" timestamp="1529001432056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/implementation/app/services/implementation/gl_account_merge_runner.rb" timestamp="1528826063715" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/status_methods.rb" timestamp="1528838573469" />
     </filemarks>
     <jumps>
-      <jump line="1897" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1900" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1903" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1907" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1910" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1913" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1914" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
-      <jump line="1915" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="1916" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="1918" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
       <jump line="1922" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/occupancy_test.rb" />
@@ -374,13 +374,21 @@
       <jump line="251" column="93" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/accounting_settings_controller_test.rb" />
       <jump line="227" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/accounting_settings_controller_test.rb" />
       <jump line="71" column="152" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/nsf_fee_bulk_settings_controller_test.rb" />
+      <jump line="59" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="300" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="436" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="56" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="58" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="288" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="305" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
+      <jump line="22" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGF0ZV9yYW5nZV9maWx0ZXIgOm9jY3VycmVkX29uLCA6ZnJvbSA9PiB7Omh1bWFuaXplZF9uYW1lID0+ICdDaGVjayBEYXRlIEZyb20nLCA6ZGVmYXVsdCA9PiAnQ2xvY2sudG9kYXkuYmVnaW5uaW5nX29mX21vbnRoJywgOnJlcXVpcmVkID0+IHRydWV9LAogICAgICAgICAgICAgICAgICAgICAgICA6dG8gPT4gezpodW1hbml6ZWRfbmFtZSA9PiAnQ2hlY2sgRGF0ZSBUbycsIDpyZXF1aXJlZCA9PiB0cnVlfQo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -410,10 +418,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text encoding="base64">XDxGTE9BVElOR19EQVRFX1JBTkdFX0ZJTFRFUl9PUFRJT05TXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHBhZGRpbmctYm90dG9tOiA1JSAhaW1wb3J0YW50Ow==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZGF0ZV9yYW5nZV9maWx0ZXIgOm9jY3VycmVkX29uLCA6ZnJvbSA9PiB7Omh1bWFuaXplZF9uYW1lID0+ICdDaGVjayBEYXRlIEZyb20nLCA6ZGVmYXVsdCA9PiAnQ2xvY2sudG9kYXkuYmVnaW5uaW5nX29mX21vbnRoJywgOnJlcXVpcmVkID0+IHRydWV9LAogICAgICAgICAgICAgICAgICAgICAgICA6dG8gPT4gezpodW1hbml6ZWRfbmFtZSA9PiAnQ2hlY2sgRGF0ZSBUbycsIDpyZXF1aXJlZCA9PiB0cnVlfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICRkcm9wZG93bkJvZHkuZmluZCgnLmNrZV9wYW5lbF9ncm91cHRpdGxlJykuaGlkZSgpOwo=</text>
@@ -462,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search encoding="base64">XDxGTE9BVElOR19EQVRFX1JBTkdFX0ZJTFRFUl9PUFRJT05TXD4=</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern encoding="base64">XDxGTE9BVElOR19EQVRFX1JBTkdFX0ZJTFRFUl9PUFRJT05TXD4=</last-pattern>
       <last-replace />
       <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
@@ -472,8 +480,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cF9zZXJ2aWNlX3JlcXVlc3Rfb2JqZWN0c1w+</entry>
-        <entry>occupancy</entry>
         <entry>key</entry>
         <entry encoding="base64">XDxtb2RlbHNfdG9fdmFsaWRhdGVfYW5kX3NhdmVcPg==</entry>
         <entry>key_account</entry>
@@ -492,6 +498,8 @@
         <entry>nsf</entry>
         <entry>nsf_fees</entry>
         <entry>+</entry>
+        <entry encoding="base64">XDxGTE9BVElOR19EQVRFX1JBTkdFX0ZJTFRFUl9WQUxVRV9UT19OQU1FXD4=</entry>
+        <entry encoding="base64">XDxGTE9BVElOR19EQVRFX1JBTkdFX0ZJTFRFUl9PUFRJT05TXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set ffs=unix,dos</entry>
