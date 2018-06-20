@@ -14,10 +14,10 @@
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/pdf_rendering-17.0.0/lib/pdf_rendering/pdf_methods.rb" timestamp="1529459426049" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/app/views/attachments_web/shared/power_attachments/_upload.html.erb" timestamp="1529445144421" />
       <file name="/_attachments.html.erb" timestamp="1529445246893" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1529460391043">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1529514757498">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="44" column="62" />
-        <mark key="]" line="44" column="62" />
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="28" />
         <mark key="^" line="44" column="62" />
         <mark key="." line="44" column="62" />
       </file>
@@ -130,6 +130,13 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1529456391881">
         <mark key="'" line="1023" column="32" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" timestamp="1529514818997">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="303" column="19" />
+        <mark key="]" line="303" column="42" />
+        <mark key="^" line="304" column="56" />
+        <mark key="." line="303" column="19" />
+      </file>
       <file name="/Ruby Console" timestamp="1529431727356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="266" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="276" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
       <jump line="305" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
@@ -283,13 +289,14 @@
       <jump line="20" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" />
       <jump line="24" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" />
       <jump line="25" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0+</text>
+        <text>LetterPdfTemplate</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -316,13 +323,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0+</text>
+        <text>LetterPdfTemplate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uY2F0ZW5hdG9yIDw8IA==</text>
+        <text>ConcatenatedPdfTemplate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZW5kCiAgICAgIFtwZGZdICsgZ2V0X2RvY3VtZW50X3RlbXBsYXRlX2F0dGFjaG1lbnRzCg==</text>
