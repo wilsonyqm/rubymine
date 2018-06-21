@@ -80,7 +80,7 @@
         <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/RefreshService.js" timestamp="1529532700105" />
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1529531444119">
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" timestamp="1529540561130">
         <mark key="'" line="52" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
@@ -119,6 +119,7 @@
         <mark key="^" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_letters_job.rb" timestamp="1529459663713" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_pdf_template.rb" timestamp="1529535508505" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/approvals/app/views/approvals/approvals/new.html.erb" timestamp="1529450699065" />
       <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1529443665088">
         <mark key="[" line="9" column="38" />
@@ -142,18 +143,18 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataStorageService.js" timestamp="1529535431813">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataStorageService.js" timestamp="1529542605031">
+        <mark key="[" line="64" column="65" />
+        <mark key="]" line="64" column="73" />
+        <mark key="." line="64" column="73" />
+        <mark key="^" line="64" column="73" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1529535310488">
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1529542636344">
         <mark key="'" line="115" column="21" />
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="47" column="40" />
-        <mark key="." line="47" column="22" />
-        <mark key="^" line="115" column="14" />
+        <mark key="[" line="111" column="38" />
+        <mark key="]" line="111" column="49" />
+        <mark key="." line="111" column="49" />
+        <mark key="^" line="111" column="49" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/test/models/search/filters/lease_end_date_filter_test.rb" timestamp="1529441013317">
         <mark key="[" line="5" column="0" />
@@ -339,6 +340,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_tenant_letter_emails_job_test.rb" timestamp="1529535491448" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/temp_file_server/app/controllers/temp_file_server/files_controller.rb" timestamp="1529538998109" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/utils/query_args.rb" timestamp="1529432686015">
         <mark key="[" line="14" column="7" />
         <mark key="]" line="14" column="7" />
@@ -352,6 +355,9 @@
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/requester.js" timestamp="1529541102006">
+        <mark key="'" line="57" column="10" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/lib/attachments_web_injections/bulk_actions_control.rb" timestamp="1529453735661">
         <mark key="[" line="8" column="135" />
@@ -379,7 +385,7 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529532740493">
+      <file name="/Dummy.txt" timestamp="1529540213035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_attachments_finder.rb" timestamp="1529454749477">
@@ -417,9 +423,9 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/property_requester.js" timestamp="1529539871445" />
     </filemarks>
     <jumps>
-      <jump line="583" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
       <jump line="588" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
       <jump line="593" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
       <jump line="636" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/date_range_filter.rb" />
@@ -519,13 +525,14 @@
       <jump line="63" column="16" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" />
       <jump line="52" column="36" filename="$USER_HOME$/src/my-addin/src/lib/services/excel/InsertionValidationService.js" />
       <jump line="115" column="21" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="57" column="10" filename="$USER_HOME$/src/my-addin/src/lib/api/requester.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>HAHA</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -552,34 +559,34 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>HAHA</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRcPg==</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="4">
-        <text>xml.getCount()</text>
+        <text>'http://schemas.appfolio.com'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gIHdpbmRvdy5FeGNlbC5ydW4oKGNvbnRleHQpID0+IHsKICAgICAgY29uc3QgeG1sID0gY29udGV4dC53b3JrYm9vay5jdXN0b21YbWxQYXJ0cy5nZXRCeU5hbWVzcGFjZSgnaHR0cDovL3NjaGVtYXMuY29udG9zby5jb20vcmV2aWV3LzEuMCcpOwogICAgICB4bWwubG9hZCgnaXRlbXMnKTsKICAgICAgbGV0IGNvbnZlcnRlciA9IHJlcXVpcmUoJ3htbC1qcycpOwoKICAgICAgcmV0dXJuIGNvbnRleHQuc3luYygpLnRoZW4oKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKHhtbC5pdGVtcy5sZW5ndGgpOwogICAgICAgIHhtbC5pdGVtcy5mb3JFYWNoKChpdGVtKSA9PiB7CiAgICAgICAgICAvLyBpdGVtLmRlbGV0ZSgpOwogICAgICAgICAgY29uc3QgY3VyciA9IGl0ZW0uZ2V0WG1sKCk7CiAgICAgICAgICByZXR1cm4gY29udGV4dC5zeW5jKCkudGhlbigoKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IGRhdGEgPSBjb252ZXJ0ZXIueG1sMmpzKGN1cnIudmFsdWUsIHtjb21wYWN0OiB0cnVlLCBzcGFjZXM6IDR9KTsKICAgICAgICAgICAgZGVidWdnZXIKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YVsnRGF0YSddKTsKICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgICAgIC8vIGRvY3VtZW50LndyaXRlKGNvbGxlY3Rpb24uZ2V0SXRlbU9yTnVsbE9iamVjdCgnUmV2aWV3ZXJzJykuZ2V0WG1sKCkpOwogICAgICB9KTsKICAgIH0pOwogICAgY29uc29sZS5sb2coYSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBuYW1lc3BhY2UgPSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3aW5kb3cuRXhjZWwucnVuKChjb250ZXh0KSA9PiB7CiAgICAgIGNvbnN0IHhtbCA9IGNvbnRleHQud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuZ2V0QnlOYW1lc3BhY2UoJ2h0dHA6Ly9zY2hlbWFzLmNvbnRvc28uY29tL3Jldmlldy8xLjAnKTsKICAgICAgeG1sLmxvYWQoJ2l0ZW1zJyk7CiAgICAgIGxldCBjb252ZXJ0ZXIgPSByZXF1aXJlKCd4bWwtanMnKTsKCiAgICAgIHJldHVybiBjb250ZXh0LnN5bmMoKS50aGVuKCgpID0+IHsKICAgICAgICB4bWwuaXRlbXMuZm9yRWFjaCgoaXRlbSkgPT4gewogICAgICAgICAgaXRlbS5zZXRYbWwoIjxEYXRhIHhtbG5zPSdodHRwOi8vc2NoZW1hcy5jb250b3NvLmNvbS9yZXZpZXcvMS4wJz48SUQ+MzM8L0lEPjwvRGF0YT4iKTsKICAgICAgICB9KTsKICAgICAgICAvLyBkb2N1bWVudC53cml0ZShjb2xsZWN0aW9uLmdldEl0ZW1Pck51bGxPYmplY3QoJ1Jldmlld2VycycpLmdldFhtbCgpKTsKICAgICAgfSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuaW1wb3J0LmNsZWFyRGF0YSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgLy9kZWxldGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIHRoaXMuYnVsa0RhdGEgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaXRlbSA9IHhtbC5pdGVtc1swXTsKICAgICAgICBjb25zdCBjdXJyID0gaXRlbS5nZXRYbWwoKTsKICAgICAgICByZXR1cm4gY29udGV4dC5zeW5jKCkudGhlbigoKSA9PiB7CiAgICAgICAgICBjb25zdCBwYXJzZWRKc29uRGF0YSA9IGNvbnZlcnRlci54bWwyanMoY3Vyci52YWx1ZSwgeyBjb21wYWN0OiB0cnVlLCBzcGFjZXM6IDQgfSk7CiAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHBhcnNlZEpzb25EYXRhKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoeG1sLml0ZW1zLmxlbmd0aCAhPT0gMSkgewogICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBFeGNlbEFwcEVycm9yKCdUaGVyZSBhcmUgbXVsdGlwbGUgeG1sIGluc3RhbmNlcywgc29tZXRoaW5nIGdvZXMgd3JvbmcuJykpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -588,13 +595,13 @@
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGtleS5jb25zdHJ1Y3RvciAhPT0gU3RyaW5nICYmIHBhaXJzLmxlbmd0aCAhPT0gMSkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwogICAgCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGtleS5jb25zdHJ1Y3RvciAhPT0gU3RyaW5nICYmIHBhaXJzLmxlbmd0aCAhPT0gMSkgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB4bWwuaXRlbXMuZm9yRWFjaCgoaXRlbSkgPT4ge2l0ZW0uZGVsZXRlKCl9KTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -607,9 +614,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>get</last-replace>
       <last-substitute>save</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
         <entry>pry</entry>
         <entry>email_template</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9wZGZfdGVtcGxhdGVcPg==</entry>
@@ -637,6 +643,7 @@
         <entry encoding="base64">XDxPZmZpY2VcPg==</entry>
         <entry encoding="base64">XDxFeGNlbEFwcEVycm9yXD4=</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLysuKi8vZw==</entry>
