@@ -143,9 +143,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataStorageService.js" timestamp="1529615185619">
-        <mark key="[" line="49" column="2" />
-        <mark key="]" line="49" column="10" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/DataStorageService.js" timestamp="1529619898478">
+        <mark key="[" line="62" column="2" />
+        <mark key="]" line="62" column="13" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="31" />
       </file>
@@ -163,12 +163,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/tenant_letters_mapper_job.rb" timestamp="1529459702398" />
-      <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1529614385315">
+      <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1529619718730">
         <mark key="'" line="79" column="3" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1529452702916">
         <mark key="'" line="1184" column="23" />
@@ -309,12 +309,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/tenant_letters_worker_job.rb" timestamp="1529459686720" />
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataStorageService.test.js" timestamp="1529615242657">
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataStorageService.test.js" timestamp="1529619899629">
         <mark key="'" line="3" column="2" />
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="40" column="24" />
-        <mark key="." line="40" column="24" />
-        <mark key="^" line="40" column="24" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="51" column="1" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" timestamp="1529456391881">
         <mark key="'" line="1023" column="32" />
@@ -403,7 +403,7 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529614307768">
+      <file name="/Dummy.txt" timestamp="1529619679709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_attachments_finder.rb" timestamp="1529454749477">
@@ -550,7 +550,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'something'</text>
+        <text>clearData</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -577,49 +577,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'something'</text>
+        <text>clearData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZU1vY2tUYWJsZUNvbGxlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>clearData</text>
+        <text>saveBulkData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdJbnNpZGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgY3JlYXRlIG5ldyB4bWwgaWYgbm8geG1sIGV4aXN0JywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCBuYW1lc3BhY2UgPSAnaHR0cDovL3NjaGVtYXMuYXBwZm9saW8uY29tJzsKICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsKICAgICAgYXdhaXQgbmV3IERhdGFTdG9yYWdlU2VydmljZSgpOwoKICAgICAgZXhwZWN0KGNvbnRleHRNb2NrLndvcmtib29rLmN1c3RvbVhtbFBhcnRzLmxvYWQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCdpdGVtcycpOwogICAgICBleHBlY3QoY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuYWRkKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChgPERhdGEgeG1sbnM9JyR7bmFtZXNwYWNlfSc+PC9EYXRhPmApOwogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbnRleHRNb2NrLndvcmtib29rLmN1c3RvbVhtbFBhcnRzLmFkZCkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdJbnNpZGUnKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2F2ZVNvbWV0aGluZyA9IHRoaXMuc2F2ZVNvbWV0aGluZy5iaW5kKHRoaXMpOwogICAgdGhpcy5nZXRTb21ldGhpbmcgPSB0aGlzLmdldFNvbWV0aGluZy5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgPERlZmF1bHRCdXR0b24KICAgICAgICAgIGNsYXNzTmFtZT0nanMtc2F2ZS10aGluZy1idG4nCiAgICAgICAgICB0ZXh0PSdTYXZlIHNvbWV0aGluZycKICAgICAgICAgIG9uQ2xpY2s9e3RoaXMuc2F2ZVNvbWV0aGluZ30KICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogJzMycHgnIH19CiAgICAgICAgLz4KCiAgICAgICAgPERlZmF1bHRCdXR0b24KICAgICAgICAgIGNsYXNzTmFtZT0nanMtZ2V0LXRoaW5nLWJ0bicKICAgICAgICAgIHRleHQ9J0dldCBzb21ldGhpbmcnCiAgICAgICAgICBvbkNsaWNrPXt0aGlzLmdldFNvbWV0aGluZ30KICAgICAgICAgIHN0eWxlPXt7IGhlaWdodDogJzMycHgnIH19CiAgICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dE1vY2sud29ya2Jvb2suY3VzdG9tWG1sUGFydHMuaXRlbXMgPSBbXTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzYXZlU29tZXRoaW5nKCkgewogICAgdGhpcy5pbXBvcnQuc2F2ZURhdGEoe0RhdGE6IHtJRDogJ3doYXR0aGUgZGVhbCd9fSkudGhlbihjb25zb2xlLmxvZygnU3VjY2VzcycpKTsKICB9CgogIGdldFNvbWV0aGluZygpIHsKICAgIHRoaXMuaW1wb3J0LmdldEJ1bGtEYXRhKCkudGhlbigoYSkgPT4ge2NvbnNvbGUubG9nKGEpfSk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2F2ZVNvbWV0aGluZyA9IHRoaXMuc2F2ZVNvbWV0aGluZy5iaW5kKHRoaXMpOwogICAgdGhpcy5nZXRTb21ldGhpbmcgPSB0aGlzLmdldFNvbWV0aGluZy5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
