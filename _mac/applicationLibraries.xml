@@ -1910,6 +1910,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="ae_declarative_authorization (v0.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="ae_network_connection_exception (v1.2.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/ae_network_connection_exception-1.2.0/lib" />
@@ -3808,6 +3820,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/af_dev-1.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_devise (v10.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_devise-10.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_devise (v6.10.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_devise-6.10.0/app" />
@@ -4962,6 +4990,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_extjs (v5.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_extjs-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_gem_licenses (v0.13.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_gem_licenses-0.13.0/lib" />
@@ -5574,6 +5614,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_hijack (v3.6.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_hijack-3.6.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="af_job (v15.20.0, RVM: ruby-2.2.3) [gem]">
@@ -6666,6 +6716,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.7.2/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.7.2/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-24.7.2/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="af_job (v25.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/.circleci" />
       </SOURCES>
     </library>
     <library name="af_lockless_touch (v0.2.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -17994,6 +18062,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="docile (v1.3.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/docile-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/docile-1.3.1/lib" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.20160128, RVM: ruby-2.2.3) [gem]">
@@ -34838,6 +34914,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/retriable-3.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="retriable (v3.1.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/retriable-3.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/retriable-3.1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="right_aws (v1.9.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/right_aws-1.9.0/lib" />
@@ -39162,6 +39246,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/silencer-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_calendar (v2.2.7, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simple_calendar-2.2.7/lib" />
       </SOURCES>
     </library>
     <library name="simple_form (v3.2.0, RVM: ruby-2.2.3 [global]) [gem]">
