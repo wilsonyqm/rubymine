@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_letters_job.rb" timestamp="1529459663713" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_pdf_template.rb" timestamp="1529535508505" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/approvals/app/views/approvals/approvals/new.html.erb" timestamp="1529450699065" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530132796064">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="59" column="28" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530137854832">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="18" />
+        <mark key="^" line="60" column="18" />
+        <mark key="." line="60" column="18" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1529443665088">
         <mark key="[" line="9" column="38" />
@@ -73,12 +73,12 @@
         <mark key="." line="92" column="14" />
         <mark key="^" line="91" column="29" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1529614631080">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="111" column="49" />
+      <file name="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" timestamp="1530137882163">
+        <mark key="'" line="206" column="21" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="155" column="13" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/tenant_letters_mapper_job.rb" timestamp="1529459702398" />
       <file name="$USER_HOME$/src/my-addin/src/test/mocks/excel_mocks.js" timestamp="1529622554645">
@@ -97,6 +97,9 @@
         <mark key="]" line="26" column="32" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/lib/saffron/paginated_table/helper.rb" timestamp="1529450495737" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" timestamp="1530135878502">
+        <mark key="'" line="576" column="24" />
+      </file>
       <file name="$USER_HOME$/src/zoology_app/config/settings/base.yml" timestamp="1529443079387">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="40" />
@@ -138,11 +141,23 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="29" column="8" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1530136774147">
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="30" />
+        <mark key="^" line="71" column="30" />
+        <mark key="." line="71" column="30" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DeletionService.test.js" timestamp="1529613730506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="2" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/FilterForm.js" timestamp="1530134467713" />
+      <file name="$USER_HOME$/src/my-addin/src/components/FilterForm.js" timestamp="1530137042780">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="18" column="41" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/tenant_letters_worker_job.rb" timestamp="1529459686720" />
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataStorageService.test.js" timestamp="1529627071355">
         <mark key="'" line="141" column="8" />
@@ -169,6 +184,12 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-3.0.0/lib/af_authenticator/api_base_controller.rb" timestamp="1530137246657">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_tenant_letter_emails_job_test.rb" timestamp="1529535491448" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/temp_file_server/app/controllers/temp_file_server/files_controller.rb" timestamp="1529538998109" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/attachments_web/views/attachments_paginated_view.rb" timestamp="1529450925832" />
@@ -193,7 +214,7 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530126304236">
+      <file name="/Dummy.txt" timestamp="1530137224144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_attachments_finder.rb" timestamp="1529454749477">
@@ -202,11 +223,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1530132806255">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1530137871965">
+        <mark key="'" line="52" column="38" />
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="38" />
+        <mark key="." line="48" column="38" />
+        <mark key="^" line="48" column="38" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/ReportDataParserService.js" timestamp="1529529245528">
         <mark key="[" line="0" column="0" />
@@ -227,30 +249,14 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/api/property_requester.js" timestamp="1529539871445" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/api/property_requester.js" timestamp="1530137585434">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/app/models/letters_web/queries/association_email_and_letter_query.rb" />
-      <jump line="320" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/test/models/letters_web/queries/tenant_email_and_letter_query_test.rb" />
-      <jump line="218" column="114" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letters_web/test/models/letters_web/queries/tenant_email_and_letter_query_test.rb" />
-      <jump line="18" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="598" column="70" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="63" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="125" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="15" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="21" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="22" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="64" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="23" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" />
-      <jump line="19" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/edit/component.es6" />
-      <jump line="29" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/edit/component.es6" />
-      <jump line="47" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/edit/component.es6" />
-      <jump line="60" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/upload_s3.es6" />
-      <jump line="28" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/upload_s3.es6" />
-      <jump line="101" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
-      <jump line="9" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
-      <jump line="107" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
       <jump line="126" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
       <jump line="159" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
       <jump line="109" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/lib/assets/javascripts/attachments_web/power_attachments/component.es6" />
@@ -330,13 +336,34 @@
       <jump line="125" column="42" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataStorageService.test.js" />
       <jump line="141" column="8" filename="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataStorageService.test.js" />
       <jump line="1001" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/config/routes.rb" />
+      <jump line="148" column="3" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="53" column="15" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="102" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="103" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="105" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="108" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="52" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" />
+      <jump line="17" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="576" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
+      <jump line="154" column="11" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="153" column="4" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="19" column="2" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="207" column="49" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="208" column="49" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="34" column="6" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="155" column="22" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
+      <jump line="206" column="21" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -363,49 +390,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>excel</text>
+        <text encoding="base64">XDxwcm9wZXJ0eUZpbHRlckNhbmRpZGF0ZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>property_filter_candidates</text>
+        <text>currentSelectedReport</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdHM6IHJlc3VsdHMsCiAgICAgICAgICBmaWx0ZXJfaW5mbzogcmVwb3J0X2ZpbHRlcl9pbmZvLAogICAgICAgICAgbmV4dF9jaHVua19wYXRoOiBFeGNlbEludGVncmF0aW9uOjpTYXZlZFJlcG9ydERhdGFTZXJ2aWNlLm5leHRfcmVwb3J0X2RhdGFfY2h1bmtfdXJsKHJlcG9ydF9wYXJhbXMsIG1lbW9yaXplZF9yZXBvcnQsIG1ldGFkYXRhKQo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcCByZXBvcnRfcGFyYW1zCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt9LnRhcCBkbyB8aGFzaHwK</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7fS50YXAgZG8gfGhhc2h8CiAgICAgICAgICBoYXNoW3JlcG9ydC5uYW1lXSA9IHJlcG9ydC5wYXJhbXNbOnByb3BlcnRpZXNfaWRzXQogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgPGRpdj4K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25SZXNvbHZlU3VnZ2VzdGlvbnM9e3RoaXMuX29uRmlsdGVyQ2hhbmdlZC5iaW5kKHRoaXMpfQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -418,9 +445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>excel</last-search>
+      <last-search encoding="base64">XDxwcm9wZXJ0eUZpbHRlckNhbmRpZGF0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>excel</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9wZXJ0eUZpbHRlckNhbmRpZGF0ZXNcPg==</last-pattern>
       <last-replace>get</last-replace>
       <last-substitute>save</last-substitute>
       <last-dir>1</last-dir>
@@ -428,13 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preview</entry>
-        <entry>document_template</entry>
-        <entry>attachment</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9wZGZcPg==</entry>
-        <entry encoding="base64">XDxqb2JfY2xhc3NcPg==</entry>
-        <entry encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</entry>
-        <entry encoding="base64">XDxvblJlZnJlc2hBbGxDbGlja1w+</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxPZmZpY2VcPg==</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
@@ -448,6 +468,13 @@
         <entry encoding="base64">XDxyZWplY3RzXD4=</entry>
         <entry>params</entry>
         <entry>excel</entry>
+        <entry>request</entry>
+        <entry>name</entry>
+        <entry>display</entry>
+        <entry>display_name</entry>
+        <entry encoding="base64">XDxnZXRQcm9wZXJ0eUZpbHRlckNhbmRpZGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eUZpbHRlckNhbmRpZGF0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLysuKi8vZw==</entry>
