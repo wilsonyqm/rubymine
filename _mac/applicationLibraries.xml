@@ -4450,6 +4450,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_dj_jobcontrol-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="af_dont_use_this_implicit_numericality_hook (v0.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_dont_use_this_implicit_numericality_hook-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_dont_use_this_implicit_numericality_hook-0.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_email_validator (v1.0.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_email_validator-1.0.0/lib" />
@@ -5176,6 +5184,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_google_tag_manager-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_google_tag_manager (v1.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_google_tag_manager-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_google_tag_manager-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="af_guid (v4.1.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -7650,6 +7666,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.0.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="af_parallel_job (v1.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_parallel_job-1.1.0/config" />
       </SOURCES>
     </library>
     <library name="af_parallel_tests (v5.4.0, RVM: ruby-2.2.3) [gem]">
@@ -17830,6 +17860,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="devise (v4.4.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise-4.4.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="devise-i18n (v0.12.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise-i18n-0.12.1/lib" />
@@ -17906,6 +17954,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise_invitable-1.6.0/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise_invitable-1.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/devise_invitable-1.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="devise_invitable (v1.7.4, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/devise_invitable-1.7.4/config" />
       </SOURCES>
     </library>
     <library name="devise_security_extension (v0.8.0, RVM: ruby-2.3.3) [gem]">
@@ -32302,6 +32362,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/rails-assets-tether-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rails-controller-testing (v0.0.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-controller-testing-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-controller-testing-0.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-controller-testing (v1.0.2, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/rails-controller-testing-1.0.2/lib" />
@@ -32516,6 +32584,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-forward_compatible_controller_tests-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-forward_compatible_controller_tests (v2.3.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-forward_compatible_controller_tests-2.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-forward_compatible_controller_tests-2.3.2/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.2.3 [global]) [gem]">
@@ -36260,6 +36336,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-saml-1.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="ruby-saml (v1.8.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-saml-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-saml-1.8.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-saml-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ruby-saml-1.8.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="ruby2ruby (v2.0.6, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/ruby2ruby-2.0.6/bin" />
@@ -39470,6 +39556,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/simplecov-0.15.1/features" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.16.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simplecov-0.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/simplecov-0.16.1/lib" />
+      </SOURCES>
+    </library>
     <library name="simplecov (v0.7.1, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/simplecov-0.7.1/lib" />
@@ -40932,6 +41026,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sunspot-1b1509c20d14/sunspot_rails/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sunspot-1b1509c20d14/sunspot_rails/dev_tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/bundler/gems/sunspot-1b1509c20d14/sunspot_rails/generators" />
+      </SOURCES>
+    </library>
+    <library name="sunspot_rails (v2.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/dev_tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/dev_tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sunspot_rails-2.3.0/generators" />
       </SOURCES>
     </library>
     <library name="sunspot_solr (v1.3.3@1b1509, RVM: ruby-2.2.3 [global]) [gem]">
