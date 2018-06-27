@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_letters_job.rb" timestamp="1529459663713" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/lib/reports/buffered_report_pdf_template.rb" timestamp="1529535508505" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/approvals/app/views/approvals/approvals/new.html.erb" timestamp="1529450699065" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530124303225">
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="39" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530126357755">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/src/zoology_app/secrets_manifest.yml" timestamp="1529443665088">
         <mark key="[" line="9" column="38" />
@@ -203,7 +203,7 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530124781651">
+      <file name="/Dummy.txt" timestamp="1530126304236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_attachments_finder.rb" timestamp="1529454749477">
@@ -212,11 +212,11 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1530124734520">
-        <mark key="[" line="52" column="144" />
-        <mark key="]" line="52" column="147" />
-        <mark key="." line="52" column="147" />
-        <mark key="^" line="52" column="147" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" timestamp="1530126413789">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/ReportDataParserService.js" timestamp="1529529245528">
         <mark key="[" line="0" column="0" />
@@ -345,8 +345,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ies_ids</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -373,43 +373,43 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>ies_ids</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>params</text>
       </register>
       <register name="0" type="4">
-        <text>[:properties_ids]</text>
+        <text>property_filter_candidates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3BlcnR5X2ZpbHRlcl9jYW5kaWRhdGVzICs9IEBtZW1vcml6ZWRfcmVwb3J0LnBhcmFtc1s6cHJvcGVydGllc19pZHNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcml6ZWRfcmVwb3J0ID0gUmVwb3J0czo6TWVtb3JpemVkUmVwb3J0LmZpbmRfYnkoaWQ6IHJlcG9ydF9wYXJhbXNbOmlkXSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdHM6IHJlc3VsdHMsCiAgICAgICAgICBmaWx0ZXJfaW5mbzogcmVwb3J0X2ZpbHRlcl9pbmZvLAogICAgICAgICAgbmV4dF9jaHVua19wYXRoOiBFeGNlbEludGVncmF0aW9uOjpTYXZlZFJlcG9ydERhdGFTZXJ2aWNlLm5leHRfcmVwb3J0X2RhdGFfY2h1bmtfdXJsKHJlcG9ydF9wYXJhbXMsIG1lbW9yaXplZF9yZXBvcnQsIG1ldGFkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt9LnRhcCBkbyB8aGFzaHwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vcml6ZWRfcmVwb3J0ID0gUmVwb3J0czo6TWVtb3JpemVkUmVwb3J0LmZpbmRfYnkoaWQ6IHJlcG9ydF9wYXJhbXNbOmlkXSkKCiAgICAgICAgaGVhZCg6bm90X2ZvdW5kKSAmJiByZXR1cm4gaWYgbWVtb3JpemVkX3JlcG9ydC5uaWw/Cg==</text>
+        <text encoding="base64">ICAgICAgICB7fS50YXAgZG8gfGhhc2h8CiAgICAgICAgICBoYXNoW3JlcG9ydC5uYW1lXSA9IHJlcG9ydC5wYXJhbXNbOnByb3BlcnRpZXNfaWRzXQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
