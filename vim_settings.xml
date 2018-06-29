@@ -8,6 +8,10 @@
       </file>
       <file name="$USER_HOME$/src/my-addin/node_modules/office-ui-fabric-react/src/components/pickers/PickerItem.types.ts" timestamp="1530223461723" />
       <file name="/document_templates.yml" timestamp="1530296951238" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/scheduler.yml" timestamp="1530306096839">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="33" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1530229340011" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180629190708_modify_three_day_letter_to_be_ckeditor_format.property_models_engine.rb" timestamp="1530303331914">
         <mark key="[" line="5" column="79" />
@@ -235,7 +239,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, tinymce = 0</text>
+        <text>*/10 * * * * UTC</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -267,8 +271,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyB0aGlzIGxldHRlciBoYXMgbmV2ZXIgYmVlbiB1c2VkIGFuZCBhbHJlYWR5IHJlcGxhY2VkIGJ5IERpc3Bvc2l0aW9uTGV0dGVyUmVmdW5kVGVtcGxhdGUK</text>
+      <register name="0" type="4">
+        <text>*/10 * * * * UTC</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgY2hhbmdlCiAgZW5kCg==</text>
