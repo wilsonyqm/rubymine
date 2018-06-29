@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/src/my-addin/node_modules/office-ui-fabric-react/src/components/pickers/PickerItem.types.ts" timestamp="1530223461723" />
       <file name="/document_templates.yml" timestamp="1530296951238" />
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest.xml" timestamp="1530229340011" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180629190708_modify_three_day_letter_to_be_ckeditor_format.property_models_engine.rb" timestamp="1530303331914">
+        <mark key="[" line="5" column="79" />
+        <mark key="]" line="5" column="79" />
+        <mark key="." line="5" column="79" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/styles/components/FilterForm.scss" timestamp="1530229631750">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -101,7 +106,7 @@
       <file name="$USER_HOME$/src/my-addin/node_modules/office-ui-fabric-react/dist/office-ui-fabric-react.js" timestamp="1530227297401">
         <mark key="'" line="35209" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530298142067">
+      <file name="/Dummy.txt" timestamp="1530303051433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/app/views/attachments_web/shared/power_attachments/_block.html.erb" timestamp="1529450845787">
@@ -110,10 +115,10 @@
       <file name="$USER_HOME$/src/my-addin/node_modules/office-ui-fabric-react/lib/components/pickers/TagPicker/TagPicker.d.ts" timestamp="1530223454816">
         <mark key="'" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180629190551_modify_three_day_letter_to_be_ckeditor_format.rb" timestamp="1530299163816">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180629190551_modify_three_day_letter_to_be_ckeditor_format.rb" timestamp="1530303324064">
+        <mark key="[" line="4" column="79" />
+        <mark key="]" line="4" column="79" />
+        <mark key="." line="4" column="79" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/api/property_requester.js" timestamp="1530220647601">
         <mark key="'" line="67" column="2" />
@@ -229,8 +234,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB0aGlzIGxldHRlciBoYXMgbmV2ZXIgYmVlbiB1c2VkIGFuZCBhbHJlYWR5IHJlcGxhY2VkIGJ5IERpc3Bvc2l0aW9uTGV0dGVyUmVmdW5kVGVtcGxhdGUK</text>
+      <register name="&quot;" type="4">
+        <text>, tinymce = 0</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -257,7 +262,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>, lock_version = 0</text>
+        <text>, tinymce = 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</text>
