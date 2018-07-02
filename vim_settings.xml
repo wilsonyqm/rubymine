@@ -88,7 +88,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530554687794">
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/services/ReportDataParserService.test.js" timestamp="1530567308276" />
+      <file name="/Dummy.txt" timestamp="1530567336209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/config/routes.rb" timestamp="1530219459734">
@@ -97,17 +98,17 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1530219730137">
-        <mark key="[" line="71" column="12" />
-        <mark key="]" line="71" column="12" />
-        <mark key="." line="71" column="12" />
-        <mark key="^" line="71" column="30" />
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1530565227787">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" timestamp="1530555662969">
-        <mark key="[" line="83" column="83" />
-        <mark key="]" line="83" column="83" />
-        <mark key="^" line="83" column="93" />
-        <mark key="." line="83" column="83" />
+      <file name="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" timestamp="1530567893488">
+        <mark key="'" line="79" column="55" />
+        <mark key="[" line="80" column="110" />
+        <mark key="]" line="80" column="117" />
+        <mark key="^" line="80" column="117" />
+        <mark key="." line="80" column="117" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/send_tenant_smses_base_job.rb" timestamp="1530308405654">
         <mark key="[" line="2" column="0" />
@@ -124,14 +125,15 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/FilterForm.js" timestamp="1530556062920">
+      <file name="$USER_HOME$/src/my-addin/src/components/FilterForm.js" timestamp="1530567752198">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1530554313664">
+      <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1530566487467">
+        <mark key="'" line="372" column="42" />
         <mark key="[" line="206" column="110" />
         <mark key="]" line="206" column="132" />
       </file>
@@ -159,12 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="103" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="105" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="108" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="52" column="38" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/api/oauth/excel_integrations_controller.rb" />
-      <jump line="17" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="576" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="154" column="11" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
       <jump line="153" column="4" filename="$USER_HOME$/src/my-addin/src/components/ReportSelectionPage.js" />
@@ -257,15 +253,21 @@
       <jump line="11" column="36" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
       <jump line="19" column="2" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
       <jump line="45" column="36" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="59" column="22" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="62" column="12" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
       <jump line="37" column="2" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" />
+      <jump line="79" column="55" filename="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" />
+      <jump line="53" column="37" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
       <jump line="7" column="2" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="372" column="42" filename="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">dGhpcy5fc2FuaXRpemVSZXNwb25zZVJlc3VsdHMocmVzcG9uc2UucmVzdWx0cykKICAgICAgICAgICAgICAgICAuZmlsdGVyKHRhZyA9PiAhdGhpcy5fbGlzdENvbnRhaW5zRG9jdW1lbnQodGFnLCB0YWdMaXN0KSk=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -292,49 +294,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb25GaWx0ZXJDaGFuZ2VkXD4=</text>
+        <text encoding="base64">XDxFeGNlbFJlZnJlc2hTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGhpcy5fc2FuaXRpemVSZXNwb25zZVJlc3VsdHMocmVzcG9uc2UucmVzdWx0cykKICAgICAgICAgICAgICAgICAuZmlsdGVyKHRhZyA9PiAhdGhpcy5fbGlzdENvbnRhaW5zRG9jdW1lbnQodGFnLCB0YWdMaXN0KSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZ0xpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhZ0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh3cmFwcGVyLmluc3RhbmNlKCkuX29uRmlsdGVyQ2hhbmdlZCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoW10pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UucmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRhZ1BpY2tlci5zaW11bGF0ZSgnUmVzb2x2ZVN1Z2dlc3Rpb25zJywgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlYXJjaFByb3BlcnRpZXNGaWx0ZXIoZmlsdGVyVGV4dCkudGhlbigocmVzcG9uc2UpID0+IHsKICAgICAgcmV0dXJuIHRoaXMuX3Nhbml0aXplUmVzcG9uc2VSZXN1bHRzKHJlc3BvbnNlLnJlc3VsdHMpCiAgICAgICAgICAgICAgICAgLmZpbHRlcih0YWcgPT4gIXRoaXMuX2xpc3RDb250YWluc0RvY3VtZW50KHRhZywgdGFnTGlzdCkpOwogICAgfSkudGhlbigoZCkgPT4gZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdISUhJJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlclRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIHRhZ1BpY2tlci5pdGVtcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9uRmlsdGVyQ2hhbmdlZFNweSA9IGplc3Quc3B5T24oLCAnX29uRmlsdGVyQ2hhbmdlZCcpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgeyBrZXk6ICdsXzEnLCBuYW1lOiA8ZGl2PjxzcGFuIGNsYXNzTmFtZT0ic3ByaXRlIHNwcml0ZS1wcm9wZXJ0eV9saXN0IiAvPkxpc3Q8L2Rpdj4gfSwK</text>
+        <text encoding="base64">ICAgIHRhZ1BpY2tlci5zaW11bGF0ZSgnUmVzb2x2ZVN1Z2dlc3Rpb25zJywgeyB0YXJnZXQ6IHsgdmFsdWU6ICdQJyB9IH0sIFtdKTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgeyBrZXk6ICdvXzEnLCBuYW1lOiA8ZGl2PjxzcGFuIGNsYXNzTmFtZT0ic3ByaXRlIHNwcml0ZS1vd25lciIgLz5Pd2VuPC9kaXY+IH0sCiAgICAgIHsga2V5OiAnb18yJywgbmFtZTogPGRpdj48c3BhbiBjbGFzc05hbWU9InNwcml0ZSBzcHJpdGUtb3duZXIiIC8+T3ZlbjwvZGl2PiB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -347,9 +349,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb25GaWx0ZXJDaGFuZ2VkXD4=</last-search>
+      <last-search encoding="base64">XDxFeGNlbFJlZnJlc2hTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb25GaWx0ZXJDaGFuZ2VkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFeGNlbFJlZnJlc2hTZXJ2aWNlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -357,9 +359,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUeXBlUHJlZml4aW5nXD4=</entry>
-        <entry encoding="base64">XDxvd25lcl9wcm9wZXJ0aWVzX2lkc1w+</entry>
-        <entry>name</entry>
         <entry>full_name</entry>
         <entry>search</entry>
         <entry encoding="base64">XDxzZWFyY2hQcm9wZXJ0aWVzRmlsdGVyXD4=</entry>
@@ -367,7 +366,6 @@
         <entry encoding="base64">XDxvblJlbmRlckl0ZW1cPg==</entry>
         <entry>suggestion</entry>
         <entry>text</entry>
-        <entry encoding="base64">XDxvblJlc29sdmVTdWdnZXN0aW9uc1w+</entry>
         <entry encoding="base64">XDxhcHBmb2xpb19tZXJnZV9maWVsZFw+</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</entry>
@@ -376,7 +374,11 @@
         <entry>console</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxfbGlzdENvbnRhaW5zRG9jdW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxvblJlc29sdmVTdWdnZXN0aW9uc1w+</entry>
         <entry encoding="base64">XDxfb25GaWx0ZXJDaGFuZ2VkXD4=</entry>
+        <entry encoding="base64">XDxGaWx0ZXJGb3JtXD4=</entry>
+        <entry encoding="base64">XDxvbkZpbHRlckNoYW5nZWRcPg==</entry>
+        <entry encoding="base64">XDxFeGNlbFJlZnJlc2hTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
