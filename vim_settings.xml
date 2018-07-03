@@ -74,11 +74,11 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530208637687">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="9" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530642334752">
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="35" />
+        <mark key="." line="63" column="56" />
+        <mark key="^" line="63" column="60" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/ProgressBar.js" timestamp="1530574126099">
         <mark key="'" line="24" column="9" />
@@ -87,7 +87,7 @@
         <mark key="." line="33" column="5" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530576631099">
+      <file name="/Dummy.txt" timestamp="1530641671974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/config/routes.rb" timestamp="1530219459734">
@@ -109,6 +109,16 @@
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataImporterService.test.js" timestamp="1530569786193">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/excel_integration/saved_report_data_service_test.rb" timestamp="1530642564706">
+        <mark key="[" line="154" column="39" />
+        <mark key="]" line="154" column="40" />
+        <mark key="." line="154" column="40" />
+        <mark key="^" line="154" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/services/tenant_activation/tenant_activation_email_resend_enroller_test.rb" timestamp="1530641658027">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="65" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/send_tenant_smses_base_job.rb" timestamp="1530308405654">
         <mark key="[" line="2" column="0" />
@@ -245,8 +255,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>Portfolio 1</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -273,49 +283,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Portfolio 1</text>
       </register>
       <register name="/" type="4">
-        <text>partition</text>
+        <text>excel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGdyb3VwX29yX3BvcnRmb2xpbzogdHJ1ZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">ICAgICAgcG9ydGZvbGlvICA9IFBvcnRmb2xpby5jcmVhdGVfZXhlbXBsYXIhKG5hbWU6ICdQb3J0Zm9saW8gMScsIHByb3BlcnR5X2xpc3Q6ICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICB7IGtleTogcGcxLnByZWZpeGVkX2lkLCBuYW1lOiAnZzEnIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvZ3Jlc3NJbmRpY2F0b3IgfSBmcm9tICdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcic7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcicpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcicsICgpID0+ICgpID0+PHNwYW4+TXVsdGlTZWxlY3Q8L3NwYW4+KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJvZ3Jlc3NJbmRpY2F0b3IgfSBmcm9tICdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">amVzdC5tb2NrKCdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcicpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIG1vY2tDb21wb25lbnQgKGNvbXBvbmVudE5hbWUpIHsKICByZXR1cm4gKHByb3BzKSA9PiB7CiAgICByZXR1cm4gKAogICAgICA8bW9ja2VkIG9yaWdpbmFsQ29tcG9uZW50PXtjb21wb25lbnROYW1lfSB7Li4ucHJvcHN9Pntwcm9wcy5jaGlsZHJlbn08L21vY2tlZD4KICAgICkKICB9Cn0K</text>
+        <text encoding="base64">amVzdC5tb2NrKCdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcicsICgpID0+ICgpID0+PHNwYW4+TXVsdGlTZWxlY3Q8L3NwYW4+KTsK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdvZmZpY2UtdWktZmFicmljLXJlYWN0L2xpYi9Qcm9ncmVzc0luZGljYXRvcicsICgpID0+IHsgcmV0dXJuIG1vY2tDb21wb25lbnQoJ1Byb2dyZXNzSW5kaWNhdG9yJykgfSk7Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -328,9 +338,9 @@
       </register>
     </registers>
     <search>
-      <last-search>partition</last-search>
+      <last-search>excel</last-search>
       <last-offset />
-      <last-pattern>partition</last-pattern>
+      <last-pattern>excel</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
         <entry encoding="base64">XDxhcHBmb2xpb19tZXJnZV9maWVsZFw+</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</entry>
@@ -358,6 +367,7 @@
         <entry>short</entry>
         <entry>Portfolio</entry>
         <entry>partition</entry>
+        <entry>excel</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
