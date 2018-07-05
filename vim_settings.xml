@@ -56,25 +56,11 @@
         <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1530827474492" />
-      <file name="$USER_HOME$/src/my-addin/src/test/components/ProgressBar.test.js" timestamp="1530574983495">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="24" column="51" />
-        <mark key="." line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/excel_integration/saved_report_data_service.rb" timestamp="1530654956667">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="40" />
-      </file>
-      <file name="$USER_HOME$/src/my-addin/src/components/ProgressBar.js" timestamp="1530574126099">
-        <mark key="'" line="24" column="9" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="80" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="32" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1530653166671">
         <mark key="[" line="0" column="0" />
@@ -85,11 +71,18 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="36" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
+        <mark key="[" line="61" column="57" />
+        <mark key="]" line="61" column="60" />
+        <mark key="^" line="61" column="60" />
+        <mark key="." line="61" column="60" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/utils/authenticator.js" timestamp="1530654244501">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/services/excel/ReportDataParserService.js" timestamp="1530832769738" />
       <file name="$USER_HOME$/src/my-addin/src/test/lib/services/excel/DataImporterService.test.js" timestamp="1530569786193">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="48" />
@@ -115,6 +108,13 @@
       <file name="$USER_HOME$/src/my-addin/package-lock.json" timestamp="1530827202735">
         <mark key="'" line="39" column="74" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/src/lib/utils/excel/table_helper.js" timestamp="1530833954639">
+        <mark key="'" line="37" column="16" />
+        <mark key="[" line="43" column="80" />
+        <mark key="]" line="43" column="90" />
+        <mark key="^" line="43" column="90" />
+        <mark key="." line="43" column="90" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/rent_increase_letter_writing_test.rb" timestamp="1530312871834">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="9" column="1866" />
@@ -132,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="452" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="98" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
@@ -232,13 +231,14 @@
       <jump line="11984" column="6" filename="$USER_HOME$/src/my-addin/package-lock.json" />
       <jump line="37" column="12" filename="$USER_HOME$/src/my-addin/package-lock.json" />
       <jump line="39" column="74" filename="$USER_HOME$/src/my-addin/package-lock.json" />
+      <jump line="37" column="16" filename="$USER_HOME$/src/my-addin/src/lib/utils/excel/table_helper.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -265,13 +265,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text encoding="base64">XDxzYW5pdGl6ZVRhYmxlRGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7IGtleTogJ3BfMScsIG5hbWU6IDxkaXY+PHNwYW4gY2xhc3NOYW1lPSJzcHJpdGUgc3ByaXRlLXByb3BlcnR5IiAvPk9ha3M8L2Rpdj4gfSwK</text>
+        <text encoding="base64">ICAgICAgaWYgKGNlbGxWYWx1ZSA9PT0gdW5kZWZpbmVkIHx8IGNlbGxWYWx1ZSA9PT0gJycgfHwgY2VsbFZhbHVlID09PSBudWxsKSByZXR1cm4gJyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
@@ -320,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search encoding="base64">XDxzYW5pdGl6ZVRhYmxlRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern encoding="base64">XDxzYW5pdGl6ZVRhYmxlRGF0YVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -330,8 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</entry>
-        <entry encoding="base64">XDxfc2FuaXRpemVSZXNwb25zZVJlc3VsdHNcPg==</entry>
         <entry>console</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxfbGlzdENvbnRhaW5zRG9jdW1lbnRcPg==</entry>
@@ -350,6 +348,8 @@
         <entry encoding="base64">XDxfc2FuaXRpemVDYW5kaWRhdGVzUmVzdWx0c1w+</entry>
         <entry>properties</entry>
         <entry>node</entry>
+        <entry>match</entry>
+        <entry encoding="base64">XDxzYW5pdGl6ZVRhYmxlRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
