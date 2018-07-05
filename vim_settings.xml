@@ -49,18 +49,13 @@
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/my-addin/src/test/lib/api/property_requester.test.js" timestamp="1530575528314">
-        <mark key="[" line="55" column="60" />
-        <mark key="]" line="55" column="61" />
-        <mark key="^" line="55" column="61" />
-        <mark key="." line="55" column="61" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180629190032_modify_three_day_letter_to_be_ckeditor_format.rb" timestamp="1530299162153">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="15" column="4" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1530827474492" />
       <file name="$USER_HOME$/src/my-addin/src/test/components/ProgressBar.test.js" timestamp="1530574983495">
         <mark key="'" line="3" column="9" />
         <mark key="[" line="3" column="24" />
@@ -117,6 +112,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="2" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/package-lock.json" timestamp="1530827202735">
+        <mark key="'" line="39" column="74" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/rent_increase_letter_writing_test.rb" timestamp="1530312871834">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="9" column="1866" />
@@ -134,9 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="84" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="156" column="116" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
-      <jump line="448" column="77" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="451" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="93" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
       <jump line="452" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/property.rb" />
@@ -234,6 +229,9 @@
       <jump line="172" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/properties_filter.rb" />
       <jump line="20" column="2" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
       <jump line="46" column="36" filename="$USER_HOME$/src/my-addin/src/components/FilterForm.js" />
+      <jump line="11984" column="6" filename="$USER_HOME$/src/my-addin/package-lock.json" />
+      <jump line="37" column="12" filename="$USER_HOME$/src/my-addin/package-lock.json" />
+      <jump line="39" column="74" filename="$USER_HOME$/src/my-addin/package-lock.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -270,7 +268,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>properties</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7IGtleTogJ3BfMScsIG5hbWU6IDxkaXY+PHNwYW4gY2xhc3NOYW1lPSJzcHJpdGUgc3ByaXRlLXByb3BlcnR5IiAvPk9ha3M8L2Rpdj4gfSwK</text>
@@ -322,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>properties</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>properties</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry encoding="base64">XDxEaXNwb3NpdGlvbkxldHRlckJhbGFuY2VUZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDxfc2FuaXRpemVSZXNwb25zZVJlc3VsdHNcPg==</entry>
         <entry>console</entry>
@@ -352,6 +349,7 @@
         <entry>excel</entry>
         <entry encoding="base64">XDxfc2FuaXRpemVDYW5kaWRhdGVzUmVzdWx0c1w+</entry>
         <entry>properties</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
