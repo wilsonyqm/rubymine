@@ -189,6 +189,7 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" timestamp="1531261125161" />
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-3.0.0/lib/af_authenticator/api_base_controller.rb" timestamp="1530219670663">
         <mark key="[" line="8" column="73" />
         <mark key="]" line="8" column="73" />
@@ -276,6 +277,13 @@
         <mark key="." line="163" column="53" />
         <mark key="^" line="163" column="53" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1531261081442">
+        <mark key="'" line="774" column="14" />
+        <mark key="[" line="513" column="25" />
+        <mark key="]" line="513" column="28" />
+        <mark key="." line="513" column="28" />
+        <mark key="^" line="513" column="28" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/setup_default_three_day_letters_job_test.rb" timestamp="1530311129627">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -285,14 +293,6 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_update_service.rb" timestamp="1531245867743" />
     </filemarks>
     <jumps>
-      <jump line="384" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="325" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="303" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="360" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="406" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="304" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="402" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="412" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="344" column="45" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="146" column="44" filename="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" />
       <jump line="29" column="10" filename="$USER_HOME$/src/my-addin/src/test/components/FilterForm.test.js" />
@@ -385,13 +385,21 @@
       <jump line="301" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" />
       <jump line="949" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" />
       <jump line="13" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" />
+      <jump line="138" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="590" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="485" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="586" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="489" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="495" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="523" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="774" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlICdtYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIEByZXNwb25zZS5ib2R5CiAgICBhc3NlcnRfbm90X2luY2x1ZGUgJ21haW50ZW5hbmNlX193b3JrLW9yZGVyc19fd2lkZ2V0LWluZm8tYm94LWhhbGYnLCBAcmVzcG9uc2UuYm9keQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzIDphdHRhY2htZW50c193cml0ZQo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -418,50 +426,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>-half</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
-        <text>maintenance</text>
+        <text encoding="base64">XDx0ZW5hbnRfX3JlYWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbWFpbnRlbmFuY2VfX3dvcmstb3JkZXJzX193aWRnZXQtaW5mby1ib3gtaGFsZicK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzIDp0YXhfYXV0aG9yaXR5X2JhbmtfYWNjb3VudF9fcmVhZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlICdtYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIEByZXNwb25zZS5ib2R5CiAgICBhc3NlcnRfbm90X2luY2x1ZGUgJ21haW50ZW5hbmNlX193b3JrLW9yZGVyc19fd2lkZ2V0LWluZm8tYm94LWhhbGYnLCBAcmVzcG9uc2UuYm9keQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzIDphdHRhY2htZW50c193cml0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJy5tYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIGNvdW50OiAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJy5tYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveC1oYWxmJywgY291bnQ6IDIK</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDpsZWFzZXNfbGVhc2VfY3VzdG9taXplX21lcmdlX2ZpZWxkcywgdG86IFs6c2hvdywgOmVkaXQsIDp1cGRhdGVfbWVyZ2VfZmllbGRzXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEByZXNwb25zZS5ib2R5Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlICdtYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIEByZXNwb25zZS5ib2R5CiAgICBhc3NlcnRfbm90X2luY2x1ZGUgJ21haW50ZW5hbmNlX193b3JrLW9yZGVyc19fd2lkZ2V0LWluZm8tYm94LWhhbGYnLCBAcmVzcG9uc2UuYm9keQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJy5tYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIGNvdW50OiAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90ZW1wbGF0ZSAnZGFzaGJvYXJkL3N0YXRpc3RpY3MvX21haW50ZW5hbmNlJwogICAgYXNzZXJ0X3RlbXBsYXRlIHBhcnRpYWw6ICdkYXNoYm9hcmQvc3RhdGlzdGljcy9fd29ya19vcmRlcnNfYnJlYWtkb3duJwogICAgYXNzZXJ0IGFzc2lnbnMoOm1haW50ZW5hbmNlX21ldHJpY3Nfc2VydmljZSkuaXNfYT8oUmVwb3J0czo6TWFpbnRlbmFuY2VNZXRyaWNzU2VydmljZSkKICAgIGFzc2VydF9lcXVhbCBDbG9jay50b2RheSAtIDYwLCBhc3NpZ25zKDptYWludGVuYW5jZV9tZXRyaWNzX2Zyb21fZGF0ZSkKICAgIGFzc2VydCBhc3NpZ25zKDpjb250YWN0X2NlbnRlcl9hbGVydGVyKS5pc19hPyhEYXNoYm9hcmRDb250cm9sbGVyOjpDb250YWN0Q2VudGVyQWxlcnRlcikK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJy5tYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveCcsIGNvdW50OiAwCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>maintenance_web_engine.service_requests_work_orders_path(filters: { status_param: Maintenance::WorkOrder::Status::NEW.id,
-                                                                                        prefixed_property_and_group_ids_list: [@property_list.try(:prefixed_id)] })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJy5tYWludGVuYW5jZV9fd29yay1vcmRlcnNfX3dpZGdldC1pbmZvLWJveC1oYWxmJywgY291bnQ6IDIK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEByZXNwb25zZS5ib2R5Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -474,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>maintenance</last-search>
+      <last-search encoding="base64">XDx0ZW5hbnRfX3JlYWRcPg==</last-search>
       <last-offset />
-      <last-pattern>maintenance</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW5hbnRfX3JlYWRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -484,10 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNfcGFyYW1cPg==</entry>
-        <entry encoding="base64">XDxhc3NpZ25lZF91c2VyX2lkX3BhcmFtXD4=</entry>
-        <entry encoding="base64">XDxhc3NpZ25lZF91c2VyX2lkXD4=</entry>
-        <entry encoding="base64">XDxGaWx0ZXJzRm9ybVw+</entry>
         <entry encoding="base64">XDxjb21wYW55X2lkc1w+</entry>
         <entry>def index</entry>
         <entry encoding="base64">XDx3b3JrX29yZGVyc19qb2luX3dvcmtfb3JkZXJfYXNzaWduZWRfdXNlcnNcPg==</entry>
@@ -504,6 +507,10 @@
         <entry encoding="base64">XDxmaWx0ZXJlZF9ieV9kYXRlXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry>maintenance</entry>
+        <entry encoding="base64">XDxsZWFzZXNfbGVhc2VfYWRkZW5kdW1fdGVtcGxhdGVzXD4=</entry>
+        <entry>maintain</entry>
+        <entry encoding="base64">XDxtYWludGVuYW5jZV93ZWJfc2VydmljZV9yZXF1ZXN0c1w+</entry>
+        <entry encoding="base64">XDx0ZW5hbnRfX3JlYWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
