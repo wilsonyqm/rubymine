@@ -14918,6 +14918,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/bullet-5.1.0/tasks" />
       </SOURCES>
     </library>
+    <library name="bullet (v5.7.5, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bullet-5.7.5/tasks" />
+      </SOURCES>
+    </library>
     <library name="bundle (v0.0.1, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES />
       <SOURCES />
@@ -42930,6 +42944,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/uniform_notifier-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uniform_notifier (v1.11.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uniform_notifier-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uniform_notifier-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="uniform_notifier (v1.9.0, RVM: ruby-2.2.3 [global]) [gem]">
