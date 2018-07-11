@@ -118,12 +118,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_filter.rb" timestamp="1531349553075">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_filter.rb" timestamp="1531350574740">
         <mark key="'" line="48" column="29" />
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="54" />
-        <mark key="^" line="30" column="54" />
-        <mark key="." line="30" column="54" />
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="73" />
+        <mark key="^" line="34" column="73" />
+        <mark key="." line="34" column="73" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/receipt_nsf_service.rb" timestamp="1531242323573" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/injections/attachments_web_injections/access_control.rb" timestamp="1530900640222">
@@ -510,7 +510,7 @@
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Maintenance::WorkOrder::Status::NEW.to_s,</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -543,7 +543,7 @@
         <text encoding="base64">XDxDTl9TVEFUVVNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>Maintenance::WorkOrder::Status::NEW</text>
+        <text>Maintenance::WorkOrder::Status::NEW.to_s,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
