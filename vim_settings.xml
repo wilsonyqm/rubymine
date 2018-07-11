@@ -95,9 +95,12 @@
         <mark key="^" line="513" column="28" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_update_service.rb" timestamp="1531245867743" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" timestamp="1530898518929">
-        <mark key="[" line="443" column="34" />
-        <mark key="]" line="443" column="42" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" timestamp="1531342300112">
+        <mark key="'" line="515" column="51" />
+        <mark key="[" line="738" column="69" />
+        <mark key="]" line="738" column="75" />
+        <mark key="^" line="738" column="75" />
+        <mark key="." line="738" column="75" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/components/Alert.js" timestamp="1530918890623">
         <mark key="[" line="27" column="0" />
@@ -166,11 +169,11 @@
         <mark key="." line="437" column="8" />
         <mark key="^" line="437" column="13" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180711195613_add_new_mcc_state_in_work_order.rb" timestamp="1531339484231">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180711195613_add_new_mcc_state_in_work_order.rb" timestamp="1531342006402">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/App.js" timestamp="1531156519196" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order_labor_summary.rb" timestamp="1531339017733" />
@@ -205,12 +208,12 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1531339523849">
-        <mark key="'" line="173" column="116" />
-        <mark key="[" line="106" column="48" />
-        <mark key="]" line="106" column="54" />
-        <mark key="." line="106" column="54" />
-        <mark key="^" line="106" column="54" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1531342246752">
+        <mark key="'" line="63" column="11" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/properties_filter.rb" timestamp="1530640068622">
         <mark key="'" line="172" column="31" />
@@ -250,7 +253,7 @@
       </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1530827474492" />
       <file name="$USER_HOME$/src/my-addin/node_modules/js-utils-apm/package/test/browser.js" timestamp="1531112864444" />
-      <file name="/Dummy.txt" timestamp="1531339149115">
+      <file name="/Dummy.txt" timestamp="1531342216027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -273,19 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="96" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="98" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="99" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="100" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="101" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="103" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="104" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="105" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="106" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="118" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="119" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
-      <jump line="120" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
       <jump line="121" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
       <jump line="123" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
       <jump line="124" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders_index_query_test.rb" />
@@ -373,13 +363,26 @@
       <jump line="77" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/filters_form.rb" />
       <jump line="140" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/work_orders_index_query.rb" />
       <jump line="262" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/work_orders_index_query.rb" />
+      <jump line="106" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="397" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="64" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="104" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="108" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="399" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="58" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="63" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="76" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" />
+      <jump line="520" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" />
+      <jump line="738" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" />
+      <jump line="735" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" />
+      <jump line="515" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/maintenance/work_order_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icHJldmlld19kb2N1bWVudF90ZW1wbGF0ZV9pbmNsdWRlX2xvZ28iICBuYW1lPSJkb2N1bWVudF90ZW1wbGF0ZVtpbmNsdWRlX2xvZ29dIiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Status::NEW</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd28uZXhwZWN0cyg6c3RhdHVzKS5yZXR1cm5zKE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6TkVXKQogICAgICBhc3NlcnRfZXF1YWwgJ0NyZWF0ZWQgb24gMDEvMDEvMjAwMCcsIHdvLmxhc3Rfd29ya19vcmRlcl9zdGF0dXMK</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -406,49 +409,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJlZF9zdGF0dXNfY29kZVw+</text>
+        <text encoding="base64">XDxORVdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Status::NEW</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgd28uZXhwZWN0cyg6c3RhdHVzKS5yZXR1cm5zKE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6TkVXKQogICAgICBhc3NlcnRfZXF1YWwgJ0NyZWF0ZWQgb24gMDEvMDEvMjAwMCcsIHdvLmxhc3Rfd29ya19vcmRlcl9zdGF0dXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgV0hFUkUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOiwgOnVuaXRfaWQsIDppbnRlZ2VyLCBudWxsOiBmYWxzZSwgYWZ0ZXI6IDp1bml0X3VpZAo=</text>
+        <text encoding="base64">ICAgICAgSk9JTiB1c2VycyBPTiBtYWludGVuYW5jZV93b3JrX29yZGVycy5jcmVhdGVkX2J5X2lkID0gdXNlcnMuaWQgYW5kIHVzZXJzLmludGVybmFsX3VzZXIgSVMgVFJVRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgW25ld193b3JrX29yZGVyX2J5X21jY10sIGZpbHRlcl9ieShzdGF0dXNfY29kZXM6IFtNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVy50b19zXSwgY3JlYXRlZF9ieV9tY2M6IHRydWUpLnRvX2EK</text>
+        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOiwgOnVuaXRfaWQsIDppbnRlZ2VyLCBudWxsOiBmYWxzZSwgYWZ0ZXI6IDp1bml0X3VpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ld193b3JrX29yZGVyX25vdF9ieV9tY2MsCg==</text>
+        <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfd29ya19vcmRlcl9ub3RfYnlfbWNjID0gWyBNYWludGVuYW5jZTo6V29ya09yZGVyLmNyZWF0ZV9leGVtcGxhciEoc3RhdHVzX2NvZGU6IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6TkVXLmlkKSBdCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgW25ld193b3JrX29yZGVyX2J5X21jY10sIGZpbHRlcl9ieShzdGF0dXNfY29kZXM6IFtNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVy50b19zXSwgY3JlYXRlZF9ieV9tY2M6IHRydWUpLnRvX2EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbGxlZC5uaWw/ICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzaWduZWRfdXNlcl9pZC5uaWw/ICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9ieV9tY2MubmlsPwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5ld193b3JrX29yZGVyX25vdF9ieV9tY2MsCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZmFsc2UgaWYgd28uY3JlYXRlZF9ieV9pZC5ibGFuaz8K</text>
+        <text encoding="base64">ICAgICAgICBuZXdfd29ya19vcmRlcl9ub3RfYnlfbWNjID0gWyBNYWludGVuYW5jZTo6V29ya09yZGVyLmNyZWF0ZV9leGVtcGxhciEoc3RhdHVzX2NvZGU6IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6TkVXLmlkKSBdCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfZXF1YWwgc2NoZWR1bGVkX3dvcmtfb3JkZXIsIGZpbHRlcl9ieShzdGF0dXNfY29kZXM6IFtNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6OlNDSEVEVUxFRC50b19zXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpbGxlZC5uaWw/ICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNzaWduZWRfdXNlcl9pZC5uaWw/ICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9ieV9tY2MubmlsPwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -461,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJlZF9zdGF0dXNfY29kZVw+</last-search>
+      <last-search encoding="base64">XDxORVdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJlZF9zdGF0dXNfY29kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxORVdcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JfYWxsX3Zpc2libGVfcHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxzdGF0dXNfY29kZVw+</entry>
         <entry encoding="base64">XDxxdWVyeV9vYmplY3RcPg==</entry>
         <entry encoding="base64">XDx3b3JrX29yZGVyc1w+</entry>
@@ -491,6 +493,7 @@
         <entry encoding="base64">XDxmaWx0ZXJfYnlcPg==</entry>
         <entry encoding="base64">XDxzdGF0dXNfY29kZXNcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZF9zdGF0dXNfY29kZVw+</entry>
+        <entry encoding="base64">XDxORVdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytccysvL2c=</entry>
