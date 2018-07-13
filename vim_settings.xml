@@ -92,7 +92,6 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="59" column="61" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/letter_writing/tenant_letters_pdf_methods.rb" timestamp="1531509164494" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1530898117513">
         <mark key="'" line="43" column="23" />
         <mark key="[" line="357" column="11" />
@@ -100,13 +99,11 @@
         <mark key="." line="357" column="11" />
         <mark key="^" line="357" column="11" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_emails_job.rb" timestamp="1531507688049" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1531510275982">
-        <mark key="'" line="64" column="24" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="68" column="7" />
-        <mark key="^" line="50" column="13" />
-        <mark key="." line="65" column="0" />
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" timestamp="1531434910437">
         <mark key="'" line="89" column="8" />
@@ -146,10 +143,6 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" timestamp="1531510184800">
         <mark key="'" line="297" column="6" />
-        <mark key="[" line="370" column="118" />
-        <mark key="]" line="370" column="126" />
-        <mark key="." line="370" column="126" />
-        <mark key="^" line="370" column="126" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" timestamp="1530900641271">
         <mark key="[" line="391" column="17" />
@@ -187,6 +180,9 @@
         <mark key="]" line="24" column="149" />
         <mark key="^" line="24" column="149" />
         <mark key="." line="24" column="149" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1531515083815">
+        <mark key="'" line="131" column="19" />
       </file>
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
@@ -274,7 +270,7 @@
         <mark key="." line="10" column="82" />
         <mark key="^" line="10" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531509178509">
+      <file name="/Dummy.txt" timestamp="1531515083988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -292,10 +288,6 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" timestamp="1531509136067">
         <mark key="'" line="11" column="26" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="44" />
-        <mark key="^" line="28" column="44" />
-        <mark key="." line="28" column="44" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" timestamp="1531508529751">
         <mark key="'" line="39" column="11" />
@@ -349,11 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/filters_form.rb" />
-      <jump line="109" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/filters_form.rb" />
-      <jump line="32" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_filter.rb" />
-      <jump line="28" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_filter.rb" />
-      <jump line="48" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_filter.rb" />
       <jump line="53" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
       <jump line="54" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
       <jump line="58" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
@@ -449,6 +436,11 @@
       <jump line="88" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" />
       <jump line="65" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" />
       <jump line="297" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
+      <jump line="199" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
+      <jump line="23" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
+      <jump line="41" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
+      <jump line="68" column="182" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
+      <jump line="131" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -485,7 +477,7 @@
         <text>tenant</text>
       </register>
       <register name="/" type="4">
-        <text>_pdf_template</text>
+        <text encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikucmV0dXJucygnY29udGVudCcpCgogICAgICBsZXR0ZXJfbGV0dGVyX2NvbnRlbnRfb25seV9wZGZfdGVtcGxhdGUgPSBwZGZfdGVtcGxhdGVfc2VydmljZS5zZW5kKDpnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSwgdGVuYW50LCBbXSkK</text>
@@ -537,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_pdf_template</last-search>
+      <last-search encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</last-search>
       <last-offset />
-      <last-pattern>_pdf_template</last-pattern>
+      <last-pattern encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</last-pattern>
       <last-replace>_letter_content_only_pdf_template</last-replace>
       <last-substitute>_pdf_template</last-substitute>
       <last-dir>1</last-dir>
@@ -547,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrX29yZGVyX3N0YXR1c19maWx0ZXJcPg==</entry>
         <entry encoding="base64">XDx3b3JrX29yZGVyX3N0YXR1c19vcHRpb25zXD4=</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxDTl9TVEFUVVNcPg==</entry>
@@ -567,6 +558,7 @@
         <entry encoding="base64">XDxhY2Nlc3NfcGFnZVw+</entry>
         <entry encoding="base64">XDxzZXR1cF93b3JrX29yZGVyXD4=</entry>
         <entry>_pdf_template</entry>
+        <entry encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytcL3MrLy9n</entry>
