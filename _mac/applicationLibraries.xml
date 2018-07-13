@@ -2724,6 +2724,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-1.5.0/config" />
       </SOURCES>
     </library>
+    <library name="af_app_integration_testing (v2.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_app_integration_testing-2.0.1/config" />
+      </SOURCES>
+    </library>
     <library name="af_asset_store (v0.4.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_asset_store-0.4.0/lib" />
@@ -6764,6 +6776,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.0.0/.circleci" />
       </SOURCES>
     </library>
+    <library name="af_job (v25.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_job-25.1.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="af_lockless_touch (v0.2.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_lockless_touch-0.2.0/lib" />
@@ -9342,6 +9372,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-30.0.2/.circleci" />
       </SOURCES>
     </library>
+    <library name="af_rails (v31.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_request-2.0.0/lib" />
@@ -9918,6 +9958,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.5.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.5.1/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="af_runtime (v11.6.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_runtime-11.6.0/.circleci" />
       </SOURCES>
     </library>
     <library name="af_runtime (v6.18.0, RVM: ruby-2.2.3) [gem]">
@@ -17466,6 +17522,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dalli-2.7.6/lib" />
       </SOURCES>
     </library>
+    <library name="dalli (v2.7.8, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dalli-2.7.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dalli-2.7.8/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.6.2, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/database_cleaner-1.6.2/lib" />
@@ -23562,6 +23626,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jbuilder-2.5.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jbuilder-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jbuilder-2.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jbuilder-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jbuilder-2.7.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jmespath (v1.2.4, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/jmespath-1.2.4/lib" />
@@ -27036,6 +27110,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/netstorageapi-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="netstorageapi (v0.8.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/netstorageapi-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/netstorageapi-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="new_relic_insights (v1.5.0, RVM: ruby-2.2.3) [gem]">
