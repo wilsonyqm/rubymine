@@ -98,6 +98,9 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1531779404565">
+        <mark key="'" line="232" column="9" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_attachments_show.html.erb" timestamp="1531767473201" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization.rb" timestamp="1531765014585" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1531520970347">
@@ -113,6 +116,12 @@
         <mark key="]" line="93" column="82" />
         <mark key="." line="19" column="34" />
       </file>
+      <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/version.rb" timestamp="1531779825426">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/src/my-addin/src/test/components/ReportSelectionPage.test.js" timestamp="1530921286869">
         <mark key="[" line="437" column="8" />
         <mark key="]" line="437" column="35" />
@@ -124,6 +133,9 @@
         <mark key="]" line="487" column="42" />
         <mark key="." line="470" column="38" />
         <mark key="^" line="470" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" timestamp="1531519237048">
+        <mark key="'" line="269" column="18" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1531418789192">
         <mark key="[" line="51" column="50" />
@@ -159,7 +171,7 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" timestamp="1531778115109">
+      <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" timestamp="1531778772640">
         <mark key="'" line="84" column="65" />
         <mark key="[" line="84" column="61" />
         <mark key="]" line="84" column="82" />
@@ -171,6 +183,9 @@
         <mark key="]" line="53" column="60" />
         <mark key="^" line="53" column="60" />
         <mark key="." line="53" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" timestamp="1531503282602">
+        <mark key="'" line="65" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180716205510_fpm_delete_delete_files_permission.rb" timestamp="1531775994944">
         <mark key="[" line="0" column="0" />
@@ -236,7 +251,7 @@
         <mark key="." line="10" column="82" />
         <mark key="^" line="10" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531778115257">
+      <file name="/Dummy.txt" timestamp="1531779406725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -253,6 +268,15 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/property_authorization.gemspec" timestamp="1531779420520">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" timestamp="1531509136067">
+        <mark key="'" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/injections/attachments_web_injections/access_control.rb" timestamp="1531519215978">
         <mark key="[" line="80" column="49" />
@@ -311,8 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="330" column="58" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="349" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="909" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="925" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
@@ -411,13 +433,15 @@
       <jump line="181" column="12" filename="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" />
       <jump line="83" column="73" filename="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" />
       <jump line="84" column="65" filename="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" />
+      <jump line="232" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -444,10 +468,10 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>ae</text>
       </register>
       <register name="0" type="4">
         <text>:write_without_delete</text>
@@ -499,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>ae</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>ae</last-pattern>
       <last-replace>_letter_content_only_pdf_template</last-replace>
       <last-substitute>_pdf_template</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXRjaF9pZGVudGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxsZXR0ZXJfcGRmX3RlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxzZXR1cF93b3JrX29yZGVyXD4=</entry>
         <entry>_pdf_template</entry>
@@ -529,6 +552,7 @@
         <entry encoding="base64">XDxoaWRlX2J1dHRvbl90eXBlXD4=</entry>
         <entry encoding="base64">XDxhdHRhY2htZW50c193ZWJfYXR0YWNobWVudHNcPg==</entry>
         <entry>write</entry>
+        <entry>ae</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytcL3MrLy9n</entry>
