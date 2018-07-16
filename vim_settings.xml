@@ -3,11 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/permission.rb" timestamp="1531764235158">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/test/models/search/filters/work_order_status_filter_test.rb" timestamp="1531418512731">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="65" />
         <mark key="." line="68" column="65" />
         <mark key="^" line="68" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/user_roles/edit.html.erb" timestamp="1531764834511">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+        <mark key="^" line="20" column="53" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status_observer.rb" timestamp="1531426964879">
         <mark key="[" line="7" column="59" />
@@ -27,6 +40,13 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" timestamp="1531764409938">
+        <mark key="'" line="164" column="85" />
+        <mark key="[" line="137" column="36" />
+        <mark key="]" line="137" column="36" />
+        <mark key="." line="137" column="36" />
+        <mark key="^" line="137" column="36" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/renderer/violations_tracking/violation_letter_pdf_renderer.rb" timestamp="1531517453563" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/config/initializer/work_order_after_create.rb" timestamp="1531344174101">
         <mark key="[" line="2" column="0" />
@@ -43,6 +63,9 @@
         <mark key="^" line="23" column="39" />
         <mark key="." line="23" column="39" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/app/services/authorization_web/user_permission_serializer.rb" timestamp="1531763085367">
+        <mark key="'" line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/src/test-app/package.json" timestamp="1531156868288">
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="36" />
@@ -55,6 +78,7 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization.rb" timestamp="1531765014585" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1531520970347">
         <mark key="'" line="64" column="24" />
         <mark key="[" line="54" column="0" />
@@ -101,20 +125,15 @@
         <mark key="^" line="24" column="149" />
         <mark key="." line="24" column="149" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1531515083815">
-        <mark key="'" line="131" column="19" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1531764423850">
+        <mark key="'" line="107" column="35" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="256" column="5" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/document_template_composer_test.rb" timestamp="1531507326597">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="348" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/services/violations_tracking/violation_letter_creation_service.rb" timestamp="1531517443960">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/filter_helper.test.js" timestamp="1530917692790">
         <mark key="[" line="53" column="52" />
@@ -124,10 +143,6 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" timestamp="1531503282602">
         <mark key="'" line="65" column="6" />
-      </file>
-      <file name="/document_template_composer.rb" timestamp="1531508132115">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="46" column="6" />
       </file>
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
@@ -168,7 +183,7 @@
         <mark key="." line="10" column="82" />
         <mark key="^" line="10" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531520234758">
+      <file name="/Dummy.txt" timestamp="1531765031561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -176,6 +191,9 @@
         <mark key="]" line="61" column="60" />
         <mark key="^" line="61" column="60" />
         <mark key="." line="61" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/user_roles_controller.rb" timestamp="1531764946238">
+        <mark key="'" line="89" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" timestamp="1531509136067">
         <mark key="'" line="11" column="26" />
@@ -198,6 +216,15 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1531765300874">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="56" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="21" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1531765285562">
+        <mark key="'" line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1531431782899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="6" />
@@ -210,12 +237,8 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1531441425568">
-        <mark key="'" line="48" column="21" />
-      </file>
-      <file name="/letter_writing_methods.rb" timestamp="1531508524268">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="150" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1531762963798">
+        <mark key="'" line="1423" column="66" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/test/renderer/violations_tracking/violation_letter_pdf_renderer_test.rb" timestamp="1531523076998">
         <mark key="[" line="14" column="160" />
@@ -225,71 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_date_filter.rb" />
-      <jump line="261" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/work_orders_index_query.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" />
-      <jump line="96" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
-      <jump line="174" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
-      <jump line="175" column="116" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
-      <jump line="110" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
-      <jump line="35" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/private/v1/online_work_orders_controller_test.rb" />
-      <jump line="440" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/private/v1/online_work_orders_controller_test.rb" />
-      <jump line="75" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/private/v1/online_work_orders_controller_test.rb" />
-      <jump line="55" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
-      <jump line="53" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/services/reports/maintenance_metrics_service_test.rb" />
-      <jump line="12" column="114" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/services/reports/maintenance_metrics_service_test.rb" />
-      <jump line="52" column="64" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" />
-      <jump line="53" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" />
-      <jump line="88" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" />
-      <jump line="92" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" />
-      <jump line="89" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" />
-      <jump line="86" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/services/reports/maintenance_metrics_service_test.rb" />
-      <jump line="175" column="40" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" />
-      <jump line="23" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="69" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="16" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="23" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_owner_emails_job.rb" />
-      <jump line="1" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
-      <jump line="11" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" />
-      <jump line="9" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
-      <jump line="24" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
-      <jump line="39" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
-      <jump line="61" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="22" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="43" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="2126" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="778" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1410" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1414" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2122" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="119" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="125" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="131" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="149" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="151" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="152" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="153" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="154" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="155" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="158" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="159" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="160" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="187" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="190" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="194" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="195" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="207" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="208" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="209" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="210" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="211" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="212" column="56" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="213" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="215" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="220" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="221" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="222" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="223" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="225" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="226" column="64" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
@@ -325,13 +283,78 @@
       <jump line="233" column="114" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" />
       <jump line="255" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" />
       <jump line="269" column="18" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" />
+      <jump line="90" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2136" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="119" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="125" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="131" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="149" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="151" column="49" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="152" column="50" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="153" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="154" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="155" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="158" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="159" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="160" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="187" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="190" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="194" column="42" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="195" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1198" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2140" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="780" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1419" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1423" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="33" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/app/services/authorization_web/user_permission_serializer.rb" />
+      <jump line="36" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/permission.rb" />
+      <jump line="46" column="105" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/user_roles_controller.rb" />
+      <jump line="19" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="159" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="153" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="82" column="79" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="81" column="78" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="42" column="58" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="164" column="85" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" />
+      <jump line="107" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" />
+      <jump line="89" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/user_roles_controller.rb" />
+      <jump line="91" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="92" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="93" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="94" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="95" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="96" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="100" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="104" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="105" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="111" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="112" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="116" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="117" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="118" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="123" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="124" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="125" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="126" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="127" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="133" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="134" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="136" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="143" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="156" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="5" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="11" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="12" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="30" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="32" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="33" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_no_</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -358,49 +381,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>_no_</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text encoding="base64">XDxyd19wZXJtaXNzaW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25jYXRlbmF0b3IgPDwgbGV0dGVyX3BkZl90ZW1wbGF0ZShjb250ZW50LCBwYXJ0eSkK</text>
+      <register name="0" type="4">
+        <text>rw_no_d_permission</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQgY2xhc3M9J3VzZXJfcm9sZXNfX2NoZWNrYm94Jz48JT0gcGYucmFkaW9fYnV0dG9uIDpwcml2aWxlZ2UsIFByb3BlcnR5QXV0aG9yaXphdGlvbjo6UGVybWlzc2lvbjo6UFJJVklMRUdFWzp3cml0ZV93aXRob3V0X2RlbGV0ZV0sICByZWFkX3dyaXRlX29wdGlvbnMoUHJvcGVydHlBdXRob3JpemF0aW9uOjpQZXJtaXNzaW9uOjpQUklWSUxFR0VbOndyaXRlXSwgIHBlcm1pc3Npb24pIC0lPjwvdGQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25jYXRlbmF0b3IgPDwgbGV0dGVyX3BkZl90ZW1wbGF0ZShjb250ZW50LCBwYXJ0eSkK</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25jYXRlbmF0b3IgPDwgbGV0dGVyX3BkZl90ZW1wbGF0ZShjb250ZW50LCBwYXJ0eSkK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0ICF1c2VyX3JvbGUuaGFzX2VxdWFsX29yX2dyZWF0ZXJfcGVybWlzc2lvbihQZXJtaXNzaW9uLmNyZWF0ZV9leGVtcGxhciEoOnByaXZpbGVnZSA9PiBQZXJtaXNzaW9uOjpQUklWSUxFR0VbOndyaXRlXSwgOnJvbGUgPT4gcGVybV81LnJvbGUpKQogICAgICBhc3NlcnQgIXVzZXJfcm9sZS5oYXNfZXF1YWxfb3JfZ3JlYXRlcl9wZXJtaXNzaW9uKFBlcm1pc3Npb24uY3JlYXRlX2V4ZW1wbGFyISg6cHJpdmlsZWdlID0+IFBlcm1pc3Npb246OlBSSVZJTEVHRVs6d3JpdGVfd2l0aG91dF9kZWxldGVdLCA6cm9sZSA9PiBwZXJtXzUucm9sZSkpCiAgICAgIGFzc2VydCAgdXNlcl9yb2xlLmhhc19lcXVhbF9vcl9ncmVhdGVyX3Blcm1pc3Npb24oUGVybWlzc2lvbi5jcmVhdGVfZXhlbXBsYXIhKDpwcml2aWxlZ2UgPT4gUGVybWlzc2lvbjo6UFJJVklMRUdFWzpyZWFkXSwgOnJvbGUgPT4gcGVybV81LnJvbGUpKQogICAgICBhc3NlcnQgIHVzZXJfcm9sZS5oYXNfZXF1YWxfb3JfZ3JlYXRlcl9wZXJtaXNzaW9uKFBlcm1pc3Npb24uY3JlYXRlX2V4ZW1wbGFyISg6cHJpdmlsZWdlID0+IFBlcm1pc3Npb246OlBSSVZJTEVHRVs6aGlkZGVuXSwgOnJvbGUgPT4gcGVybV81LnJvbGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgcGVybV8zID0gUGVybWlzc2lvbi5jcmVhdGVfZXhlbXBsYXIhKDpwcml2aWxlZ2UgPT4gUGVybWlzc2lvbjo6UFJJVklMRUdFWzpoaWRkZW5dKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgbXlfcGVybWlzc2lvbi5wcml2aWxlZ2UgPT0gcGVybWlzc2lvbi5wcml2aWxlZ2UgfHwgKG15X3Blcm1pc3Npb24ucHJpdmlsZWdlID09IFBlcm1pc3Npb246OlBSSVZJTEVHRVs6d3JpdGVdICYmIHBlcm1pc3Npb24ucHJpdmlsZWdlID09IFBlcm1pc3Npb246OlBSSVZJTEVHRVs6cmVhZF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgUGVybWlzc2lvbjo6UFJJVklMRUdFX1NDT1JFW3Blcm1pc3Npb24ucHJpdmlsZWdlXQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgOndyaXRlX3dpdGhfZGVsZXRlCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -413,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search encoding="base64">XDxyd19wZXJtaXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern encoding="base64">XDxyd19wZXJtaXNzaW9uXD4=</last-pattern>
       <last-replace>_letter_content_only_pdf_template</last-replace>
       <last-substitute>_pdf_template</last-substitute>
       <last-dir>1</last-dir>
@@ -423,11 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTl9TVEFUVVNcPg==</entry>
-        <entry encoding="base64">XDxORVdcPg==</entry>
-        <entry encoding="base64">XDxzYW5pdGl6ZV9uZXdfc3RhdHVzX2NvZGVzXD4=</entry>
-        <entry>plus</entry>
-        <entry>user</entry>
         <entry encoding="base64">XDxpc19jb250YWN0X2NlbnRlcl9yZXBcPg==</entry>
         <entry encoding="base64">XDxQcm9wZXJ0eUF1dGhvcml6YXRpb25cPg==</entry>
         <entry>user_role</entry>
@@ -436,13 +454,18 @@
         <entry encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</entry>
         <entry encoding="base64">XDxiYXRjaF9pZGVudGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxsZXR0ZXJfcGRmX3RlbXBsYXRlXD4=</entry>
-        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
-        <entry encoding="base64">XDxhY2Nlc3NfcGFnZVw+</entry>
         <entry encoding="base64">XDxzZXR1cF93b3JrX29yZGVyXD4=</entry>
         <entry>_pdf_template</entry>
         <entry encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</entry>
         <entry>self</entry>
         <entry>id</entry>
+        <entry encoding="base64">XDxhY2Nlc3NfcGFnZVw+</entry>
+        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
+        <entry encoding="base64">XDxkZWNvZGVfcm9sZV9wcml2aWxlZ2VzXD4=</entry>
+        <entry encoding="base64">XDx0b19zeW1cPg==</entry>
+        <entry encoding="base64">XDxwcml2aWxlZ2VcPg==</entry>
+        <entry encoding="base64">XDxlbnN1cmVfcGVybWlzc2lvblw+</entry>
+        <entry encoding="base64">XDxyd19wZXJtaXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytcL3MrLy9n</entry>
