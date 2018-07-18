@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/permission.rb" timestamp="1531784581115">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="31" column="11" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/test/models/search/filters/work_order_status_filter_test.rb" timestamp="1531418512731">
         <mark key="[" line="68" column="54" />
         <mark key="]" line="68" column="65" />
@@ -22,19 +15,17 @@
         <mark key="." line="20" column="53" />
         <mark key="^" line="20" column="53" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/attachment.rb" timestamp="1531955383782">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="82" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status_observer.rb" timestamp="1531426964879">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="69" />
         <mark key="." line="7" column="59" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/user_roles_helper.rb" timestamp="1531765917446">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="39" />
-        <mark key="." line="53" column="35" />
-        <mark key="^" line="53" column="12" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/photo_test.rb" timestamp="1531948672126" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/contact_center/mcc_work_order_service_test.rb" timestamp="1531332591253">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="87" />
@@ -47,17 +38,31 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" timestamp="1531784548003">
-        <mark key="'" line="162" column="85" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/edit/component.es6" timestamp="1531951986173">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="42" />
+        <mark key="^" line="29" column="148" />
+        <mark key="." line="29" column="148" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/owner_vendor_ach/app/assets/javascripts/owner_vendor_ach/views/pay_a_bill_by_online_payables/component.es6" timestamp="1531954326107">
+        <mark key="[" line="50" column="16" />
+        <mark key="]" line="50" column="60" />
       </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1531936011862">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/select_unit_methods.rb" timestamp="1531951365124">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="96" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/letter_writing/document_templates_helper.rb" timestamp="1531955411713">
+        <mark key="[" line="137" column="8" />
+        <mark key="]" line="137" column="49" />
+        <mark key="." line="137" column="26" />
+        <mark key="^" line="137" column="26" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/config/initializer/work_order_after_create.rb" timestamp="1531344174101">
         <mark key="[" line="2" column="0" />
@@ -73,6 +78,10 @@
         <mark key="]" line="23" column="39" />
         <mark key="^" line="23" column="39" />
         <mark key="." line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/accounting/bills/new/component.es6" timestamp="1531954062453">
+        <mark key="[" line="118" column="39" />
+        <mark key="]" line="118" column="76" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/documents_access_test.rb" timestamp="1531777542489">
         <mark key="[" line="35" column="0" />
@@ -98,21 +107,20 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" timestamp="1531779404565">
-        <mark key="'" line="232" column="9" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/app/services/attachments_web/convert_temporary_attachable_service.rb" timestamp="1531947786512">
+        <mark key="[" line="12" column="99" />
+        <mark key="]" line="12" column="137" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1531520970347">
-        <mark key="'" line="64" column="24" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="9" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" timestamp="1531956825882">
+        <mark key="'" line="152" column="9" />
+        <mark key="[" line="182" column="16" />
+        <mark key="]" line="183" column="21" />
+        <mark key="^" line="183" column="21" />
+        <mark key="." line="183" column="21" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" timestamp="1531434910437">
-        <mark key="'" line="89" column="8" />
-        <mark key="[" line="93" column="48" />
-        <mark key="]" line="93" column="82" />
-        <mark key="." line="19" column="34" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/private/messenger/email_attachments_controller_test.rb" timestamp="1531955499921">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="111" />
       </file>
       <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/version.rb" timestamp="1531779825426">
         <mark key="[" line="1" column="17" />
@@ -131,9 +139,6 @@
         <mark key="]" line="487" column="42" />
         <mark key="." line="470" column="38" />
         <mark key="^" line="470" column="38" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/attachments_web_injections/access_control_test.rb" timestamp="1531519237048">
-        <mark key="'" line="269" column="18" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1531418789192">
         <mark key="[" line="51" column="50" />
@@ -159,27 +164,12 @@
         <mark key="^" line="24" column="149" />
         <mark key="." line="24" column="149" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1531764423850">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="^" line="256" column="5" />
-        <mark key="." line="254" column="0" />
-      </file>
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" timestamp="1531778772640">
-        <mark key="'" line="84" column="65" />
-        <mark key="[" line="84" column="61" />
-        <mark key="]" line="84" column="82" />
-        <mark key="^" line="84" column="60" />
-        <mark key="." line="84" column="61" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/app/services/violations_tracking/violation_letter_creation_service.rb" timestamp="1531517443960">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/emails_web/test/models/emails_web/email_form_test.rb" timestamp="1531955324353">
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="96" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/filter_helper.test.js" timestamp="1530917692790">
         <mark key="[" line="53" column="52" />
@@ -187,8 +177,11 @@
         <mark key="^" line="53" column="60" />
         <mark key="." line="53" column="60" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" timestamp="1531503282602">
-        <mark key="'" line="65" column="6" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/letter_writing/document_templates_helper_test.rb" timestamp="1531955734092">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180716205510_fpm_delete_delete_files_permission.rb" timestamp="1531775994944">
         <mark key="[" line="0" column="0" />
@@ -211,21 +204,11 @@
         <mark key="^" line="235" column="58" />
         <mark key="." line="235" column="58" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/attachments_access_test.rb" timestamp="1531777818211">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/models/maintenance_domain/update_new_mcc_status.rb" timestamp="1531344194805">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/attachments_access_test.rb" timestamp="1531781338680">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="66" />
-        <mark key="." line="27" column="43" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/lib/utils/filter_helper.js" timestamp="1530918757797">
         <mark key="[" line="20" column="77" />
@@ -240,26 +223,26 @@
         <mark key="." line="24" column="74" />
       </file>
       <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1531935709737" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_date_filter.rb" timestamp="1531431377402">
-        <mark key="'" line="10" column="44" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="14" />
-        <mark key="." line="79" column="14" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180716212046_fpm_delete_delete_files_permission.property_models_engine.rb" timestamp="1531783063017">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180711204827_add_new_mcc_state_in_work_order.property_models_engine.rb" timestamp="1531429238893">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="82" />
         <mark key="." line="10" column="82" />
         <mark key="^" line="10" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531783775715">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1531956721030">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/app/views/attachments_web/shared/power_attachments/_attachments.html.erb" timestamp="1531946481337">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531955727977">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attached_files/lib/attached_files/paperclip_extensions/validators.rb" timestamp="1531952309746" />
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
         <mark key="[" line="61" column="57" />
         <mark key="]" line="61" column="60" />
@@ -278,19 +261,11 @@
         <mark key="." line="10" column="56" />
         <mark key="^" line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" timestamp="1531509136067">
-        <mark key="'" line="11" column="26" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/injections/attachments_web_injections/access_control.rb" timestamp="1531519215978">
         <mark key="[" line="80" column="49" />
         <mark key="]" line="80" column="52" />
         <mark key="." line="80" column="52" />
         <mark key="^" line="80" column="52" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/bulk_attachments_access_test.rb" timestamp="1531777861475">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/filters_form_test.rb" timestamp="1531426813021">
         <mark key="[" line="183" column="26" />
@@ -298,19 +273,7 @@
         <mark key="." line="183" column="26" />
         <mark key="^" line="183" column="26" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1531784526122">
-        <mark key="[" line="31" column="119" />
-        <mark key="]" line="31" column="119" />
-        <mark key="^" line="31" column="119" />
-        <mark key="." line="31" column="119" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1531780659090">
-        <mark key="'" line="104" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/attachments_web/app/views/attachments_web/shared/power_attachments/_block.html.erb" timestamp="1531946429355" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1531431782899">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="6" />
@@ -323,12 +286,6 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1531781430191">
-        <mark key="'" line="58" column="23" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/test/renderer/violations_tracking/violation_letter_pdf_renderer_test.rb" timestamp="1531523076998">
         <mark key="[" line="14" column="160" />
         <mark key="]" line="14" column="160" />
@@ -337,12 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="47" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="909" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="925" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1120" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1123" column="73" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1126" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="48" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="37" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" />
       <jump line="88" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/pdf_comparison/responsive_owner_packets_pdf_test.rb" />
@@ -437,13 +388,19 @@
       <jump line="84" column="65" filename="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/test/helpers.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" />
       <jump line="232" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/Gemfile" />
+      <jump line="72" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
+      <jump line="77" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
+      <jump line="83" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
+      <jump line="393" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
+      <jump line="156" column="32" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
+      <jump line="152" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/letter_writing/document_templates_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZW5kZXIganNvbjogeyBlcnJvcl9tZXNzYWdlOiBtc2d9Cg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -470,16 +427,16 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>api</text>
+        <text encoding="base64">XDxpc19leGNlZWRfdG90YWxfYXR0YWNobWVudHNfc2l6ZV9saW1pdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdXAKICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9IFByb3BlcnR5QXV0aG9yaXphdGlvbjo6UGVybWlzc2lvbi53aGVyZShyb2xlOiAnZGVsZXRlX2ZpbGVzJywgcHJpdmlsZWdlOiAnd3JpdGUnKS50b19hLm1hcCgmOnVzZXJfcm9sZV9pZCkuam9pbignLCcpCiAgICBub25fZGVsZXRlX3VzZXJfcm9sZXMgPSAnTlVMTCcgaWYgbm9uX2RlbGV0ZV91c2VyX3JvbGVzLmJsYW5rPwoKICAgIGV4ZWN1dGUgPDwtU1FMCiAgICAgIERFTEVURSBGUk9NIHBlcm1pc3Npb25zCiAgICAgIFdIRVJFIHJvbGUgPSAnZGVsZXRlX2ZpbGVzJwogICAgU1FMCgogICAgZXhlY3V0ZSA8PC1TUUwKICAgICAgVVBEQVRFIHBlcm1pc3Npb25zCiAgICAgIFNFVCBwcml2aWxlZ2UgPSAnd3JpdGVfd2l0aG91dF9kZWxldGUnCiAgICAgIFdIRVJFIHJvbGUgPSAnZmlsZXMnIGFuZCBwcml2aWxlZ2UgPSAnd3JpdGUnIGFuZCB1c2VyX3JvbGVfaWQgTk9UIElOICgje25vbl9kZWxldGVfdXNlcl9yb2xlc30pCiAgICBTUUwKICBlbmQKCiAgZGVmIGRvd24KICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9IFByb3BlcnR5QXV0aG9yaXphdGlvbjo6UGVybWlzc2lvbi53aGVyZShyb2xlOiAnZmlsZXMnLCBwcml2aWxlZ2U6ICd3cml0ZV93aXRob3V0X2RlbGV0ZScpLnRvX2EubWFwKCY6dXNlcl9yb2xlX2lkKS5qb2luKCcsJykKICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9ICdOVUxMJyBpZiBub25fZGVsZXRlX3VzZXJfcm9sZXMuYmxhbms/CgogICAgZXhlY3V0ZSA8PC1TUUwKICAgICAgSU5TRVJUIElOVE8gcGVybWlzc2lvbnModXNlcl9yb2xlX2lkLCByb2xlLCBwcml2aWxlZ2UsIGNyZWF0ZWRfYXQsIHVwZGF0ZWRfYXQpCiAgICAgIFNFTEVDVCB1c2VyX3JvbGVfaWQsICdkZWxldGVfZmlsZXMnIEFTIHJvbGUsICd3cml0ZScgQVMgcHJpdmlsZWdlLCBOT1coKSBhcyBjcmVhdGVkX2F0LCBOT1coKSBhcyB1cGRhdGVkX2F0CiAgICAgIEZST00gcGVybWlzc2lvbnMgV0hFUkUgcm9sZSA9ICdmaWxlcycgQU5EIHByaXZpbGVnZSA9ICd3cml0ZScgYW5kIHVzZXJfcm9sZV9pZCBOT1QgSU4gKCN7bm9uX2RlbGV0ZV91c2VyX3JvbGVzfSkKICAgIFNRTAoKICAgIGV4ZWN1dGUgPDwtU1FMCiAgICAgIFVQREFURSBwZXJtaXNzaW9ucwogICAgICBTRVQgcHJpdmlsZWdlID0gJ3dyaXRlJwogICAgICBXSEVSRSByb2xlID0gJ2ZpbGVzJyBhbmQgcHJpdmlsZWdlID0gJ3dyaXRlX3dpdGhvdXRfZGVsZXRlJyBhbmQgdXNlcl9yb2xlX2lkIElOICgje25vbl9kZWxldGVfdXNlcl9yb2xlc30pCiAgICBTUUwKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyIGpzb246IHsgZXJyb3JfbWVzc2FnZTogbXNnLCB0eXBlOiAnYXR0YWNobWVudCcgfSwgc3RhdHVzOiA6dW5wcm9jZXNzYWJsZV9lbnRpdHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZW5kZXIganNvbjogeyBlcnJvcl9tZXNzYWdlOiBtc2d9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -488,57 +445,53 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgdXAKICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9IFByb3BlcnR5QXV0aG9yaXphdGlvbjo6UGVybWlzc2lvbi53aGVyZShyb2xlOiAnZGVsZXRlX2ZpbGVzJywgcHJpdmlsZWdlOiAnd3JpdGUnKS50b19hLm1hcCgmOnVzZXJfcm9sZV9pZCkuam9pbignLCcpCiAgICBub25fZGVsZXRlX3VzZXJfcm9sZXMgPSAnTlVMTCcgaWYgbm9uX2RlbGV0ZV91c2VyX3JvbGVzLmJsYW5rPwoKICAgIGV4ZWN1dGUgPDwtU1FMCiAgICAgIERFTEVURSBGUk9NIHBlcm1pc3Npb25zCiAgICAgIFdIRVJFIHJvbGUgPSAnZGVsZXRlX2ZpbGVzJwogICAgU1FMCgogICAgZXhlY3V0ZSA8PC1TUUwKICAgICAgVVBEQVRFIHBlcm1pc3Npb25zCiAgICAgIFNFVCBwcml2aWxlZ2UgPSAnd3JpdGVfd2l0aG91dF9kZWxldGUnCiAgICAgIFdIRVJFIHJvbGUgPSAnZmlsZXMnIGFuZCBwcml2aWxlZ2UgPSAnd3JpdGUnIGFuZCB1c2VyX3JvbGVfaWQgTk9UIElOICgje25vbl9kZWxldGVfdXNlcl9yb2xlc30pCiAgICBTUUwKICBlbmQKCiAgZGVmIGRvd24KICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9IFByb3BlcnR5QXV0aG9yaXphdGlvbjo6UGVybWlzc2lvbi53aGVyZShyb2xlOiAnZmlsZXMnLCBwcml2aWxlZ2U6ICd3cml0ZV93aXRob3V0X2RlbGV0ZScpLnRvX2EubWFwKCY6dXNlcl9yb2xlX2lkKS5qb2luKCcsJykKICAgIG5vbl9kZWxldGVfdXNlcl9yb2xlcyA9ICdOVUxMJyBpZiBub25fZGVsZXRlX3VzZXJfcm9sZXMuYmxhbms/CgogICAgZXhlY3V0ZSA8PC1TUUwKICAgICAgSU5TRVJUIElOVE8gcGVybWlzc2lvbnModXNlcl9yb2xlX2lkLCByb2xlLCBwcml2aWxlZ2UsIGNyZWF0ZWRfYXQsIHVwZGF0ZWRfYXQpCiAgICAgIFNFTEVDVCB1c2VyX3JvbGVfaWQsICdkZWxldGVfZmlsZXMnIEFTIHJvbGUsICd3cml0ZScgQVMgcHJpdmlsZWdlLCBOT1coKSBhcyBjcmVhdGVkX2F0LCBOT1coKSBhcyB1cGRhdGVkX2F0CiAgICAgIEZST00gcGVybWlzc2lvbnMgV0hFUkUgcm9sZSA9ICdmaWxlcycgQU5EIHByaXZpbGVnZSA9ICd3cml0ZScgYW5kIHVzZXJfcm9sZV9pZCBOT1QgSU4gKCN7bm9uX2RlbGV0ZV91c2VyX3JvbGVzfSkKICAgIFNRTAoKICAgIGV4ZWN1dGUgPDwtU1FMCiAgICAgIFVQREFURSBwZXJtaXNzaW9ucwogICAgICBTRVQgcHJpdmlsZWdlID0gJ3dyaXRlJwogICAgICBXSEVSRSByb2xlID0gJ2ZpbGVzJyBhbmQgcHJpdmlsZWdlID0gJ3dyaXRlX3dpdGhvdXRfZGVsZXRlJyBhbmQgdXNlcl9yb2xlX2lkIE5PVCBJTiAoI3tub25fZGVsZXRlX3VzZXJfcm9sZXN9KQogICAgU1FMCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIEBkb2N1bWVudF90ZW1wbGF0ZS50aW55bWNlPwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGUgPDwtU1FMCiAgICAgIERFTEVURSBGUk9NIHBlcm1pc3Npb25zCiAgICAgIFdIRVJFIHJvbGUgPSAnZmlsZXMnIGFuZCBwcml2aWxlZ2UgPSAnd3JpdGVfd2l0aG91dF9kZWxldGUnCiAgICBTUUwK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc19leGNlZWRfdG90YWxfcGRmX2F0dGFjaG1lbnRzX3NpemVfbGltaXQoQHRlbXBvcmFyeV9vYmplY3QpCiAgICAgICAgICBmbGFzaC5ub3dbOmVycm9yXSA9ICdUaGUgbGV0dGVyIGhhcyBiZWVuIHNhdmVkLCBidXQgdG90YWwgcGRmIGF0dGFjaG1lbnRzIHNpemUgY2Fubm90IGV4Y2VlZCAxMCBNZWdhYnl0ZXMuJwogICAgICAgICAgcmVuZGVyIHRlbXBsYXRlOiAnL2xldHRlcl93cml0aW5nL3NoYXJlZC9uZXdfZWRpdCcsIGxheW91dDogJ3dlYl9jb21tb24vbWFpbicsIHN0YXR1czogOnVucHJvY2Vzc2FibGVfZW50aXR5IGFuZCByZXR1cm4KICAgICAgICBlbmQKCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL19wZGZfdGVtcGxhdGUvX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlL2c=</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
       <register name="z" type="4">
         <text>require 'pry'; binding.pry</text>
       </register>
     </registers>
     <search>
-      <last-search>api</last-search>
+      <last-search encoding="base64">XDxpc19leGNlZWRfdG90YWxfYXR0YWNobWVudHNfc2l6ZV9saW1pdFw+</last-search>
       <last-offset />
-      <last-pattern>api</last-pattern>
-      <last-replace>_letter_content_only_pdf_template</last-replace>
-      <last-substitute>_pdf_template</last-substitute>
+      <last-pattern encoding="base64">XDxpc19leGNlZWRfdG90YWxfYXR0YWNobWVudHNfc2l6ZV9saW1pdFw+</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cF93b3JrX29yZGVyXD4=</entry>
-        <entry>_pdf_template</entry>
-        <entry encoding="base64">XDxDT05UQUNUX0NFTlRFUl9NQU5BR0VSX1JPTEVcPg==</entry>
-        <entry>self</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxhY2Nlc3NfcGFnZVw+</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
@@ -555,6 +508,10 @@
         <entry>write</entry>
         <entry>ae</entry>
         <entry>api</entry>
+        <entry encoding="base64">XDxmbGFzaFw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVfcGFyYW1zXD4=</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">XDxpc19leGNlZWRfdG90YWxfYXR0YWNobWVudHNfc2l6ZV9saW1pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLytcL3MrLy9n</entry>
@@ -574,9 +531,9 @@
         <entry encoding="base64">JzwsJz5zL28yL3BnMi9n</entry>
         <entry encoding="base64">JzwsJz5zL28zL3BnMy9n</entry>
         <entry encoding="base64">JzwsJz5zL3RleHQvaWQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL19wZGZfdGVtcGxhdGUvX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
