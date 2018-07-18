@@ -53,6 +53,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__production.xml" timestamp="1531936011862">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/config/initializer/work_order_after_create.rb" timestamp="1531344174101">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="21" />
@@ -233,6 +239,7 @@
         <mark key="^" line="24" column="74" />
         <mark key="." line="24" column="74" />
       </file>
+      <file name="$USER_HOME$/src/my-addin/appfolio-manifest__qa.xml" timestamp="1531935709737" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/app/models/search/filters/work_order_status_date_filter.rb" timestamp="1531431377402">
         <mark key="'" line="10" column="44" />
         <mark key="[" line="79" column="0" />
@@ -436,7 +443,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -463,7 +470,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>api</text>
