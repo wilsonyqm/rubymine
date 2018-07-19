@@ -3010,6 +3010,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_audit_trail (v2.8.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.8.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.8.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_audit_trail-2.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="af_authenticator (v1.1.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_authenticator-1.1.0/bin" />
@@ -12278,6 +12288,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.8.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.8.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="af_testing (v8.9.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.9.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="afm (v0.2.2, RVM: ruby-2.2.3) [gem]">
@@ -21860,6 +21882,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/guest_cards_models-1.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="guest_cards_models (v1.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/guest_cards_models-1.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/guest_cards_models-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/guest_cards_models-1.7.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/guest_cards_models-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gyoku (v1.3.1, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/gyoku-1.3.1/lib" />
@@ -22018,6 +22050,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/harness-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="has_secure_token (v1.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/has_secure_token-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/has_secure_token-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/has_secure_token-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/has_secure_token-1.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="hash_digest (v1.1.3, RVM: ruby-2.3.3) [gem]">
@@ -26306,6 +26348,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-reporters-1.1.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/minitest-reporters-1.1.9/assets" />
+      </SOURCES>
+    </library>
+    <library name="minitest-reporters (v1.3.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-reporters-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-reporters-1.3.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-reporters-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-reporters-1.3.0/assets" />
       </SOURCES>
     </library>
     <library name="minitest_rollbar (v0.3.0, RVM: ruby-2.2.3 [global]) [gem]">
@@ -44262,6 +44314,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.6.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="web_flows (v8.7.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/coverage" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/web_flows-8.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="webmock (v1.20.3, RVM: ruby-2.3.3) [gem]">
