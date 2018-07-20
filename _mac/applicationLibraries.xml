@@ -2914,6 +2914,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_asset_store-1.2.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_asset_store (v1.2.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_asset_store-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_asset_store-1.2.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_asset_store-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_asset_store-1.2.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_audit_trail (v2.4.0, RVM: ruby-2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3/gems/af_audit_trail-2.4.0/app" />
@@ -18904,6 +18914,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v6.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-6.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="elasticsearch-api (v6.0.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.0.2/lib" />
@@ -18912,6 +18930,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.0.2/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v6.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.1.0/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-api-6.1.0/utils" />
       </SOURCES>
     </library>
     <library name="elasticsearch-dsl (v0.1.5, RVM: ruby-2.3.3) [gem]">
@@ -18928,6 +18956,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-transport-6.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v6.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-transport-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/elasticsearch-transport-6.1.0/lib" />
       </SOURCES>
     </library>
     <library name="enum_for_what (v0.0.1, RVM: ruby-2.2.3 [global]) [gem]">
