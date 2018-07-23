@@ -28,9 +28,9 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1532381645596">
-        <mark key="[" line="123" column="6" />
-        <mark key="]" line="123" column="11" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1532388729315">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="6" />
         <mark key="." line="123" column="11" />
         <mark key="^" line="123" column="11" />
       </file>
@@ -177,7 +177,7 @@
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532387207110">
+      <file name="/Dummy.txt" timestamp="1532388730184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/bulk_attachments_access_test.rb" timestamp="1531777861475">
@@ -317,8 +317,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test_filter_form_get_status_options_for_select__non_mcc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV93b3JrX29yZGVyX193aXRoX2Fub255bW91c191c2VyX19ub3RfbG9naW4KICAgICAgQXV0aG9yaXphdGlvbi5jdXJyZW50X3VzZXIgPSBBdXRob3JpemF0aW9uOjpBbm9ueW1vdXNVc2VyLm5ldwogICAgICBBdXRob3JpemF0aW9uLmN1cnJlbnRfdXNlci5leHBlY3RzKDppbnRlcm5hbF91c2VyPykubmV2ZXIKICAgICAgd28gPSBNYWludGVuYW5jZTo6V29ya09yZGVyLmNyZWF0ZV9leGVtcGxhcgogICAgICB3by51cGRhdGUoc3RhdHVzOiBNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVykKICAgICAgd28ucmVsb2FkCiAgICAgIGFzc2VydF9lcXVhbCB3by5zdGF0dXNfY29kZSwgTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpORVcuaWQKCiAgICAgIFdvcmtPcmRlck5ld1NlcnZpY2UubmV3LnVwZGF0ZV93b3JrX29yZGVyX25ld19tY2Nfc3RhdHVzKHdvKQogICAgICB3by5yZWxvYWQKICAgICAgYXNzZXJ0X2VxdWFsIHdvLnN0YXR1c19jb2RlLCBNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVy5pZAogICAgZW5kCg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -350,8 +350,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>test_filter_form_get_status_options_for_select__mcc_work_order_exist</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3VwZGF0ZV93b3JrX29yZGVyX193aXRoX2Fub255bW91c191c2VyX19ub3RfbG9naW4KICAgICAgQXV0aG9yaXphdGlvbi5jdXJyZW50X3VzZXIgPSBBdXRob3JpemF0aW9uOjpBbm9ueW1vdXNVc2VyLm5ldwogICAgICBBdXRob3JpemF0aW9uLmN1cnJlbnRfdXNlci5leHBlY3RzKDppbnRlcm5hbF91c2VyPykubmV2ZXIKICAgICAgd28gPSBNYWludGVuYW5jZTo6V29ya09yZGVyLmNyZWF0ZV9leGVtcGxhcgogICAgICB3by51cGRhdGUoc3RhdHVzOiBNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVykKICAgICAgd28ucmVsb2FkCiAgICAgIGFzc2VydF9lcXVhbCB3by5zdGF0dXNfY29kZSwgTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpORVcuaWQKCiAgICAgIFdvcmtPcmRlck5ld1NlcnZpY2UubmV3LnVwZGF0ZV93b3JrX29yZGVyX25ld19tY2Nfc3RhdHVzKHdvKQogICAgICB3by5yZWxvYWQKICAgICAgYXNzZXJ0X2VxdWFsIHdvLnN0YXR1c19jb2RlLCBNYWludGVuYW5jZTo6V29ya09yZGVyOjpTdGF0dXM6Ok5FVy5pZAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzLmFkZF9kZXBlbmRlbmN5ICdtYWludGVuYW5jZV9kb21haW4nCg==</text>
