@@ -18,6 +18,7 @@
         <mark key="^" line="1019" column="19" />
         <mark key="." line="1019" column="19" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/accounting/payable_invoices_controller_test.rb" timestamp="1532551549104" />
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.1/lib/declarative_authorization/helper.rb" timestamp="1532539966447">
         <mark key="'" line="59" column="8" />
       </file>
@@ -33,6 +34,7 @@
         <mark key="." line="2179" column="158" />
         <mark key="^" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting/payable_invoices_helper.rb" timestamp="1532552541103" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
         <mark key="[" line="7" column="66" />
       </file>
@@ -47,6 +49,8 @@
         <mark key="^" line="5" column="126" />
         <mark key="." line="5" column="126" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting_helper.rb" timestamp="1532552532064" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" timestamp="1532551998035" />
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ae_declarative_authorization-0.7.1/lib/declarative_authorization/authorization.rb" timestamp="1532540041896" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1532539878975">
         <mark key="'" line="10" column="25" />
@@ -58,12 +62,12 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/payable_invoice.rb" timestamp="1532544671778">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/payable_invoice.rb" timestamp="1532552889827">
         <mark key="'" line="331" column="6" />
         <mark key="[" line="334" column="63" />
-        <mark key="]" line="334" column="66" />
+        <mark key="]" line="334" column="63" />
         <mark key="^" line="334" column="66" />
-        <mark key="." line="334" column="66" />
+        <mark key="." line="334" column="63" />
       </file>
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
@@ -73,12 +77,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532544634362">
+      <file name="/Dummy.txt" timestamp="1532552516250">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/views/saved_reports_table_view.rb" timestamp="1532475226128">
-        <mark key="'" line="43" column="91" />
-        <mark key="[" line="18" column="71" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1532544564423">
         <mark key="'" line="18" column="4" />
@@ -206,8 +206,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQ29tcGFueS5zZXR0aW5ncy51cGRhdGUhKHJ1YnNfZW5hYmxlZDogdHJ1ZSwgYXZpZF9pbnRlZ3JhdGlvbl9lbmFibGVkOiB0cnVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>any_</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -234,7 +234,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>any_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZW5kb3JfY3JlZGl0X193cml0ZVw+</text>
