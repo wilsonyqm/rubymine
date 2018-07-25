@@ -12216,6 +12216,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="af_testing (v8.10.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_testing-8.10.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="af_testing (v8.3.0, RVM: ruby-2.2.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@global/gems/af_testing-8.3.0/lib" />
@@ -25030,6 +25042,24 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="knapsack (v1.16.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spec_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/test_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spinach_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spec_engine_examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spec_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/test_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spinach_examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/knapsack-1.16.0/spec_engine_examples" />
       </SOURCES>
     </library>
     <library name="konacha (v3.5.1, RVM: ruby-2.2.3) [gem]">
