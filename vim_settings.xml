@@ -18,11 +18,12 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_emails_job.rb" timestamp="1532626431739" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1532630655506">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1532632033003">
         <mark key="'" line="47" column="8" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/test/filters/filtering_form/filters/work_order_status_filter_test.rb" timestamp="1532387225127">
         <mark key="[" line="83" column="6" />
@@ -88,15 +89,15 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532630569624">
+      <file name="/Dummy.txt" timestamp="1532631440123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/property_models_reports_service.rb" timestamp="1532630638710" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" timestamp="1532630259868">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" timestamp="1532631724574">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="32" />
         <mark key="^" line="20" column="5" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/shared/_common_payable_sidebar_tasks.html.erb" timestamp="1532544599972">
         <mark key="[" line="2" column="143" />
@@ -219,17 +220,17 @@
       <jump line="79" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
       <jump line="18" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
       <jump line="28" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="13" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
-      <jump line="47" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
       <jump line="36" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
       <jump line="46" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_emails_job.rb" />
+      <jump line="13" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
+      <jump line="47" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBjb25jYXRlbmF0b3IgPDwgYXR0YWNobWVudHMgaWYgYXR0YWNobWVudHMucHJlc2VudD8gJiYgRXhwZXJpbWVudHMub24/KDphdHRhY2htZW50c19vbl9sZXR0ZXJzKQo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -256,49 +257,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>materialized_body</text>
+        <text>attachments</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRhY2htZW50XD4=</text>
+        <text encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>pdf_filename</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhdHRhY2htZW50cy5wcmVzZW50PyAmJiBFeHBlcmltZW50cy5vbj8oOmF0dGFjaG1lbnRzX29uX2xldHRlcnMpCiAgICAgICAgICBhdHRhY2htZW50cy5lYWNoIGRvIHxhdHRhY2htZW50fAogICAgICAgICAgICBjb25jYXRlbmF0b3IgPDwgYXR0YWNobWVudAogICAgICAgICAgZW5kCiAgICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBjb25jYXRlbmF0b3IgPDwgYXR0YWNobWVudHMgaWYgYXR0YWNobWVudHMucHJlc2VudD8gJiYgRXhwZXJpbWVudHMub24/KDphdHRhY2htZW50c19vbl9sZXR0ZXJzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBhdHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXR0YWNobWVudCA9IG5pbAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAZW1haWwgPSBAZW1haWxfb3B0aW9ucy50b19lbWFpbChjdXJyZW50X3VzZXIsIEByZWNpcGllbnRzLCB4X2hlYWRlcnM6IHhfaGVhZGVycykK</text>
+        <text encoding="base64">ICAgICAgYXR0YWNobWVudCA9IG5pbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBAZG9jdW1lbnRfdGVtcGxhdGUuZW1haWxfdGVtcGxhdGU/ICYmIEBkb2N1bWVudF90ZW1wbGF0ZS5hdHRhY2hlZF9yZXBvcnQucHJlc2VudD8KICAgICAgICAgIAogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBAZG9jdW1lbnRfdGVtcGxhdGUuYXR0YWNoZWRfcmVwb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZW1haWwgPSBAZW1haWxfb3B0aW9ucy50b19lbWFpbChjdXJyZW50X3VzZXIsIEByZWNpcGllbnRzLCB4X2hlYWRlcnM6IHhfaGVhZGVycykK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBAZG9jdW1lbnRfdGVtcGxhdGUuZW1haWxfdGVtcGxhdGU/ICYmIEBkb2N1bWVudF90ZW1wbGF0ZS5hdHRhY2hlZF9yZXBvcnQucHJlc2VudD8KICAgICAgICAgIAogICAgICAgIGVuZAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXR0YWNobWVudCA9IG5pbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBAZG9jdW1lbnRfdGVtcGxhdGUuYXR0YWNoZWRfcmVwb3J0Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -311,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRhY2htZW50XD4=</last-search>
+      <last-search encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRhY2htZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</last-pattern>
       <last-replace>write_without_delete</last-replace>
       <last-substitute>write</last-substitute>
       <last-dir>1</last-dir>
@@ -339,8 +340,8 @@
         <entry encoding="base64">XDx2ZW5kb3JfY3JlZGl0X193cml0ZVw+</entry>
         <entry encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</entry>
         <entry encoding="base64">XDxsZXR0ZXJfcGRmX3RlbXBsYXRlXD4=</entry>
-        <entry encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</entry>
         <entry encoding="base64">XDxhdHRhY2htZW50XD4=</entry>
+        <entry encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcci9cXG4vZw==</entry>
