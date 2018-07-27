@@ -165,10 +165,10 @@
         <mark key="^" line="5" column="126" />
         <mark key="." line="5" column="126" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1532652329488">
-        <mark key="'" line="47" column="8" />
-        <mark key="[" line="50" column="120" />
-        <mark key="]" line="50" column="80" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" timestamp="1532654974783">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="74" />
         <mark key="." line="50" column="80" />
         <mark key="^" line="50" column="80" />
       </file>
@@ -353,7 +353,7 @@
         <mark key="]" line="83" column="74" />
         <mark key="." line="83" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532652420026">
+      <file name="/Dummy.txt" timestamp="1532655482087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -396,12 +396,12 @@
         <mark key="^" line="99" column="81" />
         <mark key="." line="99" column="81" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" timestamp="1532653471194">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="30" column="45" />
-        <mark key="." line="14" column="23" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" timestamp="1532655607113">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="15" column="106" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="16" column="9" />
+        <mark key="." line="16" column="9" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/filters_form_test.rb" timestamp="1532387223854">
         <mark key="[" line="205" column="10" />
@@ -415,9 +415,9 @@
         <mark key="^" line="2" column="157" />
         <mark key="." line="2" column="157" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/models/letter_composition/concatenated_pdf_template.rb" timestamp="1532652774044">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="13" column="32" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/models/letter_composition/concatenated_pdf_template.rb" timestamp="1532655448018">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="23" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
@@ -459,9 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="113" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="115" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="144" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="145" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="146" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
@@ -559,13 +556,16 @@
       <jump line="19" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
       <jump line="13" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
       <jump line="28" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
+      <jump line="83" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/services/letter_composition/document_template_composer.rb" />
+      <jump line="18" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/controllers/letter_writing_methods.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnRG9jdW1lbnQnLCBhdHRhY2htZW50LmF0dGFjaGFibGVfdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgW3BkZl90ZW1wbGF0ZSwgcGRmX2ZpbGVuYW1lXQo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -592,49 +592,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>.is_a? String</text>
+        <text encoding="base64">cGRmX3RlbXBsYXRlLCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZV9kb2N1bWVudF9fZW1haWxcPg==</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAnRG9jdW1lbnQnLCBhdHRhY2htZW50LmF0dGFjaGFibGVfdHlwZQo=</text>
+      <register name="0" type="4">
+        <text>pdf_filename_with_body</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9uaWwgcGRmX2ZpbGVuYW1lCiAgICBhc3NlcnRfbmlsIGF0dGFjaG1lbnQK</text>
+        <text encoding="base64">ICAgICAgW3BkZl90ZW1wbGF0ZSwgcGRmX2ZpbGVuYW1lXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9uaWwgcGRmX2ZpbGVuYW1lCiAgICBhc3NlcnRfbmlsIGF0dGFjaG1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBwZGZfZmlsZW5hbWVfd2l0aF9ib2R5ID0gTGV0dGVyQ29tcG9zaXRpb246OkNvbmNhdGVuYXRlZFBkZlRlbXBsYXRlLm5ldy50YXAgZG8gfGNvbmNhdGVuYXRvcnwKICAgICAgICAgIGNvbmNhdGVuYXRvciA8PCAKICAgICAgICAgIGNvbmNhdGVuYXRvciA8PCBwZGZfdGVtcGxhdGUKICAgICAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZGZfZmlsZW5hbWVfd2l0aF9ib2R5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbmNhdGVuYXRvciA8PCBnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZShwYXJ0eSwgYWRkaXRpb25hbF9tb2RlbHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50ID0gYXR0YWNoX2RvY3VtZW50KGRvY3VtZW50X3RlbXBsYXRlLCBwYXJ0eSwgcGRmX2ZpbGVuYW1lLCBvcHRpb25zKSBpZiBwZGZfZmlsZW5hbWUucHJlc2VudD8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRhY2htZW50ID0gYXR0YWNoX2RvY3VtZW50KGRvY3VtZW50X3RlbXBsYXRlLCBwYXJ0eSwgcGRmX2ZpbGVuYW1lLCBvcHRpb25zKSBpZiBwZGZfZmlsZW5hbWUucHJlc2VudD8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgQGRvY3VtZW50X3RlbXBsYXRlLmF0dGFjaGVkX3JlcG9ydC5wcmVzZW50PwogICAgICAgICAgICAgIGNvbmNhdGVuYXRvciA8PCBsZXR0ZXJfcGRmX3RlbXBsYXRlKGNvbnRlbnQsIHBhcnR5KSBpZiBjb250ZW50LnByZXNlbnQ/CiAgICAgICAgICAgICAgY29uY2F0ZW5hdG9yIDw8IFByb3BlcnR5TW9kZWxzLnJlcG9ydHNfc2VydmljZS5yZXBvcnRfcGRmX3RlbXBsYXRlKAogICAgICAgICAgICAgICAgQGRvY3VtZW50X3RlbXBsYXRlLmF0dGFjaGVkX3JlcG9ydC50b19zeW0sCiAgICAgICAgICAgICAgICBwYXJ0eV9pZHM6IFtwcmVmaXhlZF9wYXJ0eV9pZChwYXJ0eSldKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgY29uY2F0ZW5hdG9yIDw8IGxldHRlcl9wZGZfdGVtcGxhdGUoY29udGVudCwgcGFydHkpCiAgICAgICAgICAgIGVuZAogICAgICAgICAgICBhdHRhY2htZW50cyA9IGdldF9kb2N1bWVudF90ZW1wbGF0ZV9hdHRhY2htZW50cwogICAgICAgICAgICBpZiBhdHRhY2htZW50cy5wcmVzZW50PyAmJiBFeHBlcmltZW50cy5vbj8oOmF0dGFjaG1lbnRzX29uX2xldHRlcnMpCiAgICAgICAgICAgICAgYXR0YWNobWVudHMuZWFjaCBkbyB8YXR0YWNobWVudHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9uaWwgcGRmX2ZpbGVuYW1lCiAgICBhc3NlcnRfbmlsIGF0dGFjaG1lbnQK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGRmX2ZpbGVuYW1lID0gZ2VuZXJhdGVfZG9jdW1lbnQoZG9jdW1lbnRfdGVtcGxhdGUsIHBhcnR5LCBhZGRpdGlvbmFsX21vZGVscykKICAgICAgYXR0YWNobWVudCA9IGF0dGFjaF9kb2N1bWVudChkb2N1bWVudF90ZW1wbGF0ZSwgcGFydHksIHBkZl9maWxlbmFtZSwgb3B0aW9ucykgaWYgcGRmX2ZpbGVuYW1lLnByZXNlbnQ/Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9uaWwgcGRmX2ZpbGVuYW1lCiAgICBhc3NlcnRfbmlsIGF0dGFjaG1lbnQK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgZG9jdW1lbnRfdGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICBwZGZfZmlsZW5hbWVfd2l0aF9ib2R5Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -647,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZV9kb2N1bWVudF9fZW1haWxcPg==</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9kb2N1bWVudF9fZW1haWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -657,9 +657,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZW5kb3JfY3JlZGl0X193cml0ZVw+</entry>
         <entry encoding="base64">XDxtYXRlcmlhbGl6ZWRfYm9keVw+</entry>
-        <entry encoding="base64">XDxsZXR0ZXJfcGRmX3RlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxhdHRhY2htZW50XD4=</entry>
         <entry encoding="base64">XDxwZGZfdGVtcGxhdGVcPg==</entry>
         <entry>pdf_template</entry>
@@ -677,6 +675,8 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9kb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9kb2N1bWVudF9fZW1haWxcPg==</entry>
+        <entry encoding="base64">XDxsZXR0ZXJfcGRmX3RlbXBsYXRlXD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcci9cXG4vZw==</entry>
