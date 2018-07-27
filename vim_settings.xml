@@ -117,6 +117,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/letter_writing/vendor_letters_pdf_methods.rb" timestamp="1532650106255">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status.rb" timestamp="1531344123815">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="21" />
@@ -135,9 +141,12 @@
         <mark key="^" line="50" column="86" />
         <mark key="." line="50" column="46" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/letter_writing/tenant_letters_pdf_methods.rb" timestamp="1532627874743">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" timestamp="1532650128565">
+        <mark key="'" line="87" column="134" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/junk_drawer/letter_writing/tenant_letters_pdf_methods.rb" timestamp="1532649824394">
+        <mark key="[" line="9" column="186" />
+        <mark key="]" line="9" column="223" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_emails_job.rb" timestamp="1532645619373" />
@@ -217,7 +226,7 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_letter_emails_job.rb" timestamp="1532645615845">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_tenant_letter_emails_job.rb" timestamp="1532649971522">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -335,7 +344,7 @@
         <mark key="]" line="83" column="74" />
         <mark key="." line="83" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532647607573">
+      <file name="/Dummy.txt" timestamp="1532650251578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -368,6 +377,10 @@
         <mark key="." line="80" column="52" />
         <mark key="^" line="80" column="52" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/renderers/letter_writing/pdf_letter_renderer.rb" timestamp="1532650007808">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/owner_packet_report.rb" timestamp="1532453980696">
         <mark key="[" line="99" column="81" />
         <mark key="]" line="99" column="81" />
@@ -397,6 +410,13 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_owner_emails_job.rb" timestamp="1532650250788">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/accounting/check_writing_flows_controller_test.rb" timestamp="1532544995096">
         <mark key="[" line="585" column="0" />
@@ -429,11 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="530" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="531" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="532" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
-      <jump line="533" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="537" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="538" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
       <jump line="539" column="13" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" />
@@ -529,13 +544,18 @@
       <jump line="71" column="131" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
       <jump line="86" column="131" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
       <jump line="42" column="132" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
+      <jump line="23" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/app/jobs/letter_writing/generate_owner_emails_job.rb" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" />
+      <jump line="54" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" />
+      <jump line="95" column="75" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" />
+      <jump line="87" column="134" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_owner_emails_job_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -562,13 +582,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5fYXR0YWNobWVudFw+</text>
+        <text>assign</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9uaWwgcGRmX2ZpbGVuYW1lCiAgICBhc3NlcnRfbmlsIGF0dGFjaG1lbnQK</text>
+      <register name="0" type="4">
+        <text>(return_attachment: false)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBwZGZfZmlsZW5hbWUuaXNfYT8gU3RyaW5nCiAgICBhc3NlcnRfZXF1YWwgYXR0YWNobWVudCwgbmlsCg==</text>
@@ -617,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5fYXR0YWNobWVudFw+</last-search>
+      <last-search>assign</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5fYXR0YWNobWVudFw+</last-pattern>
+      <last-pattern>assign</last-pattern>
       <last-replace>write_without_delete</last-replace>
       <last-substitute>write</last-substitute>
       <last-dir>1</last-dir>
@@ -627,9 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write_access</entry>
-        <entry encoding="base64">XDxvd25lcl9kcmF3X193cml0ZVw+</entry>
-        <entry>draw</entry>
         <entry encoding="base64">XDxvd25lcl9kcmF3XD4=</entry>
         <entry encoding="base64">XDxoYXNfd3JpdGVfYWNjZXNzXD4=</entry>
         <entry>permit</entry>
@@ -647,6 +664,9 @@
         <entry encoding="base64">XDxlbWFpbF90ZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDx0XzIxNVw+</entry>
         <entry encoding="base64">XDxyZXR1cm5fYXR0YWNobWVudFw+</entry>
+        <entry encoding="base64">XDxiYXRjaF9pZGVudGlmaWVyXD4=</entry>
+        <entry>block</entry>
+        <entry>assign</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcci9cXG4vZw==</entry>
