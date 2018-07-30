@@ -27,11 +27,11 @@
         <mark key="^" line="291" column="15" />
         <mark key="." line="291" column="15" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180730203554_add_new_assigned_mcc_state_in_work_order.rb" timestamp="1532989260462">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="146" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="8" column="87" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180730203554_add_new_assigned_mcc_state_in_work_order.rb" timestamp="1532990535182">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/accounting/check_writing_flows_controller.rb" timestamp="1532544889672">
         <mark key="'" line="125" column="51" />
@@ -374,7 +374,12 @@
         <mark key="^" line="265" column="53" />
         <mark key="." line="266" column="41" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1532982315215" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1532991164960">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="40" column="87" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="40" column="57" />
+      </file>
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -459,7 +464,7 @@
         <mark key="." line="10" column="82" />
         <mark key="^" line="10" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532989136600">
+      <file name="/Dummy.txt" timestamp="1532991365715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -493,12 +498,12 @@
         <mark key="^" line="2" column="157" />
         <mark key="." line="2" column="157" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1532989136177">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1532991365191">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="11" column="115" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/app/models/letter_composition/concatenated_pdf_template.rb" timestamp="1532655448018">
         <mark key="[" line="0" column="7" />
@@ -638,8 +643,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgSk9JTiBtYWludGVuYW5jZV93b3JrX29yZGVyX2FjdGl2aXRpZXMgQVMgbXdvYSBPTiBtd29hLndvcmtfb3JkZXJfaWQgPSBtd28uaWQgQU5EIG13b2EuZGV0YWlscyA9ICdBc3NpZ25lZCcK</text>
+      <register name="&quot;" type="4">
+        <text>has_assigned_by_mcc_user</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -666,34 +671,34 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>has_assigned_by_mcc_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVkX2FuZF9hc3NpZ25lZF9ieV9tY2NfdXNlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgSk9JTiBtYWludGVuYW5jZV93b3JrX29yZGVyX2FjdGl2aXRpZXMgQVMgbXdvYSBPTiBtd29hLndvcmtfb3JkZXJfaWQgPSBtd28uaWQgQU5EIChtd29hLmRldGFpbHMgPSAnQXNzaWduZWQnIE9SIG13b2EuZGV0YWlscyA9ICdVbmFzc2lnbmVkJykK</text>
+      <register name="0" type="4">
+        <text>has_assigned_by_mcc_work_order</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgSk9JTiBtYWludGVuYW5jZV93b3JrX29yZGVyX2FjdGl2aXRpZXMgQVMgbXdvYSBPTiBtd29hLndvcmtfb3JkZXJfaWQgPSBtd28uaWQgQU5EIG13b2EuZGV0YWlscyA9ICdBc3NpZ25lZCcK</text>
+        <text encoding="base64">CiAgICBkZWYgaGFzX2Fzc2lnbmVkX2J5X21jY193b3JrX29yZGVyCiAgICAgIE1haW50ZW5hbmNlOjpXb3JrT3JkZXIuZXhpc3RzPyhzdGF0dXNfY29kZTogTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpBU1NJR05FRF9CWV9NQ0MuaWQpCiAgICBlbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBpZiBNYWludGVuYW5jZURvbWFpbjo6V29ya09yZGVyTmV3U2VydmljZS5uZXcuaGFzX25ld19ieV9tY2Nfd29ya19vcmRlciAlPgogICAgICAgIDwlIGFzc2lnbmVkX3BhdGggPSBtYWludGVuYW5jZV93ZWJfZW5naW5lLnNlcnZpY2VfcmVxdWVzdHNfd29ya19vcmRlcnNfcGF0aChmaWx0ZXJzOiB7IHN0YXR1c19wYXJhbTogTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpBU1NJR05FRC5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVmaXhlZF9wcm9wZXJ0eV9hbmRfZ3JvdXBfaWRzX2xpc3Q6IFtAcHJvcGVydHlfbGlzdC50cnkoOnByZWZpeGVkX2lkKV0gfSkgJT4KICAgICAgICA8ZGl2IGNsYXNzPSJ3aWRnZXQtaW5mby1ib3ggbWFpbnRlbmFuY2VfX3dvcmstb3JkZXJzX193aWRnZXQtaW5mby1ib3giIGRhdGEtaHJlZj0iPCU9IGFzc2lnbmVkX3BhdGggJT4iPgogICAgICAgICAgPHNwYW4gY2xhc3M9ImpzLWFzc2lnbmVkLXdvcmstb3JkZXJzIHdpZGdldC1pbmZvLWJveF9fZGF0dW0iPjwlPSBsaW5rX3RvIG1haW50ZW5hbmNlX21ldHJpY3Nfc2VydmljZS53b3JrX29yZGVyX2NvdW50c1s6YXNzaWduZWRfd29ya19vcmRlcnNdLCBhc3NpZ25lZF9wYXRoICU+PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9IndpZGdldC1pbmZvLWJveF9fZGVzY3JpcHRpb24iPkFzc2lnbmVkPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVkX2FuZF9hc3NpZ25lZF9ieV9tY2NfdXNlcj8od29ya19vcmRlcikKICAgICAgaXNfbWNjX3VzZXI/KHdvcmtfb3JkZXIuY3JlYXRlZF9ieSkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgSk9JTiBtYWludGVuYW5jZV93b3JrX29yZGVyX2FjdGl2aXRpZXMgQVMgbXdvYSBPTiBtd29hLndvcmtfb3JkZXJfaWQgPSBtd28uaWQgQU5EIG13b2EuZGV0YWlscyA9ICdBc3NpZ25lZCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd29ya19vcmRlci5wYXJ0eS5wcmVzZW50PyAmJgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVkX2FuZF9hc3NpZ25lZF9ieV9tY2NfdXNlcj8od29ya19vcmRlcikKICAgICAgaXNfbWNjX3VzZXI/KHdvcmtfb3JkZXIuY3JlYXRlZF9ieSkKICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd29ya19vcmRlci5hbnk/IGRvIHx3b3wK</text>
+        <text encoding="base64">ICAgICAgd29ya19vcmRlci5wYXJ0eS5wcmVzZW50PyAmJgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgZW5kCg==</text>
@@ -708,7 +713,7 @@
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIE1haW50ZW5hbmNlOjpXb3JrT3JkZXJBY3Rpdml0eS53aGVyZSh3b3JrX29yZGVyOiB3bykuYW55PyBkbyB8YWN0aXZpdHl8CiAgICAgICAgICAgIGlzX21jY191c2VyPyhhY3Rpdml0eS51c2VyKSAmJiBhY3Rpdml0eS5kZXRhaWxzID09IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6QVNTSUdORUQubmFtZQogICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
