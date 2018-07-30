@@ -15,12 +15,12 @@
         <mark key="." line="75" column="53" />
         <mark key="^" line="75" column="53" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting/payable_invoices_helper.rb" timestamp="1532973484769">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting/payable_invoices_helper.rb" timestamp="1532981717716">
         <mark key="'" line="73" column="6" />
-        <mark key="[" line="74" column="143" />
-        <mark key="]" line="74" column="147" />
-        <mark key="^" line="74" column="147" />
-        <mark key="." line="74" column="147" />
+        <mark key="[" line="144" column="20" />
+        <mark key="]" line="144" column="37" />
+        <mark key="^" line="144" column="29" />
+        <mark key="." line="144" column="20" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status_observer.rb" timestamp="1532381882568">
         <mark key="[" line="7" column="25" />
@@ -152,12 +152,11 @@
         <mark key="." line="109" column="74" />
         <mark key="^" line="109" column="74" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/payable_invoice_test.rb" timestamp="1532973134199">
-        <mark key="'" line="1939" column="23" />
-        <mark key="[" line="1939" column="23" />
-        <mark key="]" line="1939" column="44" />
-        <mark key="." line="1939" column="23" />
-        <mark key="^" line="1960" column="42" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/payable_invoice_test.rb" timestamp="1532981666747">
+        <mark key="[" line="2001" column="29" />
+        <mark key="]" line="2001" column="46" />
+        <mark key="^" line="1981" column="32" />
+        <mark key="." line="2001" column="29" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/jobs/letter_writing/generate_vendor_emails_job_test.rb" timestamp="1532726941845">
         <mark key="'" line="97" column="33" />
@@ -211,11 +210,11 @@
         <mark key="^" line="48" column="107" />
         <mark key="." line="48" column="107" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting_helper.rb" timestamp="1532974251974">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/accounting_helper.rb" timestamp="1532981673761">
         <mark key="[" line="53" column="103" />
-        <mark key="]" line="53" column="107" />
+        <mark key="]" line="53" column="103" />
         <mark key="^" line="53" column="107" />
-        <mark key="." line="53" column="107" />
+        <mark key="." line="53" column="103" />
       </file>
       <file name="$USER_HOME$/src/ae_declarative_authorization/lib/declarative_authorization/version.rb" timestamp="1531779825426">
         <mark key="[" line="1" column="17" />
@@ -235,7 +234,6 @@
         <mark key="^" line="48" column="9" />
         <mark key="." line="48" column="9" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/accounting/payable_invoices/_sidebar_show.html.erb" timestamp="1532970902739" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/document_template_composer_test.rb" timestamp="1532659516432">
         <mark key="'" line="471" column="33" />
         <mark key="[" line="402" column="0" />
@@ -308,12 +306,12 @@
         <mark key="]" line="30" column="91" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/payable_invoice.rb" timestamp="1532973142890">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/payable_invoice.rb" timestamp="1532981716658">
         <mark key="'" line="331" column="6" />
         <mark key="[" line="341" column="6" />
-        <mark key="]" line="341" column="32" />
-        <mark key="^" line="341" column="18" />
-        <mark key="." line="341" column="18" />
+        <mark key="]" line="341" column="22" />
+        <mark key="^" line="341" column="15" />
+        <mark key="." line="341" column="15" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/work_orders_controller/filter_field_generator.rb" timestamp="1532379870771">
         <mark key="[" line="120" column="101" />
@@ -380,12 +378,8 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1532976588115">
         <mark key="'" line="63" column="2" />
-        <mark key="[" line="79" column="11" />
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532973153664">
+      <file name="/Dummy.txt" timestamp="1532981684872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/my-addin/src/test/lib/utils/excel/table_helper.test.js" timestamp="1530833930601">
@@ -607,7 +601,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>email_on_letters</text>
+        <text>has_modify_access</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -634,13 +628,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>available_reports.present?</text>
+        <text>has_modify_access</text>
       </register>
       <register name="/" type="4">
         <text>Email Template</text>
       </register>
       <register name="0" type="4">
-        <text>email_on_letters</text>
+        <text>has_modify_access</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgZGVmIHRlc3RfaGFzX3dyaXRlX3dpdGhvdXRfZGVsZXRlX2FjY2VzcwogICAgcm9sZXMgPSBbCiAgICAgIFs6dXRpbGl0eV9iaWxsLCA6dXRpbGl0eV9iaWxsaW5nXSwKICAgICAgWzpiaWxsLCA6YmlsbF0sCiAgICAgIFs6Y3JlZGl0LCA6dmVuZG9yX2NyZWRpdF0sCiAgICAgIFs6b3duZXJfZHJhdywgOm93bmVyX2RyYXddLAogICAgICBbOnRlbmFudF9wYXlhYmxlLCA6dGVuYW50X3BheWFibGVdCiAgICBdCgogICAgWzp3cml0ZV93aXRob3V0X2RlbGV0ZSwgOndyaXRlXS5lYWNoIGRvIHxwcml2aWxlZ2V8CiAgICAgIHJvbGVzLmVhY2ggZG8gfHJvbGV8CiAgICAgICAgaW52b2ljZSA9IGNyZWF0ZV9wYXlhYmxlX2ludm9pY2Uoe30sIHsgYW1vdW50OiAxMCB9LCBhbW91bnQ6IDEwKQogICAgICAgIGludm9pY2Uuc3R1YnMoOndoYXRfdXNlcnNfY2FsbF9tZSkucmV0dXJucyhyb2xlLmZpcnN0KQoKICAgICAgICB1c2VyID0gUHJvcGVydHlBdXRob3JpemF0aW9uOjpVc2VyLmNyZWF0ZV9leGVtcGxhciEKICAgICAgICB1c2VyLnVzZXJfcm9sZS5wZXJtaXNzaW9ucy5jcmVhdGUocm9sZTogcm9sZS5sYXN0LCBwcml2aWxlZ2U6IHByaXZpbGVnZSkKICAgICAgICBhc3NlcnQgaW52b2ljZS5oYXNfd3JpdGVfYWNjZXNzPyh1c2VyKQogICAgICBlbmQKICAgIGVuZAogIGVuZAoKICBkZWYgdGVzdF9oYXNfd3JpdGVfd2l0aG91dF9kZWxldGVfYWNjZXNzX19kZW5pZWQKICAgIHJvbGVzID0gWwogICAgICBbOnV0aWxpdHlfYmlsbCwgOnV0aWxpdHlfYmlsbGluZ10sCiAgICAgIFs6YmlsbCwgOmJpbGxdLAogICAgICBbOmNyZWRpdCwgOnZlbmRvcl9jcmVkaXRdLAogICAgICBbOm93bmVyX2RyYXcsIDpvd25lcl9kcmF3XSwKICAgICAgWzp0ZW5hbnRfcGF5YWJsZSwgOnRlbmFudF9wYXlhYmxlXQogICAgXQogICAgWzp3cml0ZV93aXRob3V0X2RlbGV0ZSwgOnJlYWRdLmVhY2ggZG8gfHByaXZpbGVnZXwKICAgICAgcm9sZXMuZWFjaCBkbyB8cm9sZXwKICAgICAgICBpbnZvaWNlID0gY3JlYXRlX3BheWFibGVfaW52b2ljZSh7fSwgeyBhbW91bnQ6IDEwIH0sIGFtb3VudDogMTApCiAgICAgICAgaW52b2ljZS5zdHVicyg6d2hhdF91c2Vyc19jYWxsX21lKS5yZXR1cm5zKHJvbGUuZmlyc3QpCgogICAgICAgIHVzZXIgPSBQcm9wZXJ0eUF1dGhvcml6YXRpb246OlVzZXIuY3JlYXRlX2V4ZW1wbGFyIQogICAgICAgIHVzZXIudXNlcl9yb2xlLnBlcm1pc3Npb25zLmNyZWF0ZShyb2xlOiByb2xlLmxhc3QsIHByaXZpbGVnZTogcHJpdmlsZWdlKQogICAgICAgIGFzc2VydF9mYWxzZSBpbnZvaWNlLmhhc193cml0ZV9hY2Nlc3M/KHVzZXIpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
