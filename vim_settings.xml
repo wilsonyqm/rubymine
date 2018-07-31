@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1533059980807">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1533061793510">
         <mark key="'" line="21" column="59" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="92" column="5" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="111" column="14" />
+        <mark key="]" line="111" column="19" />
+        <mark key="^" line="111" column="19" />
+        <mark key="." line="111" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533059546931">
+      <file name="/Dummy.txt" timestamp="1533063251987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1532993612835">
@@ -22,23 +22,24 @@
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180730204457_add_new_assigned_mcc_state_in_work_order.property_models_engine.rb" timestamp="1532989257516">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="145" />
-        <mark key="." line="5" column="145" />
-        <mark key="^" line="5" column="145" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180730204457_add_new_assigned_mcc_state_in_work_order.property_models_engine.rb" timestamp="1533064202012">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="73" />
+        <mark key="." line="6" column="73" />
+        <mark key="^" line="6" column="73" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/test/dummy/lib/authorization_web/dummy_property_authorization_permissions.rb" timestamp="1533062966911" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status_observer.rb" timestamp="1532987791739">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="69" />
         <mark key="." line="9" column="29" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180730203554_add_new_assigned_mcc_state_in_work_order.rb" timestamp="1532990535182">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="63" />
-        <mark key="^" line="6" column="28" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180730203554_add_new_assigned_mcc_state_in_work_order.rb" timestamp="1533064209518">
+        <mark key="[" line="6" column="99" />
+        <mark key="]" line="6" column="98" />
+        <mark key="." line="6" column="98" />
+        <mark key="^" line="6" column="98" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/maintenance/service_requests/work_orders/create_service.rb" timestamp="1532989165672">
         <mark key="[" line="27" column="16" />
@@ -53,10 +54,6 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order_activity.rb" timestamp="1532982770101">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="73" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/services/reports/maintenance_metrics_service_test.rb" timestamp="1532991688130">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="0" column="0" />
@@ -64,13 +61,21 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1533059372702">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533063090603" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1533063192394" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1533061693904">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="39" column="32" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_user_roles.rb" timestamp="1533063568251">
+        <mark key="[" line="63" column="76" />
+        <mark key="]" line="63" column="77" />
+        <mark key="^" line="63" column="77" />
+        <mark key="." line="63" column="77" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/test/dummy/config/initializers/property_authorization.rb" timestamp="1533062953604" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/maintenance_metrics_service.rb" timestamp="1532993838965">
         <mark key="'" line="97" column="14" />
         <mark key="[" line="109" column="14" />
@@ -80,11 +85,18 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/actions/action_base_controller.rb" timestamp="1532986829491">
         <mark key="'" line="60" column="12" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/config/initializers/property_authorization_defaults.rb" timestamp="1533062670530" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/leases/app/assets/stylesheets/leases/rental_agreements.scss" timestamp="1526078798803">
         <mark key="[" line="7" column="66" />
       </file>
       <file name="/JavaScript Console" timestamp="1527281187780">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_user_roles_test.rb" timestamp="1533063965543">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="85" column="41" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/services/maintenance_web/service_requests/work_orders/work_order_update_service.rb" timestamp="1532989063443">
         <mark key="'" line="38" column="12" />
@@ -201,7 +213,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3dvcmtfb3JkZXJfYXNzaWduZWRfYnlfbWNjX3N0YXR1cyh3b3JrX29yZGVyKQogICAgICBpZiB3b3JrX29yZGVyLnN0YXR1c19jb2RlID09IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6QVNTSUdORUQuaWQgJiYgaXNfbWNjX3VzZXIod29ya19vcmRlci5jcmVhdGVkX2J5KQogICAgICAgIHdvcmtfb3JkZXIudXBkYXRlIShzdGF0dXM6IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6QVNTSUdORURfQllfTUNDKQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -228,49 +240,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>'Bill'</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
-      <register name="0" type="4">
-        <text>Maintenance::WorkOrder::Status::ASSIGNED_BY_MCC</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBiaWxsX3Blcm1pc3Npb25zID0gcmVzdWx0c1swXQogICAgICAgIGFzc2VydF9lcXVhbCAnQmlsbCcsIGJpbGxfcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX1BFUk1JU1NJT05fTkFNRV0KICAgICAgICBhc3NlcnRfZXF1YWwgJ0dsb2JhbCcsIGJpbGxfcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX1BFUk1JU1NJT05fSEVBREVSX05BTUVdCiAgICAgICAgYXNzZXJ0X2VxdWFsICd3cml0ZScsIGJpbGxfcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX1BSRVNJREVOVF0KICAgICAgICBhc3NlcnRfZXF1YWwgJ3dyaXRlJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fQUNDT1VOVEFOVF0KICAgICAgICBhc3NlcnRfZXF1YWwgJ3dyaXRlJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fUFJPUEVSVFlfTUFOQUdFUl0KICAgICAgICBhc3NlcnRfZXF1YWwgJ3JlYWQnLCBiaWxsX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9PTl9TSVRFX01BTkFHRVJdCiAgICAgICAgYXNzZXJ0X2VxdWFsICdyZWFkJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fTEVBU0lOR19BR0VOVF0KICAgICAgICBhc3NlcnRfZXF1YWwgJ3dyaXRlJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fQUNDT1VOVFNfUEFZQUJMRV0KICAgICAgICBhc3NlcnRfZXF1YWwgJ2hpZGRlbicsIGJpbGxfcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX0FDQ09VTlRTX1JFQ0VJVkFCTEVdCiAgICAgICAgYXNzZXJ0X2VxdWFsICdyZWFkJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fVklFV19PTkxZXQogICAgICAgIGFzc2VydF9lcXVhbCAnaGlkZGVuJywgYmlsbF9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fTUFJTlRFTkFOQ0VfQ09PUkRJTkFUT1JdCiAgICAgICAgYXNzZXJ0X2VxdWFsICdoaWRkZW4nLCBiaWxsX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9NQUlOVEVOQU5DRV9URUNIXQogICAgICAgIGFzc2VydF9lcXVhbCAnd3JpdGUnLCBiaWxsX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9SRUdJT05BTF9NQU5BR0VSXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3dvcmtfb3JkZXJfYXNzaWduZWRfYnlfbWNjX3N0YXR1cyh3b3JrX29yZGVyKQogICAgICBpZiB3b3JrX29yZGVyLnN0YXR1c19jb2RlID09IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6QVNTSUdORUQuaWQgJiYgaXNfbWNjX3VzZXIod29ya19vcmRlci5jcmVhdGVkX2J5KQogICAgICAgIHdvcmtfb3JkZXIudXBkYXRlIShzdGF0dXM6IE1haW50ZW5hbmNlOjpXb3JrT3JkZXI6OlN0YXR1czo6QVNTSUdORURfQllfTUNDKQogICAgICBlbmQKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaGFzaFs6YXNzaWduZWRfYnlfbWNjXSA9IGNvdW50X2J5X2Fzc2lnbmVkX21jYyBpZiBjb3VudF9ieV9hc3NpZ25lZF9tY2MgPiAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBoYXNfbmV3X2J5X21jY193b3JrX29yZGVyID0gTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19uZXdfYnlfbWNjX3dvcmtfb3JkZXIgJT4KICAgICAgICA8JSBpbmZvX2JveF9jbGFzcyA9IGhhc19uZXdfYnlfbWNjX3dvcmtfb3JkZXIgPyAnbWFpbnRlbmFuY2VfX3dvcmstb3JkZXJzX193aWRnZXQtaW5mby1ib3gtaGFsZicgOiAnbWFpbnRlbmFuY2VfX3dvcmstb3JkZXJzX193aWRnZXQtaW5mby1ib3gnICU+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgbW92ZV9pbl9wZXJtaXNzaW9ucyA9IHJlc3VsdHNbMl0KICAgICAgICBhc3NlcnRfZXF1YWwgJ01vdmUgSW4gVGVuYW50JywgbW92ZV9pbl9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fUEVSTUlTU0lPTl9OQU1FXQogICAgICAgIGFzc2VydF9lcXVhbCAnVGVuYW50JywgbW92ZV9pbl9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fUEVSTUlTU0lPTl9IRUFERVJfTkFNRV0KICAgICAgICBhc3NlcnRfZXF1YWwgJ3dyaXRlJywgbW92ZV9pbl9wZXJtaXNzaW9uc1tSZXBvcnRzOjpCdWZmZXJlZFVzZXJSb2xlczo6Q05fUFJFU0lERU5UXQogICAgICAgIGFzc2VydF9lcXVhbCAnd3JpdGUnLCBtb3ZlX2luX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9BQ0NPVU5UQU5UXQogICAgICAgIGFzc2VydF9lcXVhbCAnd3JpdGUnLCBtb3ZlX2luX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9QUk9QRVJUWV9NQU5BR0VSXQogICAgICAgIGFzc2VydF9lcXVhbCAnd3JpdGUnLCBtb3ZlX2luX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9PTl9TSVRFX01BTkFHRVJdCiAgICAgICAgYXNzZXJ0X2VxdWFsICd3cml0ZScsIG1vdmVfaW5fcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX0xFQVNJTkdfQUdFTlRdCiAgICAgICAgYXNzZXJ0X2VxdWFsICd3cml0ZScsIG1vdmVfaW5fcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX0FDQ09VTlRTX1BBWUFCTEVdCiAgICAgICAgYXNzZXJ0X2VxdWFsICd3cml0ZScsIG1vdmVfaW5fcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX0FDQ09VTlRTX1JFQ0VJVkFCTEVdCiAgICAgICAgYXNzZXJ0X2VxdWFsICdoaWRkZW4nLCBtb3ZlX2luX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9WSUVXX09OTFldCiAgICAgICAgYXNzZXJ0X2VxdWFsICdoaWRkZW4nLCBtb3ZlX2luX3Blcm1pc3Npb25zW1JlcG9ydHM6OkJ1ZmZlcmVkVXNlclJvbGVzOjpDTl9NQUlOVEVOQU5DRV9DT09SRElOQVRPUl0KICAgICAgICBhc3NlcnRfZXF1YWwgJ2hpZGRlbicsIG1vdmVfaW5fcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX01BSU5URU5BTkNFX1RFQ0hdCiAgICAgICAgYXNzZXJ0X2VxdWFsICd3cml0ZScsIGJpbGxfcGVybWlzc2lvbnNbUmVwb3J0czo6QnVmZmVyZWRVc2VyUm9sZXM6OkNOX1JFR0lPTkFMX01BTkFHRVJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19hc3NpZ25lZF9ieV9tY2Nfd29ya19vcmRlcgogICAgICAgIGhhc2hbOm5ld19ieV9tY2NdID0gY291bnRfYnlfYXNzaWduZWRfbWNjCiAgICAgIGVsc2UKICAgICAgICBoYXNoWzpuZXdfd29ya19vcmRlcnNdICs9IGNvdW50X2J5X2Fzc2lnbmVkX21jYwogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19hc3NpZ25lZF9ieV9tY2Nfd29ya19vcmRlcgogICAgICAgIGhhc2hbOm5ld19ieV9tY2NdID0gY291bnRfYnlfYXNzaWduZWRfbWNjCiAgICAgIGVsc2UKICAgICAgICBoYXNoWzpuZXdfd29ya19vcmRlcnNdICs9IGNvdW50X2J5X2Fzc2lnbmVkX21jYwogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgUHJvcGVydHlBdXRob3JpemF0aW9uLnN0dWJzKDpwZXJtaXNzaW9uX2dyb3VwcykucmV0dXJucygKICAgICAgICBbCiAgICAgICAgICBTdHJ1Y3Q6OlBlcm1pc3Npb25Hcm91cC5uZXcoJ0dsb2JhbCcsIFt7IG5hbWU6ICdOb3RlcycsIHJvbGU6IDpub3RlcyB9LCB7IG5hbWU6ICdCaWxsJywgcm9sZTogOmJpbGwgfV0pLAogICAgICAgICAgU3RydWN0OjpQZXJtaXNzaW9uR3JvdXAubmV3KCdUZW5hbnQnLCBbeyBuYW1lOiAnTW92ZSBJbiBUZW5hbnQnLCByb2xlOiA6bW92ZV9pbiB9XSkKICAgICAgICBdCiAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoWzpuZXdfd29ya19vcmRlcnNdICs9IGNvdW50X2J5X25ld19tY2MK</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">CiAgICBzZXR1cCBkbwogICAgICBQcm9wZXJ0eUF1dGhvcml6YXRpb24uc3R1YnMoOnBlcm1pc3Npb25fZ3JvdXBzKS5yZXR1cm5zKAogICAgICAgIFsKICAgICAgICAgIFN0cnVjdDo6UGVybWlzc2lvbkdyb3VwLm5ldygnR2xvYmFsJywgW3sgbmFtZTogJ05vdGVzJywgcm9sZTogOm5vdGVzIH0sIHsgbmFtZTogJ0JpbGwnLCByb2xlOiA6YmlsbCB9XSksCiAgICAgICAgICBTdHJ1Y3Q6OlBlcm1pc3Npb25Hcm91cC5uZXcoJ1RlbmFudCcsIFt7IG5hbWU6ICdNb3ZlIEluIFRlbmFudCcsIHJvbGU6IDptb3ZlX2luIH1dKQogICAgICAgIF0KICAgICAgKQogICAgZW5kCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWxzZQo=</text>
+        <text encoding="base64">cmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19uZXdfYnlfbWNjX3dvcmtfb3JkZXIK</text>
+        <text encoding="base64">ICAgICAgUHJvcGVydHlBdXRob3JpemF0aW9uLnN0dWJzKDpwZXJtaXNzaW9uX2dyb3VwcykucmV0dXJucygKICAgICAgICBbCiAgICAgICAgICBTdHJ1Y3Q6OlBlcm1pc3Npb25Hcm91cC5uZXcoJ0dsb2JhbCcsIFt7IG5hbWU6ICdOb3RlcycsIHJvbGU6IDpub3RlcyB9LCB7IG5hbWU6ICdCaWxsJywgcm9sZTogOmJpbGwgfV0pLAogICAgICAgICAgU3RydWN0OjpQZXJtaXNzaW9uR3JvdXAubmV3KCdUZW5hbnQnLCBbeyBuYW1lOiAnTW92ZSBJbiBUZW5hbnQnLCByb2xlOiA6bW92ZV9pbiB9XSkKICAgICAgICBdCiAgICAgICkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
