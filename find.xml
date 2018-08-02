@@ -2,18 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*es6</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.es5</mask>
-      <mask>*.es6</mask>
       <mask>*.es</mask>
       <mask>*.e</mask>
-      <mask>*.</mask>
       <mask>*.erb</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
@@ -36,6 +28,12 @@
       <mask>controller.r</mask>
       <mask>controller.rb</mask>
       <mask>*controller.rb</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
