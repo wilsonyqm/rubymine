@@ -3,20 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1533166855713">
-        <mark key="'" line="85" column="40" />
-        <mark key="[" line="52" column="76" />
-        <mark key="]" line="52" column="80" />
-        <mark key="^" line="52" column="80" />
-        <mark key="." line="52" column="80" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1533145228790">
-        <mark key="[" line="42" column="130" />
-        <mark key="]" line="42" column="149" />
-        <mark key="^" line="51" column="69" />
-        <mark key="." line="51" column="69" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1533166579589" />
       <file name="/Ruby Console" timestamp="1530123865719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,12 +29,9 @@
         <mark key="]" line="114" column="90" />
         <mark key="." line="114" column="60" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/views/maintenance_web/service_requests/work_orders/index.html.erb" timestamp="1533146425087" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/test/dummy/config/initializers/property_authorization.rb" timestamp="1533062953604" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/service_requests/actions/action_base_controller.rb" timestamp="1532986829491">
         <mark key="'" line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/config/initializers/property_authorization_defaults.rb" timestamp="1533062670530" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" timestamp="1533143822391">
         <mark key="'" line="92" column="13" />
       </file>
@@ -70,12 +53,6 @@
         <mark key="]" line="984" column="102" />
         <mark key="." line="984" column="102" />
         <mark key="^" line="984" column="102" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/observers/maintenance_domain/update_new_mcc_status_observer_test.rb" timestamp="1533166769605">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="80" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="85" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_user_roles_test.rb" timestamp="1533063965543">
         <mark key="[" line="83" column="0" />
@@ -100,15 +77,12 @@
         <mark key="^" line="84" column="75" />
         <mark key="." line="84" column="75" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/date_range_filter.rb" timestamp="1533078227538" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/views/maintenance_web/service_requests/work_orders/_new_filter_form.erb" timestamp="1533146471151" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180730204457_add_new_assigned_mcc_state_in_work_order.property_models_engine.rb" timestamp="1533162730384">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/authorization_web/test/dummy/lib/authorization_web/dummy_property_authorization_permissions.rb" timestamp="1533062966911" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180801234428_add_leasing_mcc_role_into_mcc_work_order.property_models_engine.rb" timestamp="1533167163844">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="14" column="71" />
@@ -128,26 +102,17 @@
         <mark key="^" line="93" column="5" />
         <mark key="." line="93" column="5" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533063090603" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1533063192394" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/filters_form_test.rb" timestamp="1533146664231">
-        <mark key="[" line="202" column="25" />
-        <mark key="]" line="202" column="25" />
-        <mark key="." line="202" column="25" />
-        <mark key="^" line="202" column="25" />
+        <mark key="[" line="201" column="25" />
+        <mark key="]" line="201" column="25" />
+        <mark key="." line="201" column="25" />
+        <mark key="^" line="201" column="25" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180801233124_add_leasing_mcc_role_into_mcc_work_order.rb" timestamp="1533167113863">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/services/maintenance_domain/work_order_new_service.rb" timestamp="1533166837779">
-        <mark key="'" line="26" column="66" />
-        <mark key="[" line="26" column="101" />
-        <mark key="]" line="26" column="129" />
-        <mark key="." line="26" column="130" />
-        <mark key="^" line="26" column="130" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_user_roles.rb" timestamp="1533063568251">
         <mark key="[" line="63" column="76" />
