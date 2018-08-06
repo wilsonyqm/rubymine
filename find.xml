@@ -2,19 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.erb</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>s</mask>
-      <mask>sp</mask>
-      <mask>spe</mask>
-      <mask>spec</mask>
-      <mask>spec.</mask>
-      <mask>spec.j</mask>
       <mask>spec.js</mask>
       <mask>*spec.js</mask>
       <mask>co</mask>
@@ -27,13 +18,24 @@
       <mask>controller.</mask>
       <mask>controller.r</mask>
       <mask>controller.rb</mask>
-      <mask>*controller.rb</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
+      <mask>*co.rb</mask>
+      <mask>*con.rb</mask>
+      <mask>*cont.rb</mask>
+      <mask>*contrll.rb</mask>
+      <mask>*contrl.rb</mask>
+      <mask>*contr.rb</mask>
+      <mask>*contro.rb</mask>
+      <mask>*control.rb</mask>
+      <mask>*controll.rb</mask>
+      <mask>*controller.rb</mask>
     </recentFileMasks>
   </component>
 </application>
