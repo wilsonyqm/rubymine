@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/_maintenance.html.erb" timestamp="1533675713188" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/occupancies_helper.rb" timestamp="1533665289727">
         <mark key="'" line="95" column="6" />
         <mark key="[" line="93" column="31" />
@@ -20,11 +21,12 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/unit_groups_controller.rb" timestamp="1533578989989">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" timestamp="1533668000648">
-        <mark key="[" line="24" column="74" />
-        <mark key="]" line="24" column="82" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="74" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" timestamp="1533676237641">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="26" column="87" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1533237513858">
         <mark key="'" line="25" column="40" />
@@ -36,7 +38,11 @@
         <mark key="." line="93" column="62" />
         <mark key="^" line="93" column="62" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1533667814022">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/test/services/maintenance_domain/work_order_new_service_test.rb" timestamp="1533674302542">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_maintenance.html.erb" timestamp="1533675474925">
         <mark key="[" line="17" column="19" />
         <mark key="]" line="17" column="43" />
         <mark key="." line="18" column="51" />
@@ -45,15 +51,19 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/occupancies_controller.rb" timestamp="1533662984540">
         <mark key="'" line="913" column="39" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_rental_applications_breakdown.html.erb" timestamp="1533676126025" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_receivables_activity_test.rb" timestamp="1533581591462" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" timestamp="1533665634107">
         <mark key="'" line="2497" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" timestamp="1533674944509">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/document_templates.js.erb" timestamp="1533243867070">
         <mark key="'" line="47" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533667693884">
+      <file name="/Dummy.txt" timestamp="1533676436424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/unit_groups/_sidebar_show.html.erb" timestamp="1533583017674">
@@ -91,11 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4002" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" />
-      <jump line="4003" column="90" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" />
-      <jump line="4005" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" />
-      <jump line="4011" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" />
-      <jump line="4013" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" />
       <jump line="1389" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="982" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
       <jump line="1134" column="56" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
@@ -191,13 +196,18 @@
       <jump line="98" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/occupancies_helper_test.rb" />
       <jump line="579" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/occupancies_helper_test.rb" />
       <jump line="565" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/occupancies_helper_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/dashboard_controller_test.rb" />
+      <jump line="51" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" />
+      <jump line="55" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" />
+      <jump line="70" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" />
+      <jump line="8" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>New</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8JSByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSAlPgo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -224,49 +234,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>New</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaWRlX29yX3VuaGlkZV90ZW5hbnRfc2lkZWJhcl90YXNrX2hpZGRlbl90ZXN0X2Nhc2VcPg==</text>
+        <text encoding="base64">XDx3b3JrX29yZGVyc19icmVha2Rvd25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Assigned</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IE5ldyxcXG4gICAgICAgICAgdmFsdWU6IDMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhYmVsOiAnQXNzaWduZWQnLAo=</text>
+        <text encoding="base64">ICA8JSByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSAlPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBoYXNfYXNzaWduZWRfYnlfbWNjX3dvcmtfb3JkZXIgPSBNYWludGVuYW5jZURvbWFpbjo6V29ya09yZGVyTmV3U2VydmljZS5uZXcuaGFzX2Fzc2lnbmVkX2J5X21jY193b3JrX29yZGVyICU+Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBoYXNfbmV3X2J5X21jY193b3JrX29yZGVyID0gTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19uZXdfYnlfbWNjX3dvcmtfb3JkZXIgJT4K</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIGRlbGV0ZQo=</text>
+        <text encoding="base64">ICAgIDMudGltZXMgZG8KICAgICAgTWFpbnRlbmFuY2U6OldvcmtPcmRlci5jcmVhdGVfZXhlbXBsYXIKICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZpZXcuZXhwZWN0cyg6YWNjZXNzX3RvX3BhdGg/KS5yZXR1cm5zIAo=</text>
+        <text encoding="base64">ICAgICAgd28udXBkYXRlKHN0YXR1czogTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpORVdfQllfTUNDKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpZXcuZXhwZWN0cyg6YWNjZXNzX3RvX3BhdGg/KS5yZXR1cm5zIGhhc19hY2Nlc3MK</text>
+        <text encoding="base64">ICAgICAgICAgIGxhYmVsOiAnQXNzaWduZWQnLAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9jY3VwYW5jeSA9IE9jY3VwYW5jeS5jcmVhdGVfZXhlbXBsYXIhCg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBoYXNfYXNzaWduZWRfYnlfbWNjX3dvcmtfb3JkZXIgPSBNYWludGVuYW5jZURvbWFpbjo6V29ya09yZGVyTmV3U2VydmljZS5uZXcuaGFzX2Fzc2lnbmVkX2J5X21jY193b3JrX29yZGVyICU+Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8JSBoYXNfbmV3X2J5X21jY193b3JrX29yZGVyID0gTWFpbnRlbmFuY2VEb21haW46OldvcmtPcmRlck5ld1NlcnZpY2UubmV3Lmhhc19uZXdfYnlfbWNjX3dvcmtfb3JkZXIgJT4K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -279,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaWRlX29yX3VuaGlkZV90ZW5hbnRfc2lkZWJhcl90YXNrX2hpZGRlbl90ZXN0X2Nhc2VcPg==</last-search>
+      <last-search encoding="base64">XDx3b3JrX29yZGVyc19icmVha2Rvd25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaWRlX29yX3VuaGlkZV90ZW5hbnRfc2lkZWJhcl90YXNrX2hpZGRlbl90ZXN0X2Nhc2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JrX29yZGVyc19icmVha2Rvd25cPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -289,8 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show</entry>
-        <entry encoding="base64">XDxwZXJtaXR0ZWRfdG9cPg==</entry>
         <entry>sidebar</entry>
         <entry>&quot;</entry>
         <entry>show__side</entry>
@@ -309,6 +317,8 @@
         <entry encoding="base64">XDx1bmhpZGVfdGVuYW50X3NpZGViYXJfdGFza1w+</entry>
         <entry encoding="base64">XDxoaWRlX29yX3VuaGlkZV90ZW5hbnRfc2lkZWJhcl90YXNrXD4=</entry>
         <entry encoding="base64">XDxoaWRlX29yX3VuaGlkZV90ZW5hbnRfc2lkZWJhcl90YXNrX2hpZGRlbl90ZXN0X2Nhc2VcPg==</entry>
+        <entry>mcc</entry>
+        <entry encoding="base64">XDx3b3JrX29yZGVyc19icmVha2Rvd25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
