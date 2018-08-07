@@ -3,6 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/work_orders/views/work_orders_sorter_test.rb" timestamp="1533078836807">
+        <mark key="[" line="45" column="190" />
+        <mark key="]" line="45" column="220" />
+        <mark key="^" line="45" column="220" />
+        <mark key="." line="45" column="220" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/whats_news/20180802233110_status_by_mcc.yml" timestamp="1533252870729">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_domain/app/observers/maintenance_domain/update_new_mcc_status_observer.rb" timestamp="1533075439813">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180730203554_add_new_assigned_mcc_state_in_work_order.rb" timestamp="1533166372309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="/_maintenance.html.erb" timestamp="1533675713188" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/occupancies_helper.rb" timestamp="1533665289727">
         <mark key="'" line="95" column="6" />
@@ -11,15 +35,51 @@
         <mark key="^" line="93" column="19" />
         <mark key="." line="93" column="39" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/stylesheets/dashboard/_maintenance.scss" timestamp="1533145241780">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/screenings/app/controllers/screenings/decisions/criteria_controller.rb" timestamp="1533593644634" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" timestamp="1533594029993">
         <mark key="'" line="3961" column="15" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/saffron/vendor/assets/javascripts/ckeditor/styles.js" timestamp="1533237348983">
+        <mark key="[" line="107" column="77" />
+        <mark key="]" line="107" column="81" />
+        <mark key="." line="107" column="81" />
+        <mark key="^" line="107" column="81" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180730204457_add_new_assigned_mcc_state_in_work_order.property_models_engine.rb" timestamp="1533162730384">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/units_controller.rb" timestamp="1533577355361">
         <mark key="'" line="515" column="2" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180801233124_add_leasing_mcc_role_into_mcc_work_order.rb" timestamp="1533167113863">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/unit_groups_controller.rb" timestamp="1533578989989">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing/document_template_loader_test.rb" timestamp="1533681291922">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="79" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="13" column="79" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/services/maintenance_web/service_requests/work_orders/work_order_update_service_test.rb" timestamp="1533073202056">
+        <mark key="[" line="267" column="115" />
+        <mark key="]" line="267" column="123" />
+        <mark key="." line="267" column="115" />
+        <mark key="^" line="265" column="18" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_work_orders_breakdown.html.erb" timestamp="1533676237641">
         <mark key="'" line="8" column="16" />
@@ -28,8 +88,12 @@
         <mark key="^" line="26" column="87" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1533237513858">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/ckeditor/letter_writing_config.js.erb" timestamp="1533680963991">
         <mark key="'" line="25" column="40" />
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="48" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/occupancies_helper_test.rb" timestamp="1533665553152">
         <mark key="'" line="565" column="6" />
@@ -52,7 +116,19 @@
         <mark key="'" line="913" column="39" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/dashboard/statistics/_rental_applications_breakdown.html.erb" timestamp="1533676126025" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/letter_writing/document_templates_helper_test.rb" timestamp="1533251620201">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_receivables_activity_test.rb" timestamp="1533581591462" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/letter_writing/document_template_loader.rb" timestamp="1533681118905">
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="10" column="80" />
+        <mark key="^" line="10" column="80" />
+        <mark key="." line="10" column="80" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" timestamp="1533665634107">
         <mark key="'" line="2497" column="0" />
         <mark key="^" line="15" column="9" />
@@ -63,6 +139,12 @@
         <mark key="]" line="1005" column="73" />
         <mark key="^" line="1005" column="73" />
         <mark key="." line="1005" column="73" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_user_roles_test.rb" timestamp="1533063965543">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="85" column="41" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/letter_writing/document_templates.js.erb" timestamp="1533243867070">
         <mark key="'" line="47" column="11" />
@@ -80,8 +162,26 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_sidebar_show.html.erb" timestamp="1533665071951">
         <mark key="'" line="122" column="8" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180801234428_add_leasing_mcc_role_into_mcc_work_order.property_models_engine.rb" timestamp="1533167163844">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="14" column="71" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/api/app/helpers/api/reports_api_helper.rb" timestamp="1533250015344">
         <mark key="'" line="33" column="146" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/maintenance/service_requests/work_orders/create_service.rb" timestamp="1533078086239">
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
+        <mark key="^" line="27" column="85" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/filters_form_test.rb" timestamp="1533146664231">
+        <mark key="[" line="201" column="25" />
+        <mark key="]" line="201" column="25" />
+        <mark key="." line="201" column="25" />
+        <mark key="^" line="201" column="25" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1533594164703" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533665686132">
@@ -89,6 +189,12 @@
         <mark key="]" line="90" column="6" />
         <mark key="^" line="90" column="6" />
         <mark key="." line="90" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_user_roles.rb" timestamp="1533063568251">
+        <mark key="[" line="63" column="76" />
+        <mark key="]" line="63" column="77" />
+        <mark key="^" line="63" column="77" />
+        <mark key="." line="63" column="77" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/units/_sidebar_show.html.erb" timestamp="1533592096526">
         <mark key="[" line="45" column="0" />
@@ -211,7 +317,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -238,49 +344,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3JrX29yZGVyc19icmVha2Rvd25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAibGFiZWw6IFxcJ0Fzc2lnbmVkXFwnLFxcbiAgICAgICAgICB2YWx1ZTogNCIK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJyZXNpemUsIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IE5ldyxcXG4gICAgICAgICAgdmFsdWU6IDMnCg==</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJsaW5rLCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IEFzc2lnbmVkLFxcbiAgICAgICAgICB2YWx1ZTogNCcK</text>
+        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJsaW5rLCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IFRvdGFsIEFzc2lnbmVkLFxcbiAgICAgICAgICB2YWx1ZTogMTEnCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IE5ldyxcXG4gICAgICAgICAgdmFsdWU6IDMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8JSByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSAlPgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IEFzc2lnbmVkLFxcbiAgICAgICAgICB2YWx1ZTogNCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9pbmNsdWRlIEByZXNwb25zZS5ib2R5LCAnbGFiZWw6IFRvdGFsIEFzc2lnbmVkLFxcbiAgICAgICAgICB2YWx1ZTogMTEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICA8JSByZXF1aXJlICdwcnknOyBiaW5kaW5nLnByeSAlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDMudGltZXMgZG8KICAgICAgTWFpbnRlbmFuY2U6OldvcmtPcmRlci5jcmVhdGVfZXhlbXBsYXIKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd28udXBkYXRlKHN0YXR1czogTWFpbnRlbmFuY2U6OldvcmtPcmRlcjo6U3RhdHVzOjpORVdfQllfTUNDKQo=</text>
+        <text encoding="base64">ICAgIDMudGltZXMgZG8KICAgICAgTWFpbnRlbmFuY2U6OldvcmtPcmRlci5jcmVhdGVfZXhlbXBsYXIKICAgIGVuZAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
