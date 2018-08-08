@@ -47,6 +47,12 @@
         <mark key="^" line="35" column="67" />
         <mark key="." line="35" column="57" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533753059856">
+        <mark key="[" line="58" column="56" />
+        <mark key="]" line="58" column="56" />
+        <mark key="." line="58" column="56" />
+        <mark key="^" line="55" column="56" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/injections/web_common_hooks/whats_new_interpolations.rb" timestamp="1533252869072">
         <mark key="'" line="25" column="106" />
         <mark key="[" line="311" column="8" />
@@ -99,7 +105,7 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="81" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533750444257">
+      <file name="/Dummy.txt" timestamp="1533752985573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violations_access_test.rb" timestamp="1533682739491">
@@ -202,6 +208,7 @@
         <mark key="]" line="71" column="83" />
         <mark key="." line="71" column="83" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search/user_verb_filter.rb" timestamp="1533753008552" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/occupancies/tenant_portal_activations_access_test.rb" timestamp="1533682645646">
         <mark key="[" line="23" column="57" />
         <mark key="]" line="23" column="88" />
@@ -321,7 +328,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, :inspections__write</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -348,7 +355,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, :inspections__write</text>
       </register>
       <register name="/" type="4">
         <text>:write</text>
