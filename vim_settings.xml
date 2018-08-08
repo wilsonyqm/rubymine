@@ -12,9 +12,9 @@
         <mark key="." line="28" column="71" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" timestamp="1533754595653">
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="44" column="64" />
-        <mark key="." line="44" column="64" />
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="64" />
+        <mark key="." line="38" column="64" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/occupancies_helper.rb" timestamp="1533665289727">
         <mark key="'" line="95" column="6" />
@@ -112,11 +112,11 @@
         <mark key="^" line="35" column="67" />
         <mark key="." line="35" column="57" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533753059856">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="58" column="56" />
-        <mark key="." line="58" column="56" />
-        <mark key="^" line="55" column="56" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533764065534">
+        <mark key="[" line="43" column="69" />
+        <mark key="]" line="43" column="83" />
+        <mark key="." line="43" column="83" />
+        <mark key="^" line="43" column="83" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/unit_groups_access_test.rb" timestamp="1533754997576">
         <mark key="'" line="25" column="121" />
@@ -150,10 +150,10 @@
         <mark key="." line="14" column="52" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/units_controller_test.rb" timestamp="1533762190424">
-        <mark key="[" line="869" column="47" />
-        <mark key="]" line="869" column="51" />
-        <mark key="^" line="869" column="51" />
-        <mark key="." line="869" column="51" />
+        <mark key="[" line="854" column="47" />
+        <mark key="]" line="854" column="51" />
+        <mark key="^" line="854" column="51" />
+        <mark key="." line="854" column="51" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/roommates_access_test.rb" timestamp="1533682448251">
         <mark key="[" line="27" column="55" />
@@ -187,22 +187,18 @@
         <mark key="." line="35" column="88" />
         <mark key="^" line="35" column="88" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1533764618696">
+        <mark key="'" line="1634" column="76" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/unit_groups_controller_test.rb" timestamp="1533762605320">
-        <mark key="'" line="203" column="33" />
-        <mark key="[" line="203" column="39" />
-        <mark key="]" line="203" column="54" />
-        <mark key="^" line="203" column="54" />
-        <mark key="." line="203" column="54" />
+        <mark key="'" line="181" column="33" />
+        <mark key="[" line="181" column="39" />
+        <mark key="]" line="181" column="54" />
+        <mark key="^" line="181" column="54" />
+        <mark key="." line="181" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="96" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/debt_collections/submissions/tenant_infos_access_test.rb" />
-      <jump line="14" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/emails_web/emails_access_test.rb" />
-      <jump line="15" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/emails_web/emails_access_test.rb" />
-      <jump line="30" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/minnesota_crps/forms_access_test.rb" />
-      <jump line="30" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_tasks_access_test.rb" />
-      <jump line="27" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_tasks_access_test.rb" />
-      <jump line="31" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_tasks_access_test.rb" />
       <jump line="89" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
       <jump line="85" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
       <jump line="111" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
@@ -296,13 +292,20 @@
       <jump line="182" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/unit_groups_controller_test.rb" />
       <jump line="181" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/unit_groups_controller_test.rb" />
       <jump line="203" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/unit_groups_controller_test.rb" />
+      <jump line="1470" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1601" column="66" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1606" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1625" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1632" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1633" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1634" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Bed</text>
+        <text>:tenant__write</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -329,13 +332,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>Bed</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Delete</text>
+        <text>vendor__</text>
       </register>
       <register name="0" type="4">
-        <text>unit_group_read_actions + unit_group_write_actions + unit_group_update_actions</text>
+        <text>:tenant__write</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCA6dG8gPT4gdW5pdF9ncm91cF9yZWFkX2FjdGlvbnMgKyB1bml0X2dyb3VwX3dyaXRlX2FjdGlvbnMgKyB1bml0X2dyb3VwX3VwZGF0ZV9hY3Rpb25zLCA6d2hlbiA9PiA6cmVhZAogICAgICAgIHVzZXJfaXMuZGVuaWVkIDp0byA9PiB1bml0X2dyb3VwX3JlYWRfYWN0aW9ucyArIHVuaXRfZ3JvdXBfd3JpdGVfYWN0aW9ucyArIHVuaXRfZ3JvdXBfdXBkYXRlX2FjdGlvbnMsIDp3aGVuID0+IFs6d3JpdGVfd2l0aG91dF9kZWxldGUsIDp3cml0ZV0K</text>
@@ -384,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Delete</last-search>
+      <last-search>vendor__</last-search>
       <last-offset />
-      <last-pattern>Delete</last-pattern>
+      <last-pattern>vendor__</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -394,8 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZVw+</entry>
-        <entry>property</entry>
         <entry>role 'property</entry>
         <entry>role 'propert</entry>
         <entry>role 'pro</entry>
@@ -414,6 +415,8 @@
         <entry>photo</entry>
         <entry>def destroy</entry>
         <entry>Delete</entry>
+        <entry>vendor</entry>
+        <entry>vendor__</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
