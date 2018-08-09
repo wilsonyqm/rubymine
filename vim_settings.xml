@@ -106,7 +106,8 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/properties/_violation_actions_edit.html.erb" timestamp="1533837603034" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/rent_increases_controller.rb" timestamp="1533750453140" />
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533764065534">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533839994188">
+        <mark key="'" line="55" column="80" />
         <mark key="[" line="43" column="69" />
         <mark key="]" line="43" column="83" />
         <mark key="." line="43" column="83" />
@@ -181,8 +182,8 @@
         <mark key="." line="35" column="88" />
         <mark key="^" line="35" column="88" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1533837418425">
-        <mark key="'" line="1223" column="43" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1533840139856">
+        <mark key="'" line="641" column="23" />
         <mark key="[" line="1223" column="0" />
         <mark key="]" line="1223" column="0" />
         <mark key="." line="1223" column="0" />
@@ -198,11 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="89" column="86" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="95" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="101" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="107" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="113" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="119" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="129" column="94" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
@@ -298,6 +294,11 @@
       <jump line="2157" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="1215" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="1223" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="55" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" />
+      <jump line="1315" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2144" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="627" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="641" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -334,7 +335,7 @@
         <text>director_board_packet</text>
       </register>
       <register name="/" type="4">
-        <text>violation</text>
+        <text encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOmluZGV4LCA6bGlzdCwgOnByaW50LCA6YnVsa19hY3Rpb25dCiAgICBoYXNfcGVybWlzc2lvbl9vbiA6dmlvbGF0aW9uc190cmFja2luZ192aW9sYXRpb25zLCB0bzogWzpzaG93XSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgVmlvbGF0aW9uc1RyYWNraW5nOjpWaW9sYXRpb24udmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQKICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl90eXBlcywgdG86IFs6aW5kZXgsIDpsaXN0XQo=</text>
@@ -386,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>violation</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</last-search>
       <last-offset />
-      <last-pattern>violation</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -396,8 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
-        <entry encoding="base64">XDxjb25maXJtXD4=</entry>
         <entry>debt_collection</entry>
         <entry>email_web</entry>
         <entry>write</entry>
@@ -416,6 +415,8 @@
         <entry>director_board</entry>
         <entry>diretor_board</entry>
         <entry>violation</entry>
+        <entry encoding="base64">XDxtYWludGVuYW5jZV90ZWNoX21vYmlsZV92aWV3X193cml0ZVw+</entry>
+        <entry encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
