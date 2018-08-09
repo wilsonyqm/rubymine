@@ -7,9 +7,10 @@
         <mark key="'" line="25" column="36" />
       </file>
       <file name="/director_boards_controller.rb" timestamp="1533836673216" />
-      <file name="/rentable_items_access_test.rb" timestamp="1533754570924">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="45" column="8" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180809222036_add_violation_role.rb" timestamp="1533853249253">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" timestamp="1533837557495" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violations_access_test.rb" timestamp="1533847908250">
@@ -48,6 +49,8 @@
         <mark key="^" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search/user_verb_filter.rb" timestamp="1533753008552" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/letter_composition/test/services/letter_composition/letter_photo_src_updater_test.rb" timestamp="1533854597321" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180809204803_add_violation_role.property_models_engine.rb" timestamp="1533853129766" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/properties/_show.html.erb" timestamp="1533753975509" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/common_helpers/photo_helper.rb" timestamp="1533754181595">
         <mark key="[" line="17" column="40" />
@@ -67,9 +70,9 @@
         <mark key="." line="18" column="51" />
         <mark key="^" line="18" column="50" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180809174552_add_violation_role.rb" timestamp="1533837147145">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="58" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180809174552_add_violation_role.rb" timestamp="1533853246782">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
@@ -102,12 +105,15 @@
         <mark key="^" line="10" column="43" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/services/charges_increase_service.rb" timestamp="1533750443927" />
-      <file name="/20170310002026_add_default_permissions_for_key.rb" timestamp="1533837024754">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="2" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" timestamp="1533853691464">
+        <mark key="'" line="449" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" timestamp="1533854656418">
+        <mark key="'" line="312" column="8" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/properties/show/sequential_violation_action_show/component.es6" timestamp="1533837706449" />
-      <file name="/Dummy.txt" timestamp="1533852130903">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/owner_letter_writing_test.rb" timestamp="1533854349569" />
+      <file name="/Dummy.txt" timestamp="1533854340873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/unit_groups/_sidebar_show.html.erb" timestamp="1533762572574">
@@ -122,8 +128,12 @@
         <mark key="^" line="27" column="78" />
         <mark key="." line="27" column="78" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533836934096">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533853565147">
         <mark key="'" line="14" column="4" />
+        <mark key="[" line="156" column="29" />
+        <mark key="]" line="156" column="29" />
+        <mark key="." line="156" column="29" />
+        <mark key="^" line="156" column="37" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/units/_sidebar_show.html.erb" timestamp="1533768275640">
         <mark key="[" line="57" column="37" />
@@ -140,22 +150,9 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/properties_controller.rb" timestamp="1533837532926" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/violations_tracking/_violations_tracking_block.html.erb" timestamp="1533849130468" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180809222224_add_violation_role.property_authorization.rb" timestamp="1533853370212" />
     </filemarks>
     <jumps>
-      <jump line="148" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="154" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="72" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="74" column="94" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="75" column="81" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="83" column="94" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="84" column="81" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="88" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="7" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/ownership_changes_access_test.rb" />
-      <jump line="19" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/ownership_changes_access_test.rb" />
-      <jump line="25" column="87" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/ownership_changes_access_test.rb" />
-      <jump line="7" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/properties_access_test.rb" />
-      <jump line="22" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/properties_access_test.rb" />
-      <jump line="23" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/properties_access_test.rb" />
       <jump line="38" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" />
       <jump line="40" column="89" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" />
       <jump line="44" column="88" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" />
@@ -242,13 +239,27 @@
       <jump line="2193" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="117" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/show.html.erb" />
       <jump line="25" column="36" filename="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/show.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
+      <jump line="397" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
+      <jump line="448" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
+      <jump line="449" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
+      <jump line="77" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="123" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="6" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="135" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="270" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="128" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="133" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="144" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="191" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
+      <jump line="312" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAyLCBBdHRhY2htZW50LmNvdW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, name: ''</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -275,49 +286,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>, name: ''</text>
       </register>
       <register name="/" type="4">
-        <text>violation</text>
+        <text>tinymce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50LmFsbFstMl0sIGF0dGFjaG1lbnQK</text>
+        <text encoding="base64">ICAgIHJtd19wZXJtaXNzaW9uIDp0ZW5hbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAyLCBBdHRhY2htZW50LmNvdW50Cg==</text>
+        <text encoding="base64">Y2xhc3MgQWRkVmlvbGF0aW9uUm9sZSA8IEFjdGl2ZVJlY29yZDo6TWlncmF0aW9uCiAgZGVmIGNoYW5nZQogIGVuZAplbmQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50LmFsbFstMl0ucGF0aDIhLCBwZGZfZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAyLCBBdHRhY2htZW50LmNvdW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50LmFsbFstMl0ucGF0aDIhLCBwZGZfZmlsZW5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50Lmxhc3QucGF0aDIhLCBwZGZfZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50Lmxhc3QucGF0aDIhLCBwZGZfZmlsZW5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBkZl9maWxlbmFtZSwgYXR0YWNobWVudCA9IG5pbAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBBdHRhY2htZW50Lmxhc3QucGF0aDIhLCBwZGZfZmlsZW5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHBkZl9maWxlbmFtZSwgYXR0YWNobWVudCA9IG5pbAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9kaWZmZXJlbmNlICdBdHRhY2htZW50LmNvdW50JywgMiBkbwo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSAncHJ5JzsgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9kaWZmZXJlbmNlICdBdHRhY2htZW50LmNvdW50JywgMiBkbwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -330,9 +341,9 @@
       </register>
     </registers>
     <search>
-      <last-search>violation</last-search>
+      <last-search>tinymce</last-search>
       <last-offset />
-      <last-pattern>violation</last-pattern>
+      <last-pattern>tinymce</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -340,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debt_collection</entry>
-        <entry>email_web</entry>
         <entry>write</entry>
         <entry>:write</entry>
         <entry>:properties</entry>
@@ -359,7 +368,9 @@
         <entry>diretor_board</entry>
         <entry encoding="base64">XDxtYWludGVuYW5jZV90ZWNoX21vYmlsZV92aWV3X193cml0ZVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</entry>
+        <entry>tenant</entry>
         <entry>violation</entry>
+        <entry>tinymce</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
