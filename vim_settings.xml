@@ -11,11 +11,7 @@
         <mark key="^" line="28" column="76" />
         <mark key="." line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" timestamp="1533754595653">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="64" />
-        <mark key="." line="38" column="64" />
-      </file>
+      <file name="/director_boards_controller.rb" timestamp="1533836673216" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/helpers/occupancies_helper.rb" timestamp="1533665289727">
         <mark key="'" line="95" column="6" />
         <mark key="[" line="93" column="31" />
@@ -48,7 +44,14 @@
         <mark key="^" line="20" column="79" />
         <mark key="." line="20" column="79" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/properties_controller_test.rb" timestamp="1533837557495" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/_occupancy_attachments_show.html.erb" timestamp="1533753922252" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180801233124_add_leasing_mcc_role_into_mcc_work_order.rb" timestamp="1533836805252">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/extjs/form/EmailDialog.js" timestamp="1533246021725">
         <mark key="'" line="8" column="21" />
         <mark key="[" line="67" column="0" />
@@ -66,6 +69,7 @@
         <mark key="^" line="26" column="87" />
         <mark key="." line="19" column="65" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/violations_tracking/config/locales/en.yml" timestamp="1533837584365" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search/user_verb_filter.rb" timestamp="1533753008552" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/properties/_show.html.erb" timestamp="1533753975509" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/occupancies_helper_test.rb" timestamp="1533665553152">
@@ -81,6 +85,18 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180809174552_rename_director_board_role.rb" timestamp="1533836871979">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/db/migrate/20180809174552_add_violation_role.rb" timestamp="1533837147145">
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="58" />
+        <mark key="." line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/property_models/destroy_unit_policy.rb" timestamp="1533768006690" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/common_helpers/photo_helper_test.rb" timestamp="1533754306882">
         <mark key="[" line="66" column="49" />
@@ -88,6 +104,7 @@
         <mark key="." line="66" column="63" />
         <mark key="^" line="66" column="63" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/properties/_violation_actions_edit.html.erb" timestamp="1533837603034" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/rent_increases_controller.rb" timestamp="1533750453140" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/search/lib/search.rb" timestamp="1533764065534">
         <mark key="[" line="43" column="69" />
@@ -117,7 +134,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="81" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533768432266">
+      <file name="/20170310002026_add_default_permissions_for_key.rb" timestamp="1533837024754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/views/properties/show/sequential_violation_action_show/component.es6" timestamp="1533837706449" />
+      <file name="/Dummy.txt" timestamp="1533837712898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/unit_groups/_sidebar_show.html.erb" timestamp="1533762572574">
@@ -126,12 +148,18 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/units_controller_test.rb" timestamp="1533768380263">
-        <mark key="'" line="2561" column="51" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/units_controller_test.rb" timestamp="1533836467008">
         <mark key="[" line="900" column="48" />
         <mark key="]" line="900" column="50" />
         <mark key="^" line="900" column="50" />
         <mark key="." line="900" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533836934096">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="90" column="6" />
+        <mark key="]" line="90" column="6" />
+        <mark key="^" line="90" column="6" />
+        <mark key="." line="90" column="6" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_tasks_access_test.rb" timestamp="1533682690019">
         <mark key="'" line="27" column="68" />
@@ -153,9 +181,14 @@
         <mark key="." line="35" column="88" />
         <mark key="^" line="35" column="88" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1533764618696">
-        <mark key="'" line="1634" column="76" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1533837418425">
+        <mark key="'" line="1223" column="43" />
+        <mark key="[" line="1223" column="0" />
+        <mark key="]" line="1223" column="0" />
+        <mark key="." line="1223" column="0" />
+        <mark key="^" line="2282" column="3" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/properties_controller.rb" timestamp="1533837532926" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/unit_groups_controller_test.rb" timestamp="1533762605320">
         <mark key="'" line="181" column="33" />
         <mark key="[" line="181" column="39" />
@@ -165,38 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="111" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="105" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="92" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="86" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="689" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="718" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="71" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="75" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="76" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="80" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="98" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="99" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="70" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="14" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/api/photos_access_test.rb" />
-      <jump line="1357" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2074" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2076" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2077" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2078" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2081" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2145" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="28" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/unit_groups_access_test.rb" />
-      <jump line="30" column="143" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/unit_groups_access_test.rb" />
-      <jump line="24" column="121" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/unit_groups_access_test.rb" />
-      <jump line="34" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/units_access_test.rb" />
-      <jump line="39" column="99" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/units_access_test.rb" />
-      <jump line="40" column="55" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/units_access_test.rb" />
-      <jump line="41" column="116" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/units_access_test.rb" />
-      <jump line="47" column="115" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/units_access_test.rb" />
-      <jump line="128" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
-      <jump line="147" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="76" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="89" column="86" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
       <jump line="95" column="83" filename="$USER_HOME$/src/apm_bundle/apps/property/test/access/photos_access_test.rb" />
@@ -265,13 +266,45 @@
       <jump line="1633" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="1634" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="2530" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/units_controller_test.rb" />
+      <jump line="828" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="14" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" />
+      <jump line="825" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1297" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1342" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1881" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2179" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2300" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="803" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="859" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="862" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="865" column="93" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="867" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1236" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1328" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2173" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2295" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2296" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="858" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2283" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2286" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2289" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2290" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2291" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2294" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2297" column="93" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2299" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1229" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1312" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="2157" column="44" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1215" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="1223" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Unit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl9sZXR0ZXJzLCB0bzogWzpuZXcsIDpwcmV2aWV3LCA6cHJpbnQsIDplbWFpbCwgOmVtYWlsX2luaXRpYWxpemVdIGRvCiAgICAgIGlmX2F0dHJpYnV0ZSBpZDogaWRfaW5fc2NvcGUgeyBWaW9sYXRpb25zVHJhY2tpbmc6OlZpb2xhdGlvbi52aXNpYmxlX2J5KHVzZXIpIH0KICAgIGVuZAo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -298,49 +331,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>director_board_packet</text>
       </register>
       <register name="/" type="4">
-        <text>Delete Unit</text>
+        <text>violation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVuaXQuc3R1YnMoOmJlZD8pLnJldHVybnModHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOmluZGV4LCA6bGlzdCwgOnByaW50LCA6YnVsa19hY3Rpb25dCiAgICBoYXNfcGVybWlzc2lvbl9vbiA6dmlvbGF0aW9uc190cmFja2luZ192aW9sYXRpb25zLCB0bzogWzpzaG93XSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgVmlvbGF0aW9uc1RyYWNraW5nOjpWaW9sYXRpb24udmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQKICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl90eXBlcywgdG86IFs6aW5kZXgsIDpsaXN0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdF9zaG93X19zaWRlYmFyX2RlbGV0ZV9saW5rX19zaG93bl9mb3JfYmVkCiAgICBQcm9wZXJ0eUF1dGhvcml6YXRpb246OlVzZXIuYW55X2luc3RhbmNlLnN0dWJzKDpwZXJtaXR0ZWRfdG8/KS5yZXR1cm5zKHRydWUpCiAgICBwcm9wZXJ0eSA9IFByb3BlcnR5LmNyZWF0ZV9leGVtcGxhciEud2l0aF91bml0c19leGVtcGxhcgogICAgdW5pdCA9IHByb3BlcnR5LnVuaXRzLmZpcnN0CiAgICB1bml0LnN0dWJzKDpiZWQ/KS5yZXR1cm5zKHRydWUpCgogICAgZ2V0IDpzaG93LCBwYXJhbXM6IHsgcHJvcGVydHlfaWQ6IHByb3BlcnR5LmlkLCBpZDogdW5pdC5pZCwgcGFzdF90ZW5hbnRzOiAnZXhwYW5kJywgaGlkZGVuX3RlbmFudHM6ICdleHBhbmQnIH0KCiAgICBhc3NlcnRfcmVzcG9uc2UgOm9rCgogICAgYXNzZXJ0X3NlbGVjdCAnI3NpdGUtc2lkZWJhci1jb250ZW50JyBkbyB8ZWxlbWVudHN8CiAgICAgIGFzc2VydF9pbmNsdWRlIGVsZW1lbnRzLnRleHQsICdEZWxldGUgQmVkJwogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl9sZXR0ZXJzLCB0bzogWzpuZXcsIDpwcmV2aWV3LCA6cHJpbnQsIDplbWFpbCwgOmVtYWlsX2luaXRpYWxpemVdIGRvCiAgICAgIGlmX2F0dHJpYnV0ZSBpZDogaWRfaW5fc2NvcGUgeyBWaW9sYXRpb25zVHJhY2tpbmc6OlZpb2xhdGlvbi52aXNpYmxlX2J5KHVzZXIpIH0KICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCA6dG8gPT4gdW5pdF9ncm91cF9yZWFkX2FjdGlvbnMgKyB1bml0X2dyb3VwX3dyaXRlX2FjdGlvbnMgKyB1bml0X2dyb3VwX3VwZGF0ZV9hY3Rpb25zLCA6d2hlbiA9PiA6cmVhZAogICAgICAgIHVzZXJfaXMuZGVuaWVkIDp0byA9PiB1bml0X2dyb3VwX3JlYWRfYWN0aW9ucyArIHVuaXRfZ3JvdXBfd3JpdGVfYWN0aW9ucyArIHVuaXRfZ3JvdXBfdXBkYXRlX2FjdGlvbnMsIDp3aGVuID0+IFs6d3JpdGVfd2l0aG91dF9kZWxldGUsIDp3cml0ZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCA6dG8gPT4gcmVhZF9hY3Rpb25zICsgd3JpdGVfYWN0aW9ucyArIG5ld19hY3Rpb25zICsgbGlzdF9hY3Rpb25zICsgZGVsZXRlX2FjdGlvbnMsIDp3aGVuID0+IDpyZWFkCiAgICAgICAgdXNlcl9pcy5kZW5pZWQgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMgKyBuZXdfYWN0aW9ucyArIGxpc3RfYWN0aW9ucyArIGRlbGV0ZV9hY3Rpb25zLCA6d2hlbiA9PiA6d3JpdGVfd2l0aG91dF9kZWxldGUKICAgICAgICB1c2VyX2lzLmRlbmllZCA6dG8gPT4gcmVhZF9hY3Rpb25zICsgd3JpdGVfYWN0aW9ucyArIG5ld19hY3Rpb25zICsgbGlzdF9hY3Rpb25zICsgZGVsZXRlX2FjdGlvbnMsIDp3aGVuID0+IDp3cml0ZQo=</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOm5ldywgOmNyZWF0ZV0KICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOmVkaXQsIDp1cGRhdGUsIDpoaWRlXSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgVmlvbGF0aW9uc1RyYWNraW5nOjpWaW9sYXRpb24udmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQKICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl90YXNrcywgdG86IFs6Y3JlYXRlX2NvbW11bmljYXRpb25dIGRvCiAgICAgIGlmX2F0dHJpYnV0ZSBpZDogaWRfaW5fc2NvcGUgeyBWaW9sYXRpb25zVHJhY2tpbmc6OlZpb2xhdGlvbi52aXNpYmxlX2J5KHVzZXIpIH0KICAgIGVuZAogICAgaGFzX3Blcm1pc3Npb25fb24gOnZpb2xhdGlvbnNfdHJhY2tpbmdfdmlvbGF0aW9uX3R5cGVzLCB0bzogWzpuZXcsIDpjcmVhdGUsIDphc3NvY2lhdGlvbl92aW9sYXRpb25fdGFibGVdCgogICAgaGFzX3Blcm1pc3Npb25fb24gOnZpb2xhdGlvbnNfdHJhY2tpbmdfdmlvbGF0aW9uX3R5cGVzLCB0bzogWzplZGl0LCA6dXBkYXRlLCA6ZGVzdHJveV0gZG8KICAgICAgaWZfYXR0cmlidXRlIHByb3BlcnR5X2lkOiBpZF9pbl9zY29wZSB7IFByb3BlcnR5LnZpc2libGVfYnkodXNlcikgfQogICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCAgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMsIDp3aGVuID0+IDpoaWRkZW4KICAgICAgICB1c2VyX2lzLmRlbmllZCAgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMsIDp3aGVuID0+IDpyZWFkCg==</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOmluZGV4LCA6bGlzdCwgOnByaW50LCA6YnVsa19hY3Rpb25dCiAgICBoYXNfcGVybWlzc2lvbl9vbiA6dmlvbGF0aW9uc190cmFja2luZ192aW9sYXRpb25zLCB0bzogWzpzaG93XSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgVmlvbGF0aW9uc1RyYWNraW5nOjpWaW9sYXRpb24udmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQKICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl90eXBlcywgdG86IFs6aW5kZXgsIDpsaXN0XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCAgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMgKyBkZWxldGVfYWN0aW9ucywgOndoZW4gPT4gOnJlYWQKICAgICAgICB1c2VyX2lzLmRlbmllZCAgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMgKyBkZWxldGVfYWN0aW9ucywgOndoZW4gPT4gOndyaXRlX3dpdGhvdXRfZGVsZXRlCiAgICAgICAgdXNlcl9pcy5kZW5pZWQgIDp0byA9PiByZWFkX2FjdGlvbnMgKyB3cml0ZV9hY3Rpb25zICsgZGVsZXRlX2FjdGlvbnMsIDp3aGVuID0+IDp3cml0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmRlbmllZCAgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMsIDp3aGVuID0+IDp3cml0ZQo=</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOm5ldywgOmNyZWF0ZV0KICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbnMsIHRvOiBbOmVkaXQsIDp1cGRhdGUsIDpoaWRlXSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgVmlvbGF0aW9uc1RyYWNraW5nOjpWaW9sYXRpb24udmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQKICAgIGhhc19wZXJtaXNzaW9uX29uIDp2aW9sYXRpb25zX3RyYWNraW5nX3Zpb2xhdGlvbl90YXNrcywgdG86IFs6Y3JlYXRlX2NvbW11bmljYXRpb25dIGRvCiAgICAgIGlmX2F0dHJpYnV0ZSBpZDogaWRfaW5fc2NvcGUgeyBWaW9sYXRpb25zVHJhY2tpbmc6OlZpb2xhdGlvbi52aXNpYmxlX2J5KHVzZXIpIH0KICAgIGVuZAogICAgaGFzX3Blcm1pc3Npb25fb24gOnZpb2xhdGlvbnNfdHJhY2tpbmdfdmlvbGF0aW9uX3R5cGVzLCB0bzogWzpuZXcsIDpjcmVhdGUsIDphc3NvY2lhdGlvbl92aW9sYXRpb25fdGFibGVdCgogICAgaGFzX3Blcm1pc3Npb25fb24gOnZpb2xhdGlvbnNfdHJhY2tpbmdfdmlvbGF0aW9uX3R5cGVzLCB0bzogWzplZGl0LCA6dXBkYXRlLCA6ZGVzdHJveV0gZG8KICAgICAgaWZfYXR0cmlidXRlIHByb3BlcnR5X2lkOiBpZF9pbl9zY29wZSB7IFByb3BlcnR5LnZpc2libGVfYnkodXNlcikgfQogICAgZW5kCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmFsbG93ZWQgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMsIDp3aGVuID0+IDp3cml0ZV93aXRob3V0X2RlbGV0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lzLmFsbG93ZWQgOnRvID0+IHJlYWRfYWN0aW9ucyArIHdyaXRlX2FjdGlvbnMsIDp3aGVuID0+IDp3cml0ZV93aXRob3V0X2RlbGV0ZQo=</text>
+        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDpkaXJlY3Rvcl9ib2FyZHMsIHRvOiBbOmNyZWF0ZV9yZXBvcnQsIDpjcmVhdGVfcmVwb3J0X3Byb2dyZXNzLCA6cHJldmlld19yZXBvcnQsIDpwcmV2aWV3X3JlcG9ydF9wcm9ncmVzc10gZG8KICAgICAgaWZfYXR0cmlidXRlIGlkOiBpZF9pbl9zY29wZSB7IFByb3BlcnR5LnZpc2libGVfYnkodXNlcikgfQogICAgZW5kCgogICAgaGFzX3Blcm1pc3Npb25fb24gOmRpcmVjdG9yX2JvYXJkX3BhY2tldHMsIHRvOiBbOmNyZWF0ZV9yZXBvcnRzLCA6Y3JlYXRlX3JlcG9ydHNfcHJvZ3Jlc3MsIDpwcmV2aWV3X3JlcG9ydHMsIDpwcmV2aWV3X3JlcG9ydHNfcHJvZ3Jlc3NdCg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25maWcuZXh0cmFQbHVnaW5zICs9ICJsaW5rLCI7Cg==</text>
+        <text encoding="base64">CiAgICBoYXNfcGVybWlzc2lvbl9vbiA6dmlvbGF0aW9uc190cmFja2luZ192aW9sYXRpb25zLCB0bzogWzppbmRleCwgOmxpc3QsIDpwcmludCwgOmJ1bGtfYWN0aW9uXQogICAgaGFzX3Blcm1pc3Npb25fb24gOnZpb2xhdGlvbnNfdHJhY2tpbmdfdmlvbGF0aW9ucywgdG86IFs6c2hvd10gZG8KICAgICAgaWZfYXR0cmlidXRlIGlkOiBpZF9pbl9zY29wZSB7IFZpb2xhdGlvbnNUcmFja2luZzo6VmlvbGF0aW9uLnZpc2libGVfYnkodXNlcikgfQogICAgZW5kCiAgICBoYXNfcGVybWlzc2lvbl9vbiA6dmlvbGF0aW9uc190cmFja2luZ192aW9sYXRpb25fdHlwZXMsIHRvOiBbOmluZGV4LCA6bGlzdF0K</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -353,9 +386,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Delete Unit</last-search>
+      <last-search>violation</last-search>
       <last-offset />
-      <last-pattern>Delete Unit</last-pattern>
+      <last-pattern>violation</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -363,14 +396,9 @@
     </search>
     <history>
       <history-search>
-        <entry>role 'propert</entry>
-        <entry>role 'pro</entry>
-        <entry>role :proper</entry>
-        <entry encoding="base64">XDxtb2RpZnlfYWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
         <entry encoding="base64">XDxjb25maXJtXD4=</entry>
         <entry>debt_collection</entry>
-        <entry>violation</entry>
         <entry>email_web</entry>
         <entry>write</entry>
         <entry>:write</entry>
@@ -383,6 +411,11 @@
         <entry>vendor</entry>
         <entry>vendor__</entry>
         <entry>Delete Unit</entry>
+        <entry>hoa</entry>
+        <entry>Asso</entry>
+        <entry>director_board</entry>
+        <entry>diretor_board</entry>
+        <entry>violation</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
