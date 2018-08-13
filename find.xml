@@ -2,9 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.erb" />
     <recentFileMasks>
-      <mask>controll</mask>
       <mask>controller.</mask>
       <mask>controller.r</mask>
       <mask>controller.rb</mask>
@@ -34,6 +36,7 @@
       <mask>violation*.rb</mask>
       <mask>violatio*.rb</mask>
       <mask>*.rb</mask>
+      <mask>*.erb</mask>
     </recentFileMasks>
   </component>
 </application>
