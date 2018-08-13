@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/show.html.erb" timestamp="1533849186934">
         <mark key="'" line="25" column="36" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/tenant_base_document_template.rb" timestamp="1534194992819" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180813181749_change_mcc_write.property_authorization.rb" timestamp="1534186605385">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="11" column="0" />
@@ -25,6 +26,9 @@
         <mark key="]" line="38" column="64" />
         <mark key="." line="38" column="64" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" timestamp="1534195255777">
+        <mark key="'" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1533856244799">
         <mark key="'" line="361" column="12" />
       </file>
@@ -37,20 +41,13 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/unit_groups_access_test.rb" timestamp="1533754997576">
-        <mark key="'" line="25" column="121" />
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="10" column="43" />
-      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" timestamp="1533853691464">
         <mark key="'" line="449" column="27" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" timestamp="1533854656418">
         <mark key="'" line="312" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534184560258">
+      <file name="/Dummy.txt" timestamp="1534194994011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_types_access_test.rb" timestamp="1533857276017">
@@ -61,20 +58,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/maintenance/service_requests/work_orders/create_service.rb" timestamp="1533855870267">
         <mark key="'" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1533853565147">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="156" column="29" />
-        <mark key="]" line="156" column="29" />
-        <mark key="." line="156" column="29" />
-        <mark key="^" line="156" column="37" />
-      </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/violations_tracking/violation_tasks_access_test.rb" timestamp="1533855400863">
-        <mark key="'" line="27" column="68" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/unit/document_template_test.rb" timestamp="1534194987692" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/assets/javascripts/extjs/form/EmailDialog.js" timestamp="1533920504567">
         <mark key="'" line="8" column="21" />
         <mark key="^" line="124" column="37" />
@@ -86,21 +70,12 @@
         <mark key="[" line="1001" column="23" />
         <mark key="]" line="1001" column="33" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/document_template.rb" timestamp="1534195175114" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
         <mark key="'" line="47" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="449" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
-      <jump line="77" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="123" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="6" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="135" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="270" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="128" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="133" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="144" column="69" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
-      <jump line="191" column="62" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
       <jump line="312" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
       <jump line="261" column="114" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
       <jump line="278" column="64" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
@@ -191,6 +166,16 @@
       <jump line="980" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="984" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="33" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180813172747_change_mcc_write.rb" />
+      <jump line="44" column="37" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="145" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="165" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="192" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="253" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="273" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="294" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="304" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="314" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
+      <jump line="22" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/test/dummy/test/fixtures/document_templates.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -227,7 +212,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>__write</text>
+        <text>tinymce</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGd1ZXN0X2NhcmRzCg==</text>
@@ -279,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>__write</last-search>
+      <last-search>tinymce</last-search>
       <last-offset />
-      <last-pattern>__write</last-pattern>
+      <last-pattern>tinymce</last-pattern>
       <last-replace />
       <last-substitute>__write</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +281,6 @@
         <entry encoding="base64">XDxtYWludGVuYW5jZV90ZWNoX21vYmlsZV92aWV3X193cml0ZVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hfc2VhcmNoXD4=</entry>
         <entry>violation</entry>
-        <entry>tinymce</entry>
         <entry encoding="base64">XDxwYXJ0eV90eXBlXD4=</entry>
         <entry>Tenant</entry>
         <entry>tenant</entry>
@@ -309,6 +293,7 @@
         <entry>e_without_delete</entry>
         <entry>guest_card</entry>
         <entry>__write</entry>
+        <entry>tinymce</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLysvL2c=</entry>
