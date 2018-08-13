@@ -6,18 +6,19 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/occupancies/show.html.erb" timestamp="1533849186934">
         <mark key="'" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180813181749_change_mcc_write.property_authorization.rb" timestamp="1534185158224">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180813181749_change_mcc_write.property_authorization.rb" timestamp="1534186605385">
         <mark key="'" line="5" column="15" />
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="59" column="18" />
-        <mark key="." line="59" column="18" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="0" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180813172747_change_mcc_write.rb" timestamp="1534185169875">
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="58" column="18" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180813172747_change_mcc_write.rb" timestamp="1534186603925">
+        <mark key="'" line="33" column="3" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/rentable_items_access_test.rb" timestamp="1533754595653">
         <mark key="[" line="38" column="64" />
@@ -81,17 +82,15 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/unit_groups_controller.rb" timestamp="1533762356451">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1534184967985">
-        <mark key="'" line="984" column="23" />
-        <mark key="[" line="2340" column="14" />
-        <mark key="]" line="2340" column="29" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1534186573668">
+        <mark key="[" line="1001" column="23" />
+        <mark key="]" line="1001" column="33" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
         <mark key="'" line="47" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
       <jump line="449" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/controller_action_descriptions.yml" />
       <jump line="77" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
       <jump line="123" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" />
@@ -191,13 +190,14 @@
       <jump line="975" column="35" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="980" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="984" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
+      <jump line="33" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180813172747_change_mcc_write.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAgIGd1ZXN0X2NhcmRzCg==</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -224,13 +224,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>.join(',')</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>guest_card</text>
+        <text>__write</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBdLm1hcCB7fHB8ICInI3twfScifS5qb2luKCcsJykK</text>
+        <text encoding="base64">ICAgIGd1ZXN0X2NhcmRzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBdCg==</text>
@@ -279,9 +279,9 @@
       </register>
     </registers>
     <search>
-      <last-search>guest_card</last-search>
+      <last-search>__write</last-search>
       <last-offset />
-      <last-pattern>guest_card</last-pattern>
+      <last-pattern>__write</last-pattern>
       <last-replace />
       <last-substitute>__write</last-substitute>
       <last-dir>1</last-dir>
@@ -307,8 +307,8 @@
         <entry>without_delete</entry>
         <entry>_without_delete</entry>
         <entry>e_without_delete</entry>
-        <entry>__write</entry>
         <entry>guest_card</entry>
+        <entry>__write</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLysvL2c=</entry>
