@@ -3660,12 +3660,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundle_testing-24.0.0/.circleci" />
       </SOURCES>
     </library>
+    <library name="af_bundler_dependency_digest (v0.0.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundler_dependency_digest-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundler_dependency_digest-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundler_dependency_digest-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_bundler_dependency_digest-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="af_circle_ci_test_chooser (v0.0.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_circle_ci_test_chooser-0.0.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_circle_ci_test_chooser-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="af_circle_ci_test_chooser (v0.0.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_circle_ci_test_chooser-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_circle_ci_test_chooser-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="af_crypto (v3.4.0, RVM: ruby-2.2.3) [gem]">
@@ -9578,6 +9596,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.0.0/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="af_rails (v31.2.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.2.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.2.0/.circleci" />
       </SOURCES>
     </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
