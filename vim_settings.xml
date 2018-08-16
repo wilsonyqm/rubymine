@@ -52,8 +52,8 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1533856244799">
-        <mark key="'" line="361" column="12" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" timestamp="1534439807092">
+        <mark key="'" line="39" column="3" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/controllers/maintenance_web/contact_center/issue_settings_controller_test.rb" timestamp="1534203024550">
         <mark key="[" line="15" column="70" />
@@ -69,6 +69,11 @@
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/controllers/maintenance_web/contact_center/service_requests_controller.rb" timestamp="1534203108713">
         <mark key="'" line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" timestamp="1534440030317">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="60" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/controllers/maintenance_web/service_requests_controller_test.rb" timestamp="1534203262231">
         <mark key="." line="594" column="66" />
@@ -93,7 +98,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="30" column="63" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/assets/javascripts/maintenance_web/views/contact_center/service_requests/service_request_new_view/component.js" timestamp="1534197970120">
         <mark key="'" line="30" column="44" />
@@ -105,19 +109,17 @@
         <mark key="[" line="4786" column="65" />
         <mark key="]" line="4786" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534284641920">
+      <file name="/Dummy.txt" timestamp="1534439811761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/maintenance/service_requests/work_orders/create_service.rb" timestamp="1533855870267">
         <mark key="'" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/helpers/service_requests/work_orders_helper_test.rb" timestamp="1534283635576" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/test_helpers/maintenance/contact_center/issue_info_helpers.rb" timestamp="1534283266373">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/lib/property_authorization/permissions_dsl.rb" timestamp="1534268358226" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/test/maintenance_web/service_requests/filters_form_test.rb" timestamp="1534200798774">
         <mark key="'" line="229" column="8" />
       </file>
@@ -135,29 +137,15 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
         <mark key="'" line="47" column="6" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" timestamp="1534440059327">
+        <mark key="'" line="515" column="52" />
+        <mark key="[" line="64" column="9" />
+        <mark key="]" line="64" column="19" />
+        <mark key="." line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1662" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1675" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1685" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1702" column="24" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1715" column="30" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1731" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1765" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1799" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1820" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1840" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1856" column="26" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1876" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1893" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1909" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1919" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1935" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1948" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1974" column="19" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1984" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2276" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2287" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="2322" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="34" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="5" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180813181749_change_mcc_write.property_authorization.rb" />
@@ -237,13 +225,34 @@
       <jump line="264" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/maintenance/contact_center/contact_center_service_request_test.rb" />
       <jump line="188" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/maintenance/contact_center/contact_center_service_request_test.rb" />
       <jump line="251" column="7" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/maintenance/contact_center/contact_center_service_request_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="99" column="21" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="125" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="113" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="39" column="31" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="115" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="126" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="176" column="57" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_work_order.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="39" column="3" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/models/maintenance/work_order.rb" />
+      <jump line="129" column="71" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="139" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="143" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="133" column="74" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="514" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="517" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="518" column="25" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="137" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="141" column="63" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="512" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
+      <jump line="513" column="52" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBAaXNzdWVfc2V0dGluZy5wcmlvcml0eS50b19zLCBzZXJ2aWNlX3JlcXVlc3RfcGFnZS5oZWFkZXIucHJpb3JpdHkudGV4dAo=</text>
+      <register name="&quot;" type="4">
+        <text>Last Billed On</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -270,49 +279,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>'Low'</text>
+        <text>Last Billed On</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmlvcml0eVw+</text>
+        <text>follow</text>
       </register>
-      <register name="0" type="4">
-        <text>expected_priority</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnTGFzdCBCaWxsZWQgT24nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBAaXNzdWVfc2V0dGluZy5wcmlvcml0eS50b19zLCBzZXJ2aWNlX3JlcXVlc3RfcGFnZS5oZWFkZXIucHJpb3JpdHkudGV4dAo=</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0b3JzW0NOX0NBTkNFTEVEX09OXSAgICAgICAgICAgPSAnd28uY2FuY2VsZWRfb24nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8veyBuYW1lOiAndG9vbHMnLCBpdGVtczogWyAnTWF4aW1pemUnIF0gfSwK</text>
+        <text encoding="base64">ICAgICAgYWRkIENOX0NBTkNFTEVEX09OLCB0eXBlOiA6ZGF0ZSwgdmlzaWJsZTogOm5vdF9ieV9kZWZhdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8veyBuYW1lOiAndG9vbHMnLCBpdGVtczogWyAnTWF4aW1pemUnIF0gfSwKICAgIHsgbmFtZTogJ2Zvcm1hdHMnLCBpdGVtczogWyAnRm9udCcsICdGb250U2l6ZScgXSB9LAo=</text>
+        <text encoding="base64">ICAgIENOX0NBTkNFTEVEX09OID0gJ0NhbmNlbGVkT24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICcvJywK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBAaXNzdWVfc2V0dGluZy5wcmlvcml0eS50b19zLCBzZXJ2aWNlX3JlcXVlc3RfcGFnZS5oZWFkZXIucHJpb3JpdHkudGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8veyBuYW1lOiAndG9vbHMnLCBpdGVtczogWyAnTWF4aW1pemUnIF0gfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFzc2VydF9lcXVhbCAiUHJpb3JpdHlcbiN7ZXhwZWN0ZWRfcHJpb3JpdHl9IiwgaXNzdWVfaW5mby5wcmlvcml0eS50ZXh0IGlmIGV4cGVjdGVkX3ByaW9yaXR5Cgo=</text>
+        <text encoding="base64">ICAgIC8veyBuYW1lOiAndG9vbHMnLCBpdGVtczogWyAnTWF4aW1pemUnIF0gfSwKICAgIHsgbmFtZTogJ2Zvcm1hdHMnLCBpdGVtczogWyAnRm9udCcsICdGb250U2l6ZScgXSB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIGV4cGVjdGVkX3ByaW9yaXR5Cg==</text>
+        <text encoding="base64">ICAgICcvJywK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eUF1dGhvcml6YXRpb246OlVzZXIuYW55X2luc3RhbmNlLnN0dWJzKDppc19jb250YWN0X2NlbnRlcl9yZXA/KS5yZXR1cm5zKGZhbHNlKQogICAgICAgIFByb3BlcnR5QXV0aG9yaXphdGlvbjo6VXNlci5hbnlfaW5zdGFuY2Uuc3R1YnMoOmlzX2xlYXNpbmdfYW5kX21haW50ZW5hbmNlX2NvbnRhY3RfY2VudGVyX3JlcD8pLnJldHVybnMoZmFsc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eUF1dGhvcml6YXRpb246OlVzZXIuYW55X2luc3RhbmNlLnN0dWJzKDppc19jb250YWN0X2NlbnRlcl9yZXA/KS5yZXR1cm5zKGZhbHNlKQogICAgICAgIFByb3BlcnR5QXV0aG9yaXphdGlvbjo6VXNlci5hbnlfaW5zdGFuY2Uuc3R1YnMoOmlzX2xlYXNpbmdfYW5kX21haW50ZW5hbmNlX2NvbnRhY3RfY2VudGVyX3JlcD8pLnJldHVybnMoZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFzc2VydF9lcXVhbCAiUHJpb3JpdHlcbiN7ZXhwZWN0ZWRfcHJpb3JpdHl9IiwgaXNzdWVfaW5mby5wcmlvcml0eS50ZXh0IGlmIGV4cGVjdGVkX3ByaW9yaXR5Cgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -325,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmlvcml0eVw+</last-search>
+      <last-search>follow</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmlvcml0eVw+</last-pattern>
+      <last-pattern>follow</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -335,12 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tinymce</entry>
-        <entry>violation</entry>
-        <entry>Priority</entry>
-        <entry>Enter</entry>
-        <entry encoding="base64">XDxwcmlvcml0eUNvbnRhaW5lclw+</entry>
-        <entry encoding="base64">XDxzZXRQcmlvcml0eVw+</entry>
         <entry encoding="base64">XDxtYWludGVuYW5jZV9zZXJ2aWNlX3JlcXVlc3RcPg==</entry>
         <entry>priority</entry>
         <entry>filter</entry>
@@ -355,6 +358,12 @@
         <entry>current_user</entry>
         <entry encoding="base64">XDxhc3NlcnRfaXNzdWVfaW5mb1w+</entry>
         <entry encoding="base64">XDxwcmlvcml0eVw+</entry>
+        <entry>cancel</entry>
+        <entry>FOLLOW</entry>
+        <entry encoding="base64">XDxjYW5jZWxlZF9vblw+</entry>
+        <entry encoding="base64">XDxDTl9GT0xMT1dfVVBfT05cPg==</entry>
+        <entry>Follow</entry>
+        <entry>follow</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL28xL3BnMS9n</entry>
