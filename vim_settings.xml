@@ -11,11 +11,11 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180816181248_add_comparable_property_permission.rb" timestamp="1534452701264">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/db/migrate/20180816181248_add_comparable_property_permission.rb" timestamp="1534459732200">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.7.1/lib/abstract_controller/helpers.rb" timestamp="1534270737672">
         <mark key="'" line="54" column="42" />
@@ -87,11 +87,11 @@
         <mark key="]" line="28" column="60" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180816181430_add_comparable_property_permission.property_authorization.rb" timestamp="1534452705256">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="1" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/db/migrate/20180816181430_add_comparable_property_permission.property_authorization.rb" timestamp="1534459739030">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/views/maintenance_web/shared/service_requests/_header.html.erb" timestamp="1534200400834">
         <mark key="[" line="12" column="0" />
@@ -129,7 +129,7 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534452658168">
+      <file name="/Dummy.txt" timestamp="1534459732389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/app/services/maintenance/service_requests/work_orders/create_service.rb" timestamp="1533855870267">
@@ -296,7 +296,7 @@
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>read</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -323,13 +323,13 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>read</text>
       </register>
       <register name="/" type="4">
         <text>Leasing</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBORVdfUk9MRSA9ICdjb21wYXJhYmxlX3Byb3BlcnRpZXMnCiAgZGVmIHVwCiAgICBleGVjdXRlIDw8LVNRTAogICAgICBJTlNFUlQgSU5UTyBwZXJtaXNzaW9ucyAodXNlcl9yb2xlX2lkLCByb2xlLCBwcml2aWxlZ2UsIGNyZWF0ZWRfYXQsIHVwZGF0ZWRfYXQpCiAgICAgIFNFTEVDVCB1c2VyX3JvbGVfaWQsICcje05FV19ST0xFfScsICdyZWFkJywgVVRDX1RJTUVTVEFNUCgpLCBVVENfVElNRVNUQU1QKCkKICAgICAgRlJPTSBwZXJtaXNzaW9ucwogICAgICBXSEVSRSByb2xlID0gJ2xlYXNpbmdfZmxvdycKICAgIFNRTAogIGVuZAogIGRlZiBkb3duCiAgICBleGVjdXRlIDw8LVNRTAogICAgICBERUxFVEUgRlJPTSBwZXJtaXNzaW9ucwogICAgICBXSEVSRSByb2xlID0gJyN7TkVXX1JPTEV9JwogICAgU1FMCiAgZW5kCg==</text>
+      <register name="0" type="4">
+        <text>write</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBlbmQK</text>
