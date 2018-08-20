@@ -104,6 +104,7 @@
         <mark key="^" line="97" column="34" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/lib/market_surveys/injections/dummy_paths_interface.rb" timestamp="1534790343840" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/package.json" timestamp="1534795767125" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/app/helpers/market_surveys/comparable_properties_helper.rb" timestamp="1534548886714">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -114,11 +115,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" timestamp="1534791765392">
-        <mark key="'" line="494" column="16" />
-        <mark key="[" line="355" column="89" />
-        <mark key="]" line="355" column="89" />
-        <mark key="." line="355" column="89" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" timestamp="1534795465511">
+        <mark key="'" line="357" column="15" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="4" />
+        <mark key="." line="357" column="4" />
         <mark key="^" line="324" column="314" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
@@ -232,12 +233,12 @@
         <mark key="." line="35" column="87" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" timestamp="1534792252760">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="512" column="51" />
-        <mark key="]" line="512" column="51" />
-        <mark key="^" line="512" column="51" />
-        <mark key="." line="512" column="51" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" timestamp="1534795869473">
+        <mark key="'" line="1299" column="14" />
+        <mark key="[" line="512" column="40" />
+        <mark key="]" line="512" column="40" />
+        <mark key="^" line="512" column="12" />
+        <mark key="." line="512" column="40" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" timestamp="1534440059327">
         <mark key="[" line="64" column="9" />
@@ -247,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
-      <jump line="11" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="169" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="172" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="292" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
@@ -347,13 +346,15 @@
       <jump line="1257" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
       <jump line="1233" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
       <jump line="16" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="357" column="15" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="1299" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>']</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -380,7 +381,7 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
@@ -389,40 +390,40 @@
         <text>canEditComparableProperties</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIuZmluZChTb3J0YWJsZVRhYmxlKSkudG8uaGF2ZS5sZW5ndGgoMSk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKSkudG8uaGF2ZS5sZW5ndGgoMik7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgwKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdFZGl0Jyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgxKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdVcGRhdGUgUHJpY2VzJyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJ2gzJykpLnRvLmhhdmUudGV4dCgnUmVjb21tZW5kZWQgUHJpY2VzJyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzTmFtZT0idS1zcGFjZS1scyIgaHJlZj17dGhpcy5zdGF0ZS51cGRhdGVDb21wc1BhdGh9IHRhcmdldD0iX2JsYW5rIj5VcGRhdGUgTm93PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIuZmluZChTb3J0YWJsZVRhYmxlKSkudG8uaGF2ZS5sZW5ndGgoMSk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKSkudG8uaGF2ZS5sZW5ndGgoMik7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgwKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdFZGl0Jyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgxKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdVcGRhdGUgUHJpY2VzJyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJ2gzJykpLnRvLmhhdmUudGV4dCgnUmVjb21tZW5kZWQgUHJpY2VzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzTmFtZT0idS1zcGFjZS1scyIgaHJlZj17dGhpcy5zdGF0ZS51cGRhdGVDb21wc1BhdGh9IHRhcmdldD0iX2JsYW5rIj5VcGRhdGUgTm93PC9hPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8YSBjbGFzc05hbWU9e2NsYXNzTmFtZXN9IGhyZWY9e3RoaXMuc3RhdGUudXBkYXRlQ29tcHNQYXRofSB0YXJnZXQ9Il9ibGFuayI+JHt0ZXh0fTwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzID0gcmVzcG9uc2UuY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOwogICAgICBjb25zdCB3YXJuaW5ncyA9IHJlc3BvbnNlLndhcm5pbmdzOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA8YSBjbGFzc05hbWU9e2NsYXNzTmFtZXN9IGhyZWY9e3RoaXMuc3RhdGUudXBkYXRlQ29tcHNQYXRofSB0YXJnZXQ9Il9ibGFuayI+JHt0ZXh0fTwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzID0gcmVzcG9uc2UuY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOwogICAgICBjb25zdCB3YXJuaW5ncyA9IHJlc3BvbnNlLndhcm5pbmdzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOiB0cnVlLAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmRhdGEubGVuZ3RoID4gMCkgewogICAgICByZXR1cm4gdGhpcy5yZW5kZXJUYWJsZSgpOwogICAgfQogICAgcmV0dXJuIHRoaXMucmVuZGVyRW1wdHlTdGF0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbl9lZGl0X2NvbXBhcmFibGVfcHJvcGVydGllczogY2FuX2VkaXRfY29tcGFyYWJsZV9wcm9wZXJ0aWVzLAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmRhdGEubGVuZ3RoID4gMCkgewogICAgICByZXR1cm4gdGhpcy5yZW5kZXJUYWJsZSgpOwogICAgfQogICAgcmV0dXJuIHRoaXMucmVuZGVyRW1wdHlTdGF0ZSgpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
