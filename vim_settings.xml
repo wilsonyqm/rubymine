@@ -46,10 +46,10 @@
         <mark key="]" line="14" column="88" />
         <mark key="." line="14" column="88" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/eligibility_controller.rb" timestamp="1534788610813">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="72" />
-        <mark key="." line="12" column="42" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/eligibility_controller.rb" timestamp="1534790457915">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/access/emails_web/emails_access_test.rb" timestamp="1534542626551">
         <mark key="[" line="34" column="12" />
@@ -114,8 +114,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" timestamp="1534790394101">
-        <mark key="'" line="95" column="39" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" timestamp="1534791765392">
+        <mark key="'" line="494" column="16" />
+        <mark key="[" line="355" column="89" />
+        <mark key="]" line="355" column="89" />
+        <mark key="." line="355" column="89" />
+        <mark key="^" line="324" column="314" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
         <mark key="'" line="47" column="6" />
@@ -154,8 +158,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/recommended_pricing_controller.rb" timestamp="1534790409875">
-        <mark key="'" line="26" column="10" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/recommended_pricing_controller.rb" timestamp="1534791102728">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" timestamp="1534547359650">
         <mark key="'" line="444" column="0" />
@@ -196,7 +203,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" timestamp="1533854656418">
         <mark key="'" line="312" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534790375675">
+      <file name="/Dummy.txt" timestamp="1534791832539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/applicants/_applicant_name_and_contact_show.html.erb" timestamp="1534541807910">
@@ -225,6 +232,13 @@
         <mark key="." line="35" column="87" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" timestamp="1534792252760">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="512" column="51" />
+        <mark key="]" line="512" column="51" />
+        <mark key="^" line="512" column="51" />
+        <mark key="." line="512" column="51" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/test/controllers/reports/buffered_work_order_test.rb" timestamp="1534440059327">
         <mark key="[" line="64" column="9" />
         <mark key="]" line="64" column="19" />
@@ -233,62 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
-      <jump line="979" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1021" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1062" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1063" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1067" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1073" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1074" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1075" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1077" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="907" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1135" column="41" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2172" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="45" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/api/config/authorization_rules.rb" />
-      <jump line="3" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/config/authorization_rules.rb" />
-      <jump line="10" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/config/authorization_rules.rb" />
-      <jump line="9" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/config/authorization_rules.rb" />
-      <jump line="19" column="14" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/config/authorization_rules.rb" />
-      <jump line="961" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="2008" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="477" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="666" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="825" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="951" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1005" column="34" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1330" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1382" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="1023" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="44" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="43" column="27" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="323" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="17" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="25" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="232" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="240" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="245" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="56" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="301" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="55" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="76" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="94" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="140" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="243" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="158" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="259" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="303" column="33" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="244" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="297" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="302" column="109" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="262" column="22" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/app/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view.rb" />
-      <jump line="952" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="980" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="336" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user.rb" />
-      <jump line="450" column="77" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
-      <jump line="480" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
-      <jump line="481" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="7" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="11" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="169" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
@@ -328,18 +286,74 @@
       <jump line="454" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="39" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/App.js" />
       <jump line="96" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/App.js" />
-      <jump line="97" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
-      <jump line="322" column="269" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
       <jump line="94" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
-      <jump line="95" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
       <jump line="26" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/recommended_pricing_controller.rb" />
+      <jump line="113" column="29" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="450" column="28" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="74" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="95" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="451" column="98" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="361" column="11" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="77" column="192" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="81" column="108" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="198" column="215" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="215" column="61" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="313" column="105" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="390" column="60" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="445" column="48" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="344" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="493" column="43" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="302" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="360" column="76" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="363" column="127" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="351" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="488" column="53" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="352" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="322" column="269" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="182" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="178" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="355" column="56" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="39" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="96" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="462" column="9" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="324" column="255" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="488" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="513" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="514" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="550" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="551" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1297" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1298" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1324" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1325" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1326" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="272" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="348" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="349" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="491" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="347" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="271" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="220" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="97" column="51" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="99" column="71" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="353" column="2" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="461" column="84" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="494" column="16" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="1302" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1257" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="1233" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
+      <jump line="16" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/test/components/PricingTable.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>canEditRevenueManagementPricing</text>
+        <text>:</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -366,49 +380,49 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text>canEditRevenueManagementPricing</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</text>
+        <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="4">
         <text>canEditComparableProperties</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHdyYXBwZXIuZmluZChTb3J0YWJsZVRhYmxlKSkudG8uaGF2ZS5sZW5ndGgoMSk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKSkudG8uaGF2ZS5sZW5ndGgoMik7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgwKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdFZGl0Jyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoQnV0dG9uKS5hdCgxKS5yZW5kZXIoKQogICAgICAgIC50ZXh0KCkpLnRvLmVxdWFsKCdVcGRhdGUgUHJpY2VzJyk7CiAgICAgIGV4cGVjdCh3cmFwcGVyLmZpbmQoJ2gzJykpLnRvLmhhdmUudGV4dCgnUmVjb21tZW5kZWQgUHJpY2VzJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhhc19wZXJtaXNzaW9uX29uIDptZXRyaWNzX3dlYl9hcGlfcmVjb21tZW5kZWRfcHJpY2luZywgdG86IFs6aW5kZXhdCiAgICBoYXNfcGVybWlzc2lvbl9vbiA6bWFya2V0X3N1cnZleXNfY29tcGFyYWJsZV9wcm9wZXJ0aWVzLCB0bzogWzppbmRleCwgOm5ldywgOmNyZWF0ZSwgOmVkaXQsIDp1cGRhdGUsIDpkZXN0cm95XSBkbwogICAgICBpZl9hdHRyaWJ1dGUgaWQ6IGlkX2luX3Njb3BlIHsgUHJvcGVydHkudmlzaWJsZV9ieSh1c2VyKSB9CiAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzTmFtZT0idS1zcGFjZS1scyIgaHJlZj17dGhpcy5zdGF0ZS51cGRhdGVDb21wc1BhdGh9IHRhcmdldD0iX2JsYW5rIj5VcGRhdGUgTm93PC9hPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5fZWRpdF9yZXZlbnVlX21hbmFnZW1lbnRfcHJpY2luZyA9IEF1dGhvcml6YXRpb24uY3VycmVudF91c2VyLmhhc19hbnlfcm9sZT8oOl9fd3JpdGVfd2l0aG91dF9kZWxldGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9idXR0b25fZW5hYmxlZCAgUHJvcGVydHlBdXRob3JpemF0aW9uOjpQZXJtaXNzaW9uOjpQUklWSUxFR0VbOmhpZGRlbl0sIHR5cGU6IDptdwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiA8YSBjbGFzc05hbWU9e2NsYXNzTmFtZXN9IGhyZWY9e3RoaXMuc3RhdGUudXBkYXRlQ29tcHNQYXRofSB0YXJnZXQ9Il9ibGFuayI+JHt0ZXh0fTwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sICs9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzID0gcmVzcG9uc2UuY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOwogICAgICBjb25zdCB3YXJuaW5ncyA9IHJlc3BvbnNlLndhcm5pbmdzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kYW5nZXIganMtZGVsZXRlLWJ1dHRvbiIgaHJlZj0iIyIgZGF0YS1kaXNhYmxlLXdpdGg9IlBsZWFzZSBXYWl0Li4uIj5EZWxldGU8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgY2FuRWRpdENvbXBhcmFibGVQcm9wZXJ0aWVzOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBBdXRob3JpemF0aW9uLmN1cnJlbnRfdXNlci5oYXNfcm9sZT8oOmNvbXBhcmFibGVfcHJvcGVydGllc19fd3JpdGUpCmVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmRhdGEubGVuZ3RoID4gMCkgewogICAgICByZXR1cm4gdGhpcy5yZW5kZXJUYWJsZSgpOwogICAgfQogICAgcmV0dXJuIHRoaXMucmVuZGVyRW1wdHlTdGF0ZSgpOwo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbl9lZGl0X2NvbXBhcmFibGVfcHJvcGVydGllczogY2FuX2VkaXRfY29tcGFyYWJsZV9wcm9wZXJ0aWVzLAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -421,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -431,15 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emails_web</entry>
-        <entry encoding="base64">XDxlbWFpbF9yZW50YWxfYXBwbGljYXRpb25cPg==</entry>
-        <entry>leasing</entry>
-        <entry>email</entry>
-        <entry encoding="base64">XDxtb3ZlX291dF9fcmVhZFw+</entry>
-        <entry encoding="base64">XDxjb21wYXJhYmxlX3Byb3BlcnRpZXNfX3JlYWRcPg==</entry>
-        <entry encoding="base64">XDxjb21wYXJhYmxlX3Byb3BlcnRpZXNfX3dyaXRlX3dpdGhvdXRfZGVsZXRlXD4=</entry>
-        <entry encoding="base64">XDxlbWFpbHNfd2ViX2VtYWlsc1w+</entry>
-        <entry encoding="base64">XDxzaWRlYmFyX2pzX3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxlbWFpbF9yZW50YWxfYXBwbGljYXRpb25fbGlua19odG1sXD4=</entry>
         <entry encoding="base64">XDxzaG93X2VtYWlsX3JlbnRhbF9hcHBsaWNhdGlvbl9saW5rXD4=</entry>
         <entry encoding="base64">XDxzaG93X25ld19yZW50YWxfYXBwbGljYXRpb25fbGlua1w+</entry>
@@ -449,8 +454,17 @@
         <entry>rental</entry>
         <entry>pry</entry>
         <entry encoding="base64">XDxjYW5FZGl0UmV2ZW51ZU1hbmFnZW1lbnRQcmljaW5nXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVDb21wc1BhdGhcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</entry>
+        <entry>#{</entry>
+        <entry>${</entry>
+        <entry encoding="base64">XDxyZW5kZXJUYWJsZU9yRW1wdHlTdGF0ZVw+</entry>
+        <entry encoding="base64">XDx0b2dnbGVFbXB0eVN0YXRlUG9wb3Zlclw+</entry>
+        <entry encoding="base64">XDxlZGl0TW9kZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb21wc1BhdGhcPg==</entry>
+        <entry encoding="base64">XDxjYW5FZGl0Q29tcGFyYWJsZVByb3BlcnRpZXNcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJDb21wYXJhYmxlUHJvcGVydGllc0xpbmtcPg==</entry>
+        <entry encoding="base64">XDxjb21wc0xhc3RVcGRhdGVkXD4=</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL28xL3BnMS9n</entry>
