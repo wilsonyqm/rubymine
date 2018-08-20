@@ -103,6 +103,7 @@
         <mark key="." line="97" column="42" />
         <mark key="^" line="97" column="34" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/lib/market_surveys/injections/dummy_paths_interface.rb" timestamp="1534790343840" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/market_surveys/app/helpers/market_surveys/comparable_properties_helper.rb" timestamp="1534548886714">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="7" />
@@ -112,6 +113,9 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_models/lib/property_models/test/all.rb" timestamp="1534443444140">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" timestamp="1534790394101">
+        <mark key="'" line="95" column="39" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/private/v1/online_work_orders_controller.rb" timestamp="1533855836205">
         <mark key="'" line="47" column="6" />
@@ -149,6 +153,9 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/recommended_pricing_controller.rb" timestamp="1534790409875">
+        <mark key="'" line="26" column="10" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" timestamp="1534547359650">
         <mark key="'" line="444" column="0" />
@@ -189,7 +196,7 @@
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/tenant_letter_writing_test.rb" timestamp="1533854656418">
         <mark key="'" line="312" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534789326636">
+      <file name="/Dummy.txt" timestamp="1534790375675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/rental_applications/applicants/_applicant_name_and_contact_show.html.erb" timestamp="1534541807910">
@@ -226,11 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2005" column="23" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
-      <jump line="13" column="142" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
-      <jump line="22" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
-      <jump line="169" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
       <jump line="171" column="80" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/guest_cards/guest_cards_controller.rb" />
       <jump line="979" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
       <jump line="1021" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" />
@@ -326,6 +328,11 @@
       <jump line="454" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/guest_cards_web/test/view_models/guest_cards_web/guest_cards/guest_card_sidebar_view_test.rb" />
       <jump line="39" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/App.js" />
       <jump line="96" column="46" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/App.js" />
+      <jump line="97" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="322" column="269" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="94" column="54" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="95" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/client/metrics/src/components/PricingTable.js" />
+      <jump line="26" column="10" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/metrics_web/app/controllers/metrics_web/api/recommended_pricing_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -362,7 +369,7 @@
         <text>canEditRevenueManagementPricing</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5FZGl0UmV2ZW51ZU1hbmFnZW1lbnRQcmljaW5nXD4=</text>
+        <text encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</text>
       </register>
       <register name="0" type="4">
         <text>canEditComparableProperties</text>
@@ -414,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5FZGl0UmV2ZW51ZU1hbmFnZW1lbnRQcmljaW5nXD4=</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5FZGl0UmV2ZW51ZU1hbmFnZW1lbnRQcmljaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -424,8 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent_object</entry>
-        <entry>email_web</entry>
         <entry>emails_web</entry>
         <entry encoding="base64">XDxlbWFpbF9yZW50YWxfYXBwbGljYXRpb25cPg==</entry>
         <entry>leasing</entry>
@@ -444,6 +449,8 @@
         <entry>rental</entry>
         <entry>pry</entry>
         <entry encoding="base64">XDxjYW5FZGl0UmV2ZW51ZU1hbmFnZW1lbnRQcmljaW5nXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb21wc1BhdGhcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVfY29tcHNfcGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL28xL3BnMS9n</entry>
