@@ -16,15 +16,7 @@
       <mask>*.r</mask>
       <mask>*contrll.rb</mask>
       <mask>*contrl.rb</mask>
-      <mask>*control.rb</mask>
-      <mask>*controll.rb</mask>
-      <mask>*controller.rb</mask>
-      <mask>*contro.rb</mask>
       <mask>*contr.rb</mask>
-      <mask>*cont.rb</mask>
-      <mask>*con.rb</mask>
-      <mask>*co.rb</mask>
-      <mask>*c.rb</mask>
       <mask>v*.rb</mask>
       <mask>vi*.rb</mask>
       <mask>vio*.rb</mask>
@@ -32,8 +24,16 @@
       <mask>violati*.rb</mask>
       <mask>violation*.rb</mask>
       <mask>violatio*.rb</mask>
-      <mask>*.rb</mask>
       <mask>*.erb</mask>
+      <mask>*.rb</mask>
+      <mask>*c.rb</mask>
+      <mask>*co.rb</mask>
+      <mask>*con.rb</mask>
+      <mask>*cont.rb</mask>
+      <mask>*contro.rb</mask>
+      <mask>*control.rb</mask>
+      <mask>*controll.rb</mask>
+      <mask>*controller.rb</mask>
     </recentFileMasks>
   </component>
 </application>
