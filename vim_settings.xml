@@ -23,11 +23,25 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="45" column="7" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/test/models/property_authorization/user_role_test.rb" timestamp="1534973895866">
+        <mark key="'" line="199" column="80" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="108" />
+        <mark key="^" line="292" column="82" />
+        <mark key="." line="299" column="0" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/view_models/shared/block_edit/people/federal_tax_and_accounting_information_show_view.rb" timestamp="1535407789972">
         <mark key="[" line="33" column="89" />
         <mark key="]" line="33" column="192" />
         <mark key="^" line="33" column="9" />
         <mark key="." line="33" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/maintenance_web/app/views/maintenance_web/contact_center/issue_settings/edit.html.erb" timestamp="1534978025271">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="72" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/view_models/shared/block_edit/people/accounting_information_show_view_test.rb" timestamp="1535405515670">
         <mark key="'" line="35" column="64" />
@@ -77,6 +91,13 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/property_authorization/app/models/property_authorization/user_role.rb" timestamp="1534973859949">
+        <mark key="'" line="267" column="8" />
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="30" column="94" />
+        <mark key="^" line="271" column="124" />
+        <mark key="." line="271" column="124" />
+      </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/owners/show.html.erb" timestamp="1535406511500">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="52" />
@@ -89,7 +110,14 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535408395626">
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" timestamp="1535412103942">
+        <mark key="'" line="858" column="20" />
+        <mark key="[" line="935" column="0" />
+        <mark key="]" line="935" column="0" />
+        <mark key="." line="935" column="0" />
+        <mark key="^" line="933" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535412387582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1534895703031">
@@ -156,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="59" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
-      <jump line="65" column="108" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
       <jump line="66" column="84" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
       <jump line="76" column="68" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
       <jump line="78" column="170" filename="$USER_HOME$/src/apm_bundle/apps/property/test/unit/letter_writing_methods_test.rb" />
@@ -251,18 +277,20 @@
       <jump line="913" column="4" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
       <jump line="979" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
       <jump line="977" column="17" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
-      <jump line="858" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
       <jump line="861" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
       <jump line="103" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/view_models/shared/block_edit/people/federal_tax_and_accounting_information_show_view_test.rb" />
       <jump line="40" column="65" filename="$USER_HOME$/src/apm_bundle/apps/property/test/view_models/shared/block_edit/people/federal_tax_and_accounting_information_show_view_test.rb" />
       <jump line="78" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/view_models/shared/block_edit/people/federal_tax_and_accounting_information_show_view_test.rb" />
+      <jump line="921" column="39" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
+      <jump line="935" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
+      <jump line="858" column="20" filename="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/owners_controller_test.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgbGlxdWlkID0gbW9jawogICAgICBwZGZfdGVtcGxhdGVfc2VydmljZSA9IERvY3VtZW50VGVtcGxhdGVDb21wb3Nlci5uZXcodGVtcGxhdGUpCiAgICAgIHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnN0dWJzKDpsaXF1aWQpLnJldHVybnMobGlxdWlkKQoKICAgICAgbGlxdWlkLmV4cGVjdHMoOnJlbmRlcikKCiAgICAgIGxldHRlcl9sZXR0ZXJfY29udGVudF9vbmx5X3BkZl90ZW1wbGF0ZSA9IHBkZl90ZW1wbGF0ZV9zZXJ2aWNlLnNlbmQoOmdlbmVyYXRlX2xldHRlcl9jb250ZW50X29ubHlfcGRmX3RlbXBsYXRlLCAnY29udGVudCcsIG9jY3VwYW5jeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZmNiODMyLi4uIHdpcAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJyNhY2NvdW50aW5nX2luZm9ybWF0aW9uX3Nob3cnIGRvIHxlbGVtfAogICAgICBhc3NlcnRfbm90X2luY2x1ZGUgJ2pzLWVkaXQtYmxvY2snLCBlbGVtLnRleHQKICAgIGVuZAo=</text>
       </register>
       <register name="b" type="4">
         <text>importReportDataAtRangeSpy</text>
@@ -289,49 +317,51 @@
         <text>WeaponOffenseRule</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>federal_tax_information_show</text>
       </register>
       <register name="/" type="4">
-        <text>editable</text>
+        <text encoding="base64">XDxmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93XD4=</text>
       </register>
       <register name="0" type="4">
-        <text># rubocop:disable Metrics/BlockLength</text>
+        <text>accounting_information_show</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZmNiODMyLi4uIHdpcAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJyNhY2NvdW50aW5nX2luZm9ybWF0aW9uX3Nob3cnIGRvIHxlbGVtfAogICAgICBhc3NlcnRfbm90X2luY2x1ZGUgJ2pzLWVkaXQtYmxvY2snLCBlbGVtLnRleHQKICAgIGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRAogICMgcXkgLSBubyBjb250cm9sbGVyIGludm9sdmVkIHNpbmNlIGl0J3MgdG9nZ2xpbmcgYSBibG9jayBvbiBvd25lciBwYWdlCiAgcm9sZSA6b3duZXJfdGF4X2FuZF9hY2NvdW50aW5nX2luZm9ybWF0aW9uX19yZWFkCiAgcm9sZSA6b3duZXJfdGF4X2FuZF9hY2NvdW50aW5nX2luZm9ybWF0aW9uX193cml0ZQo9PT09PT09Cg==</text>
+      <register name="2" type="4">
+        <text>do |elem|
+      assert_not_include 'js-edit-block', elem.text
+    end</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgJ3ByeSc7IGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5ZWVfY2hlY2tfc2V0dGluZ19wcmVzZW50ZXI6IER1bW15UGF5ZWVDaGVja1NldHRpbmdQcmVzZW50ZXIubmV3KGJyZWFrZG93bl9zdHViX2J5OiAnc29tZXRoaW5nJykK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJyNmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93JyBkbyB8ZWxlbXwKICAgICAgYXNzZXJ0X2luY2x1ZGUgJ2pzLWVkaXQtYmxvY2snLCBlbGVtLnRleHQKICAgIGVuZAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJyNmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93JywgY291bnQ6IDEKICAgIGFzc2VydF9zZWxlY3QgJyNhY2NvdW50aW5nX2luZm9ybWF0aW9uX3Nob3cnLCBjb3VudDogMQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGRvIHxlbGVtfAogICAgZW5k</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9zZWxlY3QgJyNmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93JywgY291bnQ6IDAK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0X2luY2x1ZGUgJ2pzLWVkaXQtYmxvY2snLCBlbGVtLnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBlZmNiODMyLi4uIHdpcAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgYXNzZXJ0X3JlcG9ydF9kYXRhX3NpemUgOSwgZmlsdGVycyBkbyB8cmVzdWx0c3wKICAgICAgICBhc3NlcnRfZXF1YWwgWyAnQTAxJywgJ0EyJywgJ0ExMScsICdCMTAnLCAnMScsICcyJywgJzMnLCAnMTAnLCAnMjAnIF0sIHJlc3VsdHMubWFwIHsgfHJ8IHJbQ05fVU5JVF9OQU1FXSB9CiAgICAgIGVuZAoKICAgICAgZmlsdGVyc1s6Y29sdW1uc11bOnNvcnRdWzpvcmRlcl0gPSAnREVTQycKCiAgICAgIGFzc2VydF9yZXBvcnRfZGF0YV9zaXplIDksIGZpbHRlcnMgZG8gfHJlc3VsdHN8CiAgICAgICAgYXNzZXJ0X2VxdWFsIFsnMjAnLCAnMTAnLCAnMycsICcyJywgJzEnLCAnQjEwJywgJ0ExMScsICdBMicsICdBMDEnXSwgcmVzdWx0cy5tYXAgeyB8cnwgcltDTl9VTklUX05BTUVdIH0KICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdF9zaG93X19ub19hY2Nlc3NfdG9fZmVkZXJhbF90YXhfYW5kX2FjY291bnRpbmdfaW5mb19ibG9jawogICAgb3duZXIgPSBPd25lci5jcmVhdGVfZXhlbXBsYXIhCiAgICBTaGFyZWQ6OkJsb2NrRWRpdDo6UGVvcGxlOjpGZWRlcmFsVGF4QW5kQWNjb3VudGluZ0luZm9ybWF0aW9uU2hvd1ZpZXcuYW55X2luc3RhbmNlLnN0dWJzKDp2aWV3YWJsZT8pLnJldHVybnMoZmFsc2UpCgogICAgZ2V0IDpzaG93LCBwYXJhbXM6IHsgOmlkID0+IG93bmVyLmlkIH0KCiAgICBhc3NlcnRfcmVzcG9uc2UgOnN1Y2Nlc3MKICAgIGFzc2VydF9zZWxlY3QgJyNmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93JywgY291bnQ6IDAKICBlbmQK</text>
+        <text encoding="base64">Cjw8PDw8PDwgSEVBRAogICMgcXkgLSBubyBjb250cm9sbGVyIGludm9sdmVkIHNpbmNlIGl0J3MgdG9nZ2xpbmcgYSBibG9jayBvbiBvd25lciBwYWdlCiAgcm9sZSA6b3duZXJfdGF4X2FuZF9hY2NvdW50aW5nX2luZm9ybWF0aW9uX19yZWFkCiAgcm9sZSA6b3duZXJfdGF4X2FuZF9hY2NvdW50aW5nX2luZm9ybWF0aW9uX193cml0ZQo9PT09PT09Cg==</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">ICBpbmNsdWRlIFdlYkNvbW1vbjo6Q29udHJvbGxlcnM6OkNhY2hlQ29udHJvbE1ldGhvZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNoYXJlZDo6QmxvY2tFZGl0OjpQZW9wbGU6OkZlZGVyYWxUYXhBbmRBY2NvdW50aW5nSW5mb3JtYXRpb25TaG93Vmlldy5hbnlfaW5zdGFuY2Uuc3R1YnMoOnZpZXdhYmxlPykucmV0dXJucyhmYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">IyBmcm96ZW5fc3RyaW5nX2xpdGVyYWw6IHRydWUK</text>
@@ -344,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>editable</last-search>
+      <last-search encoding="base64">XDxmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93XD4=</last-search>
       <last-offset />
-      <last-pattern>editable</last-pattern>
+      <last-pattern encoding="base64">XDxmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93XD4=</last-pattern>
       <last-replace>viewable</last-replace>
       <last-substitute>editable</last-substitute>
       <last-dir>1</last-dir>
@@ -371,9 +401,9 @@
         <entry encoding="base64">XDxjaGVja19mb3Jfb3duZXJcPg==</entry>
         <entry>def edit</entry>
         <entry>federal</entry>
-        <entry encoding="base64">XDxmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93XD4=</entry>
         <entry encoding="base64">XDxhY2NvdW50aW5nX2luZm9ybWF0aW9uX3Nob3dcPg==</entry>
         <entry>editable</entry>
+        <entry encoding="base64">XDxmZWRlcmFsX3RheF9pbmZvcm1hdGlvbl9zaG93XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL28yL3BnMi9n</entry>
