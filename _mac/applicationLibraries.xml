@@ -9734,6 +9734,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.3.1/.circleci" />
       </SOURCES>
     </library>
+    <library name="af_rails (v31.3.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.3.2/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_rails-31.3.2/.circleci" />
+      </SOURCES>
+    </library>
     <library name="af_request (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/af_request-2.0.0/lib" />
@@ -43634,6 +43644,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/tinymce-rails-3.4.7.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/tinymce-rails-3.4.7.0.1/assets" />
+      </SOURCES>
+    </library>
+    <library name="tinymce-rails (v3.4.7.0.1@02f76f, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/sandbox" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/tinymce-rails-02f76f741618/sandbox" />
       </SOURCES>
     </library>
     <library name="to_regexp (v0.2.1, RVM: ruby-2.3.3) [gem]">
