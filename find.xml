@@ -3,13 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*service.rb" />
     <recentFileMasks>
-      <mask>controller.</mask>
-      <mask>controller.r</mask>
-      <mask>controller.rb</mask>
-      <mask>*</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
@@ -25,7 +20,6 @@
       <mask>violation*.rb</mask>
       <mask>violatio*.rb</mask>
       <mask>*.erb</mask>
-      <mask>*.rb</mask>
       <mask>*c.rb</mask>
       <mask>*co.rb</mask>
       <mask>*con.rb</mask>
@@ -34,6 +28,13 @@
       <mask>*control.rb</mask>
       <mask>*controll.rb</mask>
       <mask>*controller.rb</mask>
+      <mask>*.rb</mask>
+      <mask>*s.rb</mask>
+      <mask>*se.rb</mask>
+      <mask>*ser.rb</mask>
+      <mask>*servi.rb</mask>
+      <mask>*servic.rb</mask>
+      <mask>*service.rb</mask>
     </recentFileMasks>
   </component>
 </application>
