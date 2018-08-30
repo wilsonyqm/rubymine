@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/filters_for_packet_service.rb" timestamp="1535660102965" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_rent_roll.rb" timestamp="1535661905455" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/services/reports/filters_for_packet_service.rb" timestamp="1535661820302" />
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_purchase_order.rb" timestamp="1535661922941" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/test/controllers/letter_writing/tenant_letters_controller_test.rb" timestamp="1535496493168">
         <mark key="[" line="52" column="6" />
         <mark key="]" line="52" column="11" />
@@ -56,6 +58,7 @@
         <mark key="^" line="19" column="107" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_rent_bureau_txns.rb" timestamp="1535661911806" />
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/views/letter_writing/shared/_ckeditor_new_edit.erb" timestamp="1535490175742">
         <mark key="'" line="65" column="8" />
         <mark key="[" line="64" column="7" />
@@ -86,7 +89,7 @@
         <mark key="." line="298" column="80" />
         <mark key="^" line="298" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535661090305">
+      <file name="/Dummy.txt" timestamp="1535662493296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/responsive_owner_packets_controller.rb" timestamp="1535651637422">
@@ -101,6 +104,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="^" line="92" column="3" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/date_range_filter.rb" timestamp="1535662493205">
+        <mark key="'" line="281" column="12" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/initializers/property_authorization_permissions.rb" timestamp="1535482022500">
         <mark key="[" line="135" column="19" />
@@ -120,6 +126,9 @@
         <mark key="]" line="84" column="26" />
         <mark key="^" line="84" column="26" />
         <mark key="." line="84" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/user_interface.rb" timestamp="1535662778089">
+        <mark key="'" line="79" column="12" />
       </file>
       <file name="$USER_HOME$/src/apm_bundle/apps/property/config/authorization_rules.rb" timestamp="1535579403647">
         <mark key="'" line="2162" column="23" />
@@ -153,12 +162,9 @@
         <mark key="." line="71" column="52" />
         <mark key="^" line="111" column="79" />
       </file>
+      <file name="$USER_HOME$/src/apm_bundle/apps/property/engines/reports/app/reports/reports/buffered_bill_detail.rb" timestamp="1535662512886" />
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/vendor_letter_writing_test.rb" />
-      <jump line="135" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/vendor_letter_writing_test.rb" />
-      <jump line="133" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/commercial_letter_writing_test.rb" />
-      <jump line="110" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/commercial_letter_writing_test.rb" />
       <jump line="312" column="8" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/owner_letter_writing_test.rb" />
       <jump line="236" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/owner_letter_writing_test.rb" />
       <jump line="241" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/selenium2/letter_writing/owner_letter_writing_test.rb" />
@@ -255,6 +261,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/properties_helper_test.rb" />
       <jump line="253" column="67" filename="$USER_HOME$/src/apm_bundle/apps/property/test/helpers/properties_helper_test.rb" />
       <jump line="162" column="6" filename="$USER_HOME$/src/apm_bundle/apps/property/app/controllers/responsive_owner_packets_controller.rb" />
+      <jump line="495" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/date_range_filter.rb" />
+      <jump line="63" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/date_range_filter.rb" />
+      <jump line="281" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/date_range_filter.rb" />
+      <jump line="79" column="12" filename="$USER_HOME$/src/apm_bundle/apps/property/engines/filtering_form/app/filters/filtering_form/filters/user_interface.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -291,7 +301,7 @@
         <text>read</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1iZXJfb2ZfcGFja2V0c193aXRoX2JhY2t3YXJkc19kYXRlc1w+</text>
+        <text encoding="base64">XDx1c2VyX2ludGVyZmFjZV9pdGVtc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3BlcnR5ID0gUHJvcGVydHkuY3JlYXRlX2V4ZW1wbGFyIQogICAgdW5pdCA9IFVuaXQuY3JlYXRlX2V4ZW1wbGFyIShwcm9wZXJ0eTogcHJvcGVydHkpCiAgICBlbWFpbCA9IEVtYWlsLmNyZWF0ZV9leGVtcGxhciEoZW1haWxfYWRkcmVzczogJ2JsYWhAYmxhaC5jb20nKQogICAgY29udGFjdF9pbmZvID0gQ29udGFjdEluZm8uY3JlYXRlX2V4ZW1wbGFyIShlbWFpbHM6IFtlbWFpbF0pCiAgICBUZW5hbnQuY3JlYXRlX2V4ZW1wbGFyISh1bml0OiB1bml0LCBjb250YWN0X2luZm86IGNvbnRhY3RfaW5mbywgbW92ZV9pbjogQ2xvY2sudG9kYXkgLSAxKQo=</text>
@@ -343,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1iZXJfb2ZfcGFja2V0c193aXRoX2JhY2t3YXJkc19kYXRlc1w+</last-search>
+      <last-search encoding="base64">XDx1c2VyX2ludGVyZmFjZV9pdGVtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1iZXJfb2ZfcGFja2V0c193aXRoX2JhY2t3YXJkc19kYXRlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2ludGVyZmFjZV9pdGVtc1w+</last-pattern>
       <last-replace>unit</last-replace>
       <last-substitute>property</last-substitute>
       <last-dir>1</last-dir>
@@ -353,10 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>sfr</entry>
-        <entry>rental</entry>
-        <entry encoding="base64">XDxzZnJfZXhlbXBsYXJcPg==</entry>
         <entry>rental_info</entry>
         <entry>propery__</entry>
         <entry>api</entry>
@@ -373,6 +379,10 @@
         <entry encoding="base64">XDxidWZmZXJlZF91bml0X2RpcmVjdG9yeV9fcmVhZFw+</entry>
         <entry>eligible</entry>
         <entry encoding="base64">XDxudW1iZXJfb2ZfcGFja2V0c193aXRoX2JhY2t3YXJkc19kYXRlc1w+</entry>
+        <entry encoding="base64">XDxhZGRfZGF0ZV91c2VyX2ludGVyZmFjZVw+</entry>
+        <entry encoding="base64">XDxkYXRlX2Zyb21fZmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxmbG9hdGluZ19kYXRlX3JhbmdlX2ZpbHRlclw+</entry>
+        <entry encoding="base64">XDx1c2VyX2ludGVyZmFjZV9pdGVtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL28zL3BnMy9n</entry>
